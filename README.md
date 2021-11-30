@@ -7,3 +7,20 @@ Implementation of a database for a generic hospital management system.
 2) Create a MongoDB account and login with your credentials.
 
 3) Access MongoDB Atlas for cloud services and fire up a cluster (M0) for secure access and deployment.
+
+
+
+## Features
+
+### Cloud Deployment
+https://user-images.githubusercontent.com/77714442/144142222-1d07d4b0-554b-4752-944c-93247657ddd9.mp4
+* Accessing and firing up a cloud cluster and settings.
+* Performing real-time analysis and creating a LIVE dashboard.
+
+### SELECT
+https://user-images.githubusercontent.com/77714442/144142412-bfbd0646-3322-4fcd-a81c-304ce0e37080.mp4
+* SQL SELECT statement is equivalent to MongoDB's $MATCH function
+
+### JOIN 
+https://user-images.githubusercontent.com/77714442/144142466-3249d80a-b914-4b6b-890d-35fc350a5b8f.mp4
+* SQL JOIN statement is equivalent to MongoDB's $LOOKUP function
