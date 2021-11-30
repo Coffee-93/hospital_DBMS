@@ -1,0 +1,1525 @@
+Siu Gutmann
+===========
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 58
+Birth Date:          1963-10-04
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-07-09[CURRENT] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2021-07-09[CURRENT] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2021-05-01[CURRENT] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2021-02-26[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2020-07-03[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2020-07-03[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2020-05-01[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2019-11-01[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-11-01[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-06-28[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-06-28[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-05-02[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2018-06-22[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2018-06-22[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2018-05-02[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2017-06-16[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2017-06-16[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2017-05-02[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2016-06-10[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2016-06-10[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2016-05-02[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2015-06-05[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2015-06-05[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2015-05-03[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2014-05-30[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2014-05-30[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2014-05-03[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2013-05-24[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2013-05-24[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2013-05-03[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2012-10-13[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2012-05-18[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2012-05-18[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2012-05-03[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2011-05-13[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2011-05-13[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2011-05-04[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2010-05-07[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2010-05-07[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2010-05-04[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2009-05-04[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2009-05-01[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2009-05-01[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2008-05-04[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2008-04-25[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2008-04-25[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2007-05-05[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2007-04-20[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2007-04-20[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2006-05-05[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2006-04-14[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2006-04-14[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2005-04-08[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2005-04-08[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2004-12-31[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2004-12-31[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2004-04-02[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2004-04-02[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2003-03-28[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2003-03-28[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2002-03-22[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2002-03-22[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2001-03-16[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2001-03-16[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2000-03-10[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2000-03-10[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1999-03-05[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1999-03-05[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1998-02-27[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1998-02-27[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1997-02-21[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1997-02-21[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1996-02-16[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1996-02-16[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1995-02-10[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1995-02-10[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1994-02-04[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1994-02-04[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1993-01-29[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1993-01-29[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1992-05-29[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1992-05-29[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1992-01-24[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1992-01-24[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1991-01-18[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1991-01-18[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1990-01-12[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1990-01-12[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1989-01-06[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1989-01-06[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1988-01-01[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1988-01-01[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1986-12-26[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1986-12-26[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1986-12-26[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1986-12-26[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1985-12-20[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1985-12-20[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1984-12-14[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1984-12-14[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1983-12-09[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1983-12-09[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1982-12-03[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1982-12-03[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1981-11-27[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1981-11-27[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1980-11-21[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1980-11-21[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1979-11-16[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1979-11-16[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1979-08-31[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1979-08-31[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1978-11-10[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1978-11-10[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1977-11-04[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1977-11-04[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1976-10-29[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1976-10-29[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1975-10-24[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1975-10-24[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1974-10-18[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1974-10-18[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1973-10-12[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1973-10-12[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1972-10-06[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1972-10-06[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1971-10-01[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1971-10-01[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1970-09-25[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1970-09-25[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1969-09-19[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1969-09-19[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1968-09-16[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1968-09-16[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-07-09 -            : Full-time employment (finding)
+  2021-02-26 - 2021-03-18 : Facial laceration
+  2020-07-03 - 2021-07-09 : Reports of violence in the environment (finding)
+  2020-07-03 - 2021-07-09 : Full-time employment (finding)
+  2019-11-01 - 2020-07-03 : Full-time employment (finding)
+  2019-10-20 - 2019-10-28 : Streptococcal sore throat (disorder)
+  2019-06-28 -            : Stress (finding)
+  2019-06-28 - 2019-11-01 : Part-time employment (finding)
+  2018-09-12 - 2018-09-28 : Viral sinusitis (disorder)
+  2018-06-22 - 2019-06-28 : Reports of violence in the environment (finding)
+  2018-06-22 - 2021-07-09 : Social isolation (finding)
+  2018-06-22 - 2019-06-28 : Full-time employment (finding)
+  2017-06-16 - 2018-06-22 : Part-time employment (finding)
+  2016-06-10 - 2018-06-22 : Stress (finding)
+  2016-06-10 - 2017-06-16 : Full-time employment (finding)
+  2015-06-05 -            : Victim of intimate partner abuse (finding)
+  2015-06-05 - 2016-06-10 : Not in labor force (finding)
+  2014-05-30 - 2015-06-05 : Full-time employment (finding)
+  2013-05-24 - 2014-05-30 : Full-time employment (finding)
+  2012-05-18 - 2017-06-16 : Social isolation (finding)
+  2012-05-18 - 2013-05-24 : Full-time employment (finding)
+  2011-05-13 - 2012-05-18 : Full-time employment (finding)
+  2010-05-07 - 2011-05-13 : Stress (finding)
+  2010-05-07 - 2011-05-13 : Full-time employment (finding)
+  2010-04-02 -            : Tubal pregnancy
+  2007-04-20 - 2008-04-25 : Full-time employment (finding)
+  2006-04-14 -            : Hyperlipidemia
+  2005-04-08 - 2006-04-14 : Full-time employment (finding)
+  2004-12-31 - 2009-05-01 : Stress (finding)
+  2004-12-31 - 2005-04-08 : Full-time employment (finding)
+  2004-04-02 - 2004-12-31 : Full-time employment (finding)
+  2003-03-28 - 2004-04-02 : Victim of intimate partner abuse (finding)
+  2003-03-28 - 2004-04-02 : Full-time employment (finding)
+  2001-03-16 - 2002-03-22 : Full-time employment (finding)
+  2000-03-10 - 2001-03-16 : Full-time employment (finding)
+  1999-03-05 - 2000-03-10 : Full-time employment (finding)
+  1998-02-27 - 1999-03-05 : Full-time employment (finding)
+  1997-02-21 - 2001-03-16 : Stress (finding)
+  1996-02-16 - 1997-02-21 : Full-time employment (finding)
+  1995-02-10 - 1996-02-16 : Stress (finding)
+  1995-02-10 - 1996-02-16 : Full-time employment (finding)
+  1993-12-03 -            : Miscarriage in first trimester
+  1993-01-29 - 1994-02-04 : Stress (finding)
+  1993-01-29 - 1994-02-04 : Full-time employment (finding)
+  1992-01-24 - 1992-05-29 : Stress (finding)
+  1992-01-24 - 1992-05-29 : Full-time employment (finding)
+  1991-01-18 - 1992-01-24 : Full-time employment (finding)
+  1990-01-12 - 1991-01-18 : Full-time employment (finding)
+  1989-01-06 - 1990-01-12 : Full-time employment (finding)
+  1988-01-01 - 1990-01-12 : Stress (finding)
+  1988-01-01 - 1989-01-06 : Full-time employment (finding)
+  1986-12-26 - 1990-01-12 : Victim of intimate partner abuse (finding)
+  1986-12-26 - 1988-01-01 : Full-time employment (finding)
+  1986-12-26 -            : Anemia (disorder)
+  1986-12-26 -            : Prediabetes
+  1985-12-20 - 1986-12-26 : Full-time employment (finding)
+  1983-12-09 - 1984-12-14 : Full-time employment (finding)
+  1982-12-03 -            : Transport problems (finding)
+  1982-12-03 - 1983-12-09 : Full-time employment (finding)
+  1981-11-27 - 1986-12-26 : Stress (finding)
+  1981-11-27 -            : Lack of access to transportation (finding)
+  1981-11-27 - 1982-12-03 : Full-time employment (finding)
+  1981-11-27 -            : Received higher education (finding)
+  1981-11-27 -            : Housing unsatisfactory (finding)
+  1980-11-21 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-02-26[STOPPED] : Wound care
+                         Reason: Facial laceration
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2006-05-05[CURRENT] : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: low salt diet education
+                         Activity: physical exercise
+  1986-12-26[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1968-09-16[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-07-09 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-07-09 : Lipid Panel
+           - Total Cholesterol                        198.7 mg/dL
+           - Triglycerides                            124.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      106.6 mg/dL
+           - High Density Lipoprotein Cholesterol     67.1 mg/dL
+  2021-07-09 : Basic Metabolic Panel
+           - Glucose                                  66.9 mg/dL
+           - Urea Nitrogen                            8.0 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   139.0 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 107.1 mmol/L
+           - Carbon Dioxide                           28.0 mmol/L
+  2021-05-01 : Lipid Panel
+           - Total Cholesterol                        176.7 mg/dL
+           - Triglycerides                            129.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      88.7 mg/dL
+           - High Density Lipoprotein Cholesterol     74.9 mg/dL
+  2021-05-01 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  79.0 mg/dL
+           - Urea Nitrogen                            12.6 mg/dL
+           - Creatinine                               2.9 mg/dL
+           - Calcium                                  10.2 mg/dL
+           - Sodium                                   142.0 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 106.7 mmol/L
+           - Carbon Dioxide                           25.4 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 83.1 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 65.3 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.4 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.4 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.1 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 57.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.3 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 23.2 U/L
+  2020-07-03 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2020-07-03 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2020-07-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.0 %
+           - MCV [Entitic volume] by Automated count  94.1 fL
+           - MCH [Entitic mass] by Automated count    27.3 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+           - Platelets [#/volume] in Blood by Automated count 445.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 177.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2020-07-03 : Basic Metabolic Panel
+           - Glucose                                  69.7 mg/dL
+           - Urea Nitrogen                            7.6 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   139.4 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 104.4 mmol/L
+           - Carbon Dioxide                           24.3 mmol/L
+  2020-05-01 : Lipid Panel
+           - Total Cholesterol                        186.5 mg/dL
+           - Triglycerides                            125.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      101.5 mg/dL
+           - High Density Lipoprotein Cholesterol     50.9 mg/dL
+  2020-05-01 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  80.8 mg/dL
+           - Urea Nitrogen                            17.1 mg/dL
+           - Creatinine                               3.3 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   136.7 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 103.1 mmol/L
+           - Carbon Dioxide                           26.2 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 67.9 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 61.2 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.7 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.7 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 103.6 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 55.4 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.9 U/L
+  2019-11-01 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2019-11-01 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-11-01 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2019-11-01 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2019-11-01 : Basic Metabolic Panel
+           - Glucose                                  99.5 mg/dL
+           - Urea Nitrogen                            18.0 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   142.0 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 103.9 mmol/L
+           - Carbon Dioxide                           20.4 mmol/L
+  2019-06-28 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2019-06-28 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2019-06-28 : Basic Metabolic Panel
+           - Glucose                                  73.2 mg/dL
+           - Urea Nitrogen                            8.3 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   143.9 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 103.9 mmol/L
+           - Carbon Dioxide                           22.7 mmol/L
+  2019-05-02 : Lipid Panel
+           - Total Cholesterol                        165.1 mg/dL
+           - Triglycerides                            118.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      85.3 mg/dL
+           - High Density Lipoprotein Cholesterol     31.9 mg/dL
+  2019-05-02 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  66.9 mg/dL
+           - Urea Nitrogen                            15.5 mg/dL
+           - Creatinine                               3.0 mg/dL
+           - Calcium                                  10.2 mg/dL
+           - Sodium                                   138.3 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 108.2 mmol/L
+           - Carbon Dioxide                           24.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 67.2 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 75.1 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.3 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.3 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.1 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 38.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 39.7 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.1 U/L
+  2018-06-22 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2018-06-22 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2018-06-22 : Lipid Panel
+           - Total Cholesterol                        196.8 mg/dL
+           - Triglycerides                            135.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      90.3 mg/dL
+           - High Density Lipoprotein Cholesterol     79.4 mg/dL
+  2018-06-22 : Basic Metabolic Panel
+           - Glucose                                  88.6 mg/dL
+           - Urea Nitrogen                            19.2 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   142.3 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 109.8 mmol/L
+           - Carbon Dioxide                           20.1 mmol/L
+  2018-05-02 : Lipid Panel
+           - Total Cholesterol                        161.7 mg/dL
+           - Triglycerides                            145.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      117.1 mg/dL
+           - High Density Lipoprotein Cholesterol     53.1 mg/dL
+  2018-05-02 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  65.9 mg/dL
+           - Urea Nitrogen                            19.6 mg/dL
+           - Creatinine                               2.8 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   143.6 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 104.9 mmol/L
+           - Carbon Dioxide                           28.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 78.0 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 78.3 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.2 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.1 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 54.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 20.9 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 9.9 U/L
+  2017-06-16 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2017-06-16 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2017-06-16 : Basic Metabolic Panel
+           - Glucose                                  95.6 mg/dL
+           - Urea Nitrogen                            11.7 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   140.0 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 105.9 mmol/L
+           - Carbon Dioxide                           20.3 mmol/L
+  2017-05-02 : Lipid Panel
+           - Total Cholesterol                        163.0 mg/dL
+           - Triglycerides                            188.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      99.1 mg/dL
+           - High Density Lipoprotein Cholesterol     60.2 mg/dL
+  2017-05-02 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  96.7 mg/dL
+           - Urea Nitrogen                            15.6 mg/dL
+           - Creatinine                               3.0 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   142.4 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 106.3 mmol/L
+           - Carbon Dioxide                           24.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 70.0 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 63.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.7 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.0 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 111.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 21.7 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 37.1 U/L
+  2016-06-10 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2016-06-10 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 7.0 {score}
+  2016-06-10 : Basic Metabolic Panel
+           - Glucose                                  67.6 mg/dL
+           - Urea Nitrogen                            7.8 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   140.1 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 102.2 mmol/L
+           - Carbon Dioxide                           22.6 mmol/L
+  2016-05-02 : Lipid Panel
+           - Total Cholesterol                        209.4 mg/dL
+           - Triglycerides                            166.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      85.7 mg/dL
+           - High Density Lipoprotein Cholesterol     33.8 mg/dL
+  2016-05-02 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  74.0 mg/dL
+           - Urea Nitrogen                            16.0 mg/dL
+           - Creatinine                               2.6 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   137.9 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 102.4 mmol/L
+           - Carbon Dioxide                           23.2 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 72.7 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 67.5 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.9 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.4 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.2 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 60.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 40.5 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 22.1 U/L
+  2015-06-05 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2015-06-05 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2015-06-05 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       4.0 {score}
+  2015-06-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.5 %
+           - MCV [Entitic volume] by Automated count  94.4 fL
+           - MCH [Entitic mass] by Automated count    30.7 pg
+           - MCHC [Mass/volume] by Automated count    33.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+           - Platelets [#/volume] in Blood by Automated count 218.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 312.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2015-06-05 : Lipid Panel
+           - Total Cholesterol                        195.6 mg/dL
+           - Triglycerides                            113.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      96.1 mg/dL
+           - High Density Lipoprotein Cholesterol     76.8 mg/dL
+  2015-06-05 : Basic Metabolic Panel
+           - Glucose                                  86.2 mg/dL
+           - Urea Nitrogen                            9.8 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   141.7 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 105.9 mmol/L
+           - Carbon Dioxide                           21.9 mmol/L
+  2015-05-03 : Lipid Panel
+           - Total Cholesterol                        189.1 mg/dL
+           - Triglycerides                            111.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      109.4 mg/dL
+           - High Density Lipoprotein Cholesterol     42.0 mg/dL
+  2015-05-03 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  81.3 mg/dL
+           - Urea Nitrogen                            17.3 mg/dL
+           - Creatinine                               2.7 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   140.4 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 104.8 mmol/L
+           - Carbon Dioxide                           21.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 75.8 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 65.3 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.7 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.0 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 40.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 29.0 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 20.4 U/L
+  2014-05-30 : Basic Metabolic Panel
+           - Glucose                                  68.1 mg/dL
+           - Urea Nitrogen                            8.6 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   140.3 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 110.7 mmol/L
+           - Carbon Dioxide                           23.7 mmol/L
+  2014-05-03 : Lipid Panel
+           - Total Cholesterol                        159.1 mg/dL
+           - Triglycerides                            190.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      123.3 mg/dL
+           - High Density Lipoprotein Cholesterol     73.2 mg/dL
+  2014-05-03 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  65.1 mg/dL
+           - Urea Nitrogen                            9.5 mg/dL
+           - Creatinine                               2.6 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   141.5 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 108.5 mmol/L
+           - Carbon Dioxide                           22.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 89.6 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 67.6 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.7 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.1 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.0 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 74.5 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 35.6 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 20.3 U/L
+  2013-05-24 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2013-05-24 : Basic Metabolic Panel
+           - Glucose                                  90.7 mg/dL
+           - Urea Nitrogen                            14.7 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   143.1 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 110.8 mmol/L
+           - Carbon Dioxide                           26.5 mmol/L
+  2013-05-03 : Lipid Panel
+           - Total Cholesterol                        174.8 mg/dL
+           - Triglycerides                            174.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      80.7 mg/dL
+           - High Density Lipoprotein Cholesterol     61.9 mg/dL
+  2013-05-03 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  69.0 mg/dL
+           - Urea Nitrogen                            11.6 mg/dL
+           - Creatinine                               3.1 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   141.0 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 103.0 mmol/L
+           - Carbon Dioxide                           24.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 74.5 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 63.6 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.4 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.2 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 116.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 47.9 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 24.5 U/L
+  2012-05-18 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2012-05-18 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2012-05-18 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2012-05-18 : Lipid Panel
+           - Total Cholesterol                        181.8 mg/dL
+           - Triglycerides                            139.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      85.5 mg/dL
+           - High Density Lipoprotein Cholesterol     68.5 mg/dL
+  2012-05-18 : Basic Metabolic Panel
+           - Glucose                                  92.3 mg/dL
+           - Urea Nitrogen                            18.3 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   139.6 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 108.2 mmol/L
+           - Carbon Dioxide                           25.5 mmol/L
+  2012-05-03 : Lipid Panel
+           - Total Cholesterol                        209.3 mg/dL
+           - Triglycerides                            137.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      82.5 mg/dL
+           - High Density Lipoprotein Cholesterol     70.0 mg/dL
+  2012-05-03 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  88.2 mg/dL
+           - Urea Nitrogen                            8.0 mg/dL
+           - Creatinine                               3.2 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   142.6 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 110.0 mmol/L
+           - Carbon Dioxide                           28.0 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 74.5 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 72.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.2 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.1 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 103.4 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 23.0 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.9 U/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-07-09 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-07-09 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 54976 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             520 Predovic Mission 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-07-09 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2021-07-09 : Tobacco smoking status NHIS              Former smoker 
+  2021-07-09 : High Density Lipoprotein Cholesterol     67.1 mg/dL
+  2021-07-09 : Low Density Lipoprotein Cholesterol      106.6 mg/dL
+  2021-07-09 : Triglycerides                            124.6 mg/dL
+  2021-07-09 : Total Cholesterol                        198.7 mg/dL
+  2021-07-09 : Carbon Dioxide                           28.0 mmol/L
+  2021-07-09 : Chloride                                 107.1 mmol/L
+  2021-07-09 : Potassium                                4.8 mmol/L
+  2021-07-09 : Sodium                                   139.0 mmol/L
+  2021-07-09 : Calcium                                  9.3 mg/dL
+  2021-07-09 : Creatinine                               0.9 mg/dL
+  2021-07-09 : Urea Nitrogen                            8.0 mg/dL
+  2021-07-09 : Glucose                                  66.9 mg/dL
+  2021-07-09 : Respiratory rate                         14.0 /min
+  2021-07-09 : Heart rate                               98.0 /min
+  2021-07-09 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2021-07-09 : Body Mass Index                          27.9 kg/m2
+  2021-07-09 : Body Weight                              79.1 kg
+  2021-07-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-07-09 : Body Height                              168.3 cm
+  2021-05-01 : High Density Lipoprotein Cholesterol     74.9 mg/dL
+  2021-05-01 : Low Density Lipoprotein Cholesterol      88.7 mg/dL
+  2021-05-01 : Triglycerides                            129.7 mg/dL
+  2021-05-01 : Total Cholesterol                        176.7 mg/dL
+  2021-05-01 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 23.2 U/L
+  2021-05-01 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.3 U/L
+  2021-05-01 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 57.8 U/L
+  2021-05-01 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.1 mg/dL
+  2021-05-01 : Globulin [Mass/volume] in Serum by calculation 3.4 g/L
+  2021-05-01 : Albumin [Mass/volume] in Serum or Plasma 4.4 g/dL
+  2021-05-01 : Protein [Mass/volume] in Serum or Plasma 65.3 g/dL
+  2021-05-01 : Glomerular filtration rate/1.73 sq M.predicted 83.1 mL/min
+  2021-05-01 : Carbon Dioxide                           25.4 mmol/L
+  2021-05-01 : Chloride                                 106.7 mmol/L
+  2021-05-01 : Potassium                                4.5 mmol/L
+  2021-05-01 : Sodium                                   142.0 mmol/L
+  2021-05-01 : Calcium                                  10.2 mg/dL
+  2021-05-01 : Creatinine                               2.9 mg/dL
+  2021-05-01 : Urea Nitrogen                            12.6 mg/dL
+  2021-05-01 : Glucose                                  79.0 mg/dL
+  2020-07-03 : Total score [DAST-10]                    0.0 {score}
+  2020-07-03 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2020-07-03 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 54976 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             520 Predovic Mission 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2020-07-03 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2020-07-03 : Tobacco smoking status NHIS              Former smoker 
+  2020-07-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2020-07-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 177.0 fL
+  2020-07-03 : Platelets [#/volume] in Blood by Automated count 445.2 10*3/uL
+  2020-07-03 : Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+  2020-07-03 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  2020-07-03 : MCH [Entitic mass] by Automated count    27.3 pg
+  2020-07-03 : MCV [Entitic volume] by Automated count  94.1 fL
+  2020-07-03 : Hematocrit [Volume Fraction] of Blood by Automated count 49.0 %
+  2020-07-03 : Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+  2020-07-03 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2020-07-03 : Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+  2020-07-03 : Carbon Dioxide                           24.3 mmol/L
+  2020-07-03 : Chloride                                 104.4 mmol/L
+  2020-07-03 : Potassium                                4.7 mmol/L
+  2020-07-03 : Sodium                                   139.4 mmol/L
+  2020-07-03 : Calcium                                  9.6 mg/dL
+  2020-07-03 : Creatinine                               0.8 mg/dL
+  2020-07-03 : Urea Nitrogen                            7.6 mg/dL
+  2020-07-03 : Glucose                                  69.7 mg/dL
+  2020-07-03 : Respiratory rate                         12.0 /min
+  2020-07-03 : Heart rate                               65.0 /min
+  2020-07-03 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2020-07-03 : Body Mass Index                          27.9 kg/m2
+  2020-07-03 : Body Weight                              79.1 kg
+  2020-07-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-07-03 : Body Height                              168.3 cm
+  2020-05-01 : High Density Lipoprotein Cholesterol     50.9 mg/dL
+  2020-05-01 : Low Density Lipoprotein Cholesterol      101.5 mg/dL
+  2020-05-01 : Triglycerides                            125.7 mg/dL
+  2020-05-01 : Total Cholesterol                        186.5 mg/dL
+  2020-05-01 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.9 U/L
+  2020-05-01 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 55.4 U/L
+  2020-05-01 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 103.6 U/L
+  2020-05-01 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+  2020-05-01 : Globulin [Mass/volume] in Serum by calculation 2.7 g/L
+  2020-05-01 : Albumin [Mass/volume] in Serum or Plasma 3.7 g/dL
+  2020-05-01 : Protein [Mass/volume] in Serum or Plasma 61.2 g/dL
+  2020-05-01 : Glomerular filtration rate/1.73 sq M.predicted 67.9 mL/min
+  2020-05-01 : Carbon Dioxide                           26.2 mmol/L
+  2020-05-01 : Chloride                                 103.1 mmol/L
+  2020-05-01 : Potassium                                4.0 mmol/L
+  2020-05-01 : Sodium                                   136.7 mmol/L
+  2020-05-01 : Calcium                                  9.8 mg/dL
+  2020-05-01 : Creatinine                               3.3 mg/dL
+  2020-05-01 : Urea Nitrogen                            17.1 mg/dL
+  2020-05-01 : Glucose                                  80.8 mg/dL
+  2019-11-01 : Total score [AUDIT-C]                    0.0 {score}
+  2019-11-01 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-11-01 : Total score [HARK]                       0.0 {score}
+  2019-11-01 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2019-11-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 54976 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             520 Predovic Mission 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2019-11-01 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2019-11-01 : Tobacco smoking status NHIS              Former smoker 
+  2019-11-01 : Carbon Dioxide                           20.4 mmol/L
+  2019-11-01 : Chloride                                 103.9 mmol/L
+  2019-11-01 : Potassium                                4.9 mmol/L
+  2019-11-01 : Sodium                                   142.0 mmol/L
+  2019-11-01 : Calcium                                  8.6 mg/dL
+  2019-11-01 : Creatinine                               0.9 mg/dL
+  2019-11-01 : Urea Nitrogen                            18.0 mg/dL
+  2019-11-01 : Glucose                                  99.5 mg/dL
+  2019-11-01 : Respiratory rate                         15.0 /min
+  2019-11-01 : Heart rate                               82.0 /min
+  2019-11-01 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2019-11-01 : Body Mass Index                          27.9 kg/m2
+  2019-11-01 : Body Weight                              79.1 kg
+  2019-11-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2019-11-01 : Body Height                              168.3 cm
+  2019-10-20 : Body temperature                         37.3 Cel
+  2019-06-28 : Total score [AUDIT-C]                    2.0 {score}
+  2019-06-28 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2019-06-28 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 54976 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             520 Predovic Mission 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2019-06-28 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2019-06-28 : Tobacco smoking status NHIS              Former smoker 
+  2019-06-28 : Carbon Dioxide                           22.7 mmol/L
+  2019-06-28 : Chloride                                 103.9 mmol/L
+  2019-06-28 : Potassium                                3.9 mmol/L
+  2019-06-28 : Sodium                                   143.9 mmol/L
+  2019-06-28 : Calcium                                  9.3 mg/dL
+  2019-06-28 : Creatinine                               0.9 mg/dL
+  2019-06-28 : Urea Nitrogen                            8.3 mg/dL
+  2019-06-28 : Glucose                                  73.2 mg/dL
+  2019-06-28 : Respiratory rate                         16.0 /min
+  2019-06-28 : Heart rate                               74.0 /min
+  2019-06-28 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2019-06-28 : Body Mass Index                          27.9 kg/m2
+  2019-06-28 : Body Weight                              79.1 kg
+  2019-06-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2019-06-28 : Body Height                              168.3 cm
+  2019-05-02 : High Density Lipoprotein Cholesterol     31.9 mg/dL
+  2019-05-02 : Low Density Lipoprotein Cholesterol      85.3 mg/dL
+  2019-05-02 : Triglycerides                            118.9 mg/dL
+  2019-05-02 : Total Cholesterol                        165.1 mg/dL
+  2019-05-02 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.1 U/L
+  2019-05-02 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 39.7 U/L
+  2019-05-02 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 38.9 U/L
+  2019-05-02 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.1 mg/dL
+  2019-05-02 : Globulin [Mass/volume] in Serum by calculation 2.3 g/L
+  2019-05-02 : Albumin [Mass/volume] in Serum or Plasma 4.3 g/dL
+  2019-05-02 : Protein [Mass/volume] in Serum or Plasma 75.1 g/dL
+  2019-05-02 : Glomerular filtration rate/1.73 sq M.predicted 67.2 mL/min
+  2019-05-02 : Carbon Dioxide                           24.1 mmol/L
+  2019-05-02 : Chloride                                 108.2 mmol/L
+  2019-05-02 : Potassium                                4.9 mmol/L
+  2019-05-02 : Sodium                                   138.3 mmol/L
+  2019-05-02 : Calcium                                  10.2 mg/dL
+  2019-05-02 : Creatinine                               3.0 mg/dL
+  2019-05-02 : Urea Nitrogen                            15.5 mg/dL
+  2019-05-02 : Glucose                                  66.9 mg/dL
+  2018-06-22 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2018-06-22 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2018-06-22 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Other, Please write 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 54976 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             520 Predovic Mission 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2018-06-22 : Hemoglobin A1c/Hemoglobin.total in Blood 5.8 %
+  2018-06-22 : Tobacco smoking status NHIS              Former smoker 
+  2018-06-22 : High Density Lipoprotein Cholesterol     79.4 mg/dL
+  2018-06-22 : Low Density Lipoprotein Cholesterol      90.3 mg/dL
+  2018-06-22 : Triglycerides                            135.2 mg/dL
+  2018-06-22 : Total Cholesterol                        196.8 mg/dL
+  2018-06-22 : Carbon Dioxide                           20.1 mmol/L
+  2018-06-22 : Chloride                                 109.8 mmol/L
+  2018-06-22 : Potassium                                4.0 mmol/L
+  2018-06-22 : Sodium                                   142.3 mmol/L
+  2018-06-22 : Calcium                                  9.7 mg/dL
+  2018-06-22 : Creatinine                               0.8 mg/dL
+  2018-06-22 : Urea Nitrogen                            19.2 mg/dL
+  2018-06-22 : Glucose                                  88.6 mg/dL
+  2018-06-22 : Respiratory rate                         15.0 /min
+  2018-06-22 : Heart rate                               81.0 /min
+  2018-06-22 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2018-06-22 : Body Mass Index                          27.9 kg/m2
+  2018-06-22 : Body Weight                              79.1 kg
+  2018-06-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-06-22 : Body Height                              168.3 cm
+  2018-05-02 : High Density Lipoprotein Cholesterol     53.1 mg/dL
+  2018-05-02 : Low Density Lipoprotein Cholesterol      117.1 mg/dL
+  2018-05-02 : Triglycerides                            145.9 mg/dL
+  2018-05-02 : Total Cholesterol                        161.7 mg/dL
+  2018-05-02 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 9.9 U/L
+  2018-05-02 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 20.9 U/L
+  2018-05-02 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 54.8 U/L
+  2018-05-02 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+  2018-05-02 : Globulin [Mass/volume] in Serum by calculation 3.1 g/L
+  2018-05-02 : Albumin [Mass/volume] in Serum or Plasma 5.2 g/dL
+  2018-05-02 : Protein [Mass/volume] in Serum or Plasma 78.3 g/dL
+  2018-05-02 : Glomerular filtration rate/1.73 sq M.predicted 78.0 mL/min
+  2018-05-02 : Carbon Dioxide                           28.6 mmol/L
+  2018-05-02 : Chloride                                 104.9 mmol/L
+  2018-05-02 : Potassium                                4.7 mmol/L
+  2018-05-02 : Sodium                                   143.6 mmol/L
+  2018-05-02 : Calcium                                  8.8 mg/dL
+  2018-05-02 : Creatinine                               2.8 mg/dL
+  2018-05-02 : Urea Nitrogen                            19.6 mg/dL
+  2018-05-02 : Glucose                                  65.9 mg/dL
+  2017-06-16 : Total score [AUDIT-C]                    1.0 {score}
+  2017-06-16 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2017-06-16 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 54976 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             520 Predovic Mission 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I choose not to answer this question 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2017-06-16 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2017-06-16 : Tobacco smoking status NHIS              Former smoker 
+  2017-06-16 : Carbon Dioxide                           20.3 mmol/L
+  2017-06-16 : Chloride                                 105.9 mmol/L
+  2017-06-16 : Potassium                                4.2 mmol/L
+  2017-06-16 : Sodium                                   140.0 mmol/L
+  2017-06-16 : Calcium                                  8.6 mg/dL
+  2017-06-16 : Creatinine                               0.9 mg/dL
+  2017-06-16 : Urea Nitrogen                            11.7 mg/dL
+  2017-06-16 : Glucose                                  95.6 mg/dL
+  2017-06-16 : Respiratory rate                         16.0 /min
+  2017-06-16 : Heart rate                               86.0 /min
+  2017-06-16 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2017-06-16 : Body Mass Index                          27.9 kg/m2
+  2017-06-16 : Body Weight                              79.1 kg
+  2017-06-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2017-06-16 : Body Height                              168.3 cm
+  2017-05-02 : High Density Lipoprotein Cholesterol     60.2 mg/dL
+  2017-05-02 : Low Density Lipoprotein Cholesterol      99.1 mg/dL
+  2017-05-02 : Triglycerides                            188.5 mg/dL
+  2017-05-02 : Total Cholesterol                        163.0 mg/dL
+  2017-05-02 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 37.1 U/L
+  2017-05-02 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 21.7 U/L
+  2017-05-02 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 111.8 U/L
+  2017-05-02 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.0 mg/dL
+  2017-05-02 : Globulin [Mass/volume] in Serum by calculation 2.7 g/L
+  2017-05-02 : Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+  2017-05-02 : Protein [Mass/volume] in Serum or Plasma 63.0 g/dL
+  2017-05-02 : Glomerular filtration rate/1.73 sq M.predicted 70.0 mL/min
+  2017-05-02 : Carbon Dioxide                           24.6 mmol/L
+  2017-05-02 : Chloride                                 106.3 mmol/L
+  2017-05-02 : Potassium                                4.9 mmol/L
+  2017-05-02 : Sodium                                   142.4 mmol/L
+  2017-05-02 : Calcium                                  9.0 mg/dL
+  2017-05-02 : Creatinine                               3.0 mg/dL
+  2017-05-02 : Urea Nitrogen                            15.6 mg/dL
+  2017-05-02 : Glucose                                  96.7 mg/dL
+  2016-06-10 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2016-06-10 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 7.0 {score}
+  2016-06-10 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 54976 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             520 Predovic Mission 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2016-06-10 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2016-06-10 : Tobacco smoking status NHIS              Former smoker 
+  2016-06-10 : Carbon Dioxide                           22.6 mmol/L
+  2016-06-10 : Chloride                                 102.2 mmol/L
+  2016-06-10 : Potassium                                4.0 mmol/L
+  2016-06-10 : Sodium                                   140.1 mmol/L
+  2016-06-10 : Calcium                                  9.0 mg/dL
+  2016-06-10 : Creatinine                               1.0 mg/dL
+  2016-06-10 : Urea Nitrogen                            7.8 mg/dL
+  2016-06-10 : Glucose                                  67.6 mg/dL
+  2016-06-10 : Respiratory rate                         14.0 /min
+  2016-06-10 : Heart rate                               73.0 /min
+  2016-06-10 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2016-06-10 : Body Mass Index                          27.9 kg/m2
+  2016-06-10 : Body Weight                              79.1 kg
+  2016-06-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2016-06-10 : Body Height                              168.3 cm
+  2016-05-02 : High Density Lipoprotein Cholesterol     33.8 mg/dL
+  2016-05-02 : Low Density Lipoprotein Cholesterol      85.7 mg/dL
+  2016-05-02 : Triglycerides                            166.0 mg/dL
+  2016-05-02 : Total Cholesterol                        209.4 mg/dL
+  2016-05-02 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 22.1 U/L
+  2016-05-02 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 40.5 U/L
+  2016-05-02 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 60.9 U/L
+  2016-05-02 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.2 mg/dL
+  2016-05-02 : Globulin [Mass/volume] in Serum by calculation 2.4 g/L
+  2016-05-02 : Albumin [Mass/volume] in Serum or Plasma 3.9 g/dL
+  2016-05-02 : Protein [Mass/volume] in Serum or Plasma 67.5 g/dL
+  2016-05-02 : Glomerular filtration rate/1.73 sq M.predicted 72.7 mL/min
+  2016-05-02 : Carbon Dioxide                           23.2 mmol/L
+  2016-05-02 : Chloride                                 102.4 mmol/L
+  2016-05-02 : Potassium                                3.8 mmol/L
+  2016-05-02 : Sodium                                   137.9 mmol/L
+  2016-05-02 : Calcium                                  10.0 mg/dL
+  2016-05-02 : Creatinine                               2.6 mg/dL
+  2016-05-02 : Urea Nitrogen                            16.0 mg/dL
+  2016-05-02 : Glucose                                  74.0 mg/dL
+  2015-06-05 : Total score [DAST-10]                    0.0 {score}
+  2015-06-05 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2015-06-05 : Total score [HARK]                       4.0 {score}
+  2015-06-05 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 54976 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             520 Predovic Mission 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2015-06-05 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2015-06-05 : Tobacco smoking status NHIS              Former smoker 
+  2015-06-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2015-06-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 312.6 fL
+  2015-06-05 : Platelets [#/volume] in Blood by Automated count 218.8 10*3/uL
+  2015-06-05 : Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+  2015-06-05 : MCHC [Mass/volume] by Automated count    33.4 g/dL
+  2015-06-05 : MCH [Entitic mass] by Automated count    30.7 pg
+  2015-06-05 : MCV [Entitic volume] by Automated count  94.4 fL
+  2015-06-05 : Hematocrit [Volume Fraction] of Blood by Automated count 41.5 %
+  2015-06-05 : Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+  2015-06-05 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2015-06-05 : Leukocytes [#/volume] in Blood by Automated count 10.5 10*3/uL
+  2015-06-05 : High Density Lipoprotein Cholesterol     76.8 mg/dL
+  2015-06-05 : Low Density Lipoprotein Cholesterol      96.1 mg/dL
+  2015-06-05 : Triglycerides                            113.5 mg/dL
+  2015-06-05 : Total Cholesterol                        195.6 mg/dL
+  2015-06-05 : Carbon Dioxide                           21.9 mmol/L
+  2015-06-05 : Chloride                                 105.9 mmol/L
+  2015-06-05 : Potassium                                4.1 mmol/L
+  2015-06-05 : Sodium                                   141.7 mmol/L
+  2015-06-05 : Calcium                                  9.1 mg/dL
+  2015-06-05 : Creatinine                               0.9 mg/dL
+  2015-06-05 : Urea Nitrogen                            9.8 mg/dL
+  2015-06-05 : Glucose                                  86.2 mg/dL
+  2015-06-05 : Respiratory rate                         16.0 /min
+  2015-06-05 : Heart rate                               71.0 /min
+  2015-06-05 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2015-06-05 : Body Mass Index                          29.0 kg/m2
+  2015-06-05 : Body Weight                              82.0 kg
+  2015-06-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-06-05 : Body Height                              168.3 cm
+  2015-05-03 : High Density Lipoprotein Cholesterol     42.0 mg/dL
+  2015-05-03 : Low Density Lipoprotein Cholesterol      109.4 mg/dL
+  2015-05-03 : Triglycerides                            111.5 mg/dL
+  2015-05-03 : Total Cholesterol                        189.1 mg/dL
+  2015-05-03 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 20.4 U/L
+  2015-05-03 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 29.0 U/L
+  2015-05-03 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 40.9 U/L
+  2015-05-03 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+  2015-05-03 : Globulin [Mass/volume] in Serum by calculation 2.0 g/L
+  2015-05-03 : Albumin [Mass/volume] in Serum or Plasma 4.7 g/dL
+  2015-05-03 : Protein [Mass/volume] in Serum or Plasma 65.3 g/dL
+  2015-05-03 : Glomerular filtration rate/1.73 sq M.predicted 75.8 mL/min
+  2015-05-03 : Carbon Dioxide                           21.6 mmol/L
+  2015-05-03 : Chloride                                 104.8 mmol/L
+  2015-05-03 : Potassium                                5.0 mmol/L
+  2015-05-03 : Sodium                                   140.4 mmol/L
+  2015-05-03 : Calcium                                  8.6 mg/dL
+  2015-05-03 : Creatinine                               2.7 mg/dL
+  2015-05-03 : Urea Nitrogen                            17.3 mg/dL
+  2015-05-03 : Glucose                                  81.3 mg/dL
+  2014-05-30 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 54976 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             520 Predovic Mission 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2014-05-30 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2014-05-30 : Tobacco smoking status NHIS              Former smoker 
+  2014-05-30 : Carbon Dioxide                           23.7 mmol/L
+  2014-05-30 : Chloride                                 110.7 mmol/L
+  2014-05-30 : Potassium                                4.1 mmol/L
+  2014-05-30 : Sodium                                   140.3 mmol/L
+  2014-05-30 : Calcium                                  9.4 mg/dL
+  2014-05-30 : Creatinine                               1.2 mg/dL
+  2014-05-30 : Urea Nitrogen                            8.6 mg/dL
+  2014-05-30 : Glucose                                  68.1 mg/dL
+  2014-05-30 : Respiratory rate                         14.0 /min
+  2014-05-30 : Heart rate                               71.0 /min
+  2014-05-30 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2014-05-30 : Body Mass Index                          29.9 kg/m2
+  2014-05-30 : Body Weight                              84.6 kg
+  2014-05-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-05-30 : Body Height                              168.3 cm
+  2014-05-03 : High Density Lipoprotein Cholesterol     73.2 mg/dL
+  2014-05-03 : Low Density Lipoprotein Cholesterol      123.3 mg/dL
+  2014-05-03 : Triglycerides                            190.3 mg/dL
+  2014-05-03 : Total Cholesterol                        159.1 mg/dL
+  2014-05-03 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 20.3 U/L
+  2014-05-03 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 35.6 U/L
+  2014-05-03 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 74.5 U/L
+  2014-05-03 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.0 mg/dL
+  2014-05-03 : Globulin [Mass/volume] in Serum by calculation 3.1 g/L
+  2014-05-03 : Albumin [Mass/volume] in Serum or Plasma 4.7 g/dL
+  2014-05-03 : Protein [Mass/volume] in Serum or Plasma 67.6 g/dL
+  2014-05-03 : Glomerular filtration rate/1.73 sq M.predicted 89.6 mL/min
+  2014-05-03 : Carbon Dioxide                           22.6 mmol/L
+  2014-05-03 : Chloride                                 108.5 mmol/L
+  2014-05-03 : Potassium                                4.9 mmol/L
+  2014-05-03 : Sodium                                   141.5 mmol/L
+  2014-05-03 : Calcium                                  9.6 mg/dL
+  2014-05-03 : Creatinine                               2.6 mg/dL
+  2014-05-03 : Urea Nitrogen                            9.5 mg/dL
+  2014-05-03 : Glucose                                  65.1 mg/dL
+  2013-05-24 : Total score [DAST-10]                    1.0 {score}
+  2013-05-24 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 54976 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             520 Predovic Mission 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2013-05-24 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2013-05-24 : Tobacco smoking status NHIS              Former smoker 
+  2013-05-24 : Carbon Dioxide                           26.5 mmol/L
+  2013-05-24 : Chloride                                 110.8 mmol/L
+  2013-05-24 : Potassium                                3.8 mmol/L
+  2013-05-24 : Sodium                                   143.1 mmol/L
+  2013-05-24 : Calcium                                  9.7 mg/dL
+  2013-05-24 : Creatinine                               0.9 mg/dL
+  2013-05-24 : Urea Nitrogen                            14.7 mg/dL
+  2013-05-24 : Glucose                                  90.7 mg/dL
+  2013-05-24 : Respiratory rate                         13.0 /min
+  2013-05-24 : Heart rate                               74.0 /min
+  2013-05-24 : Blood Pressure
+           - Diastolic Blood Pressure                 89.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2013-05-24 : Body Mass Index                          29.3 kg/m2
+  2013-05-24 : Body Weight                              82.9 kg
+  2013-05-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-05-24 : Body Height                              168.3 cm
+  2013-05-03 : High Density Lipoprotein Cholesterol     61.9 mg/dL
+  2013-05-03 : Low Density Lipoprotein Cholesterol      80.7 mg/dL
+  2013-05-03 : Triglycerides                            174.4 mg/dL
+  2013-05-03 : Total Cholesterol                        174.8 mg/dL
+  2013-05-03 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 24.5 U/L
+  2013-05-03 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 47.9 U/L
+  2013-05-03 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 116.9 U/L
+  2013-05-03 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+  2013-05-03 : Globulin [Mass/volume] in Serum by calculation 3.2 g/L
+  2013-05-03 : Albumin [Mass/volume] in Serum or Plasma 5.4 g/dL
+  2013-05-03 : Protein [Mass/volume] in Serum or Plasma 63.6 g/dL
+  2013-05-03 : Glomerular filtration rate/1.73 sq M.predicted 74.5 mL/min
+  2013-05-03 : Carbon Dioxide                           24.7 mmol/L
+  2013-05-03 : Chloride                                 103.0 mmol/L
+  2013-05-03 : Potassium                                5.1 mmol/L
+  2013-05-03 : Sodium                                   141.0 mmol/L
+  2013-05-03 : Calcium                                  8.7 mg/dL
+  2013-05-03 : Creatinine                               3.1 mg/dL
+  2013-05-03 : Urea Nitrogen                            11.6 mg/dL
+  2013-05-03 : Glucose                                  69.0 mg/dL
+  2012-05-18 : Total score [AUDIT-C]                    2.0 {score}
+  2012-05-18 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2012-05-18 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2012-05-18 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Phone 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 54976 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             520 Predovic Mission 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2012-05-18 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2012-05-18 : Tobacco smoking status NHIS              Former smoker 
+  2012-05-18 : High Density Lipoprotein Cholesterol     68.5 mg/dL
+  2012-05-18 : Low Density Lipoprotein Cholesterol      85.5 mg/dL
+  2012-05-18 : Triglycerides                            139.2 mg/dL
+  2012-05-18 : Total Cholesterol                        181.8 mg/dL
+  2012-05-18 : Carbon Dioxide                           25.5 mmol/L
+  2012-05-18 : Chloride                                 108.2 mmol/L
+  2012-05-18 : Potassium                                4.0 mmol/L
+  2012-05-18 : Sodium                                   139.6 mmol/L
+  2012-05-18 : Calcium                                  9.0 mg/dL
+  2012-05-18 : Creatinine                               0.9 mg/dL
+  2012-05-18 : Urea Nitrogen                            18.3 mg/dL
+  2012-05-18 : Glucose                                  92.3 mg/dL
+  2012-05-18 : Respiratory rate                         15.0 /min
+  2012-05-18 : Heart rate                               78.0 /min
+  2012-05-18 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2012-05-18 : Body Mass Index                          28.6 kg/m2
+  2012-05-18 : Body Weight                              81.1 kg
+  2012-05-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-05-18 : Body Height                              168.3 cm
+  2012-05-03 : High Density Lipoprotein Cholesterol     70.0 mg/dL
+  2012-05-03 : Low Density Lipoprotein Cholesterol      82.5 mg/dL
+  2012-05-03 : Triglycerides                            137.5 mg/dL
+  2012-05-03 : Total Cholesterol                        209.3 mg/dL
+  2012-05-03 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.9 U/L
+  2012-05-03 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 23.0 U/L
+  2012-05-03 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 103.4 U/L
+  2012-05-03 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+  2012-05-03 : Globulin [Mass/volume] in Serum by calculation 3.1 g/L
+  2012-05-03 : Albumin [Mass/volume] in Serum or Plasma 5.2 g/dL
+  2012-05-03 : Protein [Mass/volume] in Serum or Plasma 72.0 g/dL
+  2012-05-03 : Glomerular filtration rate/1.73 sq M.predicted 74.5 mL/min
+  2012-05-03 : Carbon Dioxide                           28.0 mmol/L
+  2012-05-03 : Chloride                                 110.0 mmol/L
+  2012-05-03 : Potassium                                4.7 mmol/L
+  2012-05-03 : Sodium                                   142.6 mmol/L
+  2012-05-03 : Calcium                                  9.3 mg/dL
+  2012-05-03 : Creatinine                               3.2 mg/dL
+  2012-05-03 : Urea Nitrogen                            8.0 mg/dL
+  2012-05-03 : Glucose                                  88.2 mg/dL
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-07-09 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-07-09 : Depression screening (procedure)
+  2021-07-09 : Assessment of health and social care needs (procedure)
+  2021-02-26 : Suture open wound for Facial laceration
+  2020-07-03 : Screening for drug abuse (procedure)
+  2020-07-03 : Assessment of substance use (procedure)
+  2020-07-03 : Assessment of anxiety (procedure)
+  2020-07-03 : Medication Reconciliation (procedure)
+  2020-07-03 : Assessment of health and social care needs (procedure)
+  2019-11-01 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2019-11-01 : Assessment of substance use (procedure)
+  2019-11-01 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-11-01 : Depression screening (procedure)
+  2019-11-01 : Screening for domestic abuse (procedure)
+  2019-11-01 : Assessment of anxiety (procedure)
+  2019-11-01 : Assessment of health and social care needs (procedure)
+  2019-06-28 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2019-06-28 : Assessment of substance use (procedure)
+  2019-06-28 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-06-28 : Depression screening (procedure)
+  2019-06-28 : Assessment of health and social care needs (procedure)
+  2018-06-22 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2018-06-22 : Depression screening (procedure)
+  2018-06-22 : Assessment of anxiety (procedure)
+  2018-06-22 : Assessment of health and social care needs (procedure)
+  2017-06-16 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2017-06-16 : Assessment of substance use (procedure)
+  2017-06-16 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2017-06-16 : Depression screening (procedure)
+  2017-06-16 : Medication Reconciliation (procedure)
+  2017-06-16 : Assessment of health and social care needs (procedure)
+  2016-06-10 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2016-06-10 : Depression screening (procedure)
+  2016-06-10 : Assessment of anxiety (procedure)
+  2016-06-10 : Assessment of health and social care needs (procedure)
+  2015-06-05 : Screening for drug abuse (procedure)
+  2015-06-05 : Assessment of substance use (procedure)
+  2015-06-05 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2015-06-05 : Depression screening (procedure)
+  2015-06-05 : Screening for domestic abuse (procedure)
+  2015-06-05 : Medication Reconciliation (procedure)
+  2015-06-05 : Assessment of health and social care needs (procedure)
+  2014-05-30 : Assessment of health and social care needs (procedure)
+  2013-10-18 : Removal of intrauterine device
+  2013-05-24 : Screening for drug abuse (procedure)
+  2013-05-24 : Assessment of substance use (procedure)
+  2013-05-24 : Assessment of health and social care needs (procedure)
+  2012-10-13 : Insertion of subcutaneous contraceptive
+  2012-05-18 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2012-05-18 : Assessment of substance use (procedure)
+  2012-05-18 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2012-05-18 : Depression screening (procedure)
+  2012-05-18 : Assessment of anxiety (procedure)
+  2012-05-18 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-07-09 : Influenza, seasonal, injectable, preservative free
+  2021-05-21 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-04-30 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2020-07-03 : Influenza, seasonal, injectable, preservative free
+  2019-06-28 : Influenza, seasonal, injectable, preservative free
+  2018-06-22 : Influenza, seasonal, injectable, preservative free
+  2017-06-16 : Influenza, seasonal, injectable, preservative free
+  2016-06-10 : Influenza, seasonal, injectable, preservative free
+  2015-06-05 : Td (adult) preservative free
+  2015-06-05 : Influenza, seasonal, injectable, preservative free
+  2015-06-05 : zoster
+  2014-05-30 : Influenza, seasonal, injectable, preservative free
+  2014-05-30 : zoster
+  2013-05-24 : Influenza, seasonal, injectable, preservative free
+  2012-05-18 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-07-09 (Dr. Nannette Davis) : Encounter at PCP103963
+2021-05-21 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+2021-05-01 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Hyperlipidemia
+2021-04-30 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+2021-02-26 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2020-12-04 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Asthma
+2020-07-03 (Dr. Nannette Davis) : Encounter at PCP103963
+2020-05-01 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Hyperlipidemia
+2019-11-01 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+2019-10-20 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Streptococcal sore throat (disorder)
+2019-10-25 (Dr. Tracy Effertz) : Encounter at VALLEY RANCH URGENT CARE
+2019-06-28 (Dr. Nannette Davis) : Encounter at PCP103963
+2019-05-02 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Hyperlipidemia
+2018-09-12 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Viral sinusitis (disorder)
+2018-06-22 (Dr. Nannette Davis) : Encounter at PCP103963
+2018-05-02 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Hyperlipidemia
+2017-12-20 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Asthma
+2017-06-16 (Dr. Nannette Davis) : Encounter at PCP103963
+2017-05-02 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Hyperlipidemia
+2016-06-28 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Asthma
+2016-06-10 (Dr. Nannette Davis) : Encounter at PCP103963
+2016-05-02 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Hyperlipidemia
+2015-12-31 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Asthma
+2015-12-28 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Asthma
+2015-07-01 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Asthma
+2015-06-05 (Dr. Nannette Davis) : Encounter at PCP103963
+2015-05-03 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Hyperlipidemia
+2015-01-02 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Asthma
+2014-05-30 (Dr. Nannette Davis) : Encounter at PCP103963
+2014-05-03 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Hyperlipidemia
+2013-10-18 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+2013-05-24 (Dr. Nannette Davis) : Encounter at PCP103963
+2013-05-03 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Hyperlipidemia
+2012-10-13 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+2012-05-18 (Dr. Nannette Davis) : Encounter at PCP103963
+2012-05-03 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Hyperlipidemia
+2011-05-13 (Dr. Nannette Davis) : Encounter at PCP103963
+2011-05-04 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Hyperlipidemia
+2010-05-04 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Hyperlipidemia
+2010-04-02 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Normal pregnancy
+2009-05-04 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Hyperlipidemia
+2009-05-01 (Dr. Nannette Davis) : Encounter at PCP103963
+2008-05-04 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Hyperlipidemia
+2008-04-25 (Dr. Nannette Davis) : Encounter at PCP103963
+2007-05-05 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Hyperlipidemia
+2007-04-20 (Dr. Nannette Davis) : Encounter at PCP103963
+2006-05-05 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Hyperlipidemia
+2006-04-14 (Dr. Nannette Davis) : Encounter at PCP103963
+2005-04-08 (Dr. Nannette Davis) : Encounter at PCP103963
+2004-12-31 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+2004-04-02 (Dr. Nannette Davis) : Encounter at PCP103963
+2003-03-28 (Dr. Nannette Davis) : Encounter at PCP103963
+2002-03-22 (Dr. Nannette Davis) : Encounter at PCP103963
+2001-03-23 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Normal pregnancy
+2001-03-13 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Asthma
+2000-03-10 (Dr. Nannette Davis) : Encounter at PCP103963
+1999-03-05 (Dr. Nannette Davis) : Encounter at PCP103963
+1998-02-27 (Dr. Nannette Davis) : Encounter at PCP103963
+1997-02-21 (Dr. Nannette Davis) : Encounter at PCP103963
+1996-02-16 (Dr. Nannette Davis) : Encounter at PCP103963
+1995-02-10 (Dr. Nannette Davis) : Encounter at PCP103963
+1994-02-04 (Dr. Nannette Davis) : Encounter at PCP103963
+1993-12-03 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Normal pregnancy
+1993-01-29 (Dr. Nannette Davis) : Encounter at PCP103963
+1992-05-29 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+1992-01-24 (Dr. Nannette Davis) : Encounter at PCP103963
+1991-01-18 (Dr. Nannette Davis) : Encounter at PCP103963
+1990-01-12 (Dr. Nannette Davis) : Encounter at PCP103963
+1989-01-06 (Dr. Nannette Davis) : Encounter at PCP103963
+1988-01-01 (Dr. Nannette Davis) : Encounter at PCP103963
+1986-12-26 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Anemia (disorder)
+1986-12-26 (Dr. Nannette Davis) : Encounter at PCP103963
+1985-12-20 (Dr. Nannette Davis) : Encounter at PCP103963
+1984-12-14 (Dr. Nannette Davis) : Encounter at PCP103963
+1983-12-09 (Dr. Nannette Davis) : Encounter at PCP103963
+1982-12-03 (Dr. Nannette Davis) : Encounter at PCP103963
+1981-11-27 (Dr. Nannette Davis) : Encounter at PCP103963
+1980-11-21 (Dr. Nannette Davis) : Encounter at PCP103963
+1979-11-16 (Dr. Nannette Davis) : Encounter at PCP103963
+1979-08-31 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+1978-11-10 (Dr. Nannette Davis) : Encounter at PCP103963
+1977-11-04 (Dr. Nannette Davis) : Encounter at PCP103963
+1976-10-29 (Dr. Nannette Davis) : Encounter at PCP103963
+1975-10-24 (Dr. Nannette Davis) : Encounter at PCP103963
+1974-10-18 (Dr. Nannette Davis) : Encounter at PCP103963
+1973-10-12 (Dr. Nannette Davis) : Encounter at PCP103963
+1972-10-06 (Dr. Nannette Davis) : Encounter at PCP103963
+1971-10-01 (Dr. Nannette Davis) : Encounter at PCP103963
+1970-09-25 (Dr. Nannette Davis) : Encounter at PCP103963
+1969-09-13 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Childhood asthma
+1968-09-16 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Childhood asthma
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

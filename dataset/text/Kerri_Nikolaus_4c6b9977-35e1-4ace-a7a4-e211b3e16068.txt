@@ -1,0 +1,1508 @@
+Kerri Nikolaus
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 84
+Birth Date:          1937-09-19
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-11-21[CURRENT] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Chronic obstructive bronchitis (disorder)
+  2021-11-21[CURRENT] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2021-11-21[CURRENT] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2021-11-21[CURRENT] : tramadol hydrochloride 50 MG Oral Tablet
+  2021-11-21[CURRENT] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2021-11-21[CURRENT] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2021-11-21[CURRENT] : Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet
+  2020-11-15[STOPPED] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Chronic obstructive bronchitis (disorder)
+  2020-11-15[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2020-11-15[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2020-11-15[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2020-11-15[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2020-11-15[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2020-11-15[STOPPED] : Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet
+  2019-11-10[STOPPED] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Chronic obstructive bronchitis (disorder)
+  2019-11-10[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-11-10[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-11-10[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2019-11-10[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2019-11-10[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2019-11-10[STOPPED] : Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet
+  2018-11-04[STOPPED] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Chronic obstructive bronchitis (disorder)
+  2018-11-04[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2018-11-04[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2018-11-04[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2018-11-04[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2018-11-04[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2018-11-04[STOPPED] : Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet
+  2017-10-29[STOPPED] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Chronic obstructive bronchitis (disorder)
+  2017-10-29[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2017-10-29[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2017-10-29[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2017-10-29[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2017-10-29[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2017-10-29[STOPPED] : Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet
+  2016-10-23[STOPPED] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Chronic obstructive bronchitis (disorder)
+  2016-10-23[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2016-10-23[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2016-10-23[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2016-10-23[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2016-10-23[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2016-10-23[STOPPED] : Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet
+  2016-08-28[STOPPED] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Chronic obstructive bronchitis (disorder)
+  2016-08-28[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2016-08-28[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2016-08-28[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2016-08-28[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2016-08-28[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2016-08-28[STOPPED] : Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet
+  2016-08-25[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2015-10-18[STOPPED] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Chronic obstructive bronchitis (disorder)
+  2015-10-18[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2015-10-18[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2015-10-18[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2015-10-18[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2015-10-18[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2015-10-18[STOPPED] : Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet
+  2015-03-15[STOPPED] : Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet
+  2014-10-26[STOPPED] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Chronic obstructive bronchitis (disorder)
+  2014-10-26[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2014-10-26[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2014-10-26[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2014-10-26[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2014-10-26[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2014-10-12[STOPPED] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Chronic obstructive bronchitis (disorder)
+  2014-10-12[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2014-10-12[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2014-10-12[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2014-10-12[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2014-10-12[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2014-09-26[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Sinusitis (disorder)
+  2014-08-02[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2014-06-03[CURRENT] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2014-04-04[STOPPED] : tramadol hydrochloride 50 MG Oral Tablet
+  2014-02-04[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2013-10-06[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2013-10-06[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2013-01-27[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2013-01-27[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2013-01-13[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2012-09-30[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2012-09-30[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2011-09-25[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2011-09-25[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2010-09-19[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2010-09-19[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2009-09-13[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2009-09-13[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2008-09-07[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2008-09-07[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2007-09-02[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2007-09-02[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2006-08-27[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2006-08-27[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2005-08-21[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2005-08-21[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2005-06-26[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2005-06-26[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2005-06-26[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2005-06-26[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2004-08-15[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2004-08-15[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2003-08-10[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2003-08-10[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2002-08-04[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2002-08-04[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2001-07-29[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2001-07-29[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2000-07-23[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2000-07-23[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1999-07-18[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1999-07-18[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1998-07-12[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1998-07-12[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1997-07-06[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1997-07-06[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1996-06-30[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1996-06-30[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1995-07-31[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  1995-06-25[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1995-06-25[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1995-02-05[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  1994-12-11[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1994-12-11[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1994-06-19[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1994-06-19[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1994-02-27[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  1993-06-13[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1993-06-13[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1993-05-23[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  1992-12-28[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  1992-11-21[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  1992-06-07[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1992-06-07[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1992-03-08[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1992-03-08[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1991-06-02[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1991-06-02[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1991-01-05[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  1990-06-18[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  1990-06-10[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1990-06-10[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1990-05-27[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1990-05-27[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1990-05-27[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1990-05-27[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1989-05-21[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1989-05-21[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1988-06-05[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1988-06-05[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1988-05-15[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1988-05-15[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1987-05-10[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1987-05-10[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1986-12-14[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1986-12-14[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1986-05-04[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1986-05-04[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1985-04-28[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1985-04-28[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1984-04-22[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1984-04-22[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1983-04-17[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1983-04-17[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1982-04-11[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1982-04-11[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1982-04-11[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1982-04-11[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1981-04-05[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1981-04-05[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1980-03-30[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1980-03-30[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1979-09-09[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1979-09-09[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1979-03-25[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1979-03-25[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1978-03-19[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1978-03-19[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1977-03-13[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1977-03-13[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1976-03-07[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1976-03-07[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1975-03-02[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1975-03-02[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1974-02-24[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1974-02-24[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1973-07-22[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1973-07-22[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1973-02-18[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1973-02-18[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1972-02-13[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1972-02-13[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1971-08-08[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1971-08-08[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1971-07-11[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1971-07-11[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1971-05-30[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1971-05-30[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1971-02-07[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1971-02-07[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1970-02-01[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1970-02-01[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1969-01-26[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1969-01-26[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1968-07-14[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1968-07-14[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1968-01-21[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1968-01-21[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1967-01-15[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1967-01-15[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1966-01-09[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1966-01-09[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1965-01-03[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1965-01-03[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1963-12-29[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1963-12-29[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1962-12-23[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1962-12-23[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1962-03-04[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1962-03-04[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1961-12-17[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1961-12-17[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1961-10-29[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1961-10-29[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1960-12-11[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1960-12-11[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1959-12-06[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1959-12-06[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1958-11-30[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1958-11-30[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1957-11-24[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1957-11-24[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1957-04-07[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1957-04-07[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1956-11-18[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1956-11-18[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1955-11-13[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1955-11-13[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1954-11-07[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1954-11-07[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1953-11-01[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1953-11-01[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1952-10-26[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1952-10-26[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1952-05-18[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1952-05-18[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1951-10-21[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1951-10-21[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1950-10-15[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1950-10-15[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1949-10-09[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1949-10-09[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1948-10-03[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1948-10-03[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1947-09-28[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1947-09-28[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1946-09-22[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1946-09-22[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1945-09-16[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1945-09-16[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1944-09-10[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1944-09-10[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1943-09-19[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1943-09-19[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1943-09-05[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1943-09-05[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1942-08-30[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1942-08-30[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1942-08-16[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1942-08-16[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1941-08-24[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1941-08-24[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1941-08-05[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1941-08-05[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-08-24 - 2021-09-13 : Viral sinusitis (disorder)
+  2020-11-15 -            : Full-time employment (finding)
+  2019-11-10 -            : Stress (finding)
+  2019-11-10 - 2020-11-15 : Full-time employment (finding)
+  2018-11-04 - 2019-11-10 : Full-time employment (finding)
+  2017-10-29 - 2018-11-04 : Full-time employment (finding)
+  2016-10-23 - 2018-11-04 : Stress (finding)
+  2016-10-23 - 2017-10-29 : Part-time employment (finding)
+  2016-08-28 - 2016-10-23 : Not in labor force (finding)
+  2016-08-25 - 2016-09-12 : Viral sinusitis (disorder)
+  2015-10-18 - 2016-08-28 : Full-time employment (finding)
+  2014-10-26 - 2015-10-18 : Not in labor force (finding)
+  2014-10-12 - 2014-10-26 : Full-time employment (finding)
+  2014-09-26 - 2014-10-29 : Sinusitis (disorder)
+  2014-02-04 -            : Chronic low back pain (finding)
+  2013-10-06 - 2014-10-26 : Stress (finding)
+  2013-10-06 - 2014-10-12 : Part-time employment (finding)
+  2013-10-06 -            : Chronic obstructive bronchitis (disorder)
+  2013-01-27 - 2013-10-06 : Full-time employment (finding)
+  2013-01-13 - 2013-01-28 : Acute bronchitis (disorder)
+  2012-09-30 - 2013-01-27 : Full-time employment (finding)
+  2011-09-25 - 2012-09-30 : Full-time employment (finding)
+  2010-09-19 - 2011-09-25 : Stress (finding)
+  2010-09-19 - 2020-11-15 : Limited social contact (finding)
+  2010-09-19 - 2011-09-25 : Full-time employment (finding)
+  2009-09-13 - 2010-09-19 : Full-time employment (finding)
+  2008-09-07 - 2009-09-13 : Full-time employment (finding)
+  2007-09-02 - 2009-09-13 : Stress (finding)
+  2007-09-02 - 2008-09-07 : Full-time employment (finding)
+  2006-08-27 - 2007-09-02 : Full-time employment (finding)
+  2005-08-21 - 2006-08-27 : Stress (finding)
+  2005-08-21 - 2006-08-27 : Full-time employment (finding)
+  2005-06-26 - 2005-08-21 : Full-time employment (finding)
+  2003-08-10 - 2004-08-15 : Full-time employment (finding)
+  2002-08-04 - 2003-08-10 : Full-time employment (finding)
+  2001-07-29 - 2004-08-15 : Stress (finding)
+  2001-07-29 - 2002-08-04 : Full-time employment (finding)
+  1998-11-15 -            : Drug overdose
+  1998-07-12 - 2000-07-23 : Full-time employment (finding)
+  1997-07-06 - 2000-07-23 : Stress (finding)
+  1996-06-30 - 1997-07-06 : Full-time employment (finding)
+  1995-06-25 - 1996-06-30 : Full-time employment (finding)
+  1994-12-11 - 1995-06-25 : Full-time employment (finding)
+  1993-06-13 - 1994-06-19 : Full-time employment (finding)
+  1992-06-07 -            : Victim of intimate partner abuse (finding)
+  1992-03-08 - 1992-06-07 : Full-time employment (finding)
+  1991-08-15 -            : Chronic pain
+  1991-06-02 - 1992-03-08 : Full-time employment (finding)
+  1990-06-18 -            : Impacted molars
+  1990-06-10 - 1991-06-02 : Full-time employment (finding)
+  1990-03-22 -            : Chronic intractable migraine without aura
+  1989-05-21 - 1995-06-25 : Stress (finding)
+  1988-06-05 - 1989-05-21 : Full-time employment (finding)
+  1987-05-10 - 1988-05-15 : Full-time employment (finding)
+  1986-12-14 - 1987-05-10 : Full-time employment (finding)
+  1985-04-28 - 1986-05-04 : Full-time employment (finding)
+  1984-04-22 - 1988-06-05 : Stress (finding)
+  1984-04-22 - 1985-04-28 : Full-time employment (finding)
+  1982-04-11 - 1983-04-17 : Full-time employment (finding)
+  1982-04-11 -            : Anemia (disorder)
+  1982-04-11 -            : Prediabetes
+  1981-04-05 - 1982-04-11 : Full-time employment (finding)
+  1980-03-30 - 1983-04-17 : Stress (finding)
+  1980-03-30 - 1981-04-05 : Full-time employment (finding)
+  1979-09-09 - 1980-03-30 : Full-time employment (finding)
+  1979-03-25 - 1979-09-09 : Stress (finding)
+  1979-03-25 - 1979-09-09 : Full-time employment (finding)
+  1977-03-13 - 1978-03-19 : Full-time employment (finding)
+  1976-03-07 - 1977-03-13 : Full-time employment (finding)
+  1975-03-02 - 1976-03-07 : Full-time employment (finding)
+  1974-02-24 - 1975-03-02 : Full-time employment (finding)
+  1973-02-18 - 1973-07-22 : Full-time employment (finding)
+  1972-02-13 - 1977-03-13 : Stress (finding)
+  1972-02-13 - 1973-02-18 : Full-time employment (finding)
+  1971-08-08 - 1972-02-13 : Full-time employment (finding)
+  1971-07-11 - 1971-08-08 : Victim of intimate partner abuse (finding)
+  1971-07-11 - 1971-08-08 : Full-time employment (finding)
+  1971-05-30 - 1971-07-11 : Full-time employment (finding)
+  1971-02-07 - 1971-05-30 : Full-time employment (finding)
+  1971-02-07 -            : Body mass index 30+ - obesity (finding)
+  1970-02-01 - 1971-02-07 : Full-time employment (finding)
+  1968-07-14 - 1969-01-26 : Full-time employment (finding)
+  1968-01-21 - 1971-08-08 : Stress (finding)
+  1965-01-03 - 1966-01-09 : Full-time employment (finding)
+  1963-12-29 - 1965-01-03 : Full-time employment (finding)
+  1962-12-23 - 1963-12-29 : Full-time employment (finding)
+  1962-03-04 - 1962-12-23 : Full-time employment (finding)
+  1961-12-17 - 1962-03-04 : Full-time employment (finding)
+  1961-10-29 - 1961-12-17 : Full-time employment (finding)
+  1959-12-06 - 1960-12-11 : Full-time employment (finding)
+  1958-11-30 - 1967-01-15 : Stress (finding)
+  1957-11-24 - 1958-11-30 : Full-time employment (finding)
+  1957-04-07 - 1957-11-24 : Full-time employment (finding)
+  1956-11-18 - 1957-11-24 : Stress (finding)
+  1956-11-18 - 1957-04-07 : Full-time employment (finding)
+  1955-11-13 -            : Only received primary school education (finding)
+  1955-11-13 -            : Housing unsatisfactory (finding)
+  1940-05-28 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-04-04[CURRENT] : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+  2013-10-06[CURRENT] : Chronic obstructive pulmonary disease clinical management plan
+                         Reason: Chronic obstructive bronchitis (disorder)
+                         Activity: Exercise therapy
+                         Activity: Pulmonary rehabilitation (regime/therapy)
+  2013-01-13[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1998-11-15[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  1982-04-11[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1941-08-05[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-11-21 : Basic Metabolic Panel
+           - Glucose                                  85.4 mg/dL
+           - Urea Nitrogen                            10.4 mg/dL
+           - Creatinine                               0.5 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   140.1 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 102.1 mmol/L
+           - Carbon Dioxide                           27.8 mmol/L
+  2020-11-15 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-11-15 : Basic Metabolic Panel
+           - Glucose                                  95.8 mg/dL
+           - Urea Nitrogen                            10.5 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   139.9 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 109.4 mmol/L
+           - Carbon Dioxide                           25.8 mmol/L
+  2019-11-10 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-11-10 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       31.0 {#}
+           - Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2019-11-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.5 %
+           - MCV [Entitic volume] by Automated count  91.6 fL
+           - MCH [Entitic mass] by Automated count    27.3 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+           - Platelets [#/volume] in Blood by Automated count 217.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 212.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2019-11-10 : Lipid Panel
+           - Total Cholesterol                        177.3 mg/dL
+           - Triglycerides                            140.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      81.4 mg/dL
+           - High Density Lipoprotein Cholesterol     67.9 mg/dL
+  2019-11-10 : Basic Metabolic Panel
+           - Glucose                                  98.1 mg/dL
+           - Urea Nitrogen                            9.3 mg/dL
+           - Creatinine                               0.6 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   137.0 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 106.8 mmol/L
+           - Carbon Dioxide                           27.3 mmol/L
+  2018-11-04 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2018-11-04 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 12.0 {score}
+  2018-11-04 : Basic Metabolic Panel
+           - Glucose                                  98.5 mg/dL
+           - Urea Nitrogen                            7.2 mg/dL
+           - Creatinine                               0.6 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   143.5 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 104.0 mmol/L
+           - Carbon Dioxide                           22.5 mmol/L
+  2017-10-29 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2017-10-29 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       37.0 {#}
+           - Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2017-10-29 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2017-10-29 : Basic Metabolic Panel
+           - Glucose                                  93.6 mg/dL
+           - Urea Nitrogen                            11.4 mg/dL
+           - Creatinine                               0.6 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   137.1 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 106.8 mmol/L
+           - Carbon Dioxide                           20.9 mmol/L
+  2016-10-23 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2016-10-23 : Lipid Panel
+           - Total Cholesterol                        184.5 mg/dL
+           - Triglycerides                            117.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      90.6 mg/dL
+           - High Density Lipoprotein Cholesterol     70.4 mg/dL
+  2016-10-23 : Basic Metabolic Panel
+           - Glucose                                  95.6 mg/dL
+           - Urea Nitrogen                            8.2 mg/dL
+           - Creatinine                               0.6 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   137.6 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 107.9 mmol/L
+           - Carbon Dioxide                           27.9 mmol/L
+  2016-08-28 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       117.0 {#}
+           - Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2016-08-28 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2016-08-28 : Basic Metabolic Panel
+           - Glucose                                  81.3 mg/dL
+           - Urea Nitrogen                            12.5 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   143.6 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 103.2 mmol/L
+           - Carbon Dioxide                           21.7 mmol/L
+  2015-10-18 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2015-10-18 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2015-10-18 : Basic Metabolic Panel
+           - Glucose                                  96.5 mg/dL
+           - Urea Nitrogen                            16.5 mg/dL
+           - Creatinine                               0.6 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   138.7 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 102.4 mmol/L
+           - Carbon Dioxide                           27.2 mmol/L
+  2014-10-26 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2014-10-26 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       62.0 {#}
+           - Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2014-10-26 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2014-10-26 : Basic Metabolic Panel
+           - Glucose                                  83.0 mg/dL
+           - Urea Nitrogen                            18.5 mg/dL
+           - Creatinine                               0.6 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   137.2 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 110.0 mmol/L
+           - Carbon Dioxide                           22.7 mmol/L
+  2014-10-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2014-10-12 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.3 %
+           - MCV [Entitic volume] by Automated count  82.3 fL
+           - MCH [Entitic mass] by Automated count    27.1 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.4 fL
+           - Platelets [#/volume] in Blood by Automated count 328.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 185.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2014-10-12 : Basic Metabolic Panel
+           - Glucose                                  71.0 mg/dL
+           - Urea Nitrogen                            14.4 mg/dL
+           - Creatinine                               0.6 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   140.3 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 108.1 mmol/L
+           - Carbon Dioxide                           26.2 mmol/L
+  2013-10-06 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2013-10-06 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2013-10-06 : Lipid Panel
+           - Total Cholesterol                        161.0 mg/dL
+           - Triglycerides                            142.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      69.5 mg/dL
+           - High Density Lipoprotein Cholesterol     63.0 mg/dL
+  2013-10-06 : Basic Metabolic Panel
+           - Glucose                                  73.1 mg/dL
+           - Urea Nitrogen                            18.8 mg/dL
+           - Creatinine                               0.6 mg/dL
+           - Calcium                                  8.5 mg/dL
+           - Sodium                                   138.5 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 110.7 mmol/L
+           - Carbon Dioxide                           28.4 mmol/L
+  2013-01-27 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2013-01-27 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2013-01-27 : Basic Metabolic Panel
+           - Glucose                                  82.9 mg/dL
+           - Urea Nitrogen                            7.8 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   142.4 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 103.3 mmol/L
+           - Carbon Dioxide                           21.7 mmol/L
+  2012-09-30 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2012-09-30 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       21.0 {#}
+           - Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2012-09-30 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2012-09-30 : Basic Metabolic Panel
+           - Glucose                                  87.1 mg/dL
+           - Urea Nitrogen                            12.1 mg/dL
+           - Creatinine                               0.6 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   136.3 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 108.6 mmol/L
+           - Carbon Dioxide                           26.6 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-11-21 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2021-11-21 : Tobacco smoking status NHIS              Former smoker 
+  2021-11-21 : Carbon Dioxide                           27.8 mmol/L
+  2021-11-21 : Chloride                                 102.1 mmol/L
+  2021-11-21 : Potassium                                4.6 mmol/L
+  2021-11-21 : Sodium                                   140.1 mmol/L
+  2021-11-21 : Calcium                                  9.9 mg/dL
+  2021-11-21 : Creatinine                               0.5 mg/dL
+  2021-11-21 : Urea Nitrogen                            10.4 mg/dL
+  2021-11-21 : Glucose                                  85.4 mg/dL
+  2021-11-21 : Respiratory rate                         15.0 /min
+  2021-11-21 : Heart rate                               81.0 /min
+  2021-11-21 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2021-11-21 : Body Mass Index                          28.0 kg/m2
+  2021-11-21 : Body Weight                              82.2 kg
+  2021-11-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-11-21 : Body Height                              171.3 cm
+  2021-11-21 : FEV1/FVC                                 16.4 %
+  2020-11-15 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-11-15 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 20012 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             601 Reichert Center 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Yes 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2020-11-15 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2020-11-15 : Tobacco smoking status NHIS              Former smoker 
+  2020-11-15 : Carbon Dioxide                           25.8 mmol/L
+  2020-11-15 : Chloride                                 109.4 mmol/L
+  2020-11-15 : Potassium                                5.2 mmol/L
+  2020-11-15 : Sodium                                   139.9 mmol/L
+  2020-11-15 : Calcium                                  9.0 mg/dL
+  2020-11-15 : Creatinine                               0.8 mg/dL
+  2020-11-15 : Urea Nitrogen                            10.5 mg/dL
+  2020-11-15 : Glucose                                  95.8 mg/dL
+  2020-11-15 : Respiratory rate                         14.0 /min
+  2020-11-15 : Heart rate                               78.0 /min
+  2020-11-15 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2020-11-15 : Body Mass Index                          28.0 kg/m2
+  2020-11-15 : Body Weight                              82.2 kg
+  2020-11-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-11-15 : Body Height                              171.3 cm
+  2020-11-15 : FEV1/FVC                                 23.9 %
+  2019-11-10 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-11-10 : Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2019-11-10 : Fall risk total [Morse Fall Scale]       31.0 {#}
+  2019-11-10 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 20012 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             601 Reichert Center 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2019-11-10 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2019-11-10 : Tobacco smoking status NHIS              Former smoker 
+  2019-11-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2019-11-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 212.6 fL
+  2019-11-10 : Platelets [#/volume] in Blood by Automated count 217.3 10*3/uL
+  2019-11-10 : Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+  2019-11-10 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2019-11-10 : MCH [Entitic mass] by Automated count    27.3 pg
+  2019-11-10 : MCV [Entitic volume] by Automated count  91.6 fL
+  2019-11-10 : Hematocrit [Volume Fraction] of Blood by Automated count 39.5 %
+  2019-11-10 : Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+  2019-11-10 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2019-11-10 : Leukocytes [#/volume] in Blood by Automated count 5.9 10*3/uL
+  2019-11-10 : High Density Lipoprotein Cholesterol     67.9 mg/dL
+  2019-11-10 : Low Density Lipoprotein Cholesterol      81.4 mg/dL
+  2019-11-10 : Triglycerides                            140.2 mg/dL
+  2019-11-10 : Total Cholesterol                        177.3 mg/dL
+  2019-11-10 : Carbon Dioxide                           27.3 mmol/L
+  2019-11-10 : Chloride                                 106.8 mmol/L
+  2019-11-10 : Potassium                                4.8 mmol/L
+  2019-11-10 : Sodium                                   137.0 mmol/L
+  2019-11-10 : Calcium                                  9.9 mg/dL
+  2019-11-10 : Creatinine                               0.6 mg/dL
+  2019-11-10 : Urea Nitrogen                            9.3 mg/dL
+  2019-11-10 : Glucose                                  98.1 mg/dL
+  2019-11-10 : Respiratory rate                         16.0 /min
+  2019-11-10 : Heart rate                               72.0 /min
+  2019-11-10 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2019-11-10 : Body Mass Index                          28.0 kg/m2
+  2019-11-10 : Body Weight                              82.2 kg
+  2019-11-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-11-10 : Body Height                              171.3 cm
+  2019-11-10 : FEV1/FVC                                 15.6 %
+  2018-11-04 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2018-11-04 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 12.0 {score}
+  2018-11-04 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 20012 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             601 Reichert Center 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              I choose not to answer this question 
+  2018-11-04 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2018-11-04 : Tobacco smoking status NHIS              Former smoker 
+  2018-11-04 : Carbon Dioxide                           22.5 mmol/L
+  2018-11-04 : Chloride                                 104.0 mmol/L
+  2018-11-04 : Potassium                                4.0 mmol/L
+  2018-11-04 : Sodium                                   143.5 mmol/L
+  2018-11-04 : Calcium                                  9.2 mg/dL
+  2018-11-04 : Creatinine                               0.6 mg/dL
+  2018-11-04 : Urea Nitrogen                            7.2 mg/dL
+  2018-11-04 : Glucose                                  98.5 mg/dL
+  2018-11-04 : Respiratory rate                         14.0 /min
+  2018-11-04 : Heart rate                               92.0 /min
+  2018-11-04 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2018-11-04 : Body Mass Index                          28.0 kg/m2
+  2018-11-04 : Body Weight                              82.2 kg
+  2018-11-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-11-04 : Body Height                              171.3 cm
+  2018-11-04 : FEV1/FVC                                 28.2 %
+  2017-10-29 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2017-10-29 : Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2017-10-29 : Fall risk total [Morse Fall Scale]       37.0 {#}
+  2017-10-29 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2017-10-29 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 20012 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             601 Reichert Center 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2017-10-29 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2017-10-29 : Tobacco smoking status NHIS              Former smoker 
+  2017-10-29 : Carbon Dioxide                           20.9 mmol/L
+  2017-10-29 : Chloride                                 106.8 mmol/L
+  2017-10-29 : Potassium                                4.3 mmol/L
+  2017-10-29 : Sodium                                   137.1 mmol/L
+  2017-10-29 : Calcium                                  9.6 mg/dL
+  2017-10-29 : Creatinine                               0.6 mg/dL
+  2017-10-29 : Urea Nitrogen                            11.4 mg/dL
+  2017-10-29 : Glucose                                  93.6 mg/dL
+  2017-10-29 : Respiratory rate                         13.0 /min
+  2017-10-29 : Heart rate                               67.0 /min
+  2017-10-29 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2017-10-29 : Body Mass Index                          28.0 kg/m2
+  2017-10-29 : Body Weight                              82.2 kg
+  2017-10-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-10-29 : Body Height                              171.3 cm
+  2017-10-29 : FEV1/FVC                                 27.4 %
+  2016-10-23 : Total score [HARK]                       0.0 {score}
+  2016-10-23 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 20012 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             601 Reichert Center 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2016-10-23 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2016-10-23 : Tobacco smoking status NHIS              Former smoker 
+  2016-10-23 : High Density Lipoprotein Cholesterol     70.4 mg/dL
+  2016-10-23 : Low Density Lipoprotein Cholesterol      90.6 mg/dL
+  2016-10-23 : Triglycerides                            117.0 mg/dL
+  2016-10-23 : Total Cholesterol                        184.5 mg/dL
+  2016-10-23 : Carbon Dioxide                           27.9 mmol/L
+  2016-10-23 : Chloride                                 107.9 mmol/L
+  2016-10-23 : Potassium                                4.6 mmol/L
+  2016-10-23 : Sodium                                   137.6 mmol/L
+  2016-10-23 : Calcium                                  9.2 mg/dL
+  2016-10-23 : Creatinine                               0.6 mg/dL
+  2016-10-23 : Urea Nitrogen                            8.2 mg/dL
+  2016-10-23 : Glucose                                  95.6 mg/dL
+  2016-10-23 : Respiratory rate                         14.0 /min
+  2016-10-23 : Heart rate                               97.0 /min
+  2016-10-23 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2016-10-23 : Body Mass Index                          28.0 kg/m2
+  2016-10-23 : Body Weight                              82.2 kg
+  2016-10-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-10-23 : Body Height                              171.3 cm
+  2016-10-23 : FEV1/FVC                                 43.7 %
+  2016-08-28 : Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2016-08-28 : Fall risk total [Morse Fall Scale]       117.0 {#}
+  2016-08-28 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2016-08-28 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 20012 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             601 Reichert Center 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2016-08-28 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2016-08-28 : Tobacco smoking status NHIS              Former smoker 
+  2016-08-28 : Carbon Dioxide                           21.7 mmol/L
+  2016-08-28 : Chloride                                 103.2 mmol/L
+  2016-08-28 : Potassium                                4.1 mmol/L
+  2016-08-28 : Sodium                                   143.6 mmol/L
+  2016-08-28 : Calcium                                  9.3 mg/dL
+  2016-08-28 : Creatinine                               1.1 mg/dL
+  2016-08-28 : Urea Nitrogen                            12.5 mg/dL
+  2016-08-28 : Glucose                                  81.3 mg/dL
+  2016-08-28 : Respiratory rate                         13.0 /min
+  2016-08-28 : Heart rate                               97.0 /min
+  2016-08-28 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2016-08-28 : Body Mass Index                          28.0 kg/m2
+  2016-08-28 : Body Weight                              82.2 kg
+  2016-08-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-08-28 : Body Height                              171.3 cm
+  2016-08-28 : FEV1/FVC                                 38.5 %
+  2015-10-18 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2015-10-18 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2015-10-18 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 20012 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             601 Reichert Center 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2015-10-18 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2015-10-18 : Tobacco smoking status NHIS              Former smoker 
+  2015-10-18 : Carbon Dioxide                           27.2 mmol/L
+  2015-10-18 : Chloride                                 102.4 mmol/L
+  2015-10-18 : Potassium                                5.0 mmol/L
+  2015-10-18 : Sodium                                   138.7 mmol/L
+  2015-10-18 : Calcium                                  9.6 mg/dL
+  2015-10-18 : Creatinine                               0.6 mg/dL
+  2015-10-18 : Urea Nitrogen                            16.5 mg/dL
+  2015-10-18 : Glucose                                  96.5 mg/dL
+  2015-10-18 : Respiratory rate                         13.0 /min
+  2015-10-18 : Heart rate                               72.0 /min
+  2015-10-18 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2015-10-18 : Body Mass Index                          28.0 kg/m2
+  2015-10-18 : Body Weight                              82.2 kg
+  2015-10-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2015-10-18 : Body Height                              171.3 cm
+  2015-10-18 : FEV1/FVC                                 38.0 %
+  2015-03-15 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 2.2 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 6.9 {score}
+           - What number best describes your pain on average in the past week? 2.1 {score}
+  2015-02-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2015-01-14 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 7.2 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 2.8 {score}
+           - What number best describes your pain on average in the past week? 2.6 {score}
+  2015-01-14 : Drugs of abuse 5 panel - Urine by Screen method Negative (qualifier value) n/a
+  2014-11-15 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 6.7 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 4.2 {score}
+           - What number best describes your pain on average in the past week? 6.2 {score}
+  2014-10-26 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2014-10-26 : Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2014-10-26 : Fall risk total [Morse Fall Scale]       62.0 {#}
+  2014-10-26 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2014-10-26 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 20012 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             601 Reichert Center 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2014-10-26 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2014-10-26 : Tobacco smoking status NHIS              Former smoker 
+  2014-10-26 : Carbon Dioxide                           22.7 mmol/L
+  2014-10-26 : Chloride                                 110.0 mmol/L
+  2014-10-26 : Potassium                                4.7 mmol/L
+  2014-10-26 : Sodium                                   137.2 mmol/L
+  2014-10-26 : Calcium                                  8.7 mg/dL
+  2014-10-26 : Creatinine                               0.6 mg/dL
+  2014-10-26 : Urea Nitrogen                            18.5 mg/dL
+  2014-10-26 : Glucose                                  83.0 mg/dL
+  2014-10-26 : Respiratory rate                         15.0 /min
+  2014-10-26 : Heart rate                               73.0 /min
+  2014-10-26 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2014-10-26 : Body Mass Index                          28.0 kg/m2
+  2014-10-26 : Body Weight                              82.2 kg
+  2014-10-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2014-10-26 : Body Height                              171.3 cm
+  2014-10-26 : FEV1/FVC                                 49.9 %
+  2014-10-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2014-10-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 20012 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             601 Reichert Center 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2014-10-12 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2014-10-12 : Tobacco smoking status NHIS              Former smoker 
+  2014-10-12 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2014-10-12 : Platelet distribution width [Entitic volume] in Blood by Automated count 185.8 fL
+  2014-10-12 : Platelets [#/volume] in Blood by Automated count 328.3 10*3/uL
+  2014-10-12 : Erythrocyte distribution width [Entitic volume] by Automated count 39.4 fL
+  2014-10-12 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2014-10-12 : MCH [Entitic mass] by Automated count    27.1 pg
+  2014-10-12 : MCV [Entitic volume] by Automated count  82.3 fL
+  2014-10-12 : Hematocrit [Volume Fraction] of Blood by Automated count 39.3 %
+  2014-10-12 : Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+  2014-10-12 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2014-10-12 : Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+  2014-10-12 : Carbon Dioxide                           26.2 mmol/L
+  2014-10-12 : Chloride                                 108.1 mmol/L
+  2014-10-12 : Potassium                                4.6 mmol/L
+  2014-10-12 : Sodium                                   140.3 mmol/L
+  2014-10-12 : Calcium                                  9.5 mg/dL
+  2014-10-12 : Creatinine                               0.6 mg/dL
+  2014-10-12 : Urea Nitrogen                            14.4 mg/dL
+  2014-10-12 : Glucose                                  71.0 mg/dL
+  2014-10-12 : Respiratory rate                         15.0 /min
+  2014-10-12 : Heart rate                               91.0 /min
+  2014-10-12 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2014-10-12 : Body Mass Index                          28.0 kg/m2
+  2014-10-12 : Body Weight                              82.2 kg
+  2014-10-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-10-12 : Body Height                              171.3 cm
+  2014-10-12 : FEV1/FVC                                 78.1 %
+  2014-08-02 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 5.6 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 9.1 {score}
+           - What number best describes your pain on average in the past week? 6.2 {score}
+  2014-06-03 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 5.3 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 8.5 {score}
+           - What number best describes your pain on average in the past week? 5.0 {score}
+  2014-04-04 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 9.5 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 3.9 {score}
+           - What number best describes your pain on average in the past week? 4.8 {score}
+  2014-02-04 : Drugs of abuse 5 panel - Urine by Screen method Negative (qualifier value) n/a
+  2014-02-04 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 4.2 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 7.8 {score}
+           - What number best describes your pain on average in the past week? 4.8 {score}
+  2014-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2013-10-06 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2013-10-06 : Total score [HARK]                       0.0 {score}
+  2013-10-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 20012 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             601 Reichert Center 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2013-10-06 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2013-10-06 : Tobacco smoking status NHIS              Former smoker 
+  2013-10-06 : High Density Lipoprotein Cholesterol     63.0 mg/dL
+  2013-10-06 : Low Density Lipoprotein Cholesterol      69.5 mg/dL
+  2013-10-06 : Triglycerides                            142.7 mg/dL
+  2013-10-06 : Total Cholesterol                        161.0 mg/dL
+  2013-10-06 : Carbon Dioxide                           28.4 mmol/L
+  2013-10-06 : Chloride                                 110.7 mmol/L
+  2013-10-06 : Potassium                                3.8 mmol/L
+  2013-10-06 : Sodium                                   138.5 mmol/L
+  2013-10-06 : Calcium                                  8.5 mg/dL
+  2013-10-06 : Creatinine                               0.6 mg/dL
+  2013-10-06 : Urea Nitrogen                            18.8 mg/dL
+  2013-10-06 : Glucose                                  73.1 mg/dL
+  2013-10-06 : Respiratory rate                         12.0 /min
+  2013-10-06 : Heart rate                               75.0 /min
+  2013-10-06 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2013-10-06 : Body Mass Index                          28.0 kg/m2
+  2013-10-06 : Body Weight                              82.2 kg
+  2013-10-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-10-06 : Body Height                              171.3 cm
+  2013-10-06 : FEV1/FVC                                 69.5 %
+  2013-01-27 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2013-01-27 : Total score [HARK]                       0.0 {score}
+  2013-01-27 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? I choose not to answer this question 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 20012 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             601 Reichert Center 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2013-01-27 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2013-01-27 : Tobacco smoking status NHIS              Former smoker 
+  2013-01-27 : Carbon Dioxide                           21.7 mmol/L
+  2013-01-27 : Chloride                                 103.3 mmol/L
+  2013-01-27 : Potassium                                4.2 mmol/L
+  2013-01-27 : Sodium                                   142.4 mmol/L
+  2013-01-27 : Calcium                                  8.6 mg/dL
+  2013-01-27 : Creatinine                               0.8 mg/dL
+  2013-01-27 : Urea Nitrogen                            7.8 mg/dL
+  2013-01-27 : Glucose                                  82.9 mg/dL
+  2013-01-27 : Respiratory rate                         13.0 /min
+  2013-01-27 : Heart rate                               87.0 /min
+  2013-01-27 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2013-01-27 : Body Mass Index                          28.0 kg/m2
+  2013-01-27 : Body Weight                              82.2 kg
+  2013-01-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-01-27 : Body Height                              171.3 cm
+  2012-09-30 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2012-09-30 : Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2012-09-30 : Fall risk total [Morse Fall Scale]       21.0 {#}
+  2012-09-30 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2012-09-30 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 20012 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             601 Reichert Center 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2012-09-30 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2012-09-30 : Tobacco smoking status NHIS              Former smoker 
+  2012-09-30 : Carbon Dioxide                           26.6 mmol/L
+  2012-09-30 : Chloride                                 108.6 mmol/L
+  2012-09-30 : Potassium                                4.7 mmol/L
+  2012-09-30 : Sodium                                   136.3 mmol/L
+  2012-09-30 : Calcium                                  9.6 mg/dL
+  2012-09-30 : Creatinine                               0.6 mg/dL
+  2012-09-30 : Urea Nitrogen                            12.1 mg/dL
+  2012-09-30 : Glucose                                  87.1 mg/dL
+  2012-09-30 : Respiratory rate                         12.0 /min
+  2012-09-30 : Heart rate                               81.0 /min
+  2012-09-30 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2012-09-30 : Body Mass Index                          28.0 kg/m2
+  2012-09-30 : Body Weight                              82.2 kg
+  2012-09-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2012-09-30 : Body Height                              171.3 cm
+  2012-03-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-11-21 : Medication Reconciliation (procedure)
+  2021-11-21 : Assessment of health and social care needs (procedure)
+  2021-11-21 : Pulmonary rehabilitation (regime/therapy) for Chronic obstructive bronchitis (disorder)
+  2021-11-21 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2020-11-15 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-11-15 : Depression screening (procedure)
+  2020-11-15 : Assessment of health and social care needs (procedure)
+  2020-11-15 : Pulmonary rehabilitation (regime/therapy) for Chronic obstructive bronchitis (disorder)
+  2020-11-15 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2020-01-12 : Replacement of contraceptive intrauterine device
+  2019-11-10 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-11-10 : Depression screening (procedure)
+  2019-11-10 : Assessment using Morse Fall Scale (procedure)
+  2019-11-10 : Assessment of health and social care needs (procedure)
+  2019-11-10 : Pulmonary rehabilitation (regime/therapy) for Chronic obstructive bronchitis (disorder)
+  2019-11-10 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2018-11-04 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2018-11-04 : Depression screening (procedure)
+  2018-11-04 : Assessment of anxiety (procedure)
+  2018-11-04 : Medication Reconciliation (procedure)
+  2018-11-04 : Assessment of health and social care needs (procedure)
+  2018-11-04 : Pulmonary rehabilitation (regime/therapy) for Chronic obstructive bronchitis (disorder)
+  2018-11-04 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2017-10-29 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2017-10-29 : Depression screening (procedure)
+  2017-10-29 : Assessment using Morse Fall Scale (procedure)
+  2017-10-29 : Assessment of anxiety (procedure)
+  2017-10-29 : Assessment of health and social care needs (procedure)
+  2017-10-29 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2016-10-23 : Screening for domestic abuse (procedure)
+  2016-10-23 : Assessment of health and social care needs (procedure)
+  2016-10-23 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2016-08-28 : Assessment using Morse Fall Scale (procedure)
+  2016-08-28 : Assessment of anxiety (procedure)
+  2016-08-28 : Assessment of health and social care needs (procedure)
+  2016-08-28 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2015-10-18 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2015-10-18 : Depression screening (procedure)
+  2015-10-18 : Assessment of anxiety (procedure)
+  2015-10-18 : Assessment of health and social care needs (procedure)
+  2015-10-18 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2015-01-11 : Replacement of contraceptive intrauterine device
+  2014-10-26 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2014-10-26 : Depression screening (procedure)
+  2014-10-26 : Assessment using Morse Fall Scale (procedure)
+  2014-10-26 : Assessment of anxiety (procedure)
+  2014-10-26 : Assessment of health and social care needs (procedure)
+  2014-10-26 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2014-10-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2014-10-12 : Depression screening (procedure)
+  2014-10-12 : Assessment of health and social care needs (procedure)
+  2014-10-12 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2013-10-06 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2013-10-06 : Depression screening (procedure)
+  2013-10-06 : Screening for domestic abuse (procedure)
+  2013-10-06 : Assessment of health and social care needs (procedure)
+  2013-10-06 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2013-01-27 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2013-01-27 : Depression screening (procedure)
+  2013-01-27 : Screening for domestic abuse (procedure)
+  2013-01-27 : Medication Reconciliation (procedure)
+  2013-01-27 : Assessment of health and social care needs (procedure)
+  2012-09-30 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2012-09-30 : Depression screening (procedure)
+  2012-09-30 : Assessment using Morse Fall Scale (procedure)
+  2012-09-30 : Assessment of anxiety (procedure)
+  2012-09-30 : Medication Reconciliation (procedure)
+  2012-09-30 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-08-29 : Influenza, seasonal, injectable, preservative free
+  2021-02-28 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-01-31 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2020-11-15 : Influenza, seasonal, injectable, preservative free
+  2019-11-10 : Influenza, seasonal, injectable, preservative free
+  2018-11-04 : Td (adult) preservative free
+  2018-11-04 : Influenza, seasonal, injectable, preservative free
+  2017-10-29 : Influenza, seasonal, injectable, preservative free
+  2016-08-28 : Influenza, seasonal, injectable, preservative free
+  2015-10-18 : Influenza, seasonal, injectable, preservative free
+  2014-09-28 : Influenza, seasonal, injectable, preservative free
+  2013-10-06 : Influenza, seasonal, injectable, preservative free
+  2012-09-30 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-11-16 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2021-11-21 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2021-11-05 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Asthma
+2021-10-17 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2021-08-24 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Viral sinusitis (disorder)
+2021-08-29 (Dr. See Yost) : Encounter at PRIMACARE MEDICAL CENTER - LAKEWOOD
+2021-05-09 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Asthma
+2021-05-08 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Asthma
+2021-02-28 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2021-01-31 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2020-11-15 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2020-05-13 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Asthma
+2020-01-12 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2019-11-08 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2019-11-10 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2019-10-09 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2019-01-21 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2018-11-04 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2018-05-24 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Asthma
+2017-10-29 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2016-11-30 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Asthma
+2016-10-23 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2016-08-25 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Viral sinusitis (disorder)
+2016-08-28 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2016-04-09 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2016-03-10 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2015-10-18 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2015-09-08 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2015-08-09 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2015-07-10 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2015-06-09 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Asthma
+2015-06-10 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2015-05-11 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2015-04-11 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2015-03-15 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY
+2015-03-12 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2015-02-26 (Dr. Giovanni Greenfelder) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL
+2015-01-14 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY
+2015-01-11 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2014-11-15 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY
+2014-10-26 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2014-10-12 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2014-10-05 (Dr. See Yost) : Encounter at PRIMACARE MEDICAL CENTER - LAKEWOOD
+2014-09-26 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Sinusitis (disorder)
+2014-09-28 (Dr. See Yost) : Encounter at PRIMACARE MEDICAL CENTER - LAKEWOOD
+2014-08-02 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY
+2014-06-10 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2014-06-03 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY
+2014-05-11 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2014-04-11 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2014-04-04 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY
+2014-03-12 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2014-02-04 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2014-01-15 (Dr. Giovanni Greenfelder) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL
+2013-12-18 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Drug overdose
+2013-10-06 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2013-06-03 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2013-05-04 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2013-04-04 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2013-01-27 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2013-01-20 (Dr. See Yost) : Encounter at PRIMACARE MEDICAL CENTER - LAKEWOOD
+2013-01-13 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Acute bronchitis (disorder)
+2012-09-30 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2012-03-22 (Dr. Giovanni Greenfelder) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL
+2012-01-19 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Drug overdose
+2011-09-25 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2010-09-19 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2009-09-13 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2008-09-07 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2007-09-02 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2006-08-27 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2005-08-28 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY
+2005-08-21 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2005-06-20 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Acute bronchitis (disorder)
+2005-06-26 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2004-08-15 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2003-08-11 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Asthma
+2003-08-10 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2002-08-01 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2001-07-29 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+2000-07-23 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1999-07-18 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1998-11-15 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Drug overdose
+1998-07-12 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1997-07-06 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1996-06-30 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1995-07-31 (Dr. Giovanni Greenfelder) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL : Encounter for Impacted molars
+1995-06-25 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1995-02-05 (Dr. Giovanni Greenfelder) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL : Encounter for Impacted molars
+1994-12-11 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+1994-06-19 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1994-02-27 (Dr. Giovanni Greenfelder) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL : Encounter for Impacted molars
+1993-06-13 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1993-05-23 (Dr. Giovanni Greenfelder) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL : Encounter for Impacted molars
+1992-12-28 (Dr. Giovanni Greenfelder) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL : Encounter for Impacted molars
+1992-11-21 (Dr. Giovanni Greenfelder) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL : Encounter for Impacted molars
+1992-06-07 (Dr. Giovanni Greenfelder) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL : Encounter for Chronic intractable migraine without aura
+1992-03-03 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Acute bacterial sinusitis (disorder)
+1991-08-15 (Dr. Giovanni Greenfelder) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL : Encounter for Chronic pain
+1991-06-02 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1991-01-05 (Dr. Giovanni Greenfelder) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL : Encounter for Impacted molars
+1990-06-18 (Dr. Giovanni Greenfelder) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL : Encounter for Impacted molars
+1990-06-10 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+1990-05-25 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Acute bronchitis (disorder)
+1990-05-27 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1990-03-22 (Dr. Giovanni Greenfelder) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL : Encounter for Chronic intractable migraine without aura
+1989-05-21 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1988-06-06 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Viral sinusitis (disorder)
+1988-06-05 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+1988-05-15 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1987-05-10 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1986-12-14 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+1986-05-04 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1985-04-28 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1984-04-22 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1983-04-17 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1982-04-11 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Anemia (disorder)
+1982-04-11 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1981-04-05 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1980-03-30 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1979-09-06 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Viral sinusitis (disorder)
+1979-03-25 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1978-03-19 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1977-03-13 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1976-03-07 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1975-03-02 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1974-02-24 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1973-07-22 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+1973-02-18 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1972-02-13 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1971-08-08 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+1971-07-11 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+1971-05-30 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Sinusitis (disorder)
+1971-05-30 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+1971-02-07 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1970-02-01 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1969-01-26 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1968-07-12 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Viral sinusitis (disorder)
+1968-01-21 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1967-01-15 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1966-01-09 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1965-01-03 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1963-12-29 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1962-12-23 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1962-03-04 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+1961-12-17 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1961-10-23 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Viral sinusitis (disorder)
+1960-12-11 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1959-12-06 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1958-11-30 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Normal pregnancy
+1957-11-24 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1957-04-07 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+1956-11-18 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1955-11-13 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1954-11-07 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1953-11-01 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1952-10-26 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1952-05-18 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+1951-10-21 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1950-10-15 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1949-10-09 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1948-10-03 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1947-09-28 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1946-09-22 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1945-09-16 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1944-09-10 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1943-09-19 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+1943-09-05 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1942-08-30 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1942-08-14 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Viral sinusitis (disorder)
+1941-08-24 (Dr. Lawerence Rolfson) : Encounter at PCP261676
+1941-08-05 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Childhood asthma
+1940-05-28 (Dr. Penny Konopelski) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL-ZALE LIPSHY : Encounter for Sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

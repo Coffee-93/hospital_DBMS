@@ -1,0 +1,849 @@
+Sandy Dare
+==========
+Race:                Black
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 51
+Birth Date:          1970-01-05
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-03-04[CURRENT] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2021-03-01[CURRENT] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2021-03-01[CURRENT] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2021-03-01[CURRENT] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2020-03-04[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2020-02-24[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2020-02-24[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2020-02-24[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2019-07-22[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2019-07-22[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2019-07-22[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2019-03-05[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2019-02-18[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2019-02-18[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2019-02-18[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2018-03-05[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2018-02-12[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2018-02-12[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2018-02-12[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2017-04-21[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2017-02-06[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2017-02-06[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2017-02-06[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2016-02-01[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2016-02-01[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2016-02-01[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2015-01-26[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2015-01-26[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+  2015-01-26[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2014-09-29[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2014-07-31[CURRENT] : Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+  2014-04-02[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2014-02-05[STOPPED] : Ibuprofen 400 MG Oral Tablet [Ibu]
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-03-01 -            : Reports of violence in the environment (finding)
+  2021-03-01 -            : Not in labor force (finding)
+  2020-02-24 - 2021-03-01 : Full-time employment (finding)
+  2019-07-22 - 2021-03-01 : Stress (finding)
+  2019-07-22 - 2020-02-24 : Full-time employment (finding)
+  2019-07-11 - 2019-07-19 : Acute viral pharyngitis (disorder)
+  2019-02-18 - 2019-07-22 : Full-time employment (finding)
+  2018-02-12 - 2019-02-18 : Full-time employment (finding)
+  2018-02-12 -            : Hyperlipidemia
+  2017-04-21 - 2017-05-01 : Acute bronchitis (disorder)
+  2017-02-06 - 2018-02-12 : Not in labor force (finding)
+  2016-02-01 - 2017-02-06 : Full-time employment (finding)
+  2015-01-26 - 2021-03-01 : Social isolation (finding)
+  2015-01-26 - 2016-02-01 : Full-time employment (finding)
+  2014-02-05 -            : Chronic neck pain (finding)
+  2014-02-05 -            : Chronic low back pain (finding)
+  2014-01-20 - 2015-01-26 : Full-time employment (finding)
+  2012-01-16 - 2014-01-20 : Social isolation (finding)
+  2012-01-16 - 2014-01-20 : Part-time employment (finding)
+  2011-06-06 - 2012-01-16 : Victim of intimate partner abuse (finding)
+  2011-06-06 - 2012-01-16 : Not in labor force (finding)
+  2010-01-11 - 2012-01-16 : Stress (finding)
+  2010-01-11 -            : Body mass index 30+ - obesity (finding)
+  2004-03-22 - 2007-03-26 : Not in labor force (finding)
+  2001-03-19 - 2007-03-26 : Reports of violence in the environment (finding)
+  1988-02-29 -            : Received certificate of high school equivalency (finding)
+  1988-02-29 -            : Served in armed forces (finding)
+  1976-02-26 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-03-05[CURRENT] : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: low salt diet education
+                         Activity: physical exercise
+  2017-04-21[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2014-04-02[CURRENT] : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavioral therapy (regime/therapy)
+  2011-05-31[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-03-04 : Lipid Panel
+           - Total Cholesterol                        179.1 mg/dL
+           - Triglycerides                            156.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      86.6 mg/dL
+           - High Density Lipoprotein Cholesterol     65.5 mg/dL
+  2021-03-04 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  66.3 mg/dL
+           - Urea Nitrogen                            17.9 mg/dL
+           - Creatinine                               3.4 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   136.8 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 103.1 mmol/L
+           - Carbon Dioxide                           20.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 84.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 68.6 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.7 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.1 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.8 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 51.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 41.1 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 38.0 U/L
+  2021-03-01 : Lipid Panel
+           - Total Cholesterol                        160.2 mg/dL
+           - Triglycerides                            136.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      56.8 mg/dL
+           - High Density Lipoprotein Cholesterol     76.0 mg/dL
+  2020-03-04 : Lipid Panel
+           - Total Cholesterol                        183.1 mg/dL
+           - Triglycerides                            134.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      119.9 mg/dL
+           - High Density Lipoprotein Cholesterol     66.9 mg/dL
+  2020-03-04 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  77.8 mg/dL
+           - Urea Nitrogen                            14.1 mg/dL
+           - Creatinine                               2.6 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   139.5 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 102.9 mmol/L
+           - Carbon Dioxide                           27.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 85.1 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 77.9 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.0 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.2 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.8 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 91.1 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 39.8 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 33.2 U/L
+  2020-02-24 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2020-02-24 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-02-24 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2020-02-24 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2020-02-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.9 %
+           - MCV [Entitic volume] by Automated count  93.5 fL
+           - MCH [Entitic mass] by Automated count    30.1 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.4 fL
+           - Platelets [#/volume] in Blood by Automated count 361.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 153.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2019-07-22 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2019-07-22 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-07-22 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2019-03-05 : Lipid Panel
+           - Total Cholesterol                        163.1 mg/dL
+           - Triglycerides                            106.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      124.0 mg/dL
+           - High Density Lipoprotein Cholesterol     46.9 mg/dL
+  2019-03-05 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  85.2 mg/dL
+           - Urea Nitrogen                            11.0 mg/dL
+           - Creatinine                               3.5 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   139.5 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 101.5 mmol/L
+           - Carbon Dioxide                           27.0 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 84.1 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 74.9 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.6 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.1 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.8 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 92.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 60.0 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 15.6 U/L
+  2019-02-18 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    3.0 {score}
+  2019-02-18 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2018-02-12 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2018-02-12 : Lipid Panel
+           - Total Cholesterol                        190.9 mg/dL
+           - Triglycerides                            115.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      96.5 mg/dL
+           - High Density Lipoprotein Cholesterol     71.5 mg/dL
+  2018-02-12 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  83.9 mg/dL
+           - Urea Nitrogen                            18.6 mg/dL
+           - Creatinine                               3.5 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   136.1 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 105.7 mmol/L
+           - Carbon Dioxide                           20.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 81.2 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 69.8 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.5 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.5 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.7 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 35.1 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 29.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 26.2 U/L
+  2018-02-12 : Lipid Panel
+           - Total Cholesterol                        224.8 mg/dL
+           - Triglycerides                            332.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      129.4 mg/dL
+           - High Density Lipoprotein Cholesterol     49.0 mg/dL
+  2017-02-06 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    3.0 {score}
+  2017-02-06 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2016-02-01 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2016-02-01 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2016-02-01 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2015-01-26 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2015-01-26 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2015-01-26 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2015-01-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.8 %
+           - MCV [Entitic volume] by Automated count  89.0 fL
+           - MCH [Entitic mass] by Automated count    31.7 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.9 fL
+           - Platelets [#/volume] in Blood by Automated count 434.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 157.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2015-01-26 : Lipid Panel
+           - Total Cholesterol                        178.5 mg/dL
+           - Triglycerides                            115.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      85.1 mg/dL
+           - High Density Lipoprotein Cholesterol     70.2 mg/dL
+  2014-01-20 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2014-01-20 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 7.0 {score}
+  2012-01-16 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2012-01-16 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-03-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 709579 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             541 Collins Orchard Apt 15 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2021-03-04 : High Density Lipoprotein Cholesterol     65.5 mg/dL
+  2021-03-04 : Low Density Lipoprotein Cholesterol      86.6 mg/dL
+  2021-03-04 : Triglycerides                            156.3 mg/dL
+  2021-03-04 : Total Cholesterol                        179.1 mg/dL
+  2021-03-04 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 38.0 U/L
+  2021-03-04 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 41.1 U/L
+  2021-03-04 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 51.8 U/L
+  2021-03-04 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.8 mg/dL
+  2021-03-04 : Globulin [Mass/volume] in Serum by calculation 3.1 g/L
+  2021-03-04 : Albumin [Mass/volume] in Serum or Plasma 3.7 g/dL
+  2021-03-04 : Protein [Mass/volume] in Serum or Plasma 68.6 g/dL
+  2021-03-04 : Glomerular filtration rate/1.73 sq M.predicted 84.3 mL/min
+  2021-03-04 : Carbon Dioxide                           20.7 mmol/L
+  2021-03-04 : Chloride                                 103.1 mmol/L
+  2021-03-04 : Potassium                                5.0 mmol/L
+  2021-03-04 : Sodium                                   136.8 mmol/L
+  2021-03-04 : Calcium                                  9.4 mg/dL
+  2021-03-04 : Creatinine                               3.4 mg/dL
+  2021-03-04 : Urea Nitrogen                            17.9 mg/dL
+  2021-03-04 : Glucose                                  66.3 mg/dL
+  2021-03-01 : Tobacco smoking status NHIS              Never smoker 
+  2021-03-01 : High Density Lipoprotein Cholesterol     76.0 mg/dL
+  2021-03-01 : Low Density Lipoprotein Cholesterol      56.8 mg/dL
+  2021-03-01 : Triglycerides                            136.7 mg/dL
+  2021-03-01 : Total Cholesterol                        160.2 mg/dL
+  2021-03-01 : Respiratory rate                         16.0 /min
+  2021-03-01 : Heart rate                               62.0 /min
+  2021-03-01 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2021-03-01 : Body Mass Index                          28.4 kg/m2
+  2021-03-01 : Body Weight                              85.6 kg
+  2021-03-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-03-01 : Body Height                              173.7 cm
+  2020-03-04 : High Density Lipoprotein Cholesterol     66.9 mg/dL
+  2020-03-04 : Low Density Lipoprotein Cholesterol      119.9 mg/dL
+  2020-03-04 : Triglycerides                            134.6 mg/dL
+  2020-03-04 : Total Cholesterol                        183.1 mg/dL
+  2020-03-04 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 33.2 U/L
+  2020-03-04 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 39.8 U/L
+  2020-03-04 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 91.1 U/L
+  2020-03-04 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.8 mg/dL
+  2020-03-04 : Globulin [Mass/volume] in Serum by calculation 3.2 g/L
+  2020-03-04 : Albumin [Mass/volume] in Serum or Plasma 4.0 g/dL
+  2020-03-04 : Protein [Mass/volume] in Serum or Plasma 77.9 g/dL
+  2020-03-04 : Glomerular filtration rate/1.73 sq M.predicted 85.1 mL/min
+  2020-03-04 : Carbon Dioxide                           27.1 mmol/L
+  2020-03-04 : Chloride                                 102.9 mmol/L
+  2020-03-04 : Potassium                                5.2 mmol/L
+  2020-03-04 : Sodium                                   139.5 mmol/L
+  2020-03-04 : Calcium                                  9.7 mg/dL
+  2020-03-04 : Creatinine                               2.6 mg/dL
+  2020-03-04 : Urea Nitrogen                            14.1 mg/dL
+  2020-03-04 : Glucose                                  77.8 mg/dL
+  2020-02-24 : Total score [DAST-10]                    2.0 {score}
+  2020-02-24 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-02-24 : Total score [HARK]                       0.0 {score}
+  2020-02-24 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2020-02-24 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 709579 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             541 Collins Orchard Apt 15 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2020-02-24 : Tobacco smoking status NHIS              Never smoker 
+  2020-02-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2020-02-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 153.3 fL
+  2020-02-24 : Platelets [#/volume] in Blood by Automated count 361.7 10*3/uL
+  2020-02-24 : Erythrocyte distribution width [Entitic volume] by Automated count 41.4 fL
+  2020-02-24 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2020-02-24 : MCH [Entitic mass] by Automated count    30.1 pg
+  2020-02-24 : MCV [Entitic volume] by Automated count  93.5 fL
+  2020-02-24 : Hematocrit [Volume Fraction] of Blood by Automated count 43.9 %
+  2020-02-24 : Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+  2020-02-24 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2020-02-24 : Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+  2020-02-24 : Respiratory rate                         13.0 /min
+  2020-02-24 : Heart rate                               92.0 /min
+  2020-02-24 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2020-02-24 : Body Mass Index                          28.1 kg/m2
+  2020-02-24 : Body Weight                              84.8 kg
+  2020-02-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-02-24 : Body Height                              173.7 cm
+  2019-07-22 : Total score [DAST-10]                    0.0 {score}
+  2019-07-22 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-07-22 : Total score [HARK]                       0.0 {score}
+  2019-07-22 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 709579 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             541 Collins Orchard Apt 15 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2019-07-22 : Tobacco smoking status NHIS              Never smoker 
+  2019-07-22 : Respiratory rate                         14.0 /min
+  2019-07-22 : Heart rate                               98.0 /min
+  2019-07-22 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2019-07-22 : Body Mass Index                          29.5 kg/m2
+  2019-07-22 : Body Weight                              88.9 kg
+  2019-07-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2019-07-22 : Body Height                              173.7 cm
+  2019-07-11 : Body temperature                         37.8 Cel
+  2019-03-05 : High Density Lipoprotein Cholesterol     46.9 mg/dL
+  2019-03-05 : Low Density Lipoprotein Cholesterol      124.0 mg/dL
+  2019-03-05 : Triglycerides                            106.5 mg/dL
+  2019-03-05 : Total Cholesterol                        163.1 mg/dL
+  2019-03-05 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 15.6 U/L
+  2019-03-05 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 60.0 U/L
+  2019-03-05 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 92.8 U/L
+  2019-03-05 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.8 mg/dL
+  2019-03-05 : Globulin [Mass/volume] in Serum by calculation 2.1 g/L
+  2019-03-05 : Albumin [Mass/volume] in Serum or Plasma 3.6 g/dL
+  2019-03-05 : Protein [Mass/volume] in Serum or Plasma 74.9 g/dL
+  2019-03-05 : Glomerular filtration rate/1.73 sq M.predicted 84.1 mL/min
+  2019-03-05 : Carbon Dioxide                           27.0 mmol/L
+  2019-03-05 : Chloride                                 101.5 mmol/L
+  2019-03-05 : Potassium                                4.3 mmol/L
+  2019-03-05 : Sodium                                   139.5 mmol/L
+  2019-03-05 : Calcium                                  9.6 mg/dL
+  2019-03-05 : Creatinine                               3.5 mg/dL
+  2019-03-05 : Urea Nitrogen                            11.0 mg/dL
+  2019-03-05 : Glucose                                  85.2 mg/dL
+  2019-02-18 : Total score [AUDIT-C]                    3.0 {score}
+  2019-02-18 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2019-02-18 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 709579 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             541 Collins Orchard Apt 15 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2019-02-18 : Tobacco smoking status NHIS              Never smoker 
+  2019-02-18 : Respiratory rate                         13.0 /min
+  2019-02-18 : Heart rate                               98.0 /min
+  2019-02-18 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2019-02-18 : Body Mass Index                          30.1 kg/m2
+  2019-02-18 : Body Weight                              90.8 kg
+  2019-02-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-02-18 : Body Height                              173.7 cm
+  2018-02-12 : Total score [HARK]                       0.0 {score}
+  2018-02-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 709579 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             541 Collins Orchard Apt 15 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2018-02-12 : Tobacco smoking status NHIS              Never smoker 
+  2018-02-12 : High Density Lipoprotein Cholesterol     71.5 mg/dL
+  2018-02-12 : Low Density Lipoprotein Cholesterol      96.5 mg/dL
+  2018-02-12 : Triglycerides                            115.0 mg/dL
+  2018-02-12 : Total Cholesterol                        190.9 mg/dL
+  2018-02-12 : Respiratory rate                         12.0 /min
+  2018-02-12 : Heart rate                               87.0 /min
+  2018-02-12 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2018-02-12 : Body Mass Index                          30.1 kg/m2
+  2018-02-12 : Body Weight                              90.8 kg
+  2018-02-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-02-12 : Body Height                              173.7 cm
+  2018-02-12 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 26.2 U/L
+  2018-02-12 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 29.2 U/L
+  2018-02-12 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 35.1 U/L
+  2018-02-12 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.7 mg/dL
+  2018-02-12 : Globulin [Mass/volume] in Serum by calculation 2.5 g/L
+  2018-02-12 : Albumin [Mass/volume] in Serum or Plasma 3.5 g/dL
+  2018-02-12 : Protein [Mass/volume] in Serum or Plasma 69.8 g/dL
+  2018-02-12 : Glomerular filtration rate/1.73 sq M.predicted 81.2 mL/min
+  2018-02-12 : Carbon Dioxide                           20.5 mmol/L
+  2018-02-12 : Chloride                                 105.7 mmol/L
+  2018-02-12 : Potassium                                5.2 mmol/L
+  2018-02-12 : Sodium                                   136.1 mmol/L
+  2018-02-12 : Calcium                                  9.5 mg/dL
+  2018-02-12 : Creatinine                               3.5 mg/dL
+  2018-02-12 : Urea Nitrogen                            18.6 mg/dL
+  2018-02-12 : Glucose                                  83.9 mg/dL
+  2018-02-12 : High Density Lipoprotein Cholesterol     49.0 mg/dL
+  2018-02-12 : Low Density Lipoprotein Cholesterol      129.4 mg/dL
+  2018-02-12 : Triglycerides                            332.7 mg/dL
+  2018-02-12 : Total Cholesterol                        224.8 mg/dL
+  2017-02-06 : Total score [AUDIT-C]                    3.0 {score}
+  2017-02-06 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-02-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 709579 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             541 Collins Orchard Apt 15 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2017-02-06 : Tobacco smoking status NHIS              Never smoker 
+  2017-02-06 : Respiratory rate                         13.0 /min
+  2017-02-06 : Heart rate                               88.0 /min
+  2017-02-06 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2017-02-06 : Body Mass Index                          30.1 kg/m2
+  2017-02-06 : Body Weight                              90.8 kg
+  2017-02-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-02-06 : Body Height                              173.7 cm
+  2016-02-01 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2016-02-01 : Total score [HARK]                       0.0 {score}
+  2016-02-01 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2016-02-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 709579 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             541 Collins Orchard Apt 15 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2016-02-01 : Tobacco smoking status NHIS              Never smoker 
+  2016-02-01 : Respiratory rate                         14.0 /min
+  2016-02-01 : Heart rate                               86.0 /min
+  2016-02-01 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2016-02-01 : Body Mass Index                          30.1 kg/m2
+  2016-02-01 : Body Weight                              90.8 kg
+  2016-02-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-02-01 : Body Height                              173.7 cm
+  2015-01-26 : Total score [AUDIT-C]                    1.0 {score}
+  2015-01-26 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2015-01-26 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2015-01-26 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Clothing 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 709579 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             541 Collins Orchard Apt 15 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2015-01-26 : Tobacco smoking status NHIS              Never smoker 
+  2015-01-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2015-01-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 157.6 fL
+  2015-01-26 : Platelets [#/volume] in Blood by Automated count 434.9 10*3/uL
+  2015-01-26 : Erythrocyte distribution width [Entitic volume] by Automated count 43.9 fL
+  2015-01-26 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2015-01-26 : MCH [Entitic mass] by Automated count    31.7 pg
+  2015-01-26 : MCV [Entitic volume] by Automated count  89.0 fL
+  2015-01-26 : Hematocrit [Volume Fraction] of Blood by Automated count 44.8 %
+  2015-01-26 : Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+  2015-01-26 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2015-01-26 : Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+  2015-01-26 : High Density Lipoprotein Cholesterol     70.2 mg/dL
+  2015-01-26 : Low Density Lipoprotein Cholesterol      85.1 mg/dL
+  2015-01-26 : Triglycerides                            115.8 mg/dL
+  2015-01-26 : Total Cholesterol                        178.5 mg/dL
+  2015-01-26 : Respiratory rate                         14.0 /min
+  2015-01-26 : Heart rate                               71.0 /min
+  2015-01-26 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2015-01-26 : Body Mass Index                          30.1 kg/m2
+  2015-01-26 : Body Weight                              90.8 kg
+  2015-01-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-01-26 : Body Height                              173.7 cm
+  2014-09-29 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 9.5 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 2.7 {score}
+           - What number best describes your pain on average in the past week? 3.4 {score}
+  2014-09-29 : Drugs of abuse 5 panel - Urine by Screen method Negative (qualifier value) n/a
+  2014-07-31 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 7.5 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 6.4 {score}
+           - What number best describes your pain on average in the past week? 7.2 {score}
+  2014-06-01 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 2.3 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 5.1 {score}
+           - What number best describes your pain on average in the past week? 4.0 {score}
+  2014-04-02 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 4.5 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 7.4 {score}
+           - What number best describes your pain on average in the past week? 6.8 {score}
+  2014-02-05 : Drugs of abuse 5 panel - Urine by Screen method Negative (qualifier value) n/a
+  2014-02-05 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 6.8 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 9.1 {score}
+           - What number best describes your pain on average in the past week? 2.8 {score}
+  2014-01-20 : Total score [DAST-10]                    0.0 {score}
+  2014-01-20 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 7.0 {score}
+  2014-01-20 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 709579 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             541 Collins Orchard Apt 15 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2014-01-20 : Tobacco smoking status NHIS              Never smoker 
+  2014-01-20 : Respiratory rate                         14.0 /min
+  2014-01-20 : Heart rate                               90.0 /min
+  2014-01-20 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2014-01-20 : Body Mass Index                          30.1 kg/m2
+  2014-01-20 : Body Weight                              90.8 kg
+  2014-01-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-01-20 : Body Height                              173.7 cm
+  2012-01-16 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2012-01-16 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2012-01-16 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 709579 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             541 Collins Orchard Apt 15 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? Yes 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2012-01-16 : Tobacco smoking status NHIS              Never smoker 
+  2012-01-16 : Respiratory rate                         14.0 /min
+  2012-01-16 : Heart rate                               75.0 /min
+  2012-01-16 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2012-01-16 : Body Mass Index                          30.1 kg/m2
+  2012-01-16 : Body Weight                              90.8 kg
+  2012-01-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-01-16 : Body Height                              173.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-03-01 : Assessment of health and social care needs (procedure)
+  2020-02-24 : Screening for drug abuse (procedure)
+  2020-02-24 : Assessment of substance use (procedure)
+  2020-02-24 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-02-24 : Depression screening (procedure)
+  2020-02-24 : Screening for domestic abuse (procedure)
+  2020-02-24 : Assessment of anxiety (procedure)
+  2020-02-24 : Medication Reconciliation (procedure)
+  2020-02-24 : Assessment of health and social care needs (procedure)
+  2019-07-22 : Screening for drug abuse (procedure)
+  2019-07-22 : Assessment of substance use (procedure)
+  2019-07-22 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-07-22 : Depression screening (procedure)
+  2019-07-22 : Screening for domestic abuse (procedure)
+  2019-07-22 : Assessment of health and social care needs (procedure)
+  2019-02-18 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2019-02-18 : Assessment of substance use (procedure)
+  2019-02-18 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-02-18 : Depression screening (procedure)
+  2019-02-18 : Medication Reconciliation (procedure)
+  2019-02-18 : Assessment of health and social care needs (procedure)
+  2018-02-12 : Screening for domestic abuse (procedure)
+  2018-02-12 : Medication Reconciliation (procedure)
+  2018-02-12 : Assessment of health and social care needs (procedure)
+  2017-02-06 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2017-02-06 : Assessment of substance use (procedure)
+  2017-02-06 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2017-02-06 : Depression screening (procedure)
+  2017-02-06 : Medication Reconciliation (procedure)
+  2017-02-06 : Assessment of health and social care needs (procedure)
+  2016-02-01 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2016-02-01 : Depression screening (procedure)
+  2016-02-01 : Screening for domestic abuse (procedure)
+  2016-02-01 : Assessment of anxiety (procedure)
+  2016-02-01 : Medication Reconciliation (procedure)
+  2016-02-01 : Assessment of health and social care needs (procedure)
+  2015-01-26 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2015-01-26 : Assessment of substance use (procedure)
+  2015-01-26 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2015-01-26 : Depression screening (procedure)
+  2015-01-26 : Assessment of anxiety (procedure)
+  2015-01-26 : Medication Reconciliation (procedure)
+  2015-01-26 : Assessment of health and social care needs (procedure)
+  2014-01-20 : Screening for drug abuse (procedure)
+  2014-01-20 : Assessment of substance use (procedure)
+  2014-01-20 : Assessment of anxiety (procedure)
+  2014-01-20 : Assessment of health and social care needs (procedure)
+  2012-01-16 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2012-01-16 : Depression screening (procedure)
+  2012-01-16 : Assessment of anxiety (procedure)
+  2012-01-16 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-11-08 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-03-01 : Td (adult) preservative free
+  2021-03-01 : Influenza, seasonal, injectable, preservative free
+  2021-03-01 : zoster
+  2020-02-24 : zoster
+  2019-07-22 : Influenza, seasonal, injectable, preservative free
+  2019-02-18 : Influenza, seasonal, injectable, preservative free
+  2018-02-12 : Influenza, seasonal, injectable, preservative free
+  2017-02-06 : Influenza, seasonal, injectable, preservative free
+  2016-02-01 : Influenza, seasonal, injectable, preservative free
+  2015-01-26 : Influenza, seasonal, injectable, preservative free
+  2014-01-20 : Influenza, seasonal, injectable, preservative free
+  2012-01-16 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-11-08 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2021-03-04 (Dr. Drema Boehm) : Encounter at Dallas Vet Center : Encounter for Hyperlipidemia
+2021-03-01 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2020-03-04 (Dr. Drema Boehm) : Encounter at Dallas Vet Center : Encounter for Hyperlipidemia
+2020-02-24 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2019-07-22 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2019-07-11 (Dr. Drema Boehm) : Encounter at Dallas Vet Center : Encounter for Acute viral pharyngitis (disorder)
+2019-03-05 (Dr. Drema Boehm) : Encounter at Dallas Vet Center : Encounter for Hyperlipidemia
+2019-02-18 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2018-03-05 (Dr. Drema Boehm) : Encounter at Dallas Vet Center : Encounter for Hyperlipidemia
+2018-02-12 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2017-05-01 (Dr. Else Stark) : Encounter at PRIMACARE MEDICAL CENTER - NORTHWEST DALLAS
+2017-04-21 (Dr. Drema Boehm) : Encounter at Dallas Vet Center : Encounter for Acute bronchitis (disorder)
+2017-02-06 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2016-02-01 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2015-01-26 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2014-09-29 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2014-07-31 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2014-06-01 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2014-04-02 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2014-02-05 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2014-01-20 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2012-01-16 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2011-05-31 (Dr. Drema Boehm) : Encounter at Dallas Vet Center : Encounter for Acute bronchitis (disorder)
+2010-01-11 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2004-03-22 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+2001-03-19 (Dr. Drema Boehm) : Encounter at Dallas Vet Center
+1988-02-29 (Dr. See Wuckert) : Encounter at PCP123576
+1976-02-26 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Acute bacterial sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

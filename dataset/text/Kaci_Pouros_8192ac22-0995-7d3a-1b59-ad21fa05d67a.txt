@@ -1,0 +1,466 @@
+Kaci Pouros
+===========
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 22
+Birth Date:          1999-07-14
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-02-03[CURRENT] : Jolivette 28 Day Pack
+  2019-06-12[STOPPED] : Trinessa 28 Day Pack
+  2018-06-17[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+  2017-06-22[STOPPED] : Jolivette 28 Day Pack
+  2015-07-26[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2015-07-03[STOPPED] : Yaz 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-09-15 -            : Misuses drugs (finding)
+  2021-09-15 -            : Stress (finding)
+  2021-09-15 -            : Full-time employment (finding)
+  2021-09-15 -            : Prediabetes
+  2020-10-25 - 2020-11-01 : Acute viral pharyngitis (disorder)
+  2020-05-20 - 2020-12-16 : Anemia (disorder)
+  2020-05-20 - 2020-12-16 : Normal pregnancy
+  2018-09-12 -            : Transport problems (finding)
+  2018-09-12 - 2021-09-15 : Full-time employment (finding)
+  2017-09-06 - 2018-09-12 : Stress (finding)
+  2017-09-06 - 2021-09-15 : Limited social contact (finding)
+  2017-09-06 -            : Lack of access to transportation (finding)
+  2017-09-06 - 2018-09-12 : Part-time employment (finding)
+  2017-09-06 -            : Received certificate of high school equivalency (finding)
+  2017-09-06 -            : Housing unsatisfactory (finding)
+  2015-07-26 - 2015-08-15 : Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-09-15[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2020-05-20[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2015-07-26[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2011-07-27[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-09-15 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    6.0 {score}
+  2021-09-15 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-09-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.9 %
+           - MCV [Entitic volume] by Automated count  84.0 fL
+           - MCH [Entitic mass] by Automated count    27.6 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+           - Platelets [#/volume] in Blood by Automated count 382.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 223.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2020-05-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        11.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood    34.1 %
+           - WBC Auto (Bld) [#/Vol]                   6.6 10*3/uL
+           - RBC Auto (Bld) [#/Vol]                   4.7 10*6/uL
+           - MCV [Entitic volume] by Automated count  90.5 fL
+           - MCH [Entitic mass] by Automated count    31.6 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 43.2 fL
+           - Platelets [#/volume] in Blood by Automated count 229.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 439.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2018-09-12 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2018-09-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2018-09-12 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2017-09-06 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2017-09-06 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2016-08-31 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2016-08-31 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2015-08-26 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2015-08-26 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2015-08-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.6 %
+           - MCV [Entitic volume] by Automated count  91.0 fL
+           - MCH [Entitic mass] by Automated count    32.0 pg
+           - MCHC [Mass/volume] by Automated count    36.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+           - Platelets [#/volume] in Blood by Automated count 366.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 387.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2014-08-20 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2013-08-14 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2012-08-08 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-09-15 : Total score [DAST-10]                    6.0 {score}
+  2021-09-15 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-09-15 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 69996 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             780 Mertz Burg 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 7.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-09-15 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2021-09-15 : Tobacco smoking status NHIS              Never smoker 
+  2021-09-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2021-09-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 223.7 fL
+  2021-09-15 : Platelets [#/volume] in Blood by Automated count 382.4 10*3/uL
+  2021-09-15 : Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+  2021-09-15 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  2021-09-15 : MCH [Entitic mass] by Automated count    27.6 pg
+  2021-09-15 : MCV [Entitic volume] by Automated count  84.0 fL
+  2021-09-15 : Hematocrit [Volume Fraction] of Blood by Automated count 49.9 %
+  2021-09-15 : Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+  2021-09-15 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2021-09-15 : Leukocytes [#/volume] in Blood by Automated count 5.9 10*3/uL
+  2021-09-15 : Respiratory rate                         16.0 /min
+  2021-09-15 : Heart rate                               92.0 /min
+  2021-09-15 : Blood Pressure
+           - Diastolic Blood Pressure                 89.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2021-09-15 : Body Mass Index                          23.2 kg/m2
+  2021-09-15 : Body Weight                              62.1 kg
+  2021-09-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-09-15 : Body Height                              163.5 cm
+  2020-10-25 : Body temperature                         37.3 Cel
+  2020-05-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2020-05-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 439.9 fL
+  2020-05-20 : Platelets [#/volume] in Blood by Automated count 229.7 10*3/uL
+  2020-05-20 : RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 43.2 fL
+  2020-05-20 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  2020-05-20 : MCH [Entitic mass] by Automated count    31.6 pg
+  2020-05-20 : MCV [Entitic volume] by Automated count  90.5 fL
+  2020-05-20 : RBC Auto (Bld) [#/Vol]                   4.7 10*6/uL
+  2020-05-20 : WBC Auto (Bld) [#/Vol]                   6.6 10*3/uL
+  2020-05-20 : Hematocrit [Volume Fraction] of Blood    34.1 %
+  2020-05-20 : Hemoglobin [Mass/volume] in Blood        11.4 g/dL
+  2018-09-12 : Total score [DAST-10]                    2.0 {score}
+  2018-09-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2018-09-12 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2018-09-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 69996 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             780 Mertz Burg 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 7.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2018-09-12 : Tobacco smoking status NHIS              Never smoker 
+  2018-09-12 : Respiratory rate                         13.0 /min
+  2018-09-12 : Heart rate                               92.0 /min
+  2018-09-12 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2018-09-12 : Body mass index (BMI) [Percentile] Per age and gender 49.0 %
+  2018-09-12 : Body Mass Index                          21.5 kg/m2
+  2018-09-12 : Body Weight                              57.4 kg
+  2018-09-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-09-12 : Body Height                              163.4 cm
+  2017-09-06 : Total score [DAST-10]                    0.0 {score}
+  2017-09-06 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2017-09-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 69996 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             780 Mertz Burg 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 7.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2017-09-06 : Tobacco smoking status NHIS              Never smoker 
+  2017-09-06 : Respiratory rate                         16.0 /min
+  2017-09-06 : Heart rate                               99.0 /min
+  2017-09-06 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2017-09-06 : Body mass index (BMI) [Percentile] Per age and gender 51.3 %
+  2017-09-06 : Body Mass Index                          21.4 kg/m2
+  2017-09-06 : Body Weight                              57.1 kg
+  2017-09-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-09-06 : Body Height                              163.3 cm
+  2016-08-31 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2016-08-31 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2016-08-31 : Tobacco smoking status NHIS              Never smoker 
+  2016-08-31 : Respiratory rate                         13.0 /min
+  2016-08-31 : Heart rate                               90.0 /min
+  2016-08-31 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  2016-08-31 : Body mass index (BMI) [Percentile] Per age and gender 56.5 %
+  2016-08-31 : Body Mass Index                          21.5 kg/m2
+  2016-08-31 : Body Weight                              57.1 kg
+  2016-08-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-08-31 : Body Height                              163.1 cm
+  2015-08-26 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2015-08-26 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2015-08-26 : Tobacco smoking status NHIS              Never smoker 
+  2015-08-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2015-08-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 387.8 fL
+  2015-08-26 : Platelets [#/volume] in Blood by Automated count 366.8 10*3/uL
+  2015-08-26 : Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+  2015-08-26 : MCHC [Mass/volume] by Automated count    36.0 g/dL
+  2015-08-26 : MCH [Entitic mass] by Automated count    32.0 pg
+  2015-08-26 : MCV [Entitic volume] by Automated count  91.0 fL
+  2015-08-26 : Hematocrit [Volume Fraction] of Blood by Automated count 40.6 %
+  2015-08-26 : Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+  2015-08-26 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2015-08-26 : Leukocytes [#/volume] in Blood by Automated count 5.9 10*3/uL
+  2015-08-26 : Respiratory rate                         12.0 /min
+  2015-08-26 : Heart rate                               63.0 /min
+  2015-08-26 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  138.0 mm[Hg]
+  2015-08-26 : Body mass index (BMI) [Percentile] Per age and gender 70.4 %
+  2015-08-26 : Body Mass Index                          22.4 kg/m2
+  2015-08-26 : Body Weight                              59.3 kg
+  2015-08-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-08-26 : Body Height                              162.8 cm
+  2014-08-20 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2014-08-20 : Tobacco smoking status NHIS              Never smoker 
+  2014-08-20 : Respiratory rate                         13.0 /min
+  2014-08-20 : Heart rate                               94.0 /min
+  2014-08-20 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2014-08-20 : Body mass index (BMI) [Percentile] Per age and gender 75.4 %
+  2014-08-20 : Body Mass Index                          22.4 kg/m2
+  2014-08-20 : Body Weight                              59.0 kg
+  2014-08-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-08-20 : Body Height                              162.1 cm
+  2013-08-14 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2013-08-14 : Tobacco smoking status NHIS              Never smoker 
+  2013-08-14 : Respiratory rate                         14.0 /min
+  2013-08-14 : Heart rate                               81.0 /min
+  2013-08-14 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2013-08-14 : Body mass index (BMI) [Percentile] Per age and gender 73.5 %
+  2013-08-14 : Body Mass Index                          21.6 kg/m2
+  2013-08-14 : Body Weight                              55.7 kg
+  2013-08-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-08-14 : Body Height                              160.8 cm
+  2012-08-08 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2012-08-08 : Tobacco smoking status NHIS              Never smoker 
+  2012-08-08 : Respiratory rate                         16.0 /min
+  2012-08-08 : Heart rate                               99.0 /min
+  2012-08-08 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2012-08-08 : Body mass index (BMI) [Percentile] Per age and gender 82.5 %
+  2012-08-08 : Body Mass Index                          22.1 kg/m2
+  2012-08-08 : Body Weight                              54.8 kg
+  2012-08-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2012-08-08 : Body Height                              157.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-09-15 : Screening for drug abuse (procedure)
+  2021-09-15 : Assessment of substance use (procedure)
+  2021-09-15 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-09-15 : Depression screening (procedure)
+  2021-09-15 : Assessment of health and social care needs (procedure)
+  2021-01-27 : Depression screening
+  2021-01-27 : Physical examination following birth
+  2020-12-16 : Childbirth for Normal pregnancy
+  2020-12-16 : Medical induction of labor for Normal pregnancy
+  2020-12-02 : Auscultation of the fetal heart for Normal pregnancy
+  2020-12-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-12-02 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2020-11-04 : Auscultation of the fetal heart for Normal pregnancy
+  2020-11-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-10-07 : Auscultation of the fetal heart for Normal pregnancy
+  2020-10-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-10-07 : Urine screening for glucose for Normal pregnancy
+  2020-10-07 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2020-10-07 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2020-09-09 : Auscultation of the fetal heart for Normal pregnancy
+  2020-09-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-08-12 : Auscultation of the fetal heart for Normal pregnancy
+  2020-08-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-07-15 : Auscultation of the fetal heart for Normal pregnancy
+  2020-07-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-07-15 : Alpha-fetoprotein test for Normal pregnancy
+  2020-07-15 : Fetal anatomy study for Normal pregnancy
+  2020-06-17 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2020-06-17 : Auscultation of the fetal heart for Normal pregnancy
+  2020-06-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-05-20 : Brief general examination (procedure)
+  2020-05-20 : Medication Reconciliation (procedure)
+  2020-05-20 : Review of systems (procedure)
+  2020-05-20 : Peripheral blood smear interpretation
+  2020-05-20 : Physical examination of mother for Normal pregnancy
+  2020-05-20 : Urine protein test for Normal pregnancy
+  2020-05-20 : Skin test for tuberculosis for Normal pregnancy
+  2020-05-20 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2020-05-20 : Rubella screening for Normal pregnancy
+  2020-05-20 : Hepatitis C antibody test for Normal pregnancy
+  2020-05-20 : Urine screening test for diabetes for Normal pregnancy
+  2020-05-20 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2020-05-20 : Urine culture for Normal pregnancy
+  2020-05-20 : Syphilis infection test for Normal pregnancy
+  2020-05-20 : Gonorrhea infection test for Normal pregnancy
+  2020-05-20 : Chlamydia antigen test for Normal pregnancy
+  2020-05-20 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2020-05-20 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2020-05-20 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2020-05-20 : Blood typing, RH typing for Normal pregnancy
+  2020-05-20 : Auscultation of the fetal heart for Normal pregnancy
+  2020-05-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-05-20 : Ultrasound scan for fetal viability for Normal pregnancy
+  2020-05-20 : Standard pregnancy test for Normal pregnancy
+  2018-09-12 : Screening for drug abuse (procedure)
+  2018-09-12 : Assessment of substance use (procedure)
+  2018-09-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2018-09-12 : Depression screening (procedure)
+  2018-09-12 : Assessment of anxiety (procedure)
+  2018-09-12 : Assessment of health and social care needs (procedure)
+  2017-09-06 : Screening for drug abuse (procedure)
+  2017-09-06 : Assessment of substance use (procedure)
+  2017-09-06 : Assessment of anxiety (procedure)
+  2017-09-06 : Medication Reconciliation (procedure)
+  2017-09-06 : Assessment of health and social care needs (procedure)
+  2016-08-31 : Anticipatory guidance (procedure)
+  2016-08-31 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2016-08-31 : Assessment of substance use (procedure)
+  2016-08-31 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2016-08-31 : Depression screening (procedure)
+  2016-08-31 : Assessment of anxiety (procedure)
+  2015-08-26 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2015-08-26 : Depression screening (procedure)
+  2015-08-26 : Medication Reconciliation (procedure)
+  2015-08-26 : Assessment of anxiety (procedure)
+  2014-08-20 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2014-08-20 : Medication Reconciliation (procedure)
+  2014-08-20 : Depression screening (procedure)
+  2013-08-14 : Anticipatory guidance (procedure)
+  2013-08-14 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2013-08-14 : Assessment of substance use (procedure)
+  2013-08-14 : Assessment of anxiety (procedure)
+  2012-08-08 : Anticipatory guidance (procedure)
+  2012-08-08 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2012-08-08 : Assessment of substance use (procedure)
+  2012-08-08 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2012-08-08 : Depression screening (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-11-03 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-10-13 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-09-15 : meningococcal MCV4P
+  2021-09-15 : Hep B, adult
+  2021-09-15 : Td (adult) preservative free
+  2021-09-15 : Influenza, seasonal, injectable, preservative free
+  2018-09-12 : Influenza, seasonal, injectable, preservative free
+  2017-09-06 : Influenza, seasonal, injectable, preservative free
+  2016-08-31 : Influenza, seasonal, injectable, preservative free
+  2015-08-26 : meningococcal MCV4P
+  2015-08-26 : Influenza, seasonal, injectable, preservative free
+  2014-08-20 : Influenza, seasonal, injectable, preservative free
+  2013-08-14 : Influenza, seasonal, injectable, preservative free
+  2012-08-08 : HPV, quadrivalent
+  2012-08-08 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-11-03 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2021-10-13 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2021-09-15 (Dr. Jame Hamill) : Encounter at ALLIED ANESTHESIA AND PAIN MANAGEMENT CONSULTANTS, L.L.P.
+2021-02-03 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2021-01-27 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER
+2020-12-16 (Dr. John Bode) : Encounter at METHODIST CHARLTON MEDICAL CENTER : Encounter for Normal pregnancy
+2020-12-02 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER : Encounter for Normal pregnancy
+2020-11-04 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER : Encounter for Normal pregnancy
+2020-10-25 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER : Encounter for Acute viral pharyngitis (disorder)
+2020-10-07 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER : Encounter for Normal pregnancy
+2020-09-09 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER : Encounter for Normal pregnancy
+2020-08-12 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER : Encounter for Normal pregnancy
+2020-07-15 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER : Encounter for Normal pregnancy
+2020-06-17 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER : Encounter for Normal pregnancy
+2020-05-20 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER : Encounter for Anemia (disorder)
+2020-05-20 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER : Encounter for Normal pregnancy
+2019-06-12 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2018-09-12 (Dr. Jame Hamill) : Encounter at ALLIED ANESTHESIA AND PAIN MANAGEMENT CONSULTANTS, L.L.P.
+2018-06-17 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2017-09-06 (Dr. Jame Hamill) : Encounter at ALLIED ANESTHESIA AND PAIN MANAGEMENT CONSULTANTS, L.L.P.
+2017-06-22 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2016-08-31 (Dr. Jame Hamill) : Encounter at ALLIED ANESTHESIA AND PAIN MANAGEMENT CONSULTANTS, L.L.P.
+2015-08-26 (Dr. Jame Hamill) : Encounter at ALLIED ANESTHESIA AND PAIN MANAGEMENT CONSULTANTS, L.L.P.
+2015-07-26 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER : Encounter for Acute bronchitis (disorder)
+2015-07-03 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2014-08-20 (Dr. Jame Hamill) : Encounter at ALLIED ANESTHESIA AND PAIN MANAGEMENT CONSULTANTS, L.L.P.
+2013-08-14 (Dr. Jame Hamill) : Encounter at ALLIED ANESTHESIA AND PAIN MANAGEMENT CONSULTANTS, L.L.P.
+2012-08-08 (Dr. Jame Hamill) : Encounter at ALLIED ANESTHESIA AND PAIN MANAGEMENT CONSULTANTS, L.L.P.
+2011-07-27 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER : Encounter for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

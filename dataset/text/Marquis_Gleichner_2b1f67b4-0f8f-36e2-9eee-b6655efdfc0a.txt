@@ -1,0 +1,675 @@
+Marquis Gleichner
+=================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 17
+Birth Date:          2003-12-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-11-01[CURRENT] : Ibuprofen 200 MG Oral Tablet
+  2017-08-15[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2016-06-25[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2013-05-11[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2009-08-02[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2009-07-30[CURRENT] : cetirizine hydrochloride 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-11-01 -            : Sprain of ankle
+  2021-06-16 - 2021-06-24 : Acute viral pharyngitis (disorder)
+  2020-01-30 - 2021-02-04 : Risk activity involvement (finding)
+  2017-08-15 - 2017-08-26 : Acute bronchitis (disorder)
+  2016-06-25 - 2016-07-09 : Streptococcal sore throat (disorder)
+  2016-02-12 - 2016-02-24 : Acute viral pharyngitis (disorder)
+  2015-03-14 -            : Child attention deficit disorder
+  2013-05-11 - 2013-05-25 : Streptococcal sore throat (disorder)
+  2010-02-19 -            : History of appendectomy
+  2010-02-19 -            : Appendicitis
+  2010-02-19 -            : Rupture of appendix
+  2009-07-30 -            : Seasonal allergic rhinitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-11-01[CURRENT] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2017-08-15[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2016-12-22[STOPPED] : Allergic disorder monitoring
+                         Activity: Hyposensitization to allergens (procedure)
+  2015-03-14[CURRENT] : Overactivity/inattention behavior management
+                         Reason: Child attention deficit disorder
+                         Activity: Counseling
+                         Activity: Psychological assessment
+  2009-08-02[CURRENT] : Self-care interventions (procedure)
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-07-01 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2021-02-04 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2020-01-30 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2020-01-30 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.3 %
+           - MCV [Entitic volume] by Automated count  87.9 fL
+           - MCH [Entitic mass] by Automated count    27.1 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+           - Platelets [#/volume] in Blood by Automated count 324.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 223.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2019-01-24 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2018-01-18 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2017-01-12 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2017-01-12 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 12.0 {score}
+  2016-07-07 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2016-01-07 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2015-01-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.0 %
+           - MCV [Entitic volume] by Automated count  88.5 fL
+           - MCH [Entitic mass] by Automated count    33.0 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+           - Platelets [#/volume] in Blood by Automated count 182.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 334.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-07-01 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2021-07-01 : Tobacco smoking status NHIS              Never smoker 
+  2021-07-01 : Respiratory rate                         14.0 /min
+  2021-07-01 : Heart rate                               75.0 /min
+  2021-07-01 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2021-07-01 : Body mass index (BMI) [Percentile] Per age and gender 90.9 %
+  2021-07-01 : Body Mass Index                          26.8 kg/m2
+  2021-07-01 : Body Weight                              75.5 kg
+  2021-07-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-07-01 : Body Height                              168.0 cm
+  2021-06-16 : Body temperature                         37.4 Cel
+  2021-02-04 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2021-02-04 : Tobacco smoking status NHIS              Never smoker 
+  2021-02-04 : Respiratory rate                         15.0 /min
+  2021-02-04 : Heart rate                               74.0 /min
+  2021-02-04 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2021-02-04 : Body mass index (BMI) [Percentile] Per age and gender 84.8 %
+  2021-02-04 : Body Mass Index                          25.0 kg/m2
+  2021-02-04 : Body Weight                              70.0 kg
+  2021-02-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-02-04 : Body Height                              167.5 cm
+  2020-12-07 : Latex IgE Ab in Serum                    0.2 kU/L
+  2020-12-07 : Honey bee IgE Ab in Serum                0.0 kU/L
+  2020-12-07 : Cladosporium herbarum IgE Ab in Serum    0.1 kU/L
+  2020-12-07 : American house dust mite IgE Ab in Serum 0.3 kU/L
+  2020-12-07 : Cat dander IgE Ab in Serum               0.3 kU/L
+  2020-12-07 : Common Ragweed IgE Ab in Serum           0.0 kU/L
+  2020-12-07 : White oak IgE Ab in Serum                0.2 kU/L
+  2020-12-07 : Cow milk IgE Ab in Serum                 0.2 kU/L
+  2020-12-07 : Soybean IgE Ab in Serum                  0.2 kU/L
+  2020-12-07 : Egg white IgE Ab in Serum                0.0 kU/L
+  2020-12-07 : Wheat IgE Ab in Serum                    0.3 kU/L
+  2020-12-07 : Shrimp IgE Ab in Serum                   0.1 kU/L
+  2020-12-07 : Codfish IgE Ab in Serum                  0.3 kU/L
+  2020-12-07 : Walnut IgE Ab in Serum                   0.3 kU/L
+  2020-12-07 : Peanut IgE Ab in Serum                   0.1 kU/L
+  2020-01-30 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2020-01-30 : Tobacco smoking status NHIS              Never smoker 
+  2020-01-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2020-01-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 223.6 fL
+  2020-01-30 : Platelets [#/volume] in Blood by Automated count 324.3 10*3/uL
+  2020-01-30 : Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+  2020-01-30 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2020-01-30 : MCH [Entitic mass] by Automated count    27.1 pg
+  2020-01-30 : MCV [Entitic volume] by Automated count  87.9 fL
+  2020-01-30 : Hematocrit [Volume Fraction] of Blood by Automated count 40.3 %
+  2020-01-30 : Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+  2020-01-30 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2020-01-30 : Leukocytes [#/volume] in Blood by Automated count 7.2 10*3/uL
+  2020-01-30 : Respiratory rate                         16.0 /min
+  2020-01-30 : Heart rate                               75.0 /min
+  2020-01-30 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2020-01-30 : Body mass index (BMI) [Percentile] Per age and gender 76.4 %
+  2020-01-30 : Body Mass Index                          23.0 kg/m2
+  2020-01-30 : Body Weight                              62.9 kg
+  2020-01-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-01-30 : Body Height                              165.5 cm
+  2019-05-13 : History of Hospitalizations+Outpatient visits 6.9 {count}
+  2019-05-13 : Are you covered by health insurance or some other kind of health care plan [PhenX] No {nominal}
+  2019-05-13 : Housing status                           Patient is homeless {nominal}
+  2019-05-13 : Abuse Status [OMAHA]                     No signs/symptoms {nominal}
+  2019-05-13 : HIV status                               not HIV positive {nominal}
+  2019-05-13 : Sexual orientation                       heterosexual {nominal}
+  2019-04-13 : History of Hospitalizations+Outpatient visits 2.1 {count}
+  2019-04-13 : Are you covered by health insurance or some other kind of health care plan [PhenX] No {nominal}
+  2019-04-13 : Housing status                           Patient is homeless {nominal}
+  2019-04-13 : Abuse Status [OMAHA]                     Severe signs/symptoms {nominal}
+  2019-04-13 : HIV status                               not HIV positive {nominal}
+  2019-04-13 : Sexual orientation                       heterosexual {nominal}
+  2019-01-24 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2019-01-24 : Tobacco smoking status NHIS              Never smoker 
+  2019-01-24 : Respiratory rate                         13.0 /min
+  2019-01-24 : Heart rate                               99.0 /min
+  2019-01-24 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2019-01-24 : Body mass index (BMI) [Percentile] Per age and gender 71.9 %
+  2019-01-24 : Body Mass Index                          21.7 kg/m2
+  2019-01-24 : Body Weight                              56.8 kg
+  2019-01-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-01-24 : Body Height                              161.8 cm
+  2018-01-18 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2018-01-18 : Tobacco smoking status NHIS              Never smoker 
+  2018-01-18 : Respiratory rate                         13.0 /min
+  2018-01-18 : Heart rate                               69.0 /min
+  2018-01-18 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2018-01-18 : Body mass index (BMI) [Percentile] Per age and gender 62.7 %
+  2018-01-18 : Body Mass Index                          20.1 kg/m2
+  2018-01-18 : Body Weight                              48.9 kg
+  2018-01-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-01-18 : Body Height                              155.9 cm
+  2017-01-12 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2017-01-12 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 12.0 {score}
+  2017-01-12 : Tobacco smoking status NHIS              Never smoker 
+  2017-01-12 : Respiratory rate                         15.0 /min
+  2017-01-12 : Heart rate                               82.0 /min
+  2017-01-12 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2017-01-12 : Body mass index (BMI) [Percentile] Per age and gender 68.5 %
+  2017-01-12 : Body Mass Index                          19.8 kg/m2
+  2017-01-12 : Body Weight                              43.4 kg
+  2017-01-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2017-01-12 : Body Height                              147.9 cm
+  2016-12-22 : Latex IgE Ab in Serum                    0.1 kU/L
+  2016-12-22 : Honey bee IgE Ab in Serum                0.2 kU/L
+  2016-12-22 : Cladosporium herbarum IgE Ab in Serum    0.3 kU/L
+  2016-12-22 : American house dust mite IgE Ab in Serum 0.3 kU/L
+  2016-12-22 : Cat dander IgE Ab in Serum               0.2 kU/L
+  2016-12-22 : Common Ragweed IgE Ab in Serum           0.2 kU/L
+  2016-12-22 : White oak IgE Ab in Serum                0.1 kU/L
+  2016-12-22 : Cow milk IgE Ab in Serum                 0.2 kU/L
+  2016-12-22 : Soybean IgE Ab in Serum                  0.0 kU/L
+  2016-12-22 : Egg white IgE Ab in Serum                0.2 kU/L
+  2016-12-22 : Wheat IgE Ab in Serum                    0.3 kU/L
+  2016-12-22 : Shrimp IgE Ab in Serum                   0.2 kU/L
+  2016-12-22 : Codfish IgE Ab in Serum                  0.2 kU/L
+  2016-12-22 : Walnut IgE Ab in Serum                   0.3 kU/L
+  2016-12-22 : Peanut IgE Ab in Serum                   0.3 kU/L
+  2016-07-07 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2016-07-07 : Tobacco smoking status NHIS              Never smoker 
+  2016-07-07 : Respiratory rate                         15.0 /min
+  2016-07-07 : Heart rate                               62.0 /min
+  2016-07-07 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2016-07-07 : Body mass index (BMI) [Percentile] Per age and gender 74.4 %
+  2016-07-07 : Body Mass Index                          20.0 kg/m2
+  2016-07-07 : Body Weight                              41.7 kg
+  2016-07-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-07-07 : Body Height                              144.5 cm
+  2016-06-25 : Body temperature                         38.8 Cel
+  2016-02-12 : Body temperature                         37.0 Cel
+  2016-01-07 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2016-01-07 : Tobacco smoking status NHIS              Never smoker 
+  2016-01-07 : Respiratory rate                         15.0 /min
+  2016-01-07 : Heart rate                               99.0 /min
+  2016-01-07 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2016-01-07 : Body mass index (BMI) [Percentile] Per age and gender 79.6 %
+  2016-01-07 : Body Mass Index                          20.2 kg/m2
+  2016-01-07 : Body Weight                              40.4 kg
+  2016-01-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-01-07 : Body Height                              141.4 cm
+  2015-01-01 : Tobacco smoking status NHIS              Never smoker 
+  2015-01-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2015-01-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 334.4 fL
+  2015-01-01 : Platelets [#/volume] in Blood by Automated count 182.1 10*3/uL
+  2015-01-01 : Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+  2015-01-01 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2015-01-01 : MCH [Entitic mass] by Automated count    33.0 pg
+  2015-01-01 : MCV [Entitic volume] by Automated count  88.5 fL
+  2015-01-01 : Hematocrit [Volume Fraction] of Blood by Automated count 37.0 %
+  2015-01-01 : Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+  2015-01-01 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2015-01-01 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  2015-01-01 : Respiratory rate                         15.0 /min
+  2015-01-01 : Heart rate                               83.0 /min
+  2015-01-01 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2015-01-01 : Body mass index (BMI) [Percentile] Per age and gender 71.9 %
+  2015-01-01 : Body Mass Index                          18.7 kg/m2
+  2015-01-01 : Body Weight                              34.6 kg
+  2015-01-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-01-01 : Body Height                              136.2 cm
+  2013-12-26 : Tobacco smoking status NHIS              Never smoker 
+  2013-12-26 : Respiratory rate                         12.0 /min
+  2013-12-26 : Heart rate                               90.0 /min
+  2013-12-26 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2013-12-26 : Body mass index (BMI) [Percentile] Per age and gender 71.4 %
+  2013-12-26 : Body Mass Index                          18.0 kg/m2
+  2013-12-26 : Body Weight                              31.2 kg
+  2013-12-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-12-26 : Body Height                              131.8 cm
+  2013-05-30 : Tobacco smoking status NHIS              Never smoker 
+  2013-05-30 : Respiratory rate                         13.0 /min
+  2013-05-30 : Heart rate                               60.0 /min
+  2013-05-30 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2013-05-30 : Body mass index (BMI) [Percentile] Per age and gender 73.3 %
+  2013-05-30 : Body Mass Index                          17.7 kg/m2
+  2013-05-30 : Body Weight                              29.6 kg
+  2013-05-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2013-05-30 : Body Height                              129.1 cm
+  2013-05-11 : Body temperature                         37.6 Cel
+  2012-12-20 : Tobacco smoking status NHIS              Never smoker 
+  2012-12-20 : Respiratory rate                         12.0 /min
+  2012-12-20 : Heart rate                               74.0 /min
+  2012-12-20 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  138.0 mm[Hg]
+  2012-12-20 : Body mass index (BMI) [Percentile] Per age and gender 72.2 %
+  2012-12-20 : Body Mass Index                          17.4 kg/m2
+  2012-12-20 : Body Weight                              28.1 kg
+  2012-12-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2012-12-20 : Body Height                              127.2 cm
+  2011-12-15 : Tobacco smoking status NHIS              Never smoker 
+  2011-12-15 : Respiratory rate                         13.0 /min
+  2011-12-15 : Heart rate                               66.0 /min
+  2011-12-15 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2011-12-15 : Body mass index (BMI) [Percentile] Per age and gender 67.9 %
+  2011-12-15 : Body Mass Index                          16.6 kg/m2
+  2011-12-15 : Body Weight                              24.5 kg
+  2011-12-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2011-12-15 : Body Height                              121.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-11-04 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-09-28 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-08-27 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-07-23 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-07-01 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-07-01 : Medication Reconciliation (procedure)
+  2021-07-01 : Depression screening (procedure)
+  2021-06-16 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-06-16 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2021-05-13 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-04-15 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-03-16 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-02-15 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2021-02-04 : Anticipatory guidance (procedure)
+  2021-02-04 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-02-04 : Assessment of substance use (procedure)
+  2021-02-04 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-02-04 : Depression screening (procedure)
+  2021-01-06 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2020-12-08 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2020-12-07 : Allergy screening test
+  2020-11-12 : Subcutaneous immunotherapy
+  2020-11-07 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2020-10-16 : Subcutaneous immunotherapy
+  2020-10-04 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2020-09-19 : Subcutaneous immunotherapy
+  2020-08-29 : Subcutaneous immunotherapy
+  2020-08-24 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2020-08-08 : Subcutaneous immunotherapy
+  2020-07-22 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2020-07-18 : Subcutaneous immunotherapy
+  2020-06-25 : Subcutaneous immunotherapy
+  2020-06-11 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2020-06-03 : Subcutaneous immunotherapy
+  2020-05-09 : Subcutaneous immunotherapy
+  2020-05-01 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2020-04-16 : Subcutaneous immunotherapy
+  2020-03-25 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2020-03-21 : Subcutaneous immunotherapy
+  2020-02-21 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2020-02-25 : Subcutaneous immunotherapy
+  2020-02-04 : Subcutaneous immunotherapy
+  2020-01-30 : Health risks education (procedure) for Risk activity involvement (finding)
+  2020-01-30 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2020-01-30 : Assessment of substance use (procedure)
+  2020-01-30 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2020-01-24 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2020-01-30 : Depression screening (procedure)
+  2020-01-09 : Subcutaneous immunotherapy
+  2019-12-23 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2019-12-18 : Subcutaneous immunotherapy
+  2019-11-24 : Subcutaneous immunotherapy
+  2019-11-14 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2019-10-29 : Subcutaneous immunotherapy
+  2019-10-08 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2019-10-03 : Subcutaneous immunotherapy
+  2019-09-10 : Subcutaneous immunotherapy
+  2019-08-31 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2019-08-20 : Subcutaneous immunotherapy
+  2019-07-28 : Subcutaneous immunotherapy
+  2019-07-20 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2019-07-03 : Subcutaneous immunotherapy
+  2019-06-22 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2019-06-06 : Subcutaneous immunotherapy
+  2019-05-14 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2019-05-14 : Subcutaneous immunotherapy
+  2019-05-13 : Information gathering (procedure)
+  2019-04-23 : Subcutaneous immunotherapy
+  2019-04-13 : Information gathering (procedure)
+  2019-04-09 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2019-03-30 : Subcutaneous immunotherapy
+  2019-03-05 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2019-03-05 : Subcutaneous immunotherapy
+  2019-02-09 : Subcutaneous immunotherapy
+  2019-02-03 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2019-01-24 : Medication Reconciliation (procedure)
+  2019-01-24 : Assessment of anxiety (procedure)
+  2019-01-13 : Subcutaneous immunotherapy
+  2018-12-30 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2018-12-21 : Subcutaneous immunotherapy
+  2018-11-29 : Subcutaneous immunotherapy
+  2018-11-21 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2018-11-05 : Subcutaneous immunotherapy
+  2018-10-20 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2018-10-10 : Subcutaneous immunotherapy
+  2018-09-15 : Subcutaneous immunotherapy
+  2018-09-12 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2018-08-25 : Subcutaneous immunotherapy
+  2018-08-06 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2018-08-04 : Subcutaneous immunotherapy
+  2018-07-14 : Subcutaneous immunotherapy
+  2018-06-27 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2018-06-21 : Subcutaneous immunotherapy
+  2018-05-26 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2018-05-28 : Subcutaneous immunotherapy
+  2018-05-03 : Subcutaneous immunotherapy
+  2018-04-22 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2018-04-11 : Subcutaneous immunotherapy
+  2018-03-18 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2018-03-21 : Subcutaneous immunotherapy
+  2018-02-22 : Subcutaneous immunotherapy
+  2018-02-06 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2018-01-31 : Subcutaneous immunotherapy
+  2018-01-18 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2018-01-18 : Medication Reconciliation (procedure)
+  2018-01-18 : Depression screening (procedure)
+  2018-01-07 : Subcutaneous immunotherapy
+  2017-12-31 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2017-12-12 : Subcutaneous immunotherapy
+  2017-11-30 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2017-11-16 : Subcutaneous immunotherapy
+  2017-10-27 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2017-10-22 : Subcutaneous immunotherapy
+  2017-09-26 : Subcutaneous immunotherapy
+  2017-09-16 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2017-08-30 : Subcutaneous immunotherapy
+  2017-08-16 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2017-08-06 : Subcutaneous immunotherapy
+  2017-07-15 : Subcutaneous immunotherapy
+  2017-07-07 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2017-06-23 : Subcutaneous immunotherapy
+  2017-06-02 : Subcutaneous immunotherapy
+  2017-05-31 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2017-05-09 : Subcutaneous immunotherapy
+  2017-04-30 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2017-04-12 : Subcutaneous immunotherapy
+  2017-03-19 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2017-03-22 : Subcutaneous immunotherapy
+  2017-02-23 : Subcutaneous immunotherapy
+  2017-02-07 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2017-02-02 : Subcutaneous immunotherapy
+  2017-01-12 : Subcutaneous immunotherapy
+  2017-01-12 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2017-01-12 : Depression screening (procedure)
+  2017-01-12 : Assessment of anxiety (procedure)
+  2017-01-01 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2016-12-22 : Allergy screening test
+  2016-11-24 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2016-10-27 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2016-09-16 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2016-08-06 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2016-07-07 : Anticipatory guidance (procedure)
+  2016-07-07 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2016-07-07 : Assessment of substance use (procedure)
+  2016-07-07 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2016-07-02 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2016-07-07 : Depression screening (procedure)
+  2016-05-25 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2016-04-27 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2016-03-27 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2016-02-18 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2016-02-12 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2016-01-12 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2016-01-07 : Anticipatory guidance (procedure)
+  2016-01-07 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2016-01-07 : Assessment of substance use (procedure)
+  2016-01-07 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2016-01-07 : Depression screening (procedure)
+  2015-12-06 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2015-11-05 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2015-10-01 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2015-09-01 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2015-08-04 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2015-06-29 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2015-05-28 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2015-04-17 : Cognitive and behavioral therapy for Child attention deficit disorder
+  2011-12-15 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-11-11 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-10-14 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-06-24 : Influenza, seasonal, injectable, preservative free
+  2021-02-04 : Influenza, seasonal, injectable, preservative free
+  2020-01-30 : meningococcal MCV4P
+  2020-01-30 : Influenza, seasonal, injectable, preservative free
+  2019-01-24 : Influenza, seasonal, injectable, preservative free
+  2017-08-24 : Influenza, seasonal, injectable, preservative free
+  2016-07-07 : HPV, quadrivalent
+  2016-07-07 : Influenza, seasonal, injectable, preservative free
+  2016-01-07 : HPV, quadrivalent
+  2016-01-07 : Influenza, seasonal, injectable, preservative free
+  2015-01-01 : meningococcal MCV4P
+  2015-01-01 : HPV, quadrivalent
+  2015-01-01 : Influenza, seasonal, injectable, preservative free
+  2015-01-01 : Tdap
+  2013-12-26 : Influenza, seasonal, injectable, preservative free
+  2012-12-20 : Influenza, seasonal, injectable, preservative free
+  2011-12-15 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-11-04 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2021-11-11 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2021-11-01 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2021-10-14 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2021-09-28 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2021-08-27 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2021-07-23 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2021-07-01 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2021-06-24 (Dr. Tracy Effertz) : Encounter at VALLEY RANCH URGENT CARE
+2021-06-16 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2021-06-16 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Acute viral pharyngitis (disorder)
+2021-05-13 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2021-04-15 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2021-03-16 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2021-02-15 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2021-02-04 (Dr. Arletta Skiles) : Encounter at SRILATHA A. REDDY, M.D., P.A
+2021-01-06 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2020-12-08 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2020-12-07 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2020-11-12 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2020-11-07 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2020-10-16 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2020-10-04 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2020-09-19 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2020-08-29 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2020-08-24 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2020-08-08 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2020-07-22 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2020-07-18 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2020-06-25 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2020-06-11 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2020-06-03 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2020-05-09 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2020-05-01 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2020-04-16 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2020-03-25 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2020-03-21 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2020-02-21 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2020-02-25 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2020-02-04 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2020-01-24 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2020-01-30 (Dr. Arletta Skiles) : Encounter at SRILATHA A. REDDY, M.D., P.A
+2020-01-09 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-12-23 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2019-12-18 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-11-24 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-11-14 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2019-10-29 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-10-08 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2019-10-03 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-09-10 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-08-31 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2019-08-20 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-07-28 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-07-20 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2019-07-03 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-06-22 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2019-06-06 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-05-14 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2019-05-14 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-05-13 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-04-23 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-04-13 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-04-09 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2019-03-30 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-03-05 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2019-03-05 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-02-09 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-02-03 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2019-01-24 (Dr. Arletta Skiles) : Encounter at SRILATHA A. REDDY, M.D., P.A
+2019-01-13 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-12-30 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2018-12-21 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-11-29 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-11-21 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2018-11-05 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-10-20 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2018-10-10 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-09-15 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-09-12 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2018-08-25 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-08-06 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2018-08-04 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-07-14 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-06-27 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2018-06-21 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-05-26 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2018-05-28 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-05-03 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-04-22 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2018-04-11 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-03-18 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2018-03-21 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-02-22 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-02-06 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2018-01-31 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-01-18 (Dr. Arletta Skiles) : Encounter at SRILATHA A. REDDY, M.D., P.A
+2018-01-07 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-12-31 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2017-12-12 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-11-30 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2017-11-16 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-10-27 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2017-10-22 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-09-26 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-09-16 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2017-08-30 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-08-31 (Dr. Tracy Effertz) : Encounter at VALLEY RANCH URGENT CARE
+2017-08-24 (Dr. Tracy Effertz) : Encounter at VALLEY RANCH URGENT CARE
+2017-08-16 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2017-08-15 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Acute bronchitis (disorder)
+2017-08-06 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-07-15 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-07-07 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2017-06-23 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-06-02 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-05-31 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2017-05-09 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-04-30 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2017-04-12 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-03-19 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2017-03-22 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-02-23 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-02-07 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2017-02-02 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-01-12 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-01-12 (Dr. Arletta Skiles) : Encounter at SRILATHA A. REDDY, M.D., P.A
+2017-01-01 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2016-12-22 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2016-11-24 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2016-10-27 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2016-09-16 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2016-08-06 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2016-07-02 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2016-07-07 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2016-06-25 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Streptococcal sore throat (disorder)
+2016-05-25 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2016-04-27 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2016-03-27 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2016-02-18 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2016-02-12 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Acute viral pharyngitis (disorder)
+2016-01-12 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2016-01-07 (Dr. Arletta Skiles) : Encounter at SRILATHA A. REDDY, M.D., P.A
+2015-12-06 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2015-11-05 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2015-10-01 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2015-09-01 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2015-08-04 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2015-06-29 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2015-05-28 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2015-04-17 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2015-03-14 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Child attention deficit disorder
+2015-01-01 (Dr. Arletta Skiles) : Encounter at SRILATHA A. REDDY, M.D., P.A
+2013-12-26 (Dr. Arletta Skiles) : Encounter at SRILATHA A. REDDY, M.D., P.A
+2013-05-30 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2013-05-23 (Dr. Tracy Effertz) : Encounter at VALLEY RANCH URGENT CARE
+2013-05-11 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Streptococcal sore throat (disorder)
+2012-12-20 (Dr. Arletta Skiles) : Encounter at SRILATHA A. REDDY, M.D., P.A
+2011-12-15 (Dr. Arletta Skiles) : Encounter at SRILATHA A. REDDY, M.D., P.A
+2010-02-19 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Appendicitis
+2010-02-19 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Appendicitis
+2009-08-02 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2009-07-30 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Seasonal allergic rhinitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

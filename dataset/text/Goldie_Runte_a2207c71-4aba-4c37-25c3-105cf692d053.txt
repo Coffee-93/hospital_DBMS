@@ -1,0 +1,395 @@
+Goldie Runte
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 6
+Birth Date:          2015-06-24
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-04-24[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2019-10-07[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2018-10-21[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2018-04-08[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2018-03-10[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2018-03-10[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2017-12-14[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2017-04-07[STOPPED] : Ibuprofen 100 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-08-15 - 2021-09-07 : COVID-19
+  2021-08-15 - 2021-08-15 : Suspected COVID-19
+  2021-08-15 - 2021-09-07 : Loss of taste (finding)
+  2021-08-15 - 2021-09-07 : Fever (finding)
+  2021-08-15 - 2021-09-07 : Sputum finding (finding)
+  2021-08-15 - 2021-09-07 : Cough (finding)
+  2021-04-24 - 2021-05-08 : Acute bronchitis (disorder)
+  2019-10-07 - 2019-10-26 : Viral sinusitis (disorder)
+  2019-07-04 - 2019-07-14 : Acute viral pharyngitis (disorder)
+  2018-10-21 - 2018-11-02 : Streptococcal sore throat (disorder)
+  2018-04-08 - 2018-05-08 : Whiplash injury to neck
+  2018-03-10 - 2018-05-30 : Otitis media
+  2017-12-14 - 2017-12-23 : Streptococcal sore throat (disorder)
+  2017-04-07 - 2017-04-28 : Whiplash injury to neck
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-08-15[STOPPED] : Infectious disease care plan (record artifact)
+                         Reason: COVID-19
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2021-08-15[STOPPED] : Infectious disease care plan (record artifact)
+                         Reason: Suspected COVID-19
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+  2021-04-24[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2018-04-08[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+  2017-04-07[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-08-15 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-08-15 : Respiratory pathogens DNA and RNA panel - Respiratory specimen by NAA with probe detection
+           - Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-06-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.2 %
+           - MCV [Entitic volume] by Automated count  80.7 fL
+           - MCH [Entitic mass] by Automated count    31.2 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.7 fL
+           - Platelets [#/volume] in Blood by Automated count 432.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 211.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2015-06-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.8 %
+           - MCV [Entitic volume] by Automated count  81.5 fL
+           - MCH [Entitic mass] by Automated count    28.6 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+           - Platelets [#/volume] in Blood by Automated count 219.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 249.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-08-15 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-08-15 : Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-08-15 : Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-08-15 : Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-08-15 : Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-08-15 : Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-08-15 : Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-08-15 : Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-08-15 : Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-08-15 : Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2021-08-15 : Body Weight                              20.7 kg
+  2021-08-15 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2021-08-15 : Oxygen saturation in Arterial blood      78.0 %
+  2021-08-15 : Heart rate                               93.3 /min
+  2021-08-15 : Respiratory rate                         23.4 /min
+  2021-08-15 : Body temperature                         38.0 Cel
+  2021-06-09 : Tobacco smoking status NHIS              Never smoker 
+  2021-06-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2021-06-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 211.5 fL
+  2021-06-09 : Platelets [#/volume] in Blood by Automated count 432.0 10*3/uL
+  2021-06-09 : Erythrocyte distribution width [Entitic volume] by Automated count 45.7 fL
+  2021-06-09 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  2021-06-09 : MCH [Entitic mass] by Automated count    31.2 pg
+  2021-06-09 : MCV [Entitic volume] by Automated count  80.7 fL
+  2021-06-09 : Hematocrit [Volume Fraction] of Blood by Automated count 36.2 %
+  2021-06-09 : Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+  2021-06-09 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2021-06-09 : Leukocytes [#/volume] in Blood by Automated count 8.0 10*3/uL
+  2021-06-09 : Respiratory rate                         15.0 /min
+  2021-06-09 : Heart rate                               95.0 /min
+  2021-06-09 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2021-06-09 : Body mass index (BMI) [Percentile] Per age and gender 64.2 %
+  2021-06-09 : Body Mass Index                          15.8 kg/m2
+  2021-06-09 : Body Weight                              20.2 kg
+  2021-06-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-06-09 : Body Height                              113.3 cm
+  2020-06-03 : Tobacco smoking status NHIS              Never smoker 
+  2020-06-03 : Respiratory rate                         16.0 /min
+  2020-06-03 : Heart rate                               86.0 /min
+  2020-06-03 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2020-06-03 : Body mass index (BMI) [Percentile] Per age and gender 54.8 %
+  2020-06-03 : Body Mass Index                          15.3 kg/m2
+  2020-06-03 : Body Weight                              17.3 kg
+  2020-06-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-06-03 : Body Height                              106.3 cm
+  2019-07-04 : Body temperature                         37.8 Cel
+  2019-05-29 : Tobacco smoking status NHIS              Never smoker 
+  2019-05-29 : Respiratory rate                         13.0 /min
+  2019-05-29 : Heart rate                               91.0 /min
+  2019-05-29 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2019-05-29 : Body mass index (BMI) [Percentile] Per age and gender 63.5 %
+  2019-05-29 : Body Mass Index                          15.8 kg/m2
+  2019-05-29 : Head Occipital-frontal circumference     48.3 cm
+  2019-05-29 : Weight-for-length Per age and sex        87.1 %
+  2019-05-29 : Body Weight                              15.6 kg
+  2019-05-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2019-05-29 : Body Height                              99.5 cm
+  2018-11-28 : Tobacco smoking status NHIS              Never smoker 
+  2018-11-28 : Respiratory rate                         14.0 /min
+  2018-11-28 : Heart rate                               82.0 /min
+  2018-11-28 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2018-11-28 : Body mass index (BMI) [Percentile] Per age and gender 83.4 %
+  2018-11-28 : Body Mass Index                          16.9 kg/m2
+  2018-11-28 : Head Occipital-frontal circumference     48.3 cm
+  2018-11-28 : Weight-for-length Per age and sex        87.1 %
+  2018-11-28 : Body Weight                              15.6 kg
+  2018-11-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-11-28 : Body Height                              96.1 cm
+  2018-10-21 : Body temperature                         38.2 Cel
+  2018-05-30 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-30 : Respiratory rate                         13.0 /min
+  2018-05-30 : Heart rate                               84.0 /min
+  2018-05-30 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2018-05-30 : Body mass index (BMI) [Percentile] Per age and gender 84.3 %
+  2018-05-30 : Body Mass Index                          17.2 kg/m2
+  2018-05-30 : Head Occipital-frontal circumference     48.2 cm
+  2018-05-30 : Weight-for-length Per age and sex        83.8 %
+  2018-05-30 : Body Weight                              14.8 kg
+  2018-05-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-05-30 : Body Height                              92.7 cm
+  2017-12-14 : Body temperature                         37.7 Cel
+  2017-11-29 : Tobacco smoking status NHIS              Never smoker 
+  2017-11-29 : Respiratory rate                         14.0 /min
+  2017-11-29 : Heart rate                               84.0 /min
+  2017-11-29 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2017-11-29 : Body mass index (BMI) [Percentile] Per age and gender 72.1 %
+  2017-11-29 : Body Mass Index                          16.9 kg/m2
+  2017-11-29 : Head Occipital-frontal circumference     47.8 cm
+  2017-11-29 : Weight-for-length Per age and sex        72.1 %
+  2017-11-29 : Body Weight                              13.3 kg
+  2017-11-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-11-29 : Body Height                              88.7 cm
+  2017-05-31 : Tobacco smoking status NHIS              Never smoker 
+  2017-05-31 : Respiratory rate                         12.0 /min
+  2017-05-31 : Heart rate                               81.0 /min
+  2017-05-31 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2017-05-31 : Head Occipital-frontal circumference     47.1 cm
+  2017-05-31 : Weight-for-length Per age and sex        62.6 %
+  2017-05-31 : Body Weight                              12.1 kg
+  2017-05-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-05-31 : Body Height                              84.6 cm
+  2016-11-30 : Tobacco smoking status NHIS              Never smoker 
+  2016-11-30 : Respiratory rate                         13.0 /min
+  2016-11-30 : Heart rate                               86.0 /min
+  2016-11-30 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2016-11-30 : Head Occipital-frontal circumference     46.1 cm
+  2016-11-30 : Weight-for-length Per age and sex        72.7 %
+  2016-11-30 : Body Weight                              11.0 kg
+  2016-11-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-11-30 : Body Height                              79.1 cm
+  2016-08-31 : Tobacco smoking status NHIS              Never smoker 
+  2016-08-31 : Respiratory rate                         14.0 /min
+  2016-08-31 : Heart rate                               66.0 /min
+  2016-08-31 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2016-08-31 : Head Occipital-frontal circumference     45.5 cm
+  2016-08-31 : Weight-for-length Per age and sex        72.4 %
+  2016-08-31 : Body Weight                              10.3 kg
+  2016-08-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-08-31 : Body Height                              76.0 cm
+  2016-06-01 : Tobacco smoking status NHIS              Never smoker 
+  2016-06-01 : Respiratory rate                         14.0 /min
+  2016-06-01 : Heart rate                               71.0 /min
+  2016-06-01 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2016-06-01 : Head Occipital-frontal circumference     44.6 cm
+  2016-06-01 : Weight-for-length Per age and sex        64.3 %
+  2016-06-01 : Body Weight                              9.4 kg
+  2016-06-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-06-01 : Body Height                              72.5 cm
+  2016-03-02 : Tobacco smoking status NHIS              Never smoker 
+  2016-03-02 : Respiratory rate                         14.0 /min
+  2016-03-02 : Heart rate                               96.0 /min
+  2016-03-02 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2016-03-02 : Head Occipital-frontal circumference     43.5 cm
+  2016-03-02 : Weight-for-length Per age and sex        62.4 %
+  2016-03-02 : Body Weight                              8.4 kg
+  2016-03-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2016-03-02 : Body Height                              68.6 cm
+  2015-12-02 : Tobacco smoking status NHIS              Never smoker 
+  2015-12-02 : Respiratory rate                         14.0 /min
+  2015-12-02 : Heart rate                               99.0 /min
+  2015-12-02 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2015-12-02 : Head Occipital-frontal circumference     41.8 cm
+  2015-12-02 : Weight-for-length Per age and sex        53.2 %
+  2015-12-02 : Body Weight                              7.0 kg
+  2015-12-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-12-02 : Body Height                              63.8 cm
+  2015-09-30 : Tobacco smoking status NHIS              Never smoker 
+  2015-09-30 : Respiratory rate                         12.0 /min
+  2015-09-30 : Heart rate                               93.0 /min
+  2015-09-30 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2015-09-30 : Head Occipital-frontal circumference     40.2 cm
+  2015-09-30 : Weight-for-length Per age and sex        46.4 %
+  2015-09-30 : Body Weight                              5.9 kg
+  2015-09-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-09-30 : Body Height                              59.9 cm
+  2015-07-29 : Tobacco smoking status NHIS              Never smoker 
+  2015-07-29 : Respiratory rate                         16.0 /min
+  2015-07-29 : Heart rate                               96.0 /min
+  2015-07-29 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2015-07-29 : Head Occipital-frontal circumference     37.7 cm
+  2015-07-29 : Weight-for-length Per age and sex        41.3 %
+  2015-07-29 : Body Weight                              4.6 kg
+  2015-07-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-07-29 : Body Height                              54.7 cm
+  2015-06-24 : Tobacco smoking status NHIS              Never smoker 
+  2015-06-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2015-06-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 249.5 fL
+  2015-06-24 : Platelets [#/volume] in Blood by Automated count 219.4 10*3/uL
+  2015-06-24 : Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+  2015-06-24 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2015-06-24 : MCH [Entitic mass] by Automated count    28.6 pg
+  2015-06-24 : MCV [Entitic volume] by Automated count  81.5 fL
+  2015-06-24 : Hematocrit [Volume Fraction] of Blood by Automated count 40.8 %
+  2015-06-24 : Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+  2015-06-24 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2015-06-24 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  2015-06-24 : Respiratory rate                         16.0 /min
+  2015-06-24 : Heart rate                               63.0 /min
+  2015-06-24 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2015-06-24 : Head Occipital-frontal circumference     34.4 cm
+  2015-06-24 : Weight-for-length Per age and sex        58.1 %
+  2015-06-24 : Body Weight                              3.8 kg
+  2015-06-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2015-06-24 : Body Height                              51.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-08-15 : Face mask (physical object) for Suspected COVID-19
+  2021-04-24 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2020-06-03 : Medication Reconciliation (procedure)
+  2019-07-04 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2019-05-29 : Medication Reconciliation (procedure)
+  2018-11-28 : Medication Reconciliation (procedure)
+  2018-05-30 : Medication Reconciliation (procedure)
+  2017-12-14 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2017-11-29 : Medication Reconciliation (procedure)
+  2016-06-01 : Medication Reconciliation (procedure)
+  2016-03-02 : Medication Reconciliation (procedure)
+  2015-09-30 : Medication Reconciliation (procedure)
+  2015-06-24 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-05-05 : Influenza, seasonal, injectable, preservative free
+  2020-06-03 : MMR
+  2020-06-03 : DTaP
+  2020-06-03 : Influenza, seasonal, injectable, preservative free
+  2020-06-03 : IPV
+  2020-06-03 : varicella
+  2019-05-29 : Influenza, seasonal, injectable, preservative free
+  2018-05-30 : Influenza, seasonal, injectable, preservative free
+  2017-11-29 : Hep A, ped/adol, 2 dose
+  2017-05-31 : Influenza, seasonal, injectable, preservative free
+  2016-11-30 : DTaP
+  2016-08-31 : Hep A, ped/adol, 2 dose
+  2016-08-31 : Pneumococcal conjugate PCV 13
+  2016-08-31 : MMR
+  2016-08-31 : varicella
+  2016-08-31 : Hib (PRP-OMP)
+  2016-03-02 : Hep B, adolescent or pediatric
+  2016-03-02 : Pneumococcal conjugate PCV 13
+  2016-03-02 : DTaP
+  2016-03-02 : Influenza, seasonal, injectable, preservative free
+  2016-03-02 : IPV
+  2015-12-02 : Pneumococcal conjugate PCV 13
+  2015-12-02 : DTaP
+  2015-12-02 : IPV
+  2015-12-02 : rotavirus, monovalent
+  2015-12-02 : Hib (PRP-OMP)
+  2015-09-30 : Pneumococcal conjugate PCV 13
+  2015-09-30 : DTaP
+  2015-09-30 : IPV
+  2015-09-30 : rotavirus, monovalent
+  2015-09-30 : Hib (PRP-OMP)
+  2015-07-29 : Hep B, adolescent or pediatric
+  2015-06-24 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-08-15 (Dr. Hernán Fierro) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER WHITE ROCK
+2021-06-09 (Dr. Kera Batz) : Encounter at WALNUT HILL OBSTETRICS AND GYNECOLOGY ASSOCIATES
+2021-05-05 (Dr. Bennett Bayer) : Encounter at AMERICAN PHYSICIAN HOUSECALLS
+2021-04-24 (Dr. Hernán Fierro) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER WHITE ROCK : Encounter for Acute bronchitis (disorder)
+2020-06-03 (Dr. Kera Batz) : Encounter at WALNUT HILL OBSTETRICS AND GYNECOLOGY ASSOCIATES
+2019-10-07 (Dr. Hernán Fierro) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER WHITE ROCK : Encounter for Viral sinusitis (disorder)
+2019-07-04 (Dr. Hernán Fierro) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER WHITE ROCK : Encounter for Acute viral pharyngitis (disorder)
+2019-05-29 (Dr. Kera Batz) : Encounter at WALNUT HILL OBSTETRICS AND GYNECOLOGY ASSOCIATES
+2018-11-28 (Dr. Kera Batz) : Encounter at WALNUT HILL OBSTETRICS AND GYNECOLOGY ASSOCIATES
+2018-10-21 (Dr. Hernán Fierro) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER WHITE ROCK : Encounter for Streptococcal sore throat (disorder)
+2018-05-30 (Dr. Kera Batz) : Encounter at WALNUT HILL OBSTETRICS AND GYNECOLOGY ASSOCIATES
+2018-04-08 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2018-03-10 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER : Encounter for Otitis media
+2017-12-14 (Dr. Hernán Fierro) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER WHITE ROCK : Encounter for Streptococcal sore throat (disorder)
+2017-11-29 (Dr. Kera Batz) : Encounter at WALNUT HILL OBSTETRICS AND GYNECOLOGY ASSOCIATES
+2017-05-31 (Dr. Kera Batz) : Encounter at WALNUT HILL OBSTETRICS AND GYNECOLOGY ASSOCIATES
+2017-04-07 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2016-11-30 (Dr. Kera Batz) : Encounter at WALNUT HILL OBSTETRICS AND GYNECOLOGY ASSOCIATES
+2016-08-31 (Dr. Kera Batz) : Encounter at WALNUT HILL OBSTETRICS AND GYNECOLOGY ASSOCIATES
+2016-06-01 (Dr. Kera Batz) : Encounter at WALNUT HILL OBSTETRICS AND GYNECOLOGY ASSOCIATES
+2016-03-02 (Dr. Kera Batz) : Encounter at WALNUT HILL OBSTETRICS AND GYNECOLOGY ASSOCIATES
+2015-12-02 (Dr. Kera Batz) : Encounter at WALNUT HILL OBSTETRICS AND GYNECOLOGY ASSOCIATES
+2015-09-30 (Dr. Kera Batz) : Encounter at WALNUT HILL OBSTETRICS AND GYNECOLOGY ASSOCIATES
+2015-07-29 (Dr. Kera Batz) : Encounter at WALNUT HILL OBSTETRICS AND GYNECOLOGY ASSOCIATES
+2015-06-24 (Dr. Kera Batz) : Encounter at WALNUT HILL OBSTETRICS AND GYNECOLOGY ASSOCIATES
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

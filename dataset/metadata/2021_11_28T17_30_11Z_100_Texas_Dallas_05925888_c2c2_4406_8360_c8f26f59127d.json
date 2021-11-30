@@ -1,0 +1,17 @@
+{
+  "runID": "05925888-c2c2-4406-8360-c8f26f59127d",
+  "seed": 42,
+  "clinicianSeed": 1638120611214,
+  "referenceTime": "20211128",
+  "version": "master-branch-latest\n",
+  "patientCount": 107,
+  "providerCount": 25737,
+  "payerCount": 9,
+  "javaVersion": "1.8.0_301",
+  "runStartTime": "2021-11-28T17:30:11Z",
+  "runTimeInSeconds": 50,
+  "exporter.years_of_history": "10",
+  "city": "Dallas",
+  "state": "Texas",
+  "modules": "*"
+}

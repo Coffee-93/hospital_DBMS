@@ -1,0 +1,277 @@
+Leticia Cepeda
+==============
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 3
+Birth Date:          2018-04-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2021-04-07 -            : Aspirin
+  2021-04-07 -            : Ibuprofen
+  2021-04-07 -            : Lisinopril
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-04-07[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2021-03-27[CURRENT] : Loratadine 5 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-10-25 - 2021-11-05 : Acute viral pharyngitis (disorder)
+  2021-03-27 -            : Perennial allergic rhinitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-04-07[CURRENT] : Self-care interventions (procedure)
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-04-12 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.7 %
+           - MCV [Entitic volume] by Automated count  87.4 fL
+           - MCH [Entitic mass] by Automated count    30.4 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.3 fL
+           - Platelets [#/volume] in Blood by Automated count 361.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 458.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-11-04 : Tobacco smoking status NHIS              Never smoker 
+  2021-11-04 : Respiratory rate                         13.0 /min
+  2021-11-04 : Heart rate                               94.0 /min
+  2021-11-04 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2021-11-04 : Body mass index (BMI) [Percentile] Per age and gender 61.1 %
+  2021-11-04 : Body Mass Index                          15.8 kg/m2
+  2021-11-04 : Head Occipital-frontal circumference     46.7 cm
+  2021-11-04 : Weight-for-length Per age and sex        54.5 %
+  2021-11-04 : Body Weight                              13.6 kg
+  2021-11-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-11-04 : Body Height                              92.6 cm
+  2021-10-25 : Body temperature                         37.6 Cel
+  2021-09-16 : Tobacco smoking status NHIS              Never smoker 
+  2021-09-16 : Respiratory rate                         13.0 /min
+  2021-09-16 : Heart rate                               85.0 /min
+  2021-09-16 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2021-09-16 : Body mass index (BMI) [Percentile] Per age and gender 60.9 %
+  2021-09-16 : Body Mass Index                          15.9 kg/m2
+  2021-09-16 : Head Occipital-frontal circumference     46.7 cm
+  2021-09-16 : Weight-for-length Per age and sex        54.5 %
+  2021-09-16 : Body Weight                              13.4 kg
+  2021-09-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-09-16 : Body Height                              92.1 cm
+  2021-04-07 : Latex IgE Ab in Serum                    0.1 kU/L
+  2021-04-07 : Honey bee IgE Ab in Serum                0.3 kU/L
+  2021-04-07 : Cladosporium herbarum IgE Ab in Serum    0.1 kU/L
+  2021-04-07 : American house dust mite IgE Ab in Serum 0.3 kU/L
+  2021-04-07 : Cat dander IgE Ab in Serum               0.2 kU/L
+  2021-04-07 : Common Ragweed IgE Ab in Serum           0.3 kU/L
+  2021-04-07 : White oak IgE Ab in Serum                0.2 kU/L
+  2021-04-07 : Cow milk IgE Ab in Serum                 0.3 kU/L
+  2021-04-07 : Soybean IgE Ab in Serum                  0.3 kU/L
+  2021-04-07 : Egg white IgE Ab in Serum                0.3 kU/L
+  2021-04-07 : Wheat IgE Ab in Serum                    0.3 kU/L
+  2021-04-07 : Shrimp IgE Ab in Serum                   0.1 kU/L
+  2021-04-07 : Codfish IgE Ab in Serum                  0.3 kU/L
+  2021-04-07 : Walnut IgE Ab in Serum                   0.2 kU/L
+  2021-04-07 : Peanut IgE Ab in Serum                   0.1 kU/L
+  2021-03-18 : Tobacco smoking status NHIS              Never smoker 
+  2021-03-18 : Respiratory rate                         14.0 /min
+  2021-03-18 : Heart rate                               73.0 /min
+  2021-03-18 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2021-03-18 : Body mass index (BMI) [Percentile] Per age and gender 59.1 %
+  2021-03-18 : Body Mass Index                          16.0 kg/m2
+  2021-03-18 : Head Occipital-frontal circumference     46.7 cm
+  2021-03-18 : Weight-for-length Per age and sex        50.5 %
+  2021-03-18 : Body Weight                              12.7 kg
+  2021-03-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-03-18 : Body Height                              88.9 cm
+  2020-09-17 : Tobacco smoking status NHIS              Never smoker 
+  2020-09-17 : Respiratory rate                         13.0 /min
+  2020-09-17 : Heart rate                               89.0 /min
+  2020-09-17 : Blood Pressure
+           - Diastolic Blood Pressure                 89.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2020-09-17 : Body mass index (BMI) [Percentile] Per age and gender 61.8 %
+  2020-09-17 : Body Mass Index                          16.5 kg/m2
+  2020-09-17 : Head Occipital-frontal circumference     46.3 cm
+  2020-09-17 : Weight-for-length Per age and sex        54.5 %
+  2020-09-17 : Body Weight                              11.9 kg
+  2020-09-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-09-17 : Body Height                              85.0 cm
+  2020-03-19 : Tobacco smoking status NHIS              Never smoker 
+  2020-03-19 : Respiratory rate                         15.0 /min
+  2020-03-19 : Heart rate                               69.0 /min
+  2020-03-19 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2020-03-19 : Head Occipital-frontal circumference     45.7 cm
+  2020-03-19 : Weight-for-length Per age and sex        58.5 %
+  2020-03-19 : Body Weight                              11.1 kg
+  2020-03-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-03-19 : Body Height                              81.1 cm
+  2019-09-19 : Tobacco smoking status NHIS              Never smoker 
+  2019-09-19 : Respiratory rate                         15.0 /min
+  2019-09-19 : Heart rate                               87.0 /min
+  2019-09-19 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2019-09-19 : Head Occipital-frontal circumference     44.8 cm
+  2019-09-19 : Weight-for-length Per age and sex        64.3 %
+  2019-09-19 : Body Weight                              10.1 kg
+  2019-09-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2019-09-19 : Body Height                              75.9 cm
+  2019-06-20 : Tobacco smoking status NHIS              Never smoker 
+  2019-06-20 : Respiratory rate                         14.0 /min
+  2019-06-20 : Heart rate                               87.0 /min
+  2019-06-20 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2019-06-20 : Head Occipital-frontal circumference     44.2 cm
+  2019-06-20 : Weight-for-length Per age and sex        64.3 %
+  2019-06-20 : Body Weight                              9.4 kg
+  2019-06-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-06-20 : Body Height                              72.9 cm
+  2019-03-21 : Tobacco smoking status NHIS              Never smoker 
+  2019-03-21 : Respiratory rate                         15.0 /min
+  2019-03-21 : Heart rate                               98.0 /min
+  2019-03-21 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2019-03-21 : Head Occipital-frontal circumference     43.4 cm
+  2019-03-21 : Weight-for-length Per age and sex        65.1 %
+  2019-03-21 : Body Weight                              8.7 kg
+  2019-03-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-03-21 : Body Height                              69.6 cm
+  2018-12-20 : Tobacco smoking status NHIS              Never smoker 
+  2018-12-20 : Respiratory rate                         13.0 /min
+  2018-12-20 : Heart rate                               96.0 /min
+  2018-12-20 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2018-12-20 : Head Occipital-frontal circumference     42.2 cm
+  2018-12-20 : Weight-for-length Per age and sex        64.6 %
+  2018-12-20 : Body Weight                              7.7 kg
+  2018-12-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-12-20 : Body Height                              65.8 cm
+  2018-09-20 : Tobacco smoking status NHIS              Never smoker 
+  2018-09-20 : Respiratory rate                         14.0 /min
+  2018-09-20 : Heart rate                               94.0 /min
+  2018-09-20 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2018-09-20 : Head Occipital-frontal circumference     40.6 cm
+  2018-09-20 : Weight-for-length Per age and sex        63.5 %
+  2018-09-20 : Body Weight                              6.4 kg
+  2018-09-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-09-20 : Body Height                              61.2 cm
+  2018-07-19 : Tobacco smoking status NHIS              Never smoker 
+  2018-07-19 : Respiratory rate                         16.0 /min
+  2018-07-19 : Heart rate                               88.0 /min
+  2018-07-19 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2018-07-19 : Head Occipital-frontal circumference     38.9 cm
+  2018-07-19 : Weight-for-length Per age and sex        38.2 %
+  2018-07-19 : Body Weight                              5.3 kg
+  2018-07-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-07-19 : Body Height                              57.5 cm
+  2018-05-17 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-17 : Respiratory rate                         13.0 /min
+  2018-05-17 : Heart rate                               73.0 /min
+  2018-05-17 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2018-05-17 : Head Occipital-frontal circumference     36.3 cm
+  2018-05-17 : Weight-for-length Per age and sex        63.9 %
+  2018-05-17 : Body Weight                              4.1 kg
+  2018-05-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-05-17 : Body Height                              52.4 cm
+  2018-04-12 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-12 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2018-04-12 : Platelet distribution width [Entitic volume] in Blood by Automated count 458.0 fL
+  2018-04-12 : Platelets [#/volume] in Blood by Automated count 361.7 10*3/uL
+  2018-04-12 : Erythrocyte distribution width [Entitic volume] by Automated count 44.3 fL
+  2018-04-12 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2018-04-12 : MCH [Entitic mass] by Automated count    30.4 pg
+  2018-04-12 : MCV [Entitic volume] by Automated count  87.4 fL
+  2018-04-12 : Hematocrit [Volume Fraction] of Blood by Automated count 47.7 %
+  2018-04-12 : Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+  2018-04-12 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2018-04-12 : Leukocytes [#/volume] in Blood by Automated count 4.1 10*3/uL
+  2018-04-12 : Respiratory rate                         14.0 /min
+  2018-04-12 : Heart rate                               89.0 /min
+  2018-04-12 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2018-04-12 : Head Occipital-frontal circumference     32.8 cm
+  2018-04-12 : Weight-for-length Per age and sex        65.3 %
+  2018-04-12 : Body Weight                              3.4 kg
+  2018-04-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-04-12 : Body Height                              48.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-11-04 : Medication Reconciliation (procedure)
+  2021-10-25 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2021-09-16 : Medication Reconciliation (procedure)
+  2021-04-07 : Allergy screening test
+  2019-03-21 : Medication Reconciliation (procedure)
+  2018-09-20 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-11-04 : Influenza, seasonal, injectable, preservative free
+  2021-03-18 : Influenza, seasonal, injectable, preservative free
+  2020-09-17 : Hep A, ped/adol, 2 dose
+  2020-03-19 : Influenza, seasonal, injectable, preservative free
+  2019-09-19 : DTaP
+  2019-06-20 : Hep A, ped/adol, 2 dose
+  2019-06-20 : Pneumococcal conjugate PCV 13
+  2019-06-20 : MMR
+  2019-06-20 : varicella
+  2019-06-20 : Hib (PRP-OMP)
+  2018-12-20 : Hep B, adolescent or pediatric
+  2018-12-20 : Pneumococcal conjugate PCV 13
+  2018-12-20 : DTaP
+  2018-12-20 : Influenza, seasonal, injectable, preservative free
+  2018-12-20 : IPV
+  2018-09-20 : Pneumococcal conjugate PCV 13
+  2018-09-20 : DTaP
+  2018-09-20 : IPV
+  2018-09-20 : rotavirus, monovalent
+  2018-09-20 : Hib (PRP-OMP)
+  2018-07-19 : Pneumococcal conjugate PCV 13
+  2018-07-19 : DTaP
+  2018-07-19 : IPV
+  2018-07-19 : rotavirus, monovalent
+  2018-07-19 : Hib (PRP-OMP)
+  2018-05-17 : Hep B, adolescent or pediatric
+  2018-04-12 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-11-04 (Dr. Sharice Bogan) : Encounter at METHODIST RICHARDSON MEDICAL CENTER
+2021-10-25 (Dr. Sharice Bogan) : Encounter at METHODIST RICHARDSON MEDICAL CENTER : Encounter for Acute viral pharyngitis (disorder)
+2021-09-16 (Dr. Joane Stiedemann) : Encounter at PCP181569
+2021-04-07 (Dr. Sharice Bogan) : Encounter at METHODIST RICHARDSON MEDICAL CENTER
+2021-03-27 (Dr. Sharice Bogan) : Encounter at METHODIST RICHARDSON MEDICAL CENTER : Encounter for Perennial allergic rhinitis
+2021-03-18 (Dr. Joane Stiedemann) : Encounter at PCP181569
+2020-09-17 (Dr. Joane Stiedemann) : Encounter at PCP181569
+2020-03-19 (Dr. Joane Stiedemann) : Encounter at PCP181569
+2019-09-19 (Dr. Joane Stiedemann) : Encounter at PCP181569
+2019-06-20 (Dr. Joane Stiedemann) : Encounter at PCP181569
+2019-03-21 (Dr. Joane Stiedemann) : Encounter at PCP181569
+2018-12-20 (Dr. Joane Stiedemann) : Encounter at PCP181569
+2018-09-20 (Dr. Joane Stiedemann) : Encounter at PCP181569
+2018-07-19 (Dr. Joane Stiedemann) : Encounter at PCP181569
+2018-05-17 (Dr. Joane Stiedemann) : Encounter at PCP181569
+2018-04-12 (Dr. Joane Stiedemann) : Encounter at PCP181569
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

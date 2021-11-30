@@ -1,0 +1,709 @@
+Velvet Walsh
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 38
+Birth Date:          1983-06-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-03-24[CURRENT] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2020-03-18[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2019-12-11[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2019-12-04[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2019-03-13[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2018-04-09[STOPPED] : Mirena 52 MG Intrauterine System
+  2018-03-07[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2017-04-14[STOPPED] : Camila 28 Day Pack
+  2017-03-21[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2017-03-01[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2016-04-19[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2016-02-24[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2015-04-25[STOPPED] : Seasonique 91 Day Pack
+  2015-02-18[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2014-02-12[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+  2014-01-31[STOPPED] : Acetaminophen 325 MG Oral Tablet [Tylenol]
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-03-24 -            : Full-time employment (finding)
+  2020-03-18 - 2021-03-24 : Limited social contact (finding)
+  2020-03-18 - 2021-03-24 : Part-time employment (finding)
+  2020-01-17 - 2020-01-28 : Acute viral pharyngitis (disorder)
+  2019-12-11 - 2020-03-18 : Full-time employment (finding)
+  2019-12-04 - 2019-12-12 : Acute bronchitis (disorder)
+  2019-03-13 -            : Misuses drugs (finding)
+  2019-03-13 - 2019-12-11 : Stress (finding)
+  2019-03-13 - 2019-12-11 : Not in labor force (finding)
+  2018-03-07 - 2019-03-13 : Not in labor force (finding)
+  2018-01-24 - 2018-02-14 : Antepartum eclampsia
+  2017-12-27 - 2018-01-24 : Preeclampsia
+  2017-07-12 - 2018-02-14 : Normal pregnancy
+  2017-03-21 - 2017-04-05 : Viral sinusitis (disorder)
+  2017-03-01 - 2018-03-07 : Stress (finding)
+  2017-03-01 - 2018-03-07 : Full-time employment (finding)
+  2016-02-24 - 2017-03-01 : Not in labor force (finding)
+  2015-02-18 - 2016-02-24 : Reports of violence in the environment (finding)
+  2015-02-18 - 2019-12-11 : Social isolation (finding)
+  2015-02-18 - 2016-02-24 : Part-time employment (finding)
+  2014-07-16 - 2015-02-18 : Normal pregnancy
+  2014-02-12 - 2015-02-18 : Full-time employment (finding)
+  2014-01-31 -            : Chronic low back pain (finding)
+  2013-01-15 - 2013-02-04 : Viral sinusitis (disorder)
+  2011-08-24 - 2014-02-12 : Stress (finding)
+  2011-08-24 - 2014-02-12 : Full-time employment (finding)
+  2008-08-20 - 2011-08-24 : Full-time employment (finding)
+  2005-08-17 - 2008-08-20 : Full-time employment (finding)
+  2002-08-14 - 2005-08-17 : Full-time employment (finding)
+  2001-08-08 - 2002-08-14 : Full-time employment (finding)
+  2001-08-08 -            : Received higher education (finding)
+  1998-07-22 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2019-12-04[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2019-04-16[STOPPED] : Minor surgery care management (procedure)
+                         Activity: Recommendation to rest
+                         Activity: Recommendation to limit sexual activity
+  2017-07-12[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2008-03-12[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-03-24 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2021-03-24 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-03-24 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2020-03-18 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2020-03-18 : Lipid Panel
+           - Total Cholesterol                        160.9 mg/dL
+           - Triglycerides                            147.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      62.1 mg/dL
+           - High Density Lipoprotein Cholesterol     69.3 mg/dL
+  2019-12-11 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-12-11 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2019-12-11 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2019-03-13 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    7.0 {score}
+  2019-03-13 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2018-03-07 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2018-03-07 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2017-03-01 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-03-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.6 %
+           - MCV [Entitic volume] by Automated count  89.8 fL
+           - MCH [Entitic mass] by Automated count    29.7 pg
+           - MCHC [Mass/volume] by Automated count    34.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+           - Platelets [#/volume] in Blood by Automated count 325.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 153.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2017-03-01 : Lipid Panel
+           - Total Cholesterol                        178.0 mg/dL
+           - Triglycerides                            116.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      82.5 mg/dL
+           - High Density Lipoprotein Cholesterol     72.1 mg/dL
+  2016-02-24 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2016-02-24 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2015-02-18 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2015-02-18 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2014-02-12 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2014-02-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2014-02-12 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 10.0 {score}
+  2014-02-12 : Lipid Panel
+           - Total Cholesterol                        162.3 mg/dL
+           - Triglycerides                            121.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      59.1 mg/dL
+           - High Density Lipoprotein Cholesterol     78.9 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-03-24 : Total score [AUDIT-C]                    2.0 {score}
+  2021-03-24 : Total score [HARK]                       0.0 {score}
+  2021-03-24 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2021-03-24 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? I choose not to answer this question 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 36414 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             151 Kessler Spur 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-03-24 : Tobacco smoking status NHIS              Never smoker 
+  2021-03-24 : Respiratory rate                         14.0 /min
+  2021-03-24 : Heart rate                               96.0 /min
+  2021-03-24 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2021-03-24 : Body Mass Index                          27.8 kg/m2
+  2021-03-24 : Body Weight                              77.5 kg
+  2021-03-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-03-24 : Body Height                              166.9 cm
+  2020-03-18 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2020-03-18 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 36414 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             151 Kessler Spur 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2020-03-18 : Tobacco smoking status NHIS              Never smoker 
+  2020-03-18 : High Density Lipoprotein Cholesterol     69.3 mg/dL
+  2020-03-18 : Low Density Lipoprotein Cholesterol      62.1 mg/dL
+  2020-03-18 : Triglycerides                            147.7 mg/dL
+  2020-03-18 : Total Cholesterol                        160.9 mg/dL
+  2020-03-18 : Respiratory rate                         12.0 /min
+  2020-03-18 : Heart rate                               94.0 /min
+  2020-03-18 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2020-03-18 : Body Mass Index                          27.8 kg/m2
+  2020-03-18 : Body Weight                              77.5 kg
+  2020-03-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-03-18 : Body Height                              166.9 cm
+  2020-01-17 : Body temperature                         37.2 Cel
+  2019-12-11 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-12-11 : Total score [HARK]                       0.0 {score}
+  2019-12-11 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2019-12-11 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 36414 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             151 Kessler Spur 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2019-12-11 : Tobacco smoking status NHIS              Never smoker 
+  2019-12-11 : Respiratory rate                         13.0 /min
+  2019-12-11 : Heart rate                               70.0 /min
+  2019-12-11 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  2019-12-11 : Body Mass Index                          27.8 kg/m2
+  2019-12-11 : Body Weight                              77.5 kg
+  2019-12-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-12-11 : Body Height                              166.9 cm
+  2019-03-13 : Total score [DAST-10]                    7.0 {score}
+  2019-03-13 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-03-13 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 36414 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             151 Kessler Spur 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2019-03-13 : Tobacco smoking status NHIS              Never smoker 
+  2019-03-13 : Respiratory rate                         14.0 /min
+  2019-03-13 : Heart rate                               64.0 /min
+  2019-03-13 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2019-03-13 : Body Mass Index                          27.8 kg/m2
+  2019-03-13 : Body Weight                              77.5 kg
+  2019-03-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-03-13 : Body Height                              166.9 cm
+  2018-03-07 : Total score [HARK]                       0.0 {score}
+  2018-03-07 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2018-03-07 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 36414 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             151 Kessler Spur 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2018-03-07 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-07 : Respiratory rate                         14.0 /min
+  2018-03-07 : Heart rate                               72.0 /min
+  2018-03-07 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2018-03-07 : Body Mass Index                          27.8 kg/m2
+  2018-03-07 : Body Weight                              77.5 kg
+  2018-03-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-03-07 : Body Height                              166.9 cm
+  2017-03-01 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-03-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 36414 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             151 Kessler Spur 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2017-03-01 : Tobacco smoking status NHIS              Never smoker 
+  2017-03-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2017-03-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 153.4 fL
+  2017-03-01 : Platelets [#/volume] in Blood by Automated count 325.6 10*3/uL
+  2017-03-01 : Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+  2017-03-01 : MCHC [Mass/volume] by Automated count    34.2 g/dL
+  2017-03-01 : MCH [Entitic mass] by Automated count    29.7 pg
+  2017-03-01 : MCV [Entitic volume] by Automated count  89.8 fL
+  2017-03-01 : Hematocrit [Volume Fraction] of Blood by Automated count 46.6 %
+  2017-03-01 : Hemoglobin [Mass/volume] in Blood        17.0 g/dL
+  2017-03-01 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2017-03-01 : Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+  2017-03-01 : High Density Lipoprotein Cholesterol     72.1 mg/dL
+  2017-03-01 : Low Density Lipoprotein Cholesterol      82.5 mg/dL
+  2017-03-01 : Triglycerides                            116.9 mg/dL
+  2017-03-01 : Total Cholesterol                        178.0 mg/dL
+  2017-03-01 : Respiratory rate                         15.0 /min
+  2017-03-01 : Heart rate                               62.0 /min
+  2017-03-01 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2017-03-01 : Body Mass Index                          27.8 kg/m2
+  2017-03-01 : Body Weight                              77.5 kg
+  2017-03-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-03-01 : Body Height                              166.9 cm
+  2016-02-24 : Total score [AUDIT-C]                    2.0 {score}
+  2016-02-24 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2016-02-24 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 36414 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             151 Kessler Spur 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2016-02-24 : Tobacco smoking status NHIS              Never smoker 
+  2016-02-24 : Respiratory rate                         14.0 /min
+  2016-02-24 : Heart rate                               88.0 /min
+  2016-02-24 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2016-02-24 : Body Mass Index                          27.8 kg/m2
+  2016-02-24 : Body Weight                              77.5 kg
+  2016-02-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-02-24 : Body Height                              166.9 cm
+  2015-02-18 : Total score [HARK]                       0.0 {score}
+  2015-02-18 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2015-02-18 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 36414 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             151 Kessler Spur 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2015-02-18 : Tobacco smoking status NHIS              Never smoker 
+  2015-02-18 : Respiratory rate                         14.0 /min
+  2015-02-18 : Heart rate                               80.0 /min
+  2015-02-18 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2015-02-18 : Body Mass Index                          27.8 kg/m2
+  2015-02-18 : Body Weight                              77.5 kg
+  2015-02-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-02-18 : Body Height                              166.9 cm
+  2014-02-12 : Total score [DAST-10]                    1.0 {score}
+  2014-02-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2014-02-12 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 10.0 {score}
+  2014-02-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 36414 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             151 Kessler Spur 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2014-02-12 : Tobacco smoking status NHIS              Never smoker 
+  2014-02-12 : High Density Lipoprotein Cholesterol     78.9 mg/dL
+  2014-02-12 : Low Density Lipoprotein Cholesterol      59.1 mg/dL
+  2014-02-12 : Triglycerides                            121.9 mg/dL
+  2014-02-12 : Total Cholesterol                        162.3 mg/dL
+  2014-02-12 : Respiratory rate                         15.0 /min
+  2014-02-12 : Heart rate                               78.0 /min
+  2014-02-12 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2014-02-12 : Body Mass Index                          27.8 kg/m2
+  2014-02-12 : Body Weight                              77.5 kg
+  2014-02-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-02-12 : Body Height                              166.9 cm
+  2014-01-31 : Drugs of abuse 5 panel - Urine by Screen method Negative (qualifier value) n/a
+  2014-01-31 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 8.2 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 1.1 {score}
+           - What number best describes your pain on average in the past week? 5.7 {score}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-03-24 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2021-03-24 : Assessment of substance use (procedure)
+  2021-03-24 : Screening for domestic abuse (procedure)
+  2021-03-24 : Assessment of anxiety (procedure)
+  2021-03-24 : Medication Reconciliation (procedure)
+  2021-03-24 : Assessment of health and social care needs (procedure)
+  2020-03-18 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-03-18 : Depression screening (procedure)
+  2020-03-18 : Assessment of health and social care needs (procedure)
+  2019-12-11 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-12-11 : Depression screening (procedure)
+  2019-12-11 : Screening for domestic abuse (procedure)
+  2019-12-11 : Assessment of anxiety (procedure)
+  2019-12-11 : Medication Reconciliation (procedure)
+  2019-12-11 : Assessment of health and social care needs (procedure)
+  2019-12-04 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2019-04-16 : Bilateral tubal ligation
+  2019-03-13 : Screening for drug abuse (procedure)
+  2019-03-13 : Assessment of substance use (procedure)
+  2019-03-13 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-03-13 : Depression screening (procedure)
+  2019-03-13 : Medication Reconciliation (procedure)
+  2019-03-13 : Assessment of health and social care needs (procedure)
+  2018-04-11 : Insertion of intrauterine contraceptive device
+  2018-03-28 : Depression screening
+  2018-03-28 : Physical examination following birth
+  2018-03-07 : Screening for domestic abuse (procedure)
+  2018-03-07 : Assessment of anxiety (procedure)
+  2018-03-07 : Assessment of health and social care needs (procedure)
+  2018-02-14 : Childbirth for Normal pregnancy
+  2018-02-14 : Episiotomy for Normal pregnancy
+  2018-02-07 : Auscultation of the fetal heart for Normal pregnancy
+  2018-02-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-01-24 : Auscultation of the fetal heart for Normal pregnancy
+  2018-01-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-01-24 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2017-12-27 : Auscultation of the fetal heart for Normal pregnancy
+  2017-12-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-11-29 : Auscultation of the fetal heart for Normal pregnancy
+  2017-11-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-11-29 : Urine screening for glucose for Normal pregnancy
+  2017-11-29 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2017-11-29 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-11-01 : Auscultation of the fetal heart for Normal pregnancy
+  2017-11-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-10-04 : Auscultation of the fetal heart for Normal pregnancy
+  2017-10-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-09-06 : Auscultation of the fetal heart for Normal pregnancy
+  2017-09-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-09-06 : Alpha-fetoprotein test for Normal pregnancy
+  2017-09-06 : Fetal anatomy study for Normal pregnancy
+  2017-08-09 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2017-08-09 : Auscultation of the fetal heart for Normal pregnancy
+  2017-08-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-07-12 : Physical examination of mother for Normal pregnancy
+  2017-07-12 : Urine protein test for Normal pregnancy
+  2017-07-12 : Skin test for tuberculosis for Normal pregnancy
+  2017-07-12 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2017-07-12 : Rubella screening for Normal pregnancy
+  2017-07-12 : Hepatitis C antibody test for Normal pregnancy
+  2017-07-12 : Urine screening test for diabetes for Normal pregnancy
+  2017-07-12 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2017-07-12 : Urine culture for Normal pregnancy
+  2017-07-12 : Syphilis infection test for Normal pregnancy
+  2017-07-12 : Gonorrhea infection test for Normal pregnancy
+  2017-07-12 : Chlamydia antigen test for Normal pregnancy
+  2017-07-12 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2017-07-12 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2017-07-12 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-07-12 : Blood typing, RH typing for Normal pregnancy
+  2017-07-12 : Auscultation of the fetal heart for Normal pregnancy
+  2017-07-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-07-12 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-07-12 : Standard pregnancy test for Normal pregnancy
+  2017-05-17 : Removal of subcutaneous contraceptive
+  2017-03-01 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2017-03-01 : Depression screening (procedure)
+  2017-03-01 : Medication Reconciliation (procedure)
+  2017-03-01 : Assessment of health and social care needs (procedure)
+  2016-04-19 : Insertion of subcutaneous contraceptive
+  2016-02-24 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2016-02-24 : Assessment of substance use (procedure)
+  2016-02-24 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2016-02-24 : Depression screening (procedure)
+  2016-02-24 : Medication Reconciliation (procedure)
+  2016-02-24 : Assessment of health and social care needs (procedure)
+  2015-04-01 : Depression screening
+  2015-04-01 : Physical examination following birth
+  2015-02-18 : Screening for domestic abuse (procedure)
+  2015-02-18 : Assessment of anxiety (procedure)
+  2015-02-18 : Assessment of health and social care needs (procedure)
+  2015-02-18 : Childbirth for Normal pregnancy
+  2015-02-18 : Episiotomy for Normal pregnancy
+  2015-02-11 : Auscultation of the fetal heart for Normal pregnancy
+  2015-02-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-01-28 : Auscultation of the fetal heart for Normal pregnancy
+  2015-01-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-01-28 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2014-12-31 : Auscultation of the fetal heart for Normal pregnancy
+  2014-12-31 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-12-03 : Auscultation of the fetal heart for Normal pregnancy
+  2014-12-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-12-03 : Urine screening for glucose for Normal pregnancy
+  2014-12-03 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2014-12-03 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-11-05 : Auscultation of the fetal heart for Normal pregnancy
+  2014-11-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-10-08 : Auscultation of the fetal heart for Normal pregnancy
+  2014-10-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-09-10 : Auscultation of the fetal heart for Normal pregnancy
+  2014-09-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-09-10 : Alpha-fetoprotein test for Normal pregnancy
+  2014-09-10 : Fetal anatomy study for Normal pregnancy
+  2014-08-13 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2014-08-13 : Auscultation of the fetal heart for Normal pregnancy
+  2014-08-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-07-16 : Physical examination of mother for Normal pregnancy
+  2014-07-16 : Urine protein test for Normal pregnancy
+  2014-07-16 : Skin test for tuberculosis for Normal pregnancy
+  2014-07-16 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2014-07-16 : Rubella screening for Normal pregnancy
+  2014-07-16 : Hepatitis C antibody test for Normal pregnancy
+  2014-07-16 : Urine screening test for diabetes for Normal pregnancy
+  2014-07-16 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2014-07-16 : Urine culture for Normal pregnancy
+  2014-07-16 : Syphilis infection test for Normal pregnancy
+  2014-07-16 : Gonorrhea infection test for Normal pregnancy
+  2014-07-16 : Chlamydia antigen test for Normal pregnancy
+  2014-07-16 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2014-07-16 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2014-07-16 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-07-16 : Blood typing, RH typing for Normal pregnancy
+  2014-07-16 : Auscultation of the fetal heart for Normal pregnancy
+  2014-07-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-07-16 : Ultrasound scan for fetal viability for Normal pregnancy
+  2014-07-16 : Standard pregnancy test for Normal pregnancy
+  2014-05-21 : Removal of subcutaneous contraceptive
+  2014-02-12 : Screening for drug abuse (procedure)
+  2014-02-12 : Assessment of substance use (procedure)
+  2014-02-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2014-02-12 : Depression screening (procedure)
+  2014-02-12 : Assessment of anxiety (procedure)
+  2014-02-12 : Medication Reconciliation (procedure)
+  2014-02-12 : Assessment of health and social care needs (procedure)
+  2012-05-10 : Insertion of intrauterine contraceptive device
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-05-12 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-04-21 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-03-24 : Influenza, seasonal, injectable, preservative free
+  2020-03-18 : Influenza, seasonal, injectable, preservative free
+  2019-03-13 : Influenza, seasonal, injectable, preservative free
+  2018-03-07 : Influenza, seasonal, injectable, preservative free
+  2017-03-01 : Influenza, seasonal, injectable, preservative free
+  2016-02-24 : Influenza, seasonal, injectable, preservative free
+  2015-02-18 : Td (adult) preservative free
+  2015-02-18 : Influenza, seasonal, injectable, preservative free
+  2014-02-12 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-05-12 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2021-04-21 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2021-03-24 (Dr. Flora Feeney) : Encounter at TEXAS NEURO SPINE INSTITUTE, PA
+2020-03-18 (Dr. Flora Feeney) : Encounter at TEXAS NEURO SPINE INSTITUTE, PA
+2020-01-17 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Acute viral pharyngitis (disorder)
+2019-12-11 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2019-12-04 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Acute bronchitis (disorder)
+2019-04-16 (Dr. Fabian Walsh) : Encounter at METHODIST DALLAS MEDICAL CENTER
+2019-04-06 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2019-03-13 (Dr. Flora Feeney) : Encounter at TEXAS NEURO SPINE INSTITUTE, PA
+2018-04-11 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2018-04-09 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2018-03-28 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT
+2018-03-07 (Dr. Flora Feeney) : Encounter at TEXAS NEURO SPINE INSTITUTE, PA
+2018-02-14 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER : Encounter for Normal pregnancy
+2018-02-07 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2018-01-24 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2017-12-27 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2017-11-29 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2017-11-01 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2017-10-04 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2017-09-06 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2017-08-09 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2017-07-12 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2017-05-17 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2017-04-14 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2017-03-21 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Viral sinusitis (disorder)
+2017-03-01 (Dr. Flora Feeney) : Encounter at TEXAS NEURO SPINE INSTITUTE, PA
+2016-04-19 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2016-02-24 (Dr. Flora Feeney) : Encounter at TEXAS NEURO SPINE INSTITUTE, PA
+2015-04-25 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2015-04-01 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT
+2015-02-18 (Dr. Garland Yost) : Encounter at WALNUT HILL MEDICAL CENTER : Encounter for Normal pregnancy
+2015-02-18 (Dr. Flora Feeney) : Encounter at TEXAS NEURO SPINE INSTITUTE, PA
+2015-02-11 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2015-01-28 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2014-12-31 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2014-12-03 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2014-11-05 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2014-10-08 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2014-09-10 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2014-08-13 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2014-07-16 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2014-05-21 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2014-02-12 (Dr. Flora Feeney) : Encounter at TEXAS NEURO SPINE INSTITUTE, PA
+2014-01-31 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2013-01-15 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Viral sinusitis (disorder)
+2012-05-10 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2012-05-07 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2011-08-24 (Dr. Flora Feeney) : Encounter at TEXAS NEURO SPINE INSTITUTE, PA
+2008-08-20 (Dr. Flora Feeney) : Encounter at TEXAS NEURO SPINE INSTITUTE, PA
+2008-03-12 (Dr. Carla Prosacco) : Encounter at TEXAS INSTITUTE FOR SURGERY AT PRESBYTERIAN HOSPIT : Encounter for Normal pregnancy
+2005-08-17 (Dr. Flora Feeney) : Encounter at TEXAS NEURO SPINE INSTITUTE, PA
+2002-08-14 (Dr. Flora Feeney) : Encounter at TEXAS NEURO SPINE INSTITUTE, PA
+2001-08-08 (Dr. Flora Feeney) : Encounter at TEXAS NEURO SPINE INSTITUTE, PA
+1998-07-22 (Dr. Flora Feeney) : Encounter at TEXAS NEURO SPINE INSTITUTE, PA
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,285 @@
+Xavier Ratke
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 16
+Birth Date:          2005-03-25
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-08-08[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2012-09-05[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2012-09-05[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2012-06-05[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-05-07 -            : Risk activity involvement (finding)
+  2014-08-08 - 2014-11-24 : Fracture of ankle
+  2012-09-05 - 2013-03-22 : Otitis media
+  2012-06-05 - 2012-08-17 : Fracture of clavicle
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-08-08[STOPPED] : Fracture care
+                         Reason: Fracture of ankle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2012-06-05[STOPPED] : Fracture care
+                         Reason: Fracture of clavicle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-05-07 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 11.0 {score}
+  2021-05-07 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.8 %
+           - MCV [Entitic volume] by Automated count  87.2 fL
+           - MCH [Entitic mass] by Automated count    27.7 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.5 fL
+           - Platelets [#/volume] in Blood by Automated count 431.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 374.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2020-05-01 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2019-04-26 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2019-04-26 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2018-04-20 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2017-04-14 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2017-04-14 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2016-04-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.0 %
+           - MCV [Entitic volume] by Automated count  86.5 fL
+           - MCH [Entitic mass] by Automated count    28.3 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.7 fL
+           - Platelets [#/volume] in Blood by Automated count 175.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 395.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-05-07 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 11.0 {score}
+  2021-05-07 : Tobacco smoking status NHIS              Never smoker 
+  2021-05-07 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2021-05-07 : Platelet distribution width [Entitic volume] in Blood by Automated count 374.8 fL
+  2021-05-07 : Platelets [#/volume] in Blood by Automated count 431.4 10*3/uL
+  2021-05-07 : Erythrocyte distribution width [Entitic volume] by Automated count 45.5 fL
+  2021-05-07 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2021-05-07 : MCH [Entitic mass] by Automated count    27.7 pg
+  2021-05-07 : MCV [Entitic volume] by Automated count  87.2 fL
+  2021-05-07 : Hematocrit [Volume Fraction] of Blood by Automated count 37.8 %
+  2021-05-07 : Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+  2021-05-07 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2021-05-07 : Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+  2021-05-07 : Respiratory rate                         13.0 /min
+  2021-05-07 : Heart rate                               67.0 /min
+  2021-05-07 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2021-05-07 : Body mass index (BMI) [Percentile] Per age and gender 16.2 %
+  2021-05-07 : Body Mass Index                          18.3 kg/m2
+  2021-05-07 : Body Weight                              55.4 kg
+  2021-05-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-05-07 : Body Height                              173.8 cm
+  2020-05-01 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2020-05-01 : Tobacco smoking status NHIS              Never smoker 
+  2020-05-01 : Respiratory rate                         14.0 /min
+  2020-05-01 : Heart rate                               99.0 /min
+  2020-05-01 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2020-05-01 : Body mass index (BMI) [Percentile] Per age and gender 19.0 %
+  2020-05-01 : Body Mass Index                          17.9 kg/m2
+  2020-05-01 : Body Weight                              52.1 kg
+  2020-05-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-05-01 : Body Height                              170.5 cm
+  2019-04-26 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2019-04-26 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2019-04-26 : Tobacco smoking status NHIS              Never smoker 
+  2019-04-26 : Respiratory rate                         15.0 /min
+  2019-04-26 : Heart rate                               79.0 /min
+  2019-04-26 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2019-04-26 : Body mass index (BMI) [Percentile] Per age and gender 23.7 %
+  2019-04-26 : Body Mass Index                          17.6 kg/m2
+  2019-04-26 : Body Weight                              47.8 kg
+  2019-04-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-04-26 : Body Height                              164.7 cm
+  2018-04-20 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2018-04-20 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-20 : Respiratory rate                         14.0 /min
+  2018-04-20 : Heart rate                               80.0 /min
+  2018-04-20 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2018-04-20 : Body mass index (BMI) [Percentile] Per age and gender 21.2 %
+  2018-04-20 : Body Mass Index                          16.8 kg/m2
+  2018-04-20 : Body Weight                              41.1 kg
+  2018-04-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-04-20 : Body Height                              156.4 cm
+  2017-04-14 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2017-04-14 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2017-04-14 : Tobacco smoking status NHIS              Never smoker 
+  2017-04-14 : Respiratory rate                         12.0 /min
+  2017-04-14 : Heart rate                               86.0 /min
+  2017-04-14 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2017-04-14 : Body mass index (BMI) [Percentile] Per age and gender 17.6 %
+  2017-04-14 : Body Mass Index                          16.0 kg/m2
+  2017-04-14 : Body Weight                              35.7 kg
+  2017-04-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2017-04-14 : Body Height                              149.3 cm
+  2016-04-08 : Tobacco smoking status NHIS              Never smoker 
+  2016-04-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2016-04-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 395.7 fL
+  2016-04-08 : Platelets [#/volume] in Blood by Automated count 175.6 10*3/uL
+  2016-04-08 : Erythrocyte distribution width [Entitic volume] by Automated count 44.7 fL
+  2016-04-08 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2016-04-08 : MCH [Entitic mass] by Automated count    28.3 pg
+  2016-04-08 : MCV [Entitic volume] by Automated count  86.5 fL
+  2016-04-08 : Hematocrit [Volume Fraction] of Blood by Automated count 43.0 %
+  2016-04-08 : Hemoglobin [Mass/volume] in Blood        12.0 g/dL
+  2016-04-08 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2016-04-08 : Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+  2016-04-08 : Respiratory rate                         13.0 /min
+  2016-04-08 : Heart rate                               84.0 /min
+  2016-04-08 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2016-04-08 : Body mass index (BMI) [Percentile] Per age and gender 18.8 %
+  2016-04-08 : Body Mass Index                          15.6 kg/m2
+  2016-04-08 : Body Weight                              32.2 kg
+  2016-04-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-04-08 : Body Height                              143.7 cm
+  2015-04-03 : Tobacco smoking status NHIS              Never smoker 
+  2015-04-03 : Respiratory rate                         15.0 /min
+  2015-04-03 : Heart rate                               66.0 /min
+  2015-04-03 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2015-04-03 : Body mass index (BMI) [Percentile] Per age and gender 25.7 %
+  2015-04-03 : Body Mass Index                          15.5 kg/m2
+  2015-04-03 : Body Weight                              29.9 kg
+  2015-04-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-04-03 : Body Height                              138.8 cm
+  2014-03-28 : Tobacco smoking status NHIS              Never smoker 
+  2014-03-28 : Respiratory rate                         13.0 /min
+  2014-03-28 : Heart rate                               65.0 /min
+  2014-03-28 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2014-03-28 : Body mass index (BMI) [Percentile] Per age and gender 15.6 %
+  2014-03-28 : Body Mass Index                          14.7 kg/m2
+  2014-03-28 : Body Weight                              26.2 kg
+  2014-03-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-03-28 : Body Height                              133.7 cm
+  2013-03-22 : Tobacco smoking status NHIS              Never smoker 
+  2013-03-22 : Respiratory rate                         13.0 /min
+  2013-03-22 : Heart rate                               80.0 /min
+  2013-03-22 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2013-03-22 : Body mass index (BMI) [Percentile] Per age and gender 35.9 %
+  2013-03-22 : Body Mass Index                          15.2 kg/m2
+  2013-03-22 : Body Weight                              24.8 kg
+  2013-03-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-03-22 : Body Height                              127.6 cm
+  2012-03-16 : Tobacco smoking status NHIS              Never smoker 
+  2012-03-16 : Respiratory rate                         14.0 /min
+  2012-03-16 : Heart rate                               70.0 /min
+  2012-03-16 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2012-03-16 : Body mass index (BMI) [Percentile] Per age and gender 11.9 %
+  2012-03-16 : Body Mass Index                          14.1 kg/m2
+  2012-03-16 : Body Weight                              20.9 kg
+  2012-03-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2012-03-16 : Body Height                              121.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-05-07 : Health risks education (procedure) for Risk activity involvement (finding)
+  2021-05-07 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-05-07 : Assessment of substance use (procedure)
+  2021-05-07 : Assessment of anxiety (procedure)
+  2020-05-01 : Anticipatory guidance (procedure)
+  2020-05-01 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2020-05-01 : Assessment of substance use (procedure)
+  2020-05-01 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2020-05-01 : Medication Reconciliation (procedure)
+  2020-05-01 : Depression screening (procedure)
+  2019-04-26 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2019-04-26 : Depression screening (procedure)
+  2019-04-26 : Medication Reconciliation (procedure)
+  2019-04-26 : Assessment of anxiety (procedure)
+  2018-04-20 : Anticipatory guidance (procedure)
+  2018-04-20 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2018-04-20 : Assessment of substance use (procedure)
+  2018-04-20 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2018-04-20 : Medication Reconciliation (procedure)
+  2018-04-20 : Depression screening (procedure)
+  2017-04-14 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2017-04-14 : Depression screening (procedure)
+  2017-04-14 : Assessment of anxiety (procedure)
+  2015-04-03 : Medication Reconciliation (procedure)
+  2014-08-08 : Bone immobilization for Fracture of ankle
+  2014-08-08 : Ankle X-ray
+  2013-03-22 : Medication Reconciliation (procedure)
+  2012-06-05 : Admission to orthopedic department for Fracture of clavicle
+  2012-06-05 : Clavicle X-ray
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-05-07 : meningococcal MCV4P
+  2021-05-07 : Influenza, seasonal, injectable, preservative free
+  2020-05-01 : Influenza, seasonal, injectable, preservative free
+  2019-04-26 : Influenza, seasonal, injectable, preservative free
+  2018-04-20 : HPV, quadrivalent
+  2018-04-20 : Influenza, seasonal, injectable, preservative free
+  2017-04-14 : HPV, quadrivalent
+  2017-04-14 : Influenza, seasonal, injectable, preservative free
+  2016-04-08 : meningococcal MCV4P
+  2016-04-08 : HPV, quadrivalent
+  2016-04-08 : Influenza, seasonal, injectable, preservative free
+  2016-04-08 : Tdap
+  2015-04-03 : Influenza, seasonal, injectable, preservative free
+  2014-03-28 : Influenza, seasonal, injectable, preservative free
+  2013-03-22 : Influenza, seasonal, injectable, preservative free
+  2012-03-16 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-05-07 (Dr. Elvin Hilpert) : Encounter at MEDHEALTH
+2020-05-01 (Dr. Elvin Hilpert) : Encounter at MEDHEALTH
+2019-04-26 (Dr. Elvin Hilpert) : Encounter at MEDHEALTH
+2018-04-20 (Dr. Elvin Hilpert) : Encounter at MEDHEALTH
+2017-04-14 (Dr. Elvin Hilpert) : Encounter at MEDHEALTH
+2016-04-08 (Dr. Elvin Hilpert) : Encounter at MEDHEALTH
+2015-04-03 (Dr. Elvin Hilpert) : Encounter at MEDHEALTH
+2014-11-24 (Dr. Marica Mills) : Encounter at TEXAS GENERAL HOSPITAL : Encounter for Fracture of ankle
+2014-08-08 (Dr. Marica Mills) : Encounter at TEXAS GENERAL HOSPITAL
+2014-03-28 (Dr. Elvin Hilpert) : Encounter at MEDHEALTH
+2013-03-22 (Dr. Elvin Hilpert) : Encounter at MEDHEALTH
+2012-09-05 (Dr. Marica Mills) : Encounter at TEXAS GENERAL HOSPITAL : Encounter for Otitis media
+2012-08-17 (Dr. Marica Mills) : Encounter at TEXAS GENERAL HOSPITAL : Encounter for Fracture of clavicle
+2012-06-05 (Dr. Marica Mills) : Encounter at TEXAS GENERAL HOSPITAL
+2012-03-16 (Dr. Elvin Hilpert) : Encounter at MEDHEALTH
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2014-08-08 : Digital Radiography, Ankle
+  2012-06-05 : Digital Radiography, Clavicle
+--------------------------------------------------------------------------------

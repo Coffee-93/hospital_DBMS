@@ -1,0 +1,693 @@
+Verónica Ybarra
+===ó===========
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 73
+Birth Date:          1948-05-14
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-08-23[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2004-05-17[CURRENT] : 150 ML vancomycin 5 MG/ML Injection for Sepsis (disorder)
+  2004-05-17[CURRENT] : piperacillin 2000 MG / tazobactam 250 MG Injection for Sepsis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-09-24 -            : Stress (finding)
+  2017-09-01 - 2019-09-13 : Stress (finding)
+  2015-08-23 - 2015-09-02 : Viral sinusitis (disorder)
+  2014-08-15 - 2016-08-26 : Stress (finding)
+  2014-02-02 -            : Chronic low back pain (finding)
+  2013-08-09 - 2021-09-24 : Social isolation (finding)
+  2012-08-03 -            : Limited social contact (finding)
+  2011-07-29 - 2013-08-09 : Reports of violence in the environment (finding)
+  2004-05-17 -            : Sepsis (disorder)
+  2002-06-07 - 2009-07-17 : Stress (finding)
+  1998-05-15 - 2000-05-26 : Stress (finding)
+  1995-01-13 -            : Miscarriage in first trimester
+  1982-07-30 - 1996-06-07 : Stress (finding)
+  1982-07-30 - 2011-07-29 : Limited social contact (finding)
+  1982-07-30 -            : Body mass index 30+ - obesity (finding)
+  1979-07-27 -            : Victim of intimate partner abuse (finding)
+  1973-07-20 - 1979-07-27 : Stress (finding)
+  1973-07-20 - 1979-07-27 : Limited social contact (finding)
+  1973-07-20 -            : Transport problems (finding)
+  1967-07-14 -            : Refugee (person)
+  1967-07-14 -            : Has a criminal record (finding)
+  1966-07-08 - 1970-07-17 : Stress (finding)
+  1966-07-08 -            : Lack of access to transportation (finding)
+  1966-07-08 -            : Unemployed (finding)
+  1966-07-08 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-02-02[STOPPED] : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavior therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-09-24 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-09-24 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-09-24 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       8.0 {#}
+           - Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2020-09-18 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       105.0 {#}
+           - Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2020-09-18 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2020-09-18 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.2 %
+           - MCV [Entitic volume] by Automated count  91.5 fL
+           - MCH [Entitic mass] by Automated count    29.5 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+           - Platelets [#/volume] in Blood by Automated count 343.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 381.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2019-09-13 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       4.0 {#}
+           - Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2019-09-13 : Lipid Panel
+           - Total Cholesterol                        194.5 mg/dL
+           - Triglycerides                            146.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      91.6 mg/dL
+           - High Density Lipoprotein Cholesterol     73.6 mg/dL
+  2018-09-07 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2018-09-07 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2018-09-07 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       10.0 {#}
+           - Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2018-09-07 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2017-09-01 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2017-09-01 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-09-01 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       16.0 {#}
+           - Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2017-09-01 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2016-08-26 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2016-08-26 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2016-08-26 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2016-08-26 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       77.0 {#}
+           - Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2016-08-26 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2016-08-26 : Lipid Panel
+           - Total Cholesterol                        168.1 mg/dL
+           - Triglycerides                            146.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      75.9 mg/dL
+           - High Density Lipoprotein Cholesterol     62.9 mg/dL
+  2015-08-21 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2015-08-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.7 %
+           - MCV [Entitic volume] by Automated count  91.2 fL
+           - MCH [Entitic mass] by Automated count    30.9 pg
+           - MCHC [Mass/volume] by Automated count    33.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+           - Platelets [#/volume] in Blood by Automated count 277.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 231.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2014-08-15 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2014-08-15 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       125.0 {#}
+           - Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2013-08-09 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2013-08-09 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2013-08-09 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2013-08-09 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       0.0 {#}
+           - Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2013-08-09 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2013-08-09 : Lipid Panel
+           - Total Cholesterol                        183.8 mg/dL
+           - Triglycerides                            139.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      84.9 mg/dL
+           - High Density Lipoprotein Cholesterol     71.0 mg/dL
+  2012-08-03 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2012-08-03 : PHQ-9 quick depression assessment panel [Reported.PHQ]
+           - Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 3.0 {score}
+  2012-08-03 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 3.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-09-24 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-09-24 : Total score [HARK]                       0.0 {score}
+  2021-09-24 : Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2021-09-24 : Fall risk total [Morse Fall Scale]       8.0 {#}
+  2021-09-24 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 61885 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             733 Reinger Gateway Unit 75 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-09-24 : Tobacco smoking status NHIS              Former smoker 
+  2021-09-24 : Respiratory rate                         12.0 /min
+  2021-09-24 : Heart rate                               77.0 /min
+  2021-09-24 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2021-09-24 : Body Mass Index                          30.3 kg/m2
+  2021-09-24 : Body Weight                              83.9 kg
+  2021-09-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-09-24 : Body Height                              166.4 cm
+  2020-09-18 : Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2020-09-18 : Fall risk total [Morse Fall Scale]       105.0 {#}
+  2020-09-18 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2020-09-18 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 61885 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             733 Reinger Gateway Unit 75 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2020-09-18 : Tobacco smoking status NHIS              Former smoker 
+  2020-09-18 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2020-09-18 : Platelet distribution width [Entitic volume] in Blood by Automated count 381.2 fL
+  2020-09-18 : Platelets [#/volume] in Blood by Automated count 343.1 10*3/uL
+  2020-09-18 : Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+  2020-09-18 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2020-09-18 : MCH [Entitic mass] by Automated count    29.5 pg
+  2020-09-18 : MCV [Entitic volume] by Automated count  91.5 fL
+  2020-09-18 : Hematocrit [Volume Fraction] of Blood by Automated count 42.2 %
+  2020-09-18 : Hemoglobin [Mass/volume] in Blood        14.8 g/dL
+  2020-09-18 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2020-09-18 : Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+  2020-09-18 : Respiratory rate                         14.0 /min
+  2020-09-18 : Heart rate                               95.0 /min
+  2020-09-18 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2020-09-18 : Body Mass Index                          30.3 kg/m2
+  2020-09-18 : Body Weight                              83.9 kg
+  2020-09-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-09-18 : Body Height                              166.4 cm
+  2019-09-13 : Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2019-09-13 : Fall risk total [Morse Fall Scale]       4.0 {#}
+  2019-09-13 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 61885 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             733 Reinger Gateway Unit 75 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2019-09-13 : Tobacco smoking status NHIS              Former smoker 
+  2019-09-13 : High Density Lipoprotein Cholesterol     73.6 mg/dL
+  2019-09-13 : Low Density Lipoprotein Cholesterol      91.6 mg/dL
+  2019-09-13 : Triglycerides                            146.3 mg/dL
+  2019-09-13 : Total Cholesterol                        194.5 mg/dL
+  2019-09-13 : Respiratory rate                         15.0 /min
+  2019-09-13 : Heart rate                               85.0 /min
+  2019-09-13 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2019-09-13 : Body Mass Index                          30.3 kg/m2
+  2019-09-13 : Body Weight                              83.9 kg
+  2019-09-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-09-13 : Body Height                              166.4 cm
+  2018-09-07 : Total score [AUDIT-C]                    1.0 {score}
+  2018-09-07 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2018-09-07 : Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2018-09-07 : Fall risk total [Morse Fall Scale]       10.0 {#}
+  2018-09-07 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2018-09-07 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 61885 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             733 Reinger Gateway Unit 75 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2018-09-07 : Tobacco smoking status NHIS              Former smoker 
+  2018-09-07 : Respiratory rate                         16.0 /min
+  2018-09-07 : Heart rate                               86.0 /min
+  2018-09-07 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2018-09-07 : Body Mass Index                          30.3 kg/m2
+  2018-09-07 : Body Weight                              83.9 kg
+  2018-09-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-09-07 : Body Height                              166.4 cm
+  2017-09-01 : Total score [AUDIT-C]                    1.0 {score}
+  2017-09-01 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-09-01 : Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2017-09-01 : Fall risk total [Morse Fall Scale]       16.0 {#}
+  2017-09-01 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2017-09-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 61885 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             733 Reinger Gateway Unit 75 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2017-09-01 : Tobacco smoking status NHIS              Former smoker 
+  2017-09-01 : Respiratory rate                         12.0 /min
+  2017-09-01 : Heart rate                               76.0 /min
+  2017-09-01 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2017-09-01 : Body Mass Index                          30.3 kg/m2
+  2017-09-01 : Body Weight                              83.9 kg
+  2017-09-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-09-01 : Body Height                              166.4 cm
+  2016-08-26 : Total score [AUDIT-C]                    0.0 {score}
+  2016-08-26 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2016-08-26 : Total score [HARK]                       0.0 {score}
+  2016-08-26 : Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2016-08-26 : Fall risk total [Morse Fall Scale]       77.0 {#}
+  2016-08-26 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2016-08-26 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 61885 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             733 Reinger Gateway Unit 75 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2016-08-26 : Tobacco smoking status NHIS              Former smoker 
+  2016-08-26 : High Density Lipoprotein Cholesterol     62.9 mg/dL
+  2016-08-26 : Low Density Lipoprotein Cholesterol      75.9 mg/dL
+  2016-08-26 : Triglycerides                            146.2 mg/dL
+  2016-08-26 : Total Cholesterol                        168.1 mg/dL
+  2016-08-26 : Respiratory rate                         13.0 /min
+  2016-08-26 : Heart rate                               62.0 /min
+  2016-08-26 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2016-08-26 : Body Mass Index                          29.8 kg/m2
+  2016-08-26 : Body Weight                              82.4 kg
+  2016-08-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-08-26 : Body Height                              166.4 cm
+  2015-08-21 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2015-08-21 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 61885 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             733 Reinger Gateway Unit 75 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2015-08-21 : Tobacco smoking status NHIS              Former smoker 
+  2015-08-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2015-08-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 231.2 fL
+  2015-08-21 : Platelets [#/volume] in Blood by Automated count 277.4 10*3/uL
+  2015-08-21 : Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+  2015-08-21 : MCHC [Mass/volume] by Automated count    33.1 g/dL
+  2015-08-21 : MCH [Entitic mass] by Automated count    30.9 pg
+  2015-08-21 : MCV [Entitic volume] by Automated count  91.2 fL
+  2015-08-21 : Hematocrit [Volume Fraction] of Blood by Automated count 41.7 %
+  2015-08-21 : Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+  2015-08-21 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2015-08-21 : Leukocytes [#/volume] in Blood by Automated count 6.8 10*3/uL
+  2015-08-21 : Respiratory rate                         15.0 /min
+  2015-08-21 : Heart rate                               97.0 /min
+  2015-08-21 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2015-08-21 : Body Mass Index                          29.2 kg/m2
+  2015-08-21 : Body Weight                              80.9 kg
+  2015-08-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-08-21 : Body Height                              166.4 cm
+  2014-08-15 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2014-08-15 : Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2014-08-15 : Fall risk total [Morse Fall Scale]       125.0 {#}
+  2014-08-15 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from non-medical meetings, appointments, work, or from getting things that I need 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 61885 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             733 Reinger Gateway Unit 75 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2014-08-15 : Tobacco smoking status NHIS              Former smoker 
+  2014-08-15 : Respiratory rate                         14.0 /min
+  2014-08-15 : Heart rate                               77.0 /min
+  2014-08-15 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2014-08-15 : Body Mass Index                          28.7 kg/m2
+  2014-08-15 : Body Weight                              79.4 kg
+  2014-08-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2014-08-15 : Body Height                              166.4 cm
+  2014-03-04 : Pain severity - Reported                 3.3 {score}
+  2014-03-01 : Pain severity - Reported                 3.2 {score}
+  2014-02-26 : Pain severity - Reported                 2.2 {score}
+  2014-02-23 : Pain severity - Reported                 5.9 {score}
+  2014-02-20 : Pain severity - Reported                 2.7 {score}
+  2014-02-17 : Pain severity - Reported                 7.9 {score}
+  2014-02-14 : Pain severity - Reported                 4.5 {score}
+  2014-02-11 : Pain severity - Reported                 3.0 {score}
+  2014-02-08 : Pain severity - Reported                 2.7 {score}
+  2014-02-05 : Pain severity - Reported                 8.1 {score}
+  2014-02-02 : Drugs of abuse 5 panel - Urine by Screen method Negative (qualifier value) n/a
+  2014-02-02 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 7.6 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 6.1 {score}
+           - What number best describes your pain on average in the past week? 6.2 {score}
+  2013-08-09 : Total score [AUDIT-C]                    1.0 {score}
+  2013-08-09 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2013-08-09 : Total score [HARK]                       0.0 {score}
+  2013-08-09 : Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2013-08-09 : Fall risk total [Morse Fall Scale]       0.0 {#}
+  2013-08-09 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2013-08-09 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 61885 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             733 Reinger Gateway Unit 75 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2013-08-09 : Tobacco smoking status NHIS              Former smoker 
+  2013-08-09 : High Density Lipoprotein Cholesterol     71.0 mg/dL
+  2013-08-09 : Low Density Lipoprotein Cholesterol      84.9 mg/dL
+  2013-08-09 : Triglycerides                            139.4 mg/dL
+  2013-08-09 : Total Cholesterol                        183.8 mg/dL
+  2013-08-09 : Respiratory rate                         15.0 /min
+  2013-08-09 : Heart rate                               99.0 /min
+  2013-08-09 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2013-08-09 : Body Mass Index                          28.2 kg/m2
+  2013-08-09 : Body Weight                              78.2 kg
+  2013-08-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-08-09 : Body Height                              166.4 cm
+  2012-08-03 : Total score [DAST-10]                    1.0 {score}
+  2012-08-03 : Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 3.0 {score}
+  2012-08-03 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 3.0 {score}
+  2012-08-03 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Unsure 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? Yes, it has kept me from medical appointments or from getting my medications 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 61885 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             733 Reinger Gateway Unit 75 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2012-08-03 : Tobacco smoking status NHIS              Former smoker 
+  2012-08-03 : Respiratory rate                         14.0 /min
+  2012-08-03 : Heart rate                               75.0 /min
+  2012-08-03 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2012-08-03 : Body Mass Index                          30.3 kg/m2
+  2012-08-03 : Body Weight                              83.9 kg
+  2012-08-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-08-03 : Body Height                              166.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-09-24 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-09-24 : Depression screening (procedure)
+  2021-09-24 : Screening for domestic abuse (procedure)
+  2021-09-24 : Assessment using Morse Fall Scale (procedure)
+  2021-09-24 : Assessment of health and social care needs (procedure)
+  2020-09-18 : Assessment using Morse Fall Scale (procedure)
+  2020-09-18 : Assessment of anxiety (procedure)
+  2020-09-18 : Assessment of health and social care needs (procedure)
+  2019-09-13 : Assessment using Morse Fall Scale (procedure)
+  2019-09-13 : Medication Reconciliation (procedure)
+  2019-09-13 : Assessment of health and social care needs (procedure)
+  2018-09-07 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2018-09-07 : Assessment of substance use (procedure)
+  2018-09-07 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2018-09-07 : Depression screening (procedure)
+  2018-09-07 : Assessment using Morse Fall Scale (procedure)
+  2018-09-07 : Assessment of anxiety (procedure)
+  2018-09-07 : Assessment of health and social care needs (procedure)
+  2017-09-01 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2017-09-01 : Assessment of substance use (procedure)
+  2017-09-01 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2017-09-01 : Depression screening (procedure)
+  2017-09-01 : Assessment using Morse Fall Scale (procedure)
+  2017-09-01 : Assessment of anxiety (procedure)
+  2017-09-01 : Medication Reconciliation (procedure)
+  2017-09-01 : Assessment of health and social care needs (procedure)
+  2016-08-26 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2016-08-26 : Assessment of substance use (procedure)
+  2016-08-26 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2016-08-26 : Depression screening (procedure)
+  2016-08-26 : Screening for domestic abuse (procedure)
+  2016-08-26 : Assessment using Morse Fall Scale (procedure)
+  2016-08-26 : Assessment of anxiety (procedure)
+  2016-08-26 : Medication Reconciliation (procedure)
+  2016-08-26 : Assessment of health and social care needs (procedure)
+  2015-08-21 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2015-08-21 : Depression screening (procedure)
+  2015-08-21 : Medication Reconciliation (procedure)
+  2015-08-21 : Assessment of health and social care needs (procedure)
+  2014-08-15 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2014-08-15 : Depression screening (procedure)
+  2014-08-15 : Assessment using Morse Fall Scale (procedure)
+  2014-08-15 : Medication Reconciliation (procedure)
+  2014-08-15 : Assessment of health and social care needs (procedure)
+  2014-03-04 : Movement therapy (regime/therapy)
+  2014-03-01 : Movement therapy (regime/therapy)
+  2014-02-26 : Movement therapy (regime/therapy)
+  2014-02-23 : Movement therapy (regime/therapy)
+  2014-02-20 : Movement therapy (regime/therapy)
+  2014-02-17 : Movement therapy (regime/therapy)
+  2014-02-14 : Movement therapy (regime/therapy)
+  2014-02-11 : Movement therapy (regime/therapy)
+  2014-02-08 : Movement therapy (regime/therapy)
+  2014-02-05 : Movement therapy (regime/therapy)
+  2013-08-09 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2013-08-09 : Assessment of substance use (procedure)
+  2013-08-09 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2013-08-09 : Depression screening (procedure)
+  2013-08-09 : Screening for domestic abuse (procedure)
+  2013-08-09 : Assessment using Morse Fall Scale (procedure)
+  2013-08-09 : Assessment of anxiety (procedure)
+  2013-08-09 : Assessment of health and social care needs (procedure)
+  2012-08-03 : Screening for drug abuse (procedure)
+  2012-08-03 : Assessment of substance use (procedure)
+  2012-08-03 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2012-08-03 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2012-08-03 : Depression screening (procedure)
+  2012-08-03 : Medication Reconciliation (procedure)
+  2012-08-03 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-09-24 : Influenza, seasonal, injectable, preservative free
+  2021-03-12 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-02-12 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2020-09-18 : Influenza, seasonal, injectable, preservative free
+  2019-09-13 : Td (adult) preservative free
+  2019-09-13 : Influenza, seasonal, injectable, preservative free
+  2018-09-07 : Influenza, seasonal, injectable, preservative free
+  2017-09-01 : Influenza, seasonal, injectable, preservative free
+  2016-08-26 : Influenza, seasonal, injectable, preservative free
+  2015-08-21 : Influenza, seasonal, injectable, preservative free
+  2014-08-15 : pneumococcal polysaccharide vaccine, 23 valent
+  2014-08-15 : Influenza, seasonal, injectable, preservative free
+  2013-08-09 : Pneumococcal conjugate PCV 13
+  2013-08-09 : Influenza, seasonal, injectable, preservative free
+  2012-08-03 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-09-24 (Dr. Annett Schmeler) : Encounter at PCP354486
+2021-03-12 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2021-02-12 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2020-09-18 (Dr. Annett Schmeler) : Encounter at PCP354486
+2019-09-13 (Dr. Annett Schmeler) : Encounter at PCP354486
+2018-09-07 (Dr. Annett Schmeler) : Encounter at PCP354486
+2017-09-01 (Dr. Annett Schmeler) : Encounter at PCP354486
+2016-08-26 (Dr. Annett Schmeler) : Encounter at PCP354486
+2015-08-23 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2015-08-21 (Dr. Annett Schmeler) : Encounter at PCP354486
+2014-08-15 (Dr. Annett Schmeler) : Encounter at PCP354486
+2014-03-04 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2014-03-01 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2014-02-26 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2014-02-23 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2014-02-20 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2014-02-17 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2014-02-14 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2014-02-11 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2014-02-08 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2014-02-05 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2014-02-02 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2013-08-09 (Dr. Annett Schmeler) : Encounter at PCP354486
+2012-08-03 (Dr. Annett Schmeler) : Encounter at PCP354486
+2011-07-29 (Dr. Annett Schmeler) : Encounter at PCP354486
+2004-05-17 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Sepsis (disorder)
+2002-06-07 (Dr. Annett Schmeler) : Encounter at PCP354486
+1998-05-15 (Dr. Annett Schmeler) : Encounter at PCP354486
+1995-01-13 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+1982-07-30 (Dr. Annett Schmeler) : Encounter at PCP354486
+1979-07-27 (Dr. Annett Schmeler) : Encounter at PCP354486
+1973-07-20 (Dr. Annett Schmeler) : Encounter at PCP354486
+1967-07-14 (Dr. Annett Schmeler) : Encounter at PCP354486
+1966-07-08 (Dr. Annett Schmeler) : Encounter at PCP354486
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

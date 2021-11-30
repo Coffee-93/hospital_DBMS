@@ -1,0 +1,463 @@
+Vivan Kautzer
+=============
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 38
+Birth Date:          1983-05-11
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-05-23[CURRENT] : Levora 0.15/30 28 Day Pack
+  2020-05-28[STOPPED] : Trinessa 28 Day Pack
+  2019-06-03[STOPPED] : Trinessa 28 Day Pack
+  2019-03-08[CURRENT] : Meperidine Hydrochloride 50 MG Oral Tablet
+  2019-03-01[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2018-06-06[STOPPED] : Mirena 52 MG Intrauterine System
+  2014-09-19[STOPPED] : Trinessa 28 Day Pack
+  2014-02-13[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-01-03 - 2021-01-31 : COVID-19
+  2021-01-03 - 2021-01-03 : Suspected COVID-19
+  2021-01-03 - 2021-01-31 : Loss of taste (finding)
+  2021-01-03 - 2021-01-31 : Fever (finding)
+  2021-01-03 - 2021-01-31 : Sputum finding (finding)
+  2021-01-03 - 2021-01-31 : Cough (finding)
+  2020-07-29 -            : Reports of violence in the environment (finding)
+  2020-07-29 -            : Stress (finding)
+  2020-06-25 - 2020-07-04 : Acute viral pharyngitis (disorder)
+  2019-03-01 - 2019-06-04 : Injury of anterior cruciate ligament
+  2018-03-07 - 2018-04-25 : Preeclampsia
+  2017-12-11 -            : Chronic sinusitis (disorder)
+  2017-11-13 - 2018-02-19 : Acute bacterial sinusitis (disorder)
+  2017-09-20 - 2018-04-25 : Normal pregnancy
+  2015-06-16 -            : Drug overdose
+  2014-05-19 - 2014-06-22 : Acute bacterial sinusitis (disorder)
+  2014-02-13 - 2014-03-11 : Viral sinusitis (disorder)
+  2005-07-13 - 2020-07-29 : Limited social contact (finding)
+  2002-07-10 - 2005-07-13 : Stress (finding)
+  2001-07-04 -            : Unemployed (finding)
+  2001-07-04 -            : Received higher education (finding)
+  2001-07-04 -            : Housing unsatisfactory (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-01-03[STOPPED] : Infectious disease care plan (record artifact)
+                         Reason: COVID-19
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2021-01-03[STOPPED] : Infectious disease care plan (record artifact)
+                         Reason: Suspected COVID-19
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+  2019-03-01[STOPPED] : Physical therapy procedure
+                         Reason: Injury of anterior cruciate ligament
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2017-09-20[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2016-01-12[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-01-03 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-01-03 : Influenza virus A and B Ag panel - Nasopharynx by Rapid immunoassay
+           - Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+           - Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+  2020-07-29 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-07-29 : Lipid Panel
+           - Total Cholesterol                        166.6 mg/dL
+           - Triglycerides                            107.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      68.7 mg/dL
+           - High Density Lipoprotein Cholesterol     76.3 mg/dL
+  2018-01-03 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2017-12-20 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2017-07-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.7 %
+           - MCV [Entitic volume] by Automated count  83.8 fL
+           - MCH [Entitic mass] by Automated count    31.0 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+           - Platelets [#/volume] in Blood by Automated count 394.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 426.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2017-07-26 : Lipid Panel
+           - Total Cholesterol                        186.9 mg/dL
+           - Triglycerides                            139.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      98.1 mg/dL
+           - High Density Lipoprotein Cholesterol     60.9 mg/dL
+  2014-07-23 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2014-07-23 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2014-07-23 : Lipid Panel
+           - Total Cholesterol                        182.1 mg/dL
+           - Triglycerides                            123.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      95.8 mg/dL
+           - High Density Lipoprotein Cholesterol     61.7 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-01-03 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-01-03 : Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+  2021-01-03 : Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+  2021-01-03 : Body Weight                              72.1 kg
+  2021-01-03 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2021-01-03 : Oxygen saturation in Arterial blood      87.4 %
+  2021-01-03 : Heart rate                               121.7 /min
+  2021-01-03 : Respiratory rate                         35.9 /min
+  2021-01-03 : Body temperature                         41.0 Cel
+  2020-07-29 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-07-29 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 36552 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             275 Russel Forge Apt 88 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2020-07-29 : Tobacco smoking status NHIS              Never smoker 
+  2020-07-29 : High Density Lipoprotein Cholesterol     76.3 mg/dL
+  2020-07-29 : Low Density Lipoprotein Cholesterol      68.7 mg/dL
+  2020-07-29 : Triglycerides                            107.9 mg/dL
+  2020-07-29 : Total Cholesterol                        166.6 mg/dL
+  2020-07-29 : Respiratory rate                         13.0 /min
+  2020-07-29 : Heart rate                               66.0 /min
+  2020-07-29 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2020-07-29 : Body Mass Index                          27.6 kg/m2
+  2020-07-29 : Body Weight                              72.1 kg
+  2020-07-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-07-29 : Body Height                              161.5 cm
+  2020-06-25 : Body temperature                         37.8 Cel
+  2018-01-03 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2018-01-03 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Other, Please write 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 36552 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             275 Russel Forge Apt 88 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2018-01-03 : Tobacco smoking status NHIS              Never smoker 
+  2018-01-03 : Respiratory rate                         16.0 /min
+  2018-01-03 : Heart rate                               80.0 /min
+  2018-01-03 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2018-01-03 : Body Mass Index                          27.6 kg/m2
+  2018-01-03 : Body Weight                              72.1 kg
+  2018-01-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2018-01-03 : Body Height                              161.5 cm
+  2017-12-20 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2017-12-20 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 36552 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             275 Russel Forge Apt 88 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2017-12-20 : Tobacco smoking status NHIS              Never smoker 
+  2017-12-20 : Respiratory rate                         15.0 /min
+  2017-12-20 : Heart rate                               78.0 /min
+  2017-12-20 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2017-12-20 : Body Mass Index                          27.6 kg/m2
+  2017-12-20 : Body Weight                              72.1 kg
+  2017-12-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-12-20 : Body Height                              161.5 cm
+  2017-07-26 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 36552 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             275 Russel Forge Apt 88 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2017-07-26 : Tobacco smoking status NHIS              Never smoker 
+  2017-07-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2017-07-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 426.9 fL
+  2017-07-26 : Platelets [#/volume] in Blood by Automated count 394.5 10*3/uL
+  2017-07-26 : Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+  2017-07-26 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2017-07-26 : MCH [Entitic mass] by Automated count    31.0 pg
+  2017-07-26 : MCV [Entitic volume] by Automated count  83.8 fL
+  2017-07-26 : Hematocrit [Volume Fraction] of Blood by Automated count 35.7 %
+  2017-07-26 : Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+  2017-07-26 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2017-07-26 : Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+  2017-07-26 : High Density Lipoprotein Cholesterol     60.9 mg/dL
+  2017-07-26 : Low Density Lipoprotein Cholesterol      98.1 mg/dL
+  2017-07-26 : Triglycerides                            139.4 mg/dL
+  2017-07-26 : Total Cholesterol                        186.9 mg/dL
+  2017-07-26 : Respiratory rate                         13.0 /min
+  2017-07-26 : Heart rate                               88.0 /min
+  2017-07-26 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2017-07-26 : Body Mass Index                          27.6 kg/m2
+  2017-07-26 : Body Weight                              72.1 kg
+  2017-07-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2017-07-26 : Body Height                              161.5 cm
+  2014-07-23 : Total score [DAST-10]                    0.0 {score}
+  2014-07-23 : Total score [HARK]                       0.0 {score}
+  2014-07-23 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 36552 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             275 Russel Forge Apt 88 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2014-07-23 : Tobacco smoking status NHIS              Never smoker 
+  2014-07-23 : High Density Lipoprotein Cholesterol     61.7 mg/dL
+  2014-07-23 : Low Density Lipoprotein Cholesterol      95.8 mg/dL
+  2014-07-23 : Triglycerides                            123.1 mg/dL
+  2014-07-23 : Total Cholesterol                        182.1 mg/dL
+  2014-07-23 : Respiratory rate                         15.0 /min
+  2014-07-23 : Heart rate                               97.0 /min
+  2014-07-23 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2014-07-23 : Body Mass Index                          30.0 kg/m2
+  2014-07-23 : Body Weight                              78.1 kg
+  2014-07-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-07-23 : Body Height                              161.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-01-03 : Face mask (physical object) for Suspected COVID-19
+  2020-07-29 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-07-29 : Depression screening (procedure)
+  2020-07-29 : Assessment of health and social care needs (procedure)
+  2020-06-25 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2019-03-08 : Surgical manipulation of joint of knee for Injury of anterior cruciate ligament
+  2019-03-01 : Knee X-ray
+  2018-06-08 : Insertion of intrauterine contraceptive device
+  2018-06-06 : Depression screening
+  2018-06-06 : Physical examination following birth
+  2018-04-25 : Childbirth for Normal pregnancy
+  2018-04-18 : Auscultation of the fetal heart for Normal pregnancy
+  2018-04-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-04-04 : Auscultation of the fetal heart for Normal pregnancy
+  2018-04-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-04-04 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2018-03-07 : Auscultation of the fetal heart for Normal pregnancy
+  2018-03-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-02-07 : Auscultation of the fetal heart for Normal pregnancy
+  2018-02-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-02-07 : Urine screening for glucose for Normal pregnancy
+  2018-02-07 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2018-02-07 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2018-01-03 : Assessment of anxiety (procedure)
+  2018-01-10 : Auscultation of the fetal heart for Normal pregnancy
+  2018-01-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-01-03 : Medication Reconciliation (procedure)
+  2018-01-03 : Assessment of health and social care needs (procedure)
+  2017-12-20 : Assessment of anxiety (procedure)
+  2017-12-20 : Medication Reconciliation (procedure)
+  2017-12-20 : Assessment of health and social care needs (procedure)
+  2017-12-13 : Auscultation of the fetal heart for Normal pregnancy
+  2017-12-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-11-15 : Auscultation of the fetal heart for Normal pregnancy
+  2017-11-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-11-15 : Alpha-fetoprotein test for Normal pregnancy
+  2017-11-15 : Fetal anatomy study for Normal pregnancy
+  2017-10-18 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2017-10-18 : Auscultation of the fetal heart for Normal pregnancy
+  2017-10-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-09-20 : Physical examination of mother for Normal pregnancy
+  2017-09-20 : Urine protein test for Normal pregnancy
+  2017-09-20 : Skin test for tuberculosis for Normal pregnancy
+  2017-09-20 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2017-09-20 : Rubella screening for Normal pregnancy
+  2017-09-20 : Hepatitis C antibody test for Normal pregnancy
+  2017-09-20 : Urine screening test for diabetes for Normal pregnancy
+  2017-09-20 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2017-09-20 : Urine culture for Normal pregnancy
+  2017-09-20 : Syphilis infection test for Normal pregnancy
+  2017-09-20 : Gonorrhea infection test for Normal pregnancy
+  2017-09-20 : Chlamydia antigen test for Normal pregnancy
+  2017-09-20 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2017-09-20 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2017-09-20 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-09-20 : Blood typing, RH typing for Normal pregnancy
+  2017-09-20 : Auscultation of the fetal heart for Normal pregnancy
+  2017-09-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-09-20 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-09-20 : Standard pregnancy test for Normal pregnancy
+  2017-07-26 : Assessment of health and social care needs (procedure)
+  2017-07-26 : Removal of intrauterine device
+  2015-09-16 : Insertion of intrauterine contraceptive device
+  2014-07-23 : Screening for drug abuse (procedure)
+  2014-07-23 : Assessment of substance use (procedure)
+  2014-07-23 : Screening for domestic abuse (procedure)
+  2014-07-23 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-09-08 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-08-18 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2020-07-29 : Influenza, seasonal, injectable, preservative free
+  2018-01-03 : Influenza, seasonal, injectable, preservative free
+  2017-12-20 : Influenza, seasonal, injectable, preservative free
+  2017-07-26 : Influenza, seasonal, injectable, preservative free
+  2014-07-23 : Td (adult) preservative free
+  2014-07-23 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-09-08 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2021-08-20 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2021-08-18 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2021-07-21 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2021-06-21 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2021-05-23 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2021-05-22 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2021-04-22 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2021-03-23 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2021-02-21 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2021-01-22 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2021-01-03 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Reports of violence in the environment (finding)
+2020-12-23 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2020-07-29 (Dr. Wonda Schneider) : Encounter at PCP225723
+2020-06-25 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Acute viral pharyngitis (disorder)
+2020-05-28 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2019-12-02 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2019-11-02 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2019-08-10 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Drug overdose
+2019-06-03 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2019-03-08 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Injury of anterior cruciate ligament
+2019-03-01 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2018-06-08 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2018-06-06 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2018-06-06 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2018-04-25 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Normal pregnancy
+2018-04-18 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Normal pregnancy
+2018-04-04 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Normal pregnancy
+2018-03-07 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Normal pregnancy
+2018-02-07 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Normal pregnancy
+2018-01-10 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Normal pregnancy
+2018-01-03 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2017-12-18 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Acute bacterial sinusitis (disorder)
+2017-12-20 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2017-12-11 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Acute bacterial sinusitis (disorder)
+2017-12-13 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Normal pregnancy
+2017-11-13 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Acute bacterial sinusitis (disorder)
+2017-11-15 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Normal pregnancy
+2017-10-18 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Normal pregnancy
+2017-09-20 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Normal pregnancy
+2017-08-24 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2017-07-26 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2017-07-26 (Dr. Wonda Schneider) : Encounter at PCP225723
+2016-08-23 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2016-07-24 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2016-06-24 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2016-05-25 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2016-04-25 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2016-03-26 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2016-02-25 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2016-01-26 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2016-01-12 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Drug overdose
+2015-09-16 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2015-09-14 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2015-06-16 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Drug overdose
+2014-09-19 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2014-07-23 (Dr. Wonda Schneider) : Encounter at PCP225723
+2014-05-19 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Acute bacterial sinusitis (disorder)
+2014-02-13 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Viral sinusitis (disorder)
+2005-07-13 (Dr. Wonda Schneider) : Encounter at PCP225723
+2002-07-10 (Dr. Wonda Schneider) : Encounter at PCP225723
+2001-07-04 (Dr. Wonda Schneider) : Encounter at PCP225723
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2019-03-01 : Digital Radiography, Knee
+--------------------------------------------------------------------------------

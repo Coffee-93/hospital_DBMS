@@ -1,0 +1,461 @@
+Marion Anderson
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 20
+Birth Date:          2001-01-21
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2002-03-29 -            : Peanut (substance)
+  2002-03-29 -            : Penicillin V
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-09-16[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2012-02-12[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2012-02-12[STOPPED] : Azithromycin 250 MG Oral Capsule
+  2002-03-29[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2002-03-29[CURRENT] : Fexofenadine hydrochloride 30 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-09-27 -            : Social isolation (finding)
+  2020-09-27 -            : Part-time employment (finding)
+  2020-09-16 - 2020-09-24 : Acute bronchitis (disorder)
+  2020-06-14 -            : Has a criminal record (finding)
+  2020-06-14 - 2020-09-27 : Full-time employment (finding)
+  2020-06-07 - 2020-06-21 : Acute viral pharyngitis (disorder)
+  2020-03-22 - 2020-06-14 : Social isolation (finding)
+  2020-03-22 - 2020-06-14 : Not in labor force (finding)
+  2019-03-17 -            : Stress (finding)
+  2019-03-17 - 2020-03-22 : Full-time employment (finding)
+  2019-03-17 -            : Received certificate of high school equivalency (finding)
+  2018-01-20 - 2018-02-16 : Viral sinusitis (disorder)
+  2016-02-28 - 2018-03-11 : Severe anxiety (panic) (finding
+  2012-02-12 - 2013-02-10 : Otitis media
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2020-09-16[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2002-03-12[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-09-27 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2020-09-27 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-06-14 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-06-14 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2020-03-23 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2020-03-22 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-03-22 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2019-03-17 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2019-03-17 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2018-03-11 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2018-03-11 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 7.0 {score}
+  2017-03-05 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2017-03-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.6 %
+           - MCV [Entitic volume] by Automated count  82.0 fL
+           - MCH [Entitic mass] by Automated count    27.5 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+           - Platelets [#/volume] in Blood by Automated count 153.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 166.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2016-02-28 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2016-02-28 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 19.0 {score}
+  2015-02-22 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2014-02-16 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2014-02-16 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2013-02-10 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2013-02-10 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2012-02-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.2 %
+           - MCV [Entitic volume] by Automated count  93.4 fL
+           - MCH [Entitic mass] by Automated count    28.5 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+           - Platelets [#/volume] in Blood by Automated count 447.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 312.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-09-27 : Total score [DAST-10]                    2.0 {score}
+  2020-09-27 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-09-27 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 72175 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             241 Swaniawski Club Apt 34 
+           - Are you worried about losing your housing? I choose not to answer this question 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2020-09-27 : Tobacco smoking status NHIS              Never smoker 
+  2020-09-27 : Respiratory rate                         13.0 /min
+  2020-09-27 : Heart rate                               92.0 /min
+  2020-09-27 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2020-09-27 : Body mass index (BMI) [Percentile] Per age and gender 57.6 %
+  2020-09-27 : Body Mass Index                          23.5 kg/m2
+  2020-09-27 : Body Weight                              75.7 kg
+  2020-09-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-09-27 : Body Height                              179.5 cm
+  2020-06-14 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-06-14 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2020-06-14 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 72175 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             241 Swaniawski Club Apt 34 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2020-06-14 : Tobacco smoking status NHIS              Never smoker 
+  2020-06-14 : Respiratory rate                         15.0 /min
+  2020-06-14 : Heart rate                               73.0 /min
+  2020-06-14 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2020-06-14 : Body mass index (BMI) [Percentile] Per age and gender 57.6 %
+  2020-06-14 : Body Mass Index                          23.3 kg/m2
+  2020-06-14 : Body Weight                              75.0 kg
+  2020-06-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-06-14 : Body Height                              179.5 cm
+  2020-06-07 : Body temperature                         37.4 Cel
+  2020-03-23 : Total score [AUDIT-C]                    1.0 {score}
+  2020-03-22 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2020-03-22 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2020-03-22 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 72175 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             241 Swaniawski Club Apt 34 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2020-03-22 : Tobacco smoking status NHIS              Never smoker 
+  2020-03-22 : Respiratory rate                         16.0 /min
+  2020-03-22 : Heart rate                               95.0 /min
+  2020-03-22 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2020-03-22 : Body mass index (BMI) [Percentile] Per age and gender 57.3 %
+  2020-03-22 : Body Mass Index                          23.2 kg/m2
+  2020-03-22 : Body Weight                              74.6 kg
+  2020-03-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-03-22 : Body Height                              179.4 cm
+  2019-03-17 : Total score [AUDIT-C]                    2.0 {score}
+  2019-03-17 : Total score [HARK]                       0.0 {score}
+  2019-03-17 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 72175 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             241 Swaniawski Club Apt 34 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2019-03-17 : Tobacco smoking status NHIS              Never smoker 
+  2019-03-17 : Respiratory rate                         12.0 /min
+  2019-03-17 : Heart rate                               93.0 /min
+  2019-03-17 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  2019-03-17 : Body mass index (BMI) [Percentile] Per age and gender 50.2 %
+  2019-03-17 : Body Mass Index                          22.0 kg/m2
+  2019-03-17 : Body Weight                              70.4 kg
+  2019-03-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-03-17 : Body Height                              179.0 cm
+  2018-03-11 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2018-03-11 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 7.0 {score}
+  2018-03-11 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-11 : Respiratory rate                         13.0 /min
+  2018-03-11 : Heart rate                               62.0 /min
+  2018-03-11 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2018-03-11 : Body mass index (BMI) [Percentile] Per age and gender 37.1 %
+  2018-03-11 : Body Mass Index                          20.4 kg/m2
+  2018-03-11 : Body Weight                              64.9 kg
+  2018-03-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-03-11 : Body Height                              178.2 cm
+  2017-03-05 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2017-03-05 : Tobacco smoking status NHIS              Never smoker 
+  2017-03-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2017-03-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 166.8 fL
+  2017-03-05 : Platelets [#/volume] in Blood by Automated count 153.1 10*3/uL
+  2017-03-05 : Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+  2017-03-05 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  2017-03-05 : MCH [Entitic mass] by Automated count    27.5 pg
+  2017-03-05 : MCV [Entitic volume] by Automated count  82.0 fL
+  2017-03-05 : Hematocrit [Volume Fraction] of Blood by Automated count 46.6 %
+  2017-03-05 : Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+  2017-03-05 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2017-03-05 : Leukocytes [#/volume] in Blood by Automated count 9.8 10*3/uL
+  2017-03-05 : Respiratory rate                         15.0 /min
+  2017-03-05 : Heart rate                               97.0 /min
+  2017-03-05 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2017-03-05 : Body mass index (BMI) [Percentile] Per age and gender 38.4 %
+  2017-03-05 : Body Mass Index                          19.9 kg/m2
+  2017-03-05 : Body Weight                              61.9 kg
+  2017-03-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-03-05 : Body Height                              176.7 cm
+  2016-02-28 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2016-02-28 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 19.0 {score}
+  2016-02-28 : Tobacco smoking status NHIS              Never smoker 
+  2016-02-28 : Respiratory rate                         12.0 /min
+  2016-02-28 : Heart rate                               72.0 /min
+  2016-02-28 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2016-02-28 : Body mass index (BMI) [Percentile] Per age and gender 54.0 %
+  2016-02-28 : Body Mass Index                          20.2 kg/m2
+  2016-02-28 : Body Weight                              60.8 kg
+  2016-02-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2016-02-28 : Body Height                              173.5 cm
+  2015-02-22 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 0.0 {score}
+  2015-02-22 : Tobacco smoking status NHIS              Never smoker 
+  2015-02-22 : Respiratory rate                         13.0 /min
+  2015-02-22 : Heart rate                               96.0 /min
+  2015-02-22 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2015-02-22 : Body mass index (BMI) [Percentile] Per age and gender 67.1 %
+  2015-02-22 : Body Mass Index                          20.5 kg/m2
+  2015-02-22 : Body Weight                              57.7 kg
+  2015-02-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-02-22 : Body Height                              167.8 cm
+  2014-02-16 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2014-02-16 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2014-02-16 : Tobacco smoking status NHIS              Never smoker 
+  2014-02-16 : Respiratory rate                         16.0 /min
+  2014-02-16 : Heart rate                               81.0 /min
+  2014-02-16 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2014-02-16 : Body mass index (BMI) [Percentile] Per age and gender 76.8 %
+  2014-02-16 : Body Mass Index                          20.7 kg/m2
+  2014-02-16 : Body Weight                              52.5 kg
+  2014-02-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-02-16 : Body Height                              159.4 cm
+  2013-02-10 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2013-02-10 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2013-02-10 : Tobacco smoking status NHIS              Never smoker 
+  2013-02-10 : Respiratory rate                         14.0 /min
+  2013-02-10 : Heart rate                               74.0 /min
+  2013-02-10 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2013-02-10 : Body mass index (BMI) [Percentile] Per age and gender 84.7 %
+  2013-02-10 : Body Mass Index                          21.0 kg/m2
+  2013-02-10 : Body Weight                              48.6 kg
+  2013-02-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-02-10 : Body Height                              152.2 cm
+  2012-02-05 : Tobacco smoking status NHIS              Never smoker 
+  2012-02-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2012-02-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 312.3 fL
+  2012-02-05 : Platelets [#/volume] in Blood by Automated count 447.1 10*3/uL
+  2012-02-05 : Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+  2012-02-05 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2012-02-05 : MCH [Entitic mass] by Automated count    28.5 pg
+  2012-02-05 : MCV [Entitic volume] by Automated count  93.4 fL
+  2012-02-05 : Hematocrit [Volume Fraction] of Blood by Automated count 42.2 %
+  2012-02-05 : Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+  2012-02-05 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2012-02-05 : Leukocytes [#/volume] in Blood by Automated count 9.5 10*3/uL
+  2012-02-05 : Respiratory rate                         16.0 /min
+  2012-02-05 : Heart rate                               69.0 /min
+  2012-02-05 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2012-02-05 : Body mass index (BMI) [Percentile] Per age and gender 82.9 %
+  2012-02-05 : Body Mass Index                          19.9 kg/m2
+  2012-02-05 : Body Weight                              42.6 kg
+  2012-02-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2012-02-05 : Body Height                              146.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-09-27 : Screening for drug abuse (procedure)
+  2020-09-27 : Assessment of substance use (procedure)
+  2020-09-27 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-09-27 : Depression screening (procedure)
+  2020-09-27 : Assessment of health and social care needs (procedure)
+  2020-09-16 : Plain chest X-ray (procedure) for Acute bronchitis (disorder)
+  2020-06-14 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-06-14 : Depression screening (procedure)
+  2020-06-14 : Assessment of anxiety (procedure)
+  2020-06-14 : Medication Reconciliation (procedure)
+  2020-06-14 : Assessment of health and social care needs (procedure)
+  2020-06-07 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2020-03-22 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2020-03-22 : Assessment of substance use (procedure)
+  2020-03-22 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-03-22 : Depression screening (procedure)
+  2020-03-22 : Assessment of anxiety (procedure)
+  2020-03-22 : Assessment of health and social care needs (procedure)
+  2019-03-17 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2019-03-17 : Assessment of substance use (procedure)
+  2019-03-17 : Screening for domestic abuse (procedure)
+  2019-03-17 : Medication Reconciliation (procedure)
+  2019-03-17 : Assessment of health and social care needs (procedure)
+  2018-03-11 : Anticipatory guidance (procedure)
+  2018-03-11 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2018-03-11 : Assessment of substance use (procedure)
+  2018-03-11 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2018-03-11 : Depression screening (procedure)
+  2018-03-11 : Assessment of anxiety (procedure)
+  2017-03-05 : Anticipatory guidance (procedure)
+  2017-03-05 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2017-03-05 : Assessment of substance use (procedure)
+  2017-03-05 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2017-03-05 : Depression screening (procedure)
+  2016-02-28 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2016-02-28 : Depression screening (procedure)
+  2016-02-28 : Assessment of anxiety (procedure)
+  2015-02-22 : Anticipatory guidance (procedure)
+  2015-02-22 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2015-02-22 : Assessment of substance use (procedure)
+  2015-02-22 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2015-02-22 : Medication Reconciliation (procedure)
+  2015-02-22 : Depression screening (procedure)
+  2014-02-16 : Anticipatory guidance (procedure)
+  2014-02-16 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2014-02-16 : Assessment of substance use (procedure)
+  2014-02-16 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2014-02-16 : Depression screening (procedure)
+  2014-02-16 : Assessment of anxiety (procedure)
+  2013-02-10 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2013-02-10 : Depression screening (procedure)
+  2013-02-10 : Assessment of anxiety (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-05-16 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-04-25 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2020-09-27 : Influenza, seasonal, injectable, preservative free
+  2020-03-22 : Influenza, seasonal, injectable, preservative free
+  2019-03-17 : Influenza, seasonal, injectable, preservative free
+  2018-03-11 : Influenza, seasonal, injectable, preservative free
+  2017-03-05 : meningococcal MCV4P
+  2017-03-05 : Influenza, seasonal, injectable, preservative free
+  2016-02-28 : Influenza, seasonal, injectable, preservative free
+  2015-02-22 : Influenza, seasonal, injectable, preservative free
+  2014-02-16 : HPV, quadrivalent
+  2014-02-16 : Influenza, seasonal, injectable, preservative free
+  2013-02-10 : HPV, quadrivalent
+  2013-02-10 : Influenza, seasonal, injectable, preservative free
+  2012-02-05 : meningococcal MCV4P
+  2012-02-05 : HPV, quadrivalent
+  2012-02-05 : Influenza, seasonal, injectable, preservative free
+  2012-02-05 : Tdap
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-05-16 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM
+2021-04-25 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM
+2020-09-27 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM
+2020-09-16 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Acute bronchitis (disorder)
+2020-06-14 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM
+2020-06-07 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Acute viral pharyngitis (disorder)
+2020-03-22 (Dr. Mable Schneider) : Encounter at AMERICAN RADIOLOGY CONSULTANTS PLLC
+2019-03-17 (Dr. Mable Schneider) : Encounter at AMERICAN RADIOLOGY CONSULTANTS PLLC
+2018-03-11 (Dr. Mable Schneider) : Encounter at AMERICAN RADIOLOGY CONSULTANTS PLLC
+2018-01-20 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Viral sinusitis (disorder)
+2017-03-05 (Dr. Mable Schneider) : Encounter at AMERICAN RADIOLOGY CONSULTANTS PLLC
+2016-02-28 (Dr. Mable Schneider) : Encounter at AMERICAN RADIOLOGY CONSULTANTS PLLC
+2015-02-22 (Dr. Mable Schneider) : Encounter at AMERICAN RADIOLOGY CONSULTANTS PLLC
+2014-02-16 (Dr. Mable Schneider) : Encounter at AMERICAN RADIOLOGY CONSULTANTS PLLC
+2014-01-26 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM
+2013-02-10 (Dr. Mable Schneider) : Encounter at AMERICAN RADIOLOGY CONSULTANTS PLLC
+2012-02-12 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Otitis media
+2012-02-05 (Dr. Mable Schneider) : Encounter at AMERICAN RADIOLOGY CONSULTANTS PLLC
+2002-03-29 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM
+2002-03-12 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

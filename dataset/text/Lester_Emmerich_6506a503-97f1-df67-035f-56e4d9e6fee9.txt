@@ -1,0 +1,1198 @@
+Lester Emmerich
+===============
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 84
+Birth Date:          1936-12-30
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-03-03[CURRENT] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Chronic obstructive bronchitis (disorder)
+  2021-03-03[CURRENT] : Warfarin Sodium 5 MG Oral Tablet
+  2021-03-03[CURRENT] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2021-03-03[CURRENT] : Digoxin 0.125 MG Oral Tablet
+  2021-03-03[CURRENT] : Verapamil Hydrochloride 40 MG
+  2020-12-30[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2020-12-30[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-12-30[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2020-12-30[STOPPED] : Verapamil Hydrochloride 40 MG
+  2020-12-30[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2020-12-30[STOPPED] : Verapamil Hydrochloride 40 MG
+  2020-12-30[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2020-02-26[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2019-02-20[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-08-08[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-02-14[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2017-02-08[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2016-02-10[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2016-02-03[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2015-01-28[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2014-01-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2013-01-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2012-12-27[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2012-01-11[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2011-01-05[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2009-12-30[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2008-12-24[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2007-12-19[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2006-12-13[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2005-12-07[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2004-12-01[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2003-11-26[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2002-11-20[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2001-11-14[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2000-11-08[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1999-11-03[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1998-10-28[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1997-10-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1996-10-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1995-10-11[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1994-10-05[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1993-09-29[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1992-09-23[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1991-09-18[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1990-09-12[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1989-09-06[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1988-08-31[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1987-08-26[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1986-08-20[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1985-08-14[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1984-08-08[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1983-08-03[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1982-07-28[CURRENT] : Vitamin B 12 5 MG/ML Injectable Solution
+  1982-07-28[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1982-07-28[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1981-07-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1980-07-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1979-07-11[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1978-07-05[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1977-06-29[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1976-06-23[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1975-06-18[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1974-06-12[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1973-06-06[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1972-05-31[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1971-05-26[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1970-05-20[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1969-05-14[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1968-05-08[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1967-05-03[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1966-04-27[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1965-04-21[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1964-04-15[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1963-04-10[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1962-04-04[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1961-03-29[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1960-03-23[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1959-03-18[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1958-09-10[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1958-03-12[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1957-08-07[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1957-08-07[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1957-03-06[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1956-02-29[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1955-02-23[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-03-03 -            : Reports of violence in the environment (finding)
+  2021-03-03 -            : Part-time employment (finding)
+  2020-12-30 - 2021-03-03 : Stress (finding)
+  2020-12-30 - 2021-03-03 : Full-time employment (finding)
+  2020-12-30 -            : Chronic obstructive bronchitis (disorder)
+  2020-12-30 -            : Atrial Fibrillation
+  2020-10-10 - 2020-10-28 : COVID-19
+  2020-10-10 - 2020-10-10 : Suspected COVID-19
+  2020-10-10 - 2020-10-28 : Loss of taste (finding)
+  2020-10-10 - 2020-10-28 : Fever (finding)
+  2020-10-10 - 2020-10-28 : Sore throat symptom (finding)
+  2020-10-10 - 2020-10-28 : Cough (finding)
+  2020-10-10 - 2020-10-28 : Headache (finding)
+  2020-02-26 - 2020-12-30 : Full-time employment (finding)
+  2019-02-20 - 2020-02-26 : Full-time employment (finding)
+  2018-08-08 - 2019-02-20 : Stress (finding)
+  2018-08-08 - 2019-02-20 : Part-time employment (finding)
+  2018-07-23 - 2018-08-03 : Acute viral pharyngitis (disorder)
+  2018-02-14 - 2018-08-08 : Full-time employment (finding)
+  2017-02-08 - 2018-02-14 : Part-time employment (finding)
+  2016-02-10 - 2016-02-22 : Acute bronchitis (disorder)
+  2016-02-03 - 2017-02-08 : Not in labor force (finding)
+  2015-01-28 - 2017-02-08 : Stress (finding)
+  2015-01-28 - 2016-02-03 : Part-time employment (finding)
+  2014-01-22 - 2015-01-28 : Part-time employment (finding)
+  2013-01-16 - 2014-01-22 : Full-time employment (finding)
+  2012-12-27 - 2013-01-13 : Laceration of foot
+  2012-01-11 - 2014-01-22 : Stress (finding)
+  2012-01-11 - 2013-01-16 : Full-time employment (finding)
+  2011-01-05 - 2021-03-03 : Limited social contact (finding)
+  2011-01-05 - 2012-01-11 : Full-time employment (finding)
+  2008-12-24 - 2009-12-30 : Part-time employment (finding)
+  2007-12-19 - 2008-12-24 : Part-time employment (finding)
+  2006-12-13 - 2007-12-19 : Part-time employment (finding)
+  2001-11-14 - 2002-11-20 : Part-time employment (finding)
+  1992-09-23 - 1993-09-29 : Reports of violence in the environment (finding)
+  1988-08-31 - 1989-09-06 : Part-time employment (finding)
+  1984-08-08 - 1985-08-14 : Part-time employment (finding)
+  1982-07-28 -            : Anemia (disorder)
+  1979-07-11 -            : Prediabetes
+  1978-07-05 -            : Body mass index 30+ - obesity (finding)
+  1974-06-12 - 1975-06-18 : Part-time employment (finding)
+  1973-06-06 - 1974-06-12 : Reports of violence in the environment (finding)
+  1959-03-18 - 1960-03-23 : Part-time employment (finding)
+  1958-09-10 - 1959-03-18 : Part-time employment (finding)
+  1958-03-12 - 1958-09-10 : Part-time employment (finding)
+  1955-02-23 -            : Received higher education (finding)
+  1955-02-23 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2020-12-30[CURRENT] : Chronic obstructive pulmonary disease clinical management plan
+                         Reason: Chronic obstructive bronchitis (disorder)
+                         Activity: Exercise therapy
+                         Activity: Pulmonary rehabilitation (regime/therapy)
+  2020-10-10[STOPPED] : Infectious disease care plan (record artifact)
+                         Reason: COVID-19
+                         Activity: Airborne precautions (procedure)
+                         Activity: Isolation of infected patient (procedure)
+  2020-10-10[STOPPED] : Infectious disease care plan (record artifact)
+                         Reason: Suspected COVID-19
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+  2016-02-10[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2012-12-27[STOPPED] : Wound care
+                         Reason: Laceration of foot
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  1979-07-11[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1955-02-23[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-03-03 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2021-03-03 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-03-03 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       90.0 {#}
+           - Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2021-03-03 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 11.0 {score}
+  2021-03-03 : Basic Metabolic Panel
+           - Glucose                                  99.3 mg/dL
+           - Urea Nitrogen                            13.1 mg/dL
+           - Creatinine                               0.6 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   140.5 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 110.0 mmol/L
+           - Carbon Dioxide                           23.4 mmol/L
+  2020-12-30 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2020-12-30 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2020-12-30 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       29.0 {#}
+           - Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2020-12-30 : Basic Metabolic Panel
+           - Glucose                                  99.6 mg/dL
+           - Urea Nitrogen                            19.7 mg/dL
+           - Creatinine                               0.7 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   139.8 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 103.7 mmol/L
+           - Carbon Dioxide                           26.2 mmol/L
+  2020-10-10 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2020-10-10 : Respiratory pathogens DNA and RNA panel - Respiratory specimen by NAA with probe detection
+           - Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+           - Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-02-26 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2020-02-26 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       37.0 {#}
+           - Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2020-02-26 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2020-02-26 : Basic Metabolic Panel
+           - Glucose                                  88.5 mg/dL
+           - Urea Nitrogen                            19.2 mg/dL
+           - Creatinine                               0.6 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   141.5 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 107.7 mmol/L
+           - Carbon Dioxide                           23.3 mmol/L
+  2019-02-20 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2019-02-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.2 %
+           - MCV [Entitic volume] by Automated count  92.1 fL
+           - MCH [Entitic mass] by Automated count    31.2 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.1 fL
+           - Platelets [#/volume] in Blood by Automated count 192.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 390.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2019-02-20 : Lipid Panel
+           - Total Cholesterol                        195.9 mg/dL
+           - Triglycerides                            110.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      96.9 mg/dL
+           - High Density Lipoprotein Cholesterol     76.9 mg/dL
+  2019-02-20 : Basic Metabolic Panel
+           - Glucose                                  77.7 mg/dL
+           - Urea Nitrogen                            15.2 mg/dL
+           - Creatinine                               0.7 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   136.5 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 106.0 mmol/L
+           - Carbon Dioxide                           25.3 mmol/L
+  2018-08-08 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2018-08-08 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2018-08-08 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       41.0 {#}
+           - Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2018-08-08 : Basic Metabolic Panel
+           - Glucose                                  100.0 mg/dL
+           - Urea Nitrogen                            11.6 mg/dL
+           - Creatinine                               0.7 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   140.2 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 101.9 mmol/L
+           - Carbon Dioxide                           26.1 mmol/L
+  2018-02-14 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2018-02-14 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2018-02-14 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       4.0 {#}
+           - Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2018-02-14 : Basic Metabolic Panel
+           - Glucose                                  87.1 mg/dL
+           - Urea Nitrogen                            8.9 mg/dL
+           - Creatinine                               0.7 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   142.3 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 108.9 mmol/L
+           - Carbon Dioxide                           24.2 mmol/L
+  2017-02-08 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2017-02-08 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2017-02-08 : Basic Metabolic Panel
+           - Glucose                                  74.6 mg/dL
+           - Urea Nitrogen                            14.4 mg/dL
+           - Creatinine                               0.7 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   143.7 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 105.2 mmol/L
+           - Carbon Dioxide                           26.8 mmol/L
+  2016-02-03 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2016-02-03 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2016-02-03 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       16.0 {#}
+           - Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2016-02-03 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2016-02-03 : Lipid Panel
+           - Total Cholesterol                        188.5 mg/dL
+           - Triglycerides                            132.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      89.7 mg/dL
+           - High Density Lipoprotein Cholesterol     72.2 mg/dL
+  2016-02-03 : Basic Metabolic Panel
+           - Glucose                                  77.9 mg/dL
+           - Urea Nitrogen                            13.7 mg/dL
+           - Creatinine                               0.7 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   142.1 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 105.9 mmol/L
+           - Carbon Dioxide                           23.5 mmol/L
+  2015-01-28 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2015-01-28 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2015-01-28 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2015-01-28 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       26.0 {#}
+           - Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2015-01-28 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 5.0 {score}
+  2015-01-28 : Basic Metabolic Panel
+           - Glucose                                  82.3 mg/dL
+           - Urea Nitrogen                            8.9 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   136.7 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 101.3 mmol/L
+           - Carbon Dioxide                           23.5 mmol/L
+  2014-01-22 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2014-01-22 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.3 %
+           - MCV [Entitic volume] by Automated count  81.9 fL
+           - MCH [Entitic mass] by Automated count    31.1 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.6 fL
+           - Platelets [#/volume] in Blood by Automated count 297.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 215.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2014-01-22 : Basic Metabolic Panel
+           - Glucose                                  90.7 mg/dL
+           - Urea Nitrogen                            16.9 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   136.1 mmol/L
+           - Potassium                                3.7 mmol/L
+           - Chloride                                 105.9 mmol/L
+           - Carbon Dioxide                           24.6 mmol/L
+  2013-01-16 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2013-01-16 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2013-01-16 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2013-01-16 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       14.0 {#}
+           - Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2013-01-16 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2013-01-16 : Lipid Panel
+           - Total Cholesterol                        188.7 mg/dL
+           - Triglycerides                            131.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      92.2 mg/dL
+           - High Density Lipoprotein Cholesterol     70.2 mg/dL
+  2013-01-16 : Basic Metabolic Panel
+           - Glucose                                  86.4 mg/dL
+           - Urea Nitrogen                            7.1 mg/dL
+           - Creatinine                               0.7 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   143.8 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 110.7 mmol/L
+           - Carbon Dioxide                           22.6 mmol/L
+  2012-01-11 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2012-01-11 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2012-01-11 : Morse Fall Scale panel
+           - Fall risk total [Morse Fall Scale]       112.0 {#}
+           - Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2012-01-11 : Basic Metabolic Panel
+           - Glucose                                  68.6 mg/dL
+           - Urea Nitrogen                            12.7 mg/dL
+           - Creatinine                               0.7 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   137.2 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 110.5 mmol/L
+           - Carbon Dioxide                           22.5 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-03-03 : Total score [DAST-10]                    1.0 {score}
+  2021-03-03 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-03-03 : Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2021-03-03 : Fall risk total [Morse Fall Scale]       90.0 {#}
+  2021-03-03 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 11.0 {score}
+  2021-03-03 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 813378 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             852 Rippin Throughway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-03-03 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2021-03-03 : Tobacco smoking status NHIS              Former smoker 
+  2021-03-03 : Carbon Dioxide                           23.4 mmol/L
+  2021-03-03 : Chloride                                 110.0 mmol/L
+  2021-03-03 : Potassium                                4.2 mmol/L
+  2021-03-03 : Sodium                                   140.5 mmol/L
+  2021-03-03 : Calcium                                  8.6 mg/dL
+  2021-03-03 : Creatinine                               0.6 mg/dL
+  2021-03-03 : Urea Nitrogen                            13.1 mg/dL
+  2021-03-03 : Glucose                                  99.3 mg/dL
+  2021-03-03 : Respiratory rate                         15.0 /min
+  2021-03-03 : Heart rate                               73.0 /min
+  2021-03-03 : Blood Pressure
+           - Diastolic Blood Pressure                 100.0 mm[Hg]
+           - Systolic Blood Pressure                  149.0 mm[Hg]
+  2021-03-03 : Body Mass Index                          27.2 kg/m2
+  2021-03-03 : Body Weight                              81.0 kg
+  2021-03-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-03-03 : Body Height                              172.5 cm
+  2021-03-03 : FEV1/FVC                                 64.2 %
+  2020-12-30 : Total score [AUDIT-C]                    0.0 {score}
+  2020-12-30 : Total score [HARK]                       0.0 {score}
+  2020-12-30 : Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2020-12-30 : Fall risk total [Morse Fall Scale]       29.0 {#}
+  2020-12-30 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 813378 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? I choose not to answer this question 
+           - What address do you live at?             852 Rippin Throughway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2020-12-30 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2020-12-30 : Tobacco smoking status NHIS              Former smoker 
+  2020-12-30 : Carbon Dioxide                           26.2 mmol/L
+  2020-12-30 : Chloride                                 103.7 mmol/L
+  2020-12-30 : Potassium                                4.5 mmol/L
+  2020-12-30 : Sodium                                   139.8 mmol/L
+  2020-12-30 : Calcium                                  9.2 mg/dL
+  2020-12-30 : Creatinine                               0.7 mg/dL
+  2020-12-30 : Urea Nitrogen                            19.7 mg/dL
+  2020-12-30 : Glucose                                  99.6 mg/dL
+  2020-12-30 : Respiratory rate                         14.0 /min
+  2020-12-30 : Heart rate                               82.0 /min
+  2020-12-30 : Blood Pressure
+           - Diastolic Blood Pressure                 112.0 mm[Hg]
+           - Systolic Blood Pressure                  189.0 mm[Hg]
+  2020-12-30 : Body Mass Index                          27.2 kg/m2
+  2020-12-30 : Body Weight                              81.0 kg
+  2020-12-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-12-30 : Body Height                              172.5 cm
+  2020-12-30 : FEV1/FVC                                 75.5 %
+  2020-10-10 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2020-10-10 : Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-10-10 : Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-10-10 : Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-10-10 : Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-10-10 : Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-10-10 : Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-10-10 : Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-10-10 : Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-10-10 : Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection Negative (qualifier value) 
+  2020-10-10 : Body Weight                              81.0 kg
+  2020-10-10 : Blood Pressure
+           - Diastolic Blood Pressure                 99.0 mm[Hg]
+           - Systolic Blood Pressure                  152.0 mm[Hg]
+  2020-10-10 : Oxygen saturation in Arterial blood      85.9 %
+  2020-10-10 : Heart rate                               114.2 /min
+  2020-10-10 : Respiratory rate                         36.1 /min
+  2020-10-10 : Body temperature                         39.8 Cel
+  2020-02-26 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2020-02-26 : Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2020-02-26 : Fall risk total [Morse Fall Scale]       37.0 {#}
+  2020-02-26 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2020-02-26 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 813378 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             852 Rippin Throughway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2020-02-26 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2020-02-26 : Tobacco smoking status NHIS              Former smoker 
+  2020-02-26 : Carbon Dioxide                           23.3 mmol/L
+  2020-02-26 : Chloride                                 107.7 mmol/L
+  2020-02-26 : Potassium                                5.0 mmol/L
+  2020-02-26 : Sodium                                   141.5 mmol/L
+  2020-02-26 : Calcium                                  8.8 mg/dL
+  2020-02-26 : Creatinine                               0.6 mg/dL
+  2020-02-26 : Urea Nitrogen                            19.2 mg/dL
+  2020-02-26 : Glucose                                  88.5 mg/dL
+  2020-02-26 : Respiratory rate                         13.0 /min
+  2020-02-26 : Heart rate                               97.0 /min
+  2020-02-26 : Blood Pressure
+           - Diastolic Blood Pressure                 98.0 mm[Hg]
+           - Systolic Blood Pressure                  143.0 mm[Hg]
+  2020-02-26 : Body Mass Index                          27.2 kg/m2
+  2020-02-26 : Body Weight                              81.0 kg
+  2020-02-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-02-26 : Body Height                              172.5 cm
+  2019-02-20 : Total score [AUDIT-C]                    2.0 {score}
+  2019-02-20 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 813378 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             852 Rippin Throughway 
+           - Are you worried about losing your housing? I choose not to answer this question 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2019-02-20 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2019-02-20 : Tobacco smoking status NHIS              Former smoker 
+  2019-02-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2019-02-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 390.0 fL
+  2019-02-20 : Platelets [#/volume] in Blood by Automated count 192.3 10*3/uL
+  2019-02-20 : Erythrocyte distribution width [Entitic volume] by Automated count 41.1 fL
+  2019-02-20 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2019-02-20 : MCH [Entitic mass] by Automated count    31.2 pg
+  2019-02-20 : MCV [Entitic volume] by Automated count  92.1 fL
+  2019-02-20 : Hematocrit [Volume Fraction] of Blood by Automated count 35.2 %
+  2019-02-20 : Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+  2019-02-20 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2019-02-20 : Leukocytes [#/volume] in Blood by Automated count 10.3 10*3/uL
+  2019-02-20 : High Density Lipoprotein Cholesterol     76.9 mg/dL
+  2019-02-20 : Low Density Lipoprotein Cholesterol      96.9 mg/dL
+  2019-02-20 : Triglycerides                            110.4 mg/dL
+  2019-02-20 : Total Cholesterol                        195.9 mg/dL
+  2019-02-20 : Carbon Dioxide                           25.3 mmol/L
+  2019-02-20 : Chloride                                 106.0 mmol/L
+  2019-02-20 : Potassium                                4.4 mmol/L
+  2019-02-20 : Sodium                                   136.5 mmol/L
+  2019-02-20 : Calcium                                  9.6 mg/dL
+  2019-02-20 : Creatinine                               0.7 mg/dL
+  2019-02-20 : Urea Nitrogen                            15.2 mg/dL
+  2019-02-20 : Glucose                                  77.7 mg/dL
+  2019-02-20 : Respiratory rate                         14.0 /min
+  2019-02-20 : Heart rate                               67.0 /min
+  2019-02-20 : Blood Pressure
+           - Diastolic Blood Pressure                 105.0 mm[Hg]
+           - Systolic Blood Pressure                  150.0 mm[Hg]
+  2019-02-20 : Body Mass Index                          27.2 kg/m2
+  2019-02-20 : Body Weight                              81.0 kg
+  2019-02-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-02-20 : Body Height                              172.5 cm
+  2018-08-08 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2018-08-08 : Total score [HARK]                       0.0 {score}
+  2018-08-08 : Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2018-08-08 : Fall risk total [Morse Fall Scale]       41.0 {#}
+  2018-08-08 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 813378 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             852 Rippin Throughway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2018-08-08 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2018-08-08 : Tobacco smoking status NHIS              Former smoker 
+  2018-08-08 : Carbon Dioxide                           26.1 mmol/L
+  2018-08-08 : Chloride                                 101.9 mmol/L
+  2018-08-08 : Potassium                                4.0 mmol/L
+  2018-08-08 : Sodium                                   140.2 mmol/L
+  2018-08-08 : Calcium                                  8.9 mg/dL
+  2018-08-08 : Creatinine                               0.7 mg/dL
+  2018-08-08 : Urea Nitrogen                            11.6 mg/dL
+  2018-08-08 : Glucose                                  100.0 mg/dL
+  2018-08-08 : Respiratory rate                         13.0 /min
+  2018-08-08 : Heart rate                               97.0 /min
+  2018-08-08 : Blood Pressure
+           - Diastolic Blood Pressure                 105.0 mm[Hg]
+           - Systolic Blood Pressure                  147.0 mm[Hg]
+  2018-08-08 : Body Mass Index                          27.2 kg/m2
+  2018-08-08 : Body Weight                              81.0 kg
+  2018-08-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-08-08 : Body Height                              172.5 cm
+  2018-07-23 : Body temperature                         37.2 Cel
+  2018-02-14 : Total score [AUDIT-C]                    1.0 {score}
+  2018-02-14 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2018-02-14 : Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2018-02-14 : Fall risk total [Morse Fall Scale]       4.0 {#}
+  2018-02-14 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 813378 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             852 Rippin Throughway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2018-02-14 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2018-02-14 : Tobacco smoking status NHIS              Former smoker 
+  2018-02-14 : Carbon Dioxide                           24.2 mmol/L
+  2018-02-14 : Chloride                                 108.9 mmol/L
+  2018-02-14 : Potassium                                4.5 mmol/L
+  2018-02-14 : Sodium                                   142.3 mmol/L
+  2018-02-14 : Calcium                                  9.2 mg/dL
+  2018-02-14 : Creatinine                               0.7 mg/dL
+  2018-02-14 : Urea Nitrogen                            8.9 mg/dL
+  2018-02-14 : Glucose                                  87.1 mg/dL
+  2018-02-14 : Respiratory rate                         14.0 /min
+  2018-02-14 : Heart rate                               95.0 /min
+  2018-02-14 : Blood Pressure
+           - Diastolic Blood Pressure                 103.0 mm[Hg]
+           - Systolic Blood Pressure                  152.0 mm[Hg]
+  2018-02-14 : Body Mass Index                          27.2 kg/m2
+  2018-02-14 : Body Weight                              81.0 kg
+  2018-02-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-02-14 : Body Height                              172.5 cm
+  2017-02-08 : Total score [AUDIT-C]                    2.0 {score}
+  2017-02-08 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2017-02-08 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 813378 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             852 Rippin Throughway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2017-02-08 : Hemoglobin A1c/Hemoglobin.total in Blood 5.8 %
+  2017-02-08 : Tobacco smoking status NHIS              Former smoker 
+  2017-02-08 : Carbon Dioxide                           26.8 mmol/L
+  2017-02-08 : Chloride                                 105.2 mmol/L
+  2017-02-08 : Potassium                                4.5 mmol/L
+  2017-02-08 : Sodium                                   143.7 mmol/L
+  2017-02-08 : Calcium                                  8.7 mg/dL
+  2017-02-08 : Creatinine                               0.7 mg/dL
+  2017-02-08 : Urea Nitrogen                            14.4 mg/dL
+  2017-02-08 : Glucose                                  74.6 mg/dL
+  2017-02-08 : Respiratory rate                         13.0 /min
+  2017-02-08 : Heart rate                               85.0 /min
+  2017-02-08 : Blood Pressure
+           - Diastolic Blood Pressure                 116.0 mm[Hg]
+           - Systolic Blood Pressure                  157.0 mm[Hg]
+  2017-02-08 : Body Mass Index                          27.2 kg/m2
+  2017-02-08 : Body Weight                              81.0 kg
+  2017-02-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-02-08 : Body Height                              172.5 cm
+  2016-02-03 : Total score [DAST-10]                    2.0 {score}
+  2016-02-03 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2016-02-03 : Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2016-02-03 : Fall risk total [Morse Fall Scale]       16.0 {#}
+  2016-02-03 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2016-02-03 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 813378 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             852 Rippin Throughway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2016-02-03 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2016-02-03 : Tobacco smoking status NHIS              Former smoker 
+  2016-02-03 : High Density Lipoprotein Cholesterol     72.2 mg/dL
+  2016-02-03 : Low Density Lipoprotein Cholesterol      89.7 mg/dL
+  2016-02-03 : Triglycerides                            132.7 mg/dL
+  2016-02-03 : Total Cholesterol                        188.5 mg/dL
+  2016-02-03 : Carbon Dioxide                           23.5 mmol/L
+  2016-02-03 : Chloride                                 105.9 mmol/L
+  2016-02-03 : Potassium                                4.8 mmol/L
+  2016-02-03 : Sodium                                   142.1 mmol/L
+  2016-02-03 : Calcium                                  8.7 mg/dL
+  2016-02-03 : Creatinine                               0.7 mg/dL
+  2016-02-03 : Urea Nitrogen                            13.7 mg/dL
+  2016-02-03 : Glucose                                  77.9 mg/dL
+  2016-02-03 : Respiratory rate                         14.0 /min
+  2016-02-03 : Heart rate                               63.0 /min
+  2016-02-03 : Blood Pressure
+           - Diastolic Blood Pressure                 109.0 mm[Hg]
+           - Systolic Blood Pressure                  146.0 mm[Hg]
+  2016-02-03 : Body Mass Index                          27.2 kg/m2
+  2016-02-03 : Body Weight                              81.0 kg
+  2016-02-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2016-02-03 : Body Height                              172.5 cm
+  2015-01-28 : Total score [DAST-10]                    1.0 {score}
+  2015-01-28 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2015-01-28 : Total score [HARK]                       0.0 {score}
+  2015-01-28 : Fall risk level [Morse Fall Scale]       Moderate Risk (MFS Score 25 - 45) 
+  2015-01-28 : Fall risk total [Morse Fall Scale]       26.0 {#}
+  2015-01-28 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 5.0 {score}
+  2015-01-28 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 813378 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             852 Rippin Throughway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2015-01-28 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2015-01-28 : Tobacco smoking status NHIS              Former smoker 
+  2015-01-28 : Carbon Dioxide                           23.5 mmol/L
+  2015-01-28 : Chloride                                 101.3 mmol/L
+  2015-01-28 : Potassium                                4.0 mmol/L
+  2015-01-28 : Sodium                                   136.7 mmol/L
+  2015-01-28 : Calcium                                  9.8 mg/dL
+  2015-01-28 : Creatinine                               0.8 mg/dL
+  2015-01-28 : Urea Nitrogen                            8.9 mg/dL
+  2015-01-28 : Glucose                                  82.3 mg/dL
+  2015-01-28 : Respiratory rate                         14.0 /min
+  2015-01-28 : Heart rate                               68.0 /min
+  2015-01-28 : Blood Pressure
+           - Diastolic Blood Pressure                 114.0 mm[Hg]
+           - Systolic Blood Pressure                  178.0 mm[Hg]
+  2015-01-28 : Body Mass Index                          27.2 kg/m2
+  2015-01-28 : Body Weight                              81.0 kg
+  2015-01-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-01-28 : Body Height                              172.5 cm
+  2014-01-22 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2014-01-22 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 813378 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             852 Rippin Throughway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2014-01-22 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2014-01-22 : Tobacco smoking status NHIS              Former smoker 
+  2014-01-22 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2014-01-22 : Platelet distribution width [Entitic volume] in Blood by Automated count 215.0 fL
+  2014-01-22 : Platelets [#/volume] in Blood by Automated count 297.6 10*3/uL
+  2014-01-22 : Erythrocyte distribution width [Entitic volume] by Automated count 40.6 fL
+  2014-01-22 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2014-01-22 : MCH [Entitic mass] by Automated count    31.1 pg
+  2014-01-22 : MCV [Entitic volume] by Automated count  81.9 fL
+  2014-01-22 : Hematocrit [Volume Fraction] of Blood by Automated count 37.3 %
+  2014-01-22 : Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+  2014-01-22 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  2014-01-22 : Leukocytes [#/volume] in Blood by Automated count 9.9 10*3/uL
+  2014-01-22 : Carbon Dioxide                           24.6 mmol/L
+  2014-01-22 : Chloride                                 105.9 mmol/L
+  2014-01-22 : Potassium                                3.7 mmol/L
+  2014-01-22 : Sodium                                   136.1 mmol/L
+  2014-01-22 : Calcium                                  9.6 mg/dL
+  2014-01-22 : Creatinine                               0.9 mg/dL
+  2014-01-22 : Urea Nitrogen                            16.9 mg/dL
+  2014-01-22 : Glucose                                  90.7 mg/dL
+  2014-01-22 : Respiratory rate                         15.0 /min
+  2014-01-22 : Heart rate                               93.0 /min
+  2014-01-22 : Blood Pressure
+           - Diastolic Blood Pressure                 112.0 mm[Hg]
+           - Systolic Blood Pressure                  171.0 mm[Hg]
+  2014-01-22 : Body Mass Index                          27.2 kg/m2
+  2014-01-22 : Body Weight                              81.0 kg
+  2014-01-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-01-22 : Body Height                              172.5 cm
+  2013-01-16 : Total score [AUDIT-C]                    0.0 {score}
+  2013-01-16 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2013-01-16 : Total score [HARK]                       0.0 {score}
+  2013-01-16 : Fall risk level [Morse Fall Scale]       Low Risk (MFS Score 0 - 24) 
+  2013-01-16 : Fall risk total [Morse Fall Scale]       14.0 {#}
+  2013-01-16 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2013-01-16 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Childcare 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 813378 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             852 Rippin Throughway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2013-01-16 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2013-01-16 : Tobacco smoking status NHIS              Former smoker 
+  2013-01-16 : High Density Lipoprotein Cholesterol     70.2 mg/dL
+  2013-01-16 : Low Density Lipoprotein Cholesterol      92.2 mg/dL
+  2013-01-16 : Triglycerides                            131.2 mg/dL
+  2013-01-16 : Total Cholesterol                        188.7 mg/dL
+  2013-01-16 : Carbon Dioxide                           22.6 mmol/L
+  2013-01-16 : Chloride                                 110.7 mmol/L
+  2013-01-16 : Potassium                                3.8 mmol/L
+  2013-01-16 : Sodium                                   143.8 mmol/L
+  2013-01-16 : Calcium                                  10.1 mg/dL
+  2013-01-16 : Creatinine                               0.7 mg/dL
+  2013-01-16 : Urea Nitrogen                            7.1 mg/dL
+  2013-01-16 : Glucose                                  86.4 mg/dL
+  2013-01-16 : Respiratory rate                         16.0 /min
+  2013-01-16 : Heart rate                               80.0 /min
+  2013-01-16 : Blood Pressure
+           - Diastolic Blood Pressure                 93.0 mm[Hg]
+           - Systolic Blood Pressure                  149.0 mm[Hg]
+  2013-01-16 : Body Mass Index                          27.2 kg/m2
+  2013-01-16 : Body Weight                              81.0 kg
+  2013-01-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2013-01-16 : Body Height                              172.5 cm
+  2012-01-11 : Total score [AUDIT-C]                    2.0 {score}
+  2012-01-11 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2012-01-11 : Fall risk level [Morse Fall Scale]       High Risk (MFS Score 50+) 
+  2012-01-11 : Fall risk total [Morse Fall Scale]       112.0 {#}
+  2012-01-11 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 813378 /a
+           - What is your main insurance?             Medicare 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             852 Rippin Throughway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2012-01-11 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2012-01-11 : Tobacco smoking status NHIS              Former smoker 
+  2012-01-11 : Carbon Dioxide                           22.5 mmol/L
+  2012-01-11 : Chloride                                 110.5 mmol/L
+  2012-01-11 : Potassium                                4.8 mmol/L
+  2012-01-11 : Sodium                                   137.2 mmol/L
+  2012-01-11 : Calcium                                  9.1 mg/dL
+  2012-01-11 : Creatinine                               0.7 mg/dL
+  2012-01-11 : Urea Nitrogen                            12.7 mg/dL
+  2012-01-11 : Glucose                                  68.6 mg/dL
+  2012-01-11 : Respiratory rate                         16.0 /min
+  2012-01-11 : Heart rate                               77.0 /min
+  2012-01-11 : Blood Pressure
+           - Diastolic Blood Pressure                 109.0 mm[Hg]
+           - Systolic Blood Pressure                  151.0 mm[Hg]
+  2012-01-11 : Body Mass Index                          27.2 kg/m2
+  2012-01-11 : Body Weight                              81.0 kg
+  2012-01-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-01-11 : Body Height                              172.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-03-03 : Screening for drug abuse (procedure)
+  2021-03-03 : Assessment of substance use (procedure)
+  2021-03-03 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-03-03 : Depression screening (procedure)
+  2021-03-03 : Assessment using Morse Fall Scale (procedure)
+  2021-03-03 : Assessment of anxiety (procedure)
+  2021-03-03 : Medication Reconciliation (procedure)
+  2021-03-03 : Assessment of health and social care needs (procedure)
+  2021-03-03 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2021-03-03 : Electrical cardioversion for Atrial Fibrillation
+  2020-12-30 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2020-12-30 : Assessment of substance use (procedure)
+  2020-12-30 : Screening for domestic abuse (procedure)
+  2020-12-30 : Assessment using Morse Fall Scale (procedure)
+  2020-12-30 : Medication Reconciliation (procedure)
+  2020-12-30 : Assessment of health and social care needs (procedure)
+  2020-12-30 : Spirometry (procedure) for Chronic obstructive bronchitis (disorder)
+  2020-12-30 : Electrical cardioversion for Atrial Fibrillation
+  2020-10-10 : Face mask (physical object) for Suspected COVID-19
+  2020-02-26 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-02-26 : Depression screening (procedure)
+  2020-02-26 : Assessment using Morse Fall Scale (procedure)
+  2020-02-26 : Assessment of anxiety (procedure)
+  2020-02-26 : Medication Reconciliation (procedure)
+  2020-02-26 : Assessment of health and social care needs (procedure)
+  2019-02-20 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2019-02-20 : Assessment of substance use (procedure)
+  2019-02-20 : Medication Reconciliation (procedure)
+  2019-02-20 : Assessment of health and social care needs (procedure)
+  2018-08-08 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2018-08-08 : Depression screening (procedure)
+  2018-08-08 : Screening for domestic abuse (procedure)
+  2018-08-08 : Assessment using Morse Fall Scale (procedure)
+  2018-08-08 : Assessment of health and social care needs (procedure)
+  2018-02-14 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2018-02-14 : Assessment of substance use (procedure)
+  2018-02-14 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2018-02-14 : Depression screening (procedure)
+  2018-02-14 : Assessment using Morse Fall Scale (procedure)
+  2018-02-14 : Assessment of health and social care needs (procedure)
+  2017-02-08 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2017-02-08 : Assessment of substance use (procedure)
+  2017-02-08 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2017-02-08 : Depression screening (procedure)
+  2017-02-08 : Assessment of health and social care needs (procedure)
+  2016-02-03 : Screening for drug abuse (procedure)
+  2016-02-03 : Assessment of substance use (procedure)
+  2016-02-03 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2016-02-03 : Depression screening (procedure)
+  2016-02-03 : Assessment using Morse Fall Scale (procedure)
+  2016-02-03 : Assessment of anxiety (procedure)
+  2016-02-03 : Assessment of health and social care needs (procedure)
+  2015-01-28 : Screening for drug abuse (procedure)
+  2015-01-28 : Assessment of substance use (procedure)
+  2015-01-28 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2015-01-28 : Depression screening (procedure)
+  2015-01-28 : Screening for domestic abuse (procedure)
+  2015-01-28 : Assessment using Morse Fall Scale (procedure)
+  2015-01-28 : Assessment of anxiety (procedure)
+  2015-01-28 : Assessment of health and social care needs (procedure)
+  2014-01-22 : Assessment of anxiety (procedure)
+  2014-01-22 : Medication Reconciliation (procedure)
+  2014-01-22 : Assessment of health and social care needs (procedure)
+  2013-01-16 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2013-01-16 : Assessment of substance use (procedure)
+  2013-01-16 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2013-01-16 : Depression screening (procedure)
+  2013-01-16 : Screening for domestic abuse (procedure)
+  2013-01-16 : Assessment using Morse Fall Scale (procedure)
+  2013-01-16 : Assessment of anxiety (procedure)
+  2013-01-16 : Assessment of health and social care needs (procedure)
+  2012-12-27 : Suture open wound for Laceration of foot
+  2012-01-11 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2012-01-11 : Assessment of substance use (procedure)
+  2012-01-11 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2012-01-11 : Depression screening (procedure)
+  2012-01-11 : Assessment using Morse Fall Scale (procedure)
+  2012-01-11 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-03-31 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-03-10 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2020-12-30 : Influenza, seasonal, injectable, preservative free
+  2020-02-26 : Influenza, seasonal, injectable, preservative free
+  2018-08-01 : Influenza, seasonal, injectable, preservative free
+  2018-02-14 : Td (adult) preservative free
+  2018-02-14 : Influenza, seasonal, injectable, preservative free
+  2017-02-08 : Influenza, seasonal, injectable, preservative free
+  2016-02-03 : Influenza, seasonal, injectable, preservative free
+  2015-01-28 : Influenza, seasonal, injectable, preservative free
+  2014-01-22 : Influenza, seasonal, injectable, preservative free
+  2013-01-16 : Influenza, seasonal, injectable, preservative free
+  2012-01-11 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-03-31 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2021-03-10 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2021-03-03 (Dr. Ryann Shields) : Encounter at PCP174963
+2020-12-30 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2020-10-10 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Victim of intimate partner abuse (finding)
+2020-02-26 (Dr. Ryann Shields) : Encounter at PCP174963
+2019-02-20 (Dr. Ryann Shields) : Encounter at PCP174963
+2018-08-08 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2018-08-01 (Dr. Sung Feil) : Encounter at CONCENTRA URGENT CARE - IRVING
+2018-07-23 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Acute viral pharyngitis (disorder)
+2018-02-14 (Dr. Ryann Shields) : Encounter at PCP174963
+2017-02-08 (Dr. Ryann Shields) : Encounter at PCP174963
+2016-02-10 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Acute bronchitis (disorder)
+2016-02-03 (Dr. Ryann Shields) : Encounter at PCP174963
+2015-01-28 (Dr. Ryann Shields) : Encounter at PCP174963
+2014-01-22 (Dr. Ryann Shields) : Encounter at PCP174963
+2013-01-16 (Dr. Ryann Shields) : Encounter at PCP174963
+2012-12-27 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+2012-01-11 (Dr. Ryann Shields) : Encounter at PCP174963
+2011-01-05 (Dr. Ryann Shields) : Encounter at PCP174963
+2009-12-30 (Dr. Ryann Shields) : Encounter at PCP174963
+2008-12-24 (Dr. Ryann Shields) : Encounter at PCP174963
+2007-12-19 (Dr. Ryann Shields) : Encounter at PCP174963
+2006-12-13 (Dr. Ryann Shields) : Encounter at PCP174963
+2005-12-07 (Dr. Ryann Shields) : Encounter at PCP174963
+2004-12-01 (Dr. Ryann Shields) : Encounter at PCP174963
+2003-11-26 (Dr. Ryann Shields) : Encounter at PCP174963
+2002-11-20 (Dr. Ryann Shields) : Encounter at PCP174963
+2001-11-14 (Dr. Ryann Shields) : Encounter at PCP174963
+2000-11-08 (Dr. Ryann Shields) : Encounter at PCP174963
+1999-11-03 (Dr. Ryann Shields) : Encounter at PCP174963
+1998-10-28 (Dr. Ryann Shields) : Encounter at PCP174963
+1997-10-22 (Dr. Ryann Shields) : Encounter at PCP174963
+1996-10-16 (Dr. Ryann Shields) : Encounter at PCP174963
+1995-10-11 (Dr. Ryann Shields) : Encounter at PCP174963
+1994-10-05 (Dr. Ryann Shields) : Encounter at PCP174963
+1993-09-29 (Dr. Ryann Shields) : Encounter at PCP174963
+1992-09-23 (Dr. Ryann Shields) : Encounter at PCP174963
+1991-09-18 (Dr. Ryann Shields) : Encounter at PCP174963
+1990-09-12 (Dr. Ryann Shields) : Encounter at PCP174963
+1989-09-06 (Dr. Ryann Shields) : Encounter at PCP174963
+1988-08-31 (Dr. Ryann Shields) : Encounter at PCP174963
+1987-08-26 (Dr. Ryann Shields) : Encounter at PCP174963
+1986-08-20 (Dr. Ryann Shields) : Encounter at PCP174963
+1985-08-14 (Dr. Ryann Shields) : Encounter at PCP174963
+1984-08-08 (Dr. Ryann Shields) : Encounter at PCP174963
+1983-08-03 (Dr. Ryann Shields) : Encounter at PCP174963
+1982-07-28 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Anemia (disorder)
+1982-07-28 (Dr. Ryann Shields) : Encounter at PCP174963
+1981-07-22 (Dr. Ryann Shields) : Encounter at PCP174963
+1980-07-16 (Dr. Ryann Shields) : Encounter at PCP174963
+1979-07-11 (Dr. Ryann Shields) : Encounter at PCP174963
+1978-07-05 (Dr. Ryann Shields) : Encounter at PCP174963
+1977-06-29 (Dr. Ryann Shields) : Encounter at PCP174963
+1976-06-23 (Dr. Ryann Shields) : Encounter at PCP174963
+1975-06-18 (Dr. Ryann Shields) : Encounter at PCP174963
+1974-06-12 (Dr. Ryann Shields) : Encounter at PCP174963
+1973-06-06 (Dr. Ryann Shields) : Encounter at PCP174963
+1972-05-31 (Dr. Ryann Shields) : Encounter at PCP174963
+1971-05-26 (Dr. Ryann Shields) : Encounter at PCP174963
+1970-05-20 (Dr. Ryann Shields) : Encounter at PCP174963
+1969-05-14 (Dr. Ryann Shields) : Encounter at PCP174963
+1968-05-08 (Dr. Ryann Shields) : Encounter at PCP174963
+1967-05-03 (Dr. Ryann Shields) : Encounter at PCP174963
+1966-04-27 (Dr. Ryann Shields) : Encounter at PCP174963
+1965-04-21 (Dr. Ryann Shields) : Encounter at PCP174963
+1964-04-15 (Dr. Ryann Shields) : Encounter at PCP174963
+1963-04-10 (Dr. Ryann Shields) : Encounter at PCP174963
+1962-04-04 (Dr. Ryann Shields) : Encounter at PCP174963
+1961-03-29 (Dr. Ryann Shields) : Encounter at PCP174963
+1960-03-23 (Dr. Ryann Shields) : Encounter at PCP174963
+1959-03-18 (Dr. Ryann Shields) : Encounter at PCP174963
+1958-09-03 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Viral sinusitis (disorder)
+1958-03-12 (Dr. Ryann Shields) : Encounter at PCP174963
+1957-08-03 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Acute bronchitis (disorder)
+1957-08-07 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+1957-03-06 (Dr. Ryann Shields) : Encounter at PCP174963
+1956-02-29 (Dr. Ryann Shields) : Encounter at PCP174963
+1955-02-23 (Dr. Ryann Shields) : Encounter at PCP174963
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

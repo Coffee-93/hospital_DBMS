@@ -1,0 +1,309 @@
+Rosalinda Kovacek
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 40
+Birth Date:          1981-11-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-11-21[CURRENT] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Pulmonary emphysema (disorder)
+  2021-11-21[STOPPED] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Pulmonary emphysema (disorder)
+  2020-01-01[STOPPED] : Mirena 52 MG Intrauterine System
+  2019-01-03[STOPPED] : Mirena 52 MG Intrauterine System
+  2016-02-14[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2015-01-24[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2014-01-29[STOPPED] : Jolivette 28 Day Pack
+  2013-02-03[STOPPED] : Errin 28 Day Pack
+  2012-02-09[STOPPED] : Camila 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2019-02-03 -            : Stress (finding)
+  2019-02-03 -            : Pulmonary emphysema (disorder)
+  2016-02-14 - 2016-05-10 : Closed fracture of hip
+  2010-01-24 - 2016-01-31 : Stress (finding)
+  2010-01-24 -            : Body mass index 30+ - obesity (finding)
+  2007-01-21 - 2019-02-03 : Social isolation (finding)
+  2000-01-09 - 2007-01-21 : Stress (finding)
+  2000-01-09 -            : Unemployed (finding)
+  2000-01-09 -            : Received higher education (finding)
+  1998-03-23 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2019-02-03[CURRENT] : Chronic obstructive pulmonary disease clinical management plan
+                         Reason: Pulmonary emphysema (disorder)
+                         Activity: Exercise therapy
+                         Activity: Pulmonary rehabilitation (regime/therapy)
+  2016-02-14[STOPPED] : Fracture care
+                         Reason: Closed fracture of hip
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-11-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.1 %
+           - MCV [Entitic volume] by Automated count  85.2 fL
+           - MCH [Entitic mass] by Automated count    29.2 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+           - Platelets [#/volume] in Blood by Automated count 299.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 189.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2019-02-03 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2019-02-03 : Lipid Panel
+           - Total Cholesterol                        181.3 mg/dL
+           - Triglycerides                            149.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      78.5 mg/dL
+           - High Density Lipoprotein Cholesterol     73.0 mg/dL
+  2016-01-31 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2016-01-31 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.7 %
+           - MCV [Entitic volume] by Automated count  90.5 fL
+           - MCH [Entitic mass] by Automated count    30.3 pg
+           - MCHC [Mass/volume] by Automated count    33.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.5 fL
+           - Platelets [#/volume] in Blood by Automated count 434.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 485.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2016-01-31 : Lipid Panel
+           - Total Cholesterol                        184.8 mg/dL
+           - Triglycerides                            103.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      97.4 mg/dL
+           - High Density Lipoprotein Cholesterol     66.6 mg/dL
+  2013-01-27 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2013-01-27 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2013-01-27 : Lipid Panel
+           - Total Cholesterol                        175.3 mg/dL
+           - Triglycerides                            133.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      83.1 mg/dL
+           - High Density Lipoprotein Cholesterol     65.5 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-11-21 : Tobacco smoking status NHIS              Former smoker 
+  2021-11-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2021-11-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 189.0 fL
+  2021-11-21 : Platelets [#/volume] in Blood by Automated count 299.6 10*3/uL
+  2021-11-21 : Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+  2021-11-21 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2021-11-21 : MCH [Entitic mass] by Automated count    29.2 pg
+  2021-11-21 : MCV [Entitic volume] by Automated count  85.2 fL
+  2021-11-21 : Hematocrit [Volume Fraction] of Blood by Automated count 38.1 %
+  2021-11-21 : Hemoglobin [Mass/volume] in Blood        12.6 g/dL
+  2021-11-21 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2021-11-21 : Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+  2021-11-21 : Respiratory rate                         16.0 /min
+  2021-11-21 : Heart rate                               91.0 /min
+  2021-11-21 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2021-11-21 : Body Mass Index                          28.1 kg/m2
+  2021-11-21 : Body Weight                              76.3 kg
+  2021-11-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-11-21 : Body Height                              164.8 cm
+  2021-11-21 : FEV1/FVC                                 71.9 %
+  2019-02-03 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2019-02-03 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Clothing 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 5937 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             595 Yundt Skyway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Yes 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2019-02-03 : Tobacco smoking status NHIS              Former smoker 
+  2019-02-03 : High Density Lipoprotein Cholesterol     73.0 mg/dL
+  2019-02-03 : Low Density Lipoprotein Cholesterol      78.5 mg/dL
+  2019-02-03 : Triglycerides                            149.1 mg/dL
+  2019-02-03 : Total Cholesterol                        181.3 mg/dL
+  2019-02-03 : Respiratory rate                         13.0 /min
+  2019-02-03 : Heart rate                               66.0 /min
+  2019-02-03 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2019-02-03 : Body Mass Index                          29.4 kg/m2
+  2019-02-03 : Body Weight                              79.9 kg
+  2019-02-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-02-03 : Body Height                              164.8 cm
+  2019-02-03 : FEV1/FVC                                 61.0 %
+  2016-01-31 : Total score [HARK]                       0.0 {score}
+  2016-01-31 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 5937 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             595 Yundt Skyway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Yes 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              I choose not to answer this question 
+  2016-01-31 : Tobacco smoking status NHIS              Former smoker 
+  2016-01-31 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2016-01-31 : Platelet distribution width [Entitic volume] in Blood by Automated count 485.2 fL
+  2016-01-31 : Platelets [#/volume] in Blood by Automated count 434.1 10*3/uL
+  2016-01-31 : Erythrocyte distribution width [Entitic volume] by Automated count 39.5 fL
+  2016-01-31 : MCHC [Mass/volume] by Automated count    33.1 g/dL
+  2016-01-31 : MCH [Entitic mass] by Automated count    30.3 pg
+  2016-01-31 : MCV [Entitic volume] by Automated count  90.5 fL
+  2016-01-31 : Hematocrit [Volume Fraction] of Blood by Automated count 46.7 %
+  2016-01-31 : Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+  2016-01-31 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2016-01-31 : Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+  2016-01-31 : High Density Lipoprotein Cholesterol     66.6 mg/dL
+  2016-01-31 : Low Density Lipoprotein Cholesterol      97.4 mg/dL
+  2016-01-31 : Triglycerides                            103.9 mg/dL
+  2016-01-31 : Total Cholesterol                        184.8 mg/dL
+  2016-01-31 : Respiratory rate                         12.0 /min
+  2016-01-31 : Heart rate                               72.0 /min
+  2016-01-31 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2016-01-31 : Body Mass Index                          27.3 kg/m2
+  2016-01-31 : Body Weight                              74.1 kg
+  2016-01-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-01-31 : Body Height                              164.8 cm
+  2013-01-27 : Total score [DAST-10]                    1.0 {score}
+  2013-01-27 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2013-01-27 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 5937 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             595 Yundt Skyway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2013-01-27 : Tobacco smoking status NHIS              Former smoker 
+  2013-01-27 : High Density Lipoprotein Cholesterol     65.5 mg/dL
+  2013-01-27 : Low Density Lipoprotein Cholesterol      83.1 mg/dL
+  2013-01-27 : Triglycerides                            133.6 mg/dL
+  2013-01-27 : Total Cholesterol                        175.3 mg/dL
+  2013-01-27 : Respiratory rate                         14.0 /min
+  2013-01-27 : Heart rate                               99.0 /min
+  2013-01-27 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2013-01-27 : Body Mass Index                          30.1 kg/m2
+  2013-01-27 : Body Weight                              81.6 kg
+  2013-01-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-01-27 : Body Height                              164.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-11-21 : Medication Reconciliation (procedure)
+  2021-11-21 : Assessment of health and social care needs (procedure)
+  2021-11-21 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2021-03-14 : Insertion of subcutaneous contraceptive
+  2021-03-14 : Removal of subcutaneous contraceptive
+  2020-01-05 : Insertion of intrauterine contraceptive device
+  2019-02-03 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-02-03 : Depression screening (procedure)
+  2019-02-03 : Assessment of health and social care needs (procedure)
+  2019-02-03 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2019-01-06 : Insertion of intrauterine contraceptive device
+  2017-03-12 : Insertion of subcutaneous contraceptive
+  2017-03-12 : Removal of subcutaneous contraceptive
+  2016-02-14 : Admission to orthopedic department for Closed fracture of hip
+  2016-02-14 : Pelvis X-ray
+  2016-01-31 : Screening for domestic abuse (procedure)
+  2016-01-31 : Assessment of health and social care needs (procedure)
+  2015-01-24 : Intramuscular injection
+  2013-03-10 : Insertion of subcutaneous contraceptive
+  2013-03-10 : Removal of subcutaneous contraceptive
+  2013-01-27 : Screening for drug abuse (procedure)
+  2013-01-27 : Assessment of substance use (procedure)
+  2013-01-27 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2013-01-27 : Depression screening (procedure)
+  2013-01-27 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-11-21 : Hep A, adult
+  2021-11-21 : Influenza, seasonal, injectable, preservative free
+  2021-01-17 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2020-12-27 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2019-02-03 : Influenza, seasonal, injectable, preservative free
+  2018-11-25 : Influenza, seasonal, injectable, preservative free
+  2016-01-31 : Influenza, seasonal, injectable, preservative free
+  2013-01-27 : Td (adult) preservative free
+  2013-01-27 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-11-21 (Dr. Clay Pagac) : Encounter at MIHAELA PERIJOC, MD, PA
+2021-03-14 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2021-01-17 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2020-12-27 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2020-01-05 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2020-01-01 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2019-02-03 (Dr. Clay Pagac) : Encounter at MIHAELA PERIJOC, MD, PA
+2019-01-06 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2019-01-03 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2018-11-25 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2017-03-12 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2016-05-10 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Closed fracture of hip
+2016-02-14 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2016-01-31 (Dr. Clay Pagac) : Encounter at MIHAELA PERIJOC, MD, PA
+2015-01-24 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2014-01-29 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2013-03-10 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2013-02-03 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2013-01-27 (Dr. Clay Pagac) : Encounter at MIHAELA PERIJOC, MD, PA
+2012-02-09 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2010-01-24 (Dr. Clay Pagac) : Encounter at MIHAELA PERIJOC, MD, PA
+2007-01-21 (Dr. Clay Pagac) : Encounter at MIHAELA PERIJOC, MD, PA
+2000-01-09 (Dr. Clay Pagac) : Encounter at MIHAELA PERIJOC, MD, PA
+1998-03-23 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Acute bacterial sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2016-02-14 : Digital Radiography, Pelvis
+--------------------------------------------------------------------------------

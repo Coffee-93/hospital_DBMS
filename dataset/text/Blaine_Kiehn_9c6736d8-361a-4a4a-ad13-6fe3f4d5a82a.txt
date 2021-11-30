@@ -1,0 +1,370 @@
+Blaine Kiehn
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 10
+Birth Date:          2011-04-19
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2012-01-11 -            : Peanut (substance)
+  2012-01-11 -            : Tree nut (substance)
+  2012-01-11 -            : Shellfish (substance)
+  2012-01-11 -            : Cow's milk (substance)
+  2012-01-11 -            : Tree pollen (substance)
+  2012-01-11 -            : Grass pollen (substance)
+  2012-01-11 -            : Animal dander (substance)
+  2012-01-11 -            : House dust mite (organism)
+  2012-01-11 -            : Mold (organism)
+  2012-01-11 -            : Bee venom (substance)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-09-18[STOPPED] : predniSONE 5 MG Oral Tablet
+  2021-04-27[CURRENT] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2021-04-27[CURRENT] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2021-03-06[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2020-04-21[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2020-04-21[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-04-16[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-04-16[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2018-04-10[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2018-04-10[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2017-04-04[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2017-04-04[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2016-03-29[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2016-03-29[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2015-03-24[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2015-03-24[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2014-10-30[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2014-10-30[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2014-09-23[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2014-09-23[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2014-05-01[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2014-05-01[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2013-07-04[STOPPED] : predniSONE 5 MG Oral Tablet
+  2012-01-11[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2012-01-11[CURRENT] : Fexofenadine hydrochloride 30 MG Oral Tablet
+  2011-12-28[STOPPED] : predniSONE 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-09-17 - 2021-09-18 : Acute allergic reaction
+  2021-03-06 - 2021-03-20 : Laceration of thigh
+  2014-12-22 -            : Perennial allergic rhinitis
+  2014-10-30 - 2015-03-24 : Otitis media
+  2014-05-01 -            : Childhood asthma
+  2013-07-04 - 2013-07-04 : Acute allergic reaction
+  2012-01-30 -            : Atopic dermatitis
+  2011-12-28 - 2011-12-28 : Acute allergic reaction
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-03-06[STOPPED] : Wound care
+                         Reason: Laceration of thigh
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2014-05-01[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  2012-01-30[CURRENT] : Skin condition care
+                         Reason: Atopic dermatitis
+                         Activity: Application of moisturizer to skin
+  2011-12-28[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-04-04 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.3 %
+           - MCV [Entitic volume] by Automated count  81.2 fL
+           - MCH [Entitic mass] by Automated count    28.8 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+           - Platelets [#/volume] in Blood by Automated count 177.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 448.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-04-27 : Tobacco smoking status NHIS              Never smoker 
+  2021-04-27 : Respiratory rate                         15.0 /min
+  2021-04-27 : Heart rate                               92.0 /min
+  2021-04-27 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2021-04-27 : Body mass index (BMI) [Percentile] Per age and gender 84.4 %
+  2021-04-27 : Body Mass Index                          19.3 kg/m2
+  2021-04-27 : Body Weight                              38.0 kg
+  2021-04-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-04-27 : Body Height                              140.3 cm
+  2020-04-21 : Tobacco smoking status NHIS              Never smoker 
+  2020-04-21 : Respiratory rate                         12.0 /min
+  2020-04-21 : Heart rate                               69.0 /min
+  2020-04-21 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2020-04-21 : Body mass index (BMI) [Percentile] Per age and gender 85.1 %
+  2020-04-21 : Body Mass Index                          18.7 kg/m2
+  2020-04-21 : Body Weight                              34.1 kg
+  2020-04-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-04-21 : Body Height                              135.1 cm
+  2019-04-16 : Tobacco smoking status NHIS              Never smoker 
+  2019-04-16 : Respiratory rate                         14.0 /min
+  2019-04-16 : Heart rate                               95.0 /min
+  2019-04-16 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2019-04-16 : Body mass index (BMI) [Percentile] Per age and gender 80.5 %
+  2019-04-16 : Body Mass Index                          17.5 kg/m2
+  2019-04-16 : Body Weight                              29.0 kg
+  2019-04-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-04-16 : Body Height                              128.9 cm
+  2018-04-10 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-10 : Respiratory rate                         14.0 /min
+  2018-04-10 : Heart rate                               64.0 /min
+  2018-04-10 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2018-04-10 : Body mass index (BMI) [Percentile] Per age and gender 73.8 %
+  2018-04-10 : Body Mass Index                          16.5 kg/m2
+  2018-04-10 : Body Weight                              24.9 kg
+  2018-04-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-04-10 : Body Height                              122.7 cm
+  2017-04-04 : Tobacco smoking status NHIS              Never smoker 
+  2017-04-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2017-04-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 448.4 fL
+  2017-04-04 : Platelets [#/volume] in Blood by Automated count 177.9 10*3/uL
+  2017-04-04 : Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+  2017-04-04 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2017-04-04 : MCH [Entitic mass] by Automated count    28.8 pg
+  2017-04-04 : MCV [Entitic volume] by Automated count  81.2 fL
+  2017-04-04 : Hematocrit [Volume Fraction] of Blood by Automated count 43.3 %
+  2017-04-04 : Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+  2017-04-04 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2017-04-04 : Leukocytes [#/volume] in Blood by Automated count 6.3 10*3/uL
+  2017-04-04 : Respiratory rate                         14.0 /min
+  2017-04-04 : Heart rate                               87.0 /min
+  2017-04-04 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2017-04-04 : Body mass index (BMI) [Percentile] Per age and gender 80.0 %
+  2017-04-04 : Body Mass Index                          16.6 kg/m2
+  2017-04-04 : Body Weight                              22.5 kg
+  2017-04-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-04-04 : Body Height                              116.3 cm
+  2016-03-29 : Tobacco smoking status NHIS              Never smoker 
+  2016-03-29 : Respiratory rate                         14.0 /min
+  2016-03-29 : Heart rate                               89.0 /min
+  2016-03-29 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2016-03-29 : Body mass index (BMI) [Percentile] Per age and gender 82.6 %
+  2016-03-29 : Body Mass Index                          16.7 kg/m2
+  2016-03-29 : Body Weight                              20.1 kg
+  2016-03-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-03-29 : Body Height                              109.7 cm
+  2015-03-24 : Tobacco smoking status NHIS              Never smoker 
+  2015-03-24 : Respiratory rate                         15.0 /min
+  2015-03-24 : Heart rate                               82.0 /min
+  2015-03-24 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2015-03-24 : Body mass index (BMI) [Percentile] Per age and gender 85.7 %
+  2015-03-24 : Body Mass Index                          17.0 kg/m2
+  2015-03-24 : Head Occipital-frontal circumference     50.1 cm
+  2015-03-24 : Weight-for-length Per age and sex        91.2 %
+  2015-03-24 : Body Weight                              18.0 kg
+  2015-03-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-03-24 : Body Height                              102.9 cm
+  2014-09-23 : Tobacco smoking status NHIS              Never smoker 
+  2014-09-23 : Respiratory rate                         12.0 /min
+  2014-09-23 : Heart rate                               89.0 /min
+  2014-09-23 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2014-09-23 : Body mass index (BMI) [Percentile] Per age and gender 87.9 %
+  2014-09-23 : Body Mass Index                          17.3 kg/m2
+  2014-09-23 : Head Occipital-frontal circumference     50.1 cm
+  2014-09-23 : Weight-for-length Per age and sex        91.2 %
+  2014-09-23 : Body Weight                              17.1 kg
+  2014-09-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-09-23 : Body Height                              99.3 cm
+  2014-03-25 : Tobacco smoking status NHIS              Never smoker 
+  2014-03-25 : Respiratory rate                         13.0 /min
+  2014-03-25 : Heart rate                               86.0 /min
+  2014-03-25 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2014-03-25 : Body mass index (BMI) [Percentile] Per age and gender 90.0 %
+  2014-03-25 : Body Mass Index                          17.7 kg/m2
+  2014-03-25 : Head Occipital-frontal circumference     50.0 cm
+  2014-03-25 : Weight-for-length Per age and sex        90.0 %
+  2014-03-25 : Body Weight                              16.2 kg
+  2014-03-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-03-25 : Body Height                              95.5 cm
+  2013-09-24 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-24 : Respiratory rate                         16.0 /min
+  2013-09-24 : Heart rate                               77.0 /min
+  2013-09-24 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2013-09-24 : Body mass index (BMI) [Percentile] Per age and gender 91.6 %
+  2013-09-24 : Body Mass Index                          18.3 kg/m2
+  2013-09-24 : Head Occipital-frontal circumference     49.6 cm
+  2013-09-24 : Weight-for-length Per age and sex        92.6 %
+  2013-09-24 : Body Weight                              15.3 kg
+  2013-09-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2013-09-24 : Body Height                              91.5 cm
+  2013-03-26 : Tobacco smoking status NHIS              Never smoker 
+  2013-03-26 : Respiratory rate                         14.0 /min
+  2013-03-26 : Heart rate                               78.0 /min
+  2013-03-26 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2013-03-26 : Head Occipital-frontal circumference     48.9 cm
+  2013-03-26 : Weight-for-length Per age and sex        93.3 %
+  2013-03-26 : Body Weight                              14.3 kg
+  2013-03-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-03-26 : Body Height                              87.6 cm
+  2012-09-25 : Tobacco smoking status NHIS              Never smoker 
+  2012-09-25 : Respiratory rate                         12.0 /min
+  2012-09-25 : Heart rate                               84.0 /min
+  2012-09-25 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2012-09-25 : Head Occipital-frontal circumference     48.0 cm
+  2012-09-25 : Weight-for-length Per age and sex        96.9 %
+  2012-09-25 : Body Weight                              13.2 kg
+  2012-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2012-09-25 : Body Height                              82.2 cm
+  2012-06-26 : Tobacco smoking status NHIS              Never smoker 
+  2012-06-26 : Respiratory rate                         13.0 /min
+  2012-06-26 : Heart rate                               63.0 /min
+  2012-06-26 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2012-06-26 : Head Occipital-frontal circumference     47.3 cm
+  2012-06-26 : Weight-for-length Per age and sex        97.3 %
+  2012-06-26 : Body Weight                              12.5 kg
+  2012-06-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2012-06-26 : Body Height                              79.1 cm
+  2012-03-27 : Tobacco smoking status NHIS              Never smoker 
+  2012-03-27 : Respiratory rate                         12.0 /min
+  2012-03-27 : Heart rate                               68.0 /min
+  2012-03-27 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2012-03-27 : Head Occipital-frontal circumference     46.5 cm
+  2012-03-27 : Weight-for-length Per age and sex        96.4 %
+  2012-03-27 : Body Weight                              11.6 kg
+  2012-03-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2012-03-27 : Body Height                              75.6 cm
+  2012-01-11 : Latex IgE Ab in Serum                    0.2 kU/L
+  2012-01-11 : Honey bee IgE Ab in Serum                0.2 kU/L
+  2012-01-11 : Cladosporium herbarum IgE Ab in Serum    0.3 kU/L
+  2012-01-11 : American house dust mite IgE Ab in Serum 0.2 kU/L
+  2012-01-11 : Cat dander IgE Ab in Serum               0.3 kU/L
+  2012-01-11 : Common Ragweed IgE Ab in Serum           0.2 kU/L
+  2012-01-11 : White oak IgE Ab in Serum                0.3 kU/L
+  2012-01-11 : Cow milk IgE Ab in Serum                 0.2 kU/L
+  2012-01-11 : Soybean IgE Ab in Serum                  0.2 kU/L
+  2012-01-11 : Egg white IgE Ab in Serum                0.2 kU/L
+  2012-01-11 : Wheat IgE Ab in Serum                    0.3 kU/L
+  2012-01-11 : Shrimp IgE Ab in Serum                   0.0 kU/L
+  2012-01-11 : Codfish IgE Ab in Serum                  0.0 kU/L
+  2012-01-11 : Walnut IgE Ab in Serum                   0.2 kU/L
+  2012-01-11 : Peanut IgE Ab in Serum                   0.2 kU/L
+  2011-12-27 : Tobacco smoking status NHIS              Never smoker 
+  2011-12-27 : Respiratory rate                         15.0 /min
+  2011-12-27 : Heart rate                               99.0 /min
+  2011-12-27 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2011-12-27 : Head Occipital-frontal circumference     45.4 cm
+  2011-12-27 : Weight-for-length Per age and sex        95.0 %
+  2011-12-27 : Body Weight                              10.4 kg
+  2011-12-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2011-12-27 : Body Height                              71.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-09-17 : Injection of adrenaline
+  2021-04-27 : Medication Reconciliation (procedure)
+  2021-03-06 : Suture open wound for Laceration of thigh
+  2020-04-21 : Medication Reconciliation (procedure)
+  2015-03-24 : Medication Reconciliation (procedure)
+  2014-09-23 : Medication Reconciliation (procedure)
+  2014-05-01 : Asthma screening for Childhood asthma
+  2014-03-25 : Medication Reconciliation (procedure)
+  2013-07-04 : Injection of adrenaline
+  2012-01-11 : Allergy screening test
+  2011-12-28 : Injection of adrenaline
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-04-27 : Influenza, seasonal, injectable, preservative free
+  2020-04-21 : Influenza, seasonal, injectable, preservative free
+  2019-04-16 : Influenza, seasonal, injectable, preservative free
+  2018-04-10 : Influenza, seasonal, injectable, preservative free
+  2017-04-04 : Influenza, seasonal, injectable, preservative free
+  2016-03-29 : MMR
+  2016-03-29 : DTaP
+  2016-03-29 : Influenza, seasonal, injectable, preservative free
+  2016-03-29 : IPV
+  2016-03-29 : varicella
+  2015-03-24 : Influenza, seasonal, injectable, preservative free
+  2014-03-25 : Influenza, seasonal, injectable, preservative free
+  2013-09-24 : Hep A, ped/adol, 2 dose
+  2013-03-26 : Influenza, seasonal, injectable, preservative free
+  2012-09-25 : DTaP
+  2012-06-26 : Hep A, ped/adol, 2 dose
+  2012-06-26 : Pneumococcal conjugate PCV 13
+  2012-06-26 : MMR
+  2012-06-26 : varicella
+  2012-06-26 : Hib (PRP-OMP)
+  2011-12-27 : Hep B, adolescent or pediatric
+  2011-12-27 : Pneumococcal conjugate PCV 13
+  2011-12-27 : DTaP
+  2011-12-27 : Influenza, seasonal, injectable, preservative free
+  2011-12-27 : IPV
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-09-18 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2021-09-17 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2021-04-27 (Dr. Omer Wiegand) : Encounter at PCP142859
+2021-03-06 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2020-09-26 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Childhood asthma
+2020-04-21 (Dr. Omer Wiegand) : Encounter at PCP142859
+2019-04-16 (Dr. Omer Wiegand) : Encounter at PCP142859
+2019-04-05 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Childhood asthma
+2019-02-27 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2018-04-10 (Dr. Omer Wiegand) : Encounter at PCP142859
+2017-11-27 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2017-10-12 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Childhood asthma
+2017-04-04 (Dr. Omer Wiegand) : Encounter at PCP142859
+2016-04-20 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Childhood asthma
+2016-03-29 (Dr. Omer Wiegand) : Encounter at PCP142859
+2015-03-24 (Dr. Omer Wiegand) : Encounter at PCP142859
+2014-12-22 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Perennial allergic rhinitis
+2014-10-30 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Otitis media
+2014-10-28 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Childhood asthma
+2014-09-23 (Dr. Omer Wiegand) : Encounter at PCP142859
+2014-05-01 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Childhood asthma
+2014-03-25 (Dr. Omer Wiegand) : Encounter at PCP142859
+2013-09-24 (Dr. Omer Wiegand) : Encounter at PCP142859
+2013-07-05 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2013-07-04 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2013-03-26 (Dr. Omer Wiegand) : Encounter at PCP142859
+2012-09-25 (Dr. Omer Wiegand) : Encounter at PCP142859
+2012-06-26 (Dr. Omer Wiegand) : Encounter at PCP142859
+2012-03-27 (Dr. Omer Wiegand) : Encounter at PCP142859
+2012-01-30 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Atopic dermatitis
+2012-01-11 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2011-12-28 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2011-12-28 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2011-12-27 (Dr. Omer Wiegand) : Encounter at PCP142859
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

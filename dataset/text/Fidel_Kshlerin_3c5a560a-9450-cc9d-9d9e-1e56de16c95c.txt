@@ -1,0 +1,295 @@
+Fidel Kshlerin
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 13
+Birth Date:          2008-09-13
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-08-25[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2012-07-22[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2019-01-04 - 2019-01-18 : Acute viral pharyngitis (disorder)
+  2016-01-07 - 2016-01-15 : Acute viral pharyngitis (disorder)
+  2015-10-23 - 2015-11-05 : Acute viral pharyngitis (disorder)
+  2015-08-25 - 2015-09-10 : Sprain of ankle
+  2015-01-03 - 2015-01-29 : Viral sinusitis (disorder)
+  2012-07-22 - 2012-08-15 : Sprain of wrist
+  2012-03-04 - 2012-03-11 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-08-25[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2012-07-22[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-10-09 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2021-10-09 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2020-10-03 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2020-10-03 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2019-09-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.0 %
+           - MCV [Entitic volume] by Automated count  80.9 fL
+           - MCH [Entitic mass] by Automated count    32.5 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.0 fL
+           - Platelets [#/volume] in Blood by Automated count 406.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 341.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2014-08-30 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.5 %
+           - MCV [Entitic volume] by Automated count  93.6 fL
+           - MCH [Entitic mass] by Automated count    31.6 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+           - Platelets [#/volume] in Blood by Automated count 445.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 417.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-10-09 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2021-10-09 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-10-09 : Tobacco smoking status NHIS              Never smoker 
+  2021-10-09 : Respiratory rate                         16.0 /min
+  2021-10-09 : Heart rate                               83.0 /min
+  2021-10-09 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2021-10-09 : Body mass index (BMI) [Percentile] Per age and gender 67.5 %
+  2021-10-09 : Body Mass Index                          19.7 kg/m2
+  2021-10-09 : Body Weight                              43.6 kg
+  2021-10-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-10-09 : Body Height                              148.6 cm
+  2020-10-03 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2020-10-03 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2020-10-03 : Tobacco smoking status NHIS              Never smoker 
+  2020-10-03 : Respiratory rate                         13.0 /min
+  2020-10-03 : Heart rate                               87.0 /min
+  2020-10-03 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2020-10-03 : Body mass index (BMI) [Percentile] Per age and gender 61.8 %
+  2020-10-03 : Body Mass Index                          18.6 kg/m2
+  2020-10-03 : Body Weight                              37.4 kg
+  2020-10-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-10-03 : Body Height                              142.0 cm
+  2019-09-28 : Tobacco smoking status NHIS              Never smoker 
+  2019-09-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2019-09-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 341.3 fL
+  2019-09-28 : Platelets [#/volume] in Blood by Automated count 406.2 10*3/uL
+  2019-09-28 : Erythrocyte distribution width [Entitic volume] by Automated count 40.0 fL
+  2019-09-28 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2019-09-28 : MCH [Entitic mass] by Automated count    32.5 pg
+  2019-09-28 : MCV [Entitic volume] by Automated count  80.9 fL
+  2019-09-28 : Hematocrit [Volume Fraction] of Blood by Automated count 35.0 %
+  2019-09-28 : Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+  2019-09-28 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2019-09-28 : Leukocytes [#/volume] in Blood by Automated count 7.1 10*3/uL
+  2019-09-28 : Respiratory rate                         13.0 /min
+  2019-09-28 : Heart rate                               93.0 /min
+  2019-09-28 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2019-09-28 : Body mass index (BMI) [Percentile] Per age and gender 40.3 %
+  2019-09-28 : Body Mass Index                          16.7 kg/m2
+  2019-09-28 : Body Weight                              31.3 kg
+  2019-09-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-09-28 : Body Height                              136.8 cm
+  2019-01-04 : Body temperature                         37.0 Cel
+  2018-09-22 : Tobacco smoking status NHIS              Never smoker 
+  2018-09-22 : Respiratory rate                         14.0 /min
+  2018-09-22 : Heart rate                               75.0 /min
+  2018-09-22 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2018-09-22 : Body mass index (BMI) [Percentile] Per age and gender 29.8 %
+  2018-09-22 : Body Mass Index                          15.7 kg/m2
+  2018-09-22 : Body Weight                              27.5 kg
+  2018-09-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-09-22 : Body Height                              132.3 cm
+  2017-09-16 : Tobacco smoking status NHIS              Never smoker 
+  2017-09-16 : Respiratory rate                         15.0 /min
+  2017-09-16 : Heart rate                               71.0 /min
+  2017-09-16 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2017-09-16 : Body mass index (BMI) [Percentile] Per age and gender 25.5 %
+  2017-09-16 : Body Mass Index                          15.1 kg/m2
+  2017-09-16 : Body Weight                              24.7 kg
+  2017-09-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-09-16 : Body Height                              127.7 cm
+  2016-09-10 : Tobacco smoking status NHIS              Never smoker 
+  2016-09-10 : Respiratory rate                         13.0 /min
+  2016-09-10 : Heart rate                               97.0 /min
+  2016-09-10 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2016-09-10 : Body mass index (BMI) [Percentile] Per age and gender 17.3 %
+  2016-09-10 : Body Mass Index                          14.5 kg/m2
+  2016-09-10 : Body Weight                              21.6 kg
+  2016-09-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-09-10 : Body Height                              122.0 cm
+  2016-01-07 : Body temperature                         37.6 Cel
+  2015-10-23 : Body temperature                         37.0 Cel
+  2015-09-05 : Tobacco smoking status NHIS              Never smoker 
+  2015-09-05 : Respiratory rate                         12.0 /min
+  2015-09-05 : Heart rate                               61.0 /min
+  2015-09-05 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2015-09-05 : Body mass index (BMI) [Percentile] Per age and gender 30.9 %
+  2015-09-05 : Body Mass Index                          14.9 kg/m2
+  2015-09-05 : Body Weight                              20.0 kg
+  2015-09-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-09-05 : Body Height                              116.2 cm
+  2014-08-30 : Tobacco smoking status NHIS              Never smoker 
+  2014-08-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2014-08-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 417.1 fL
+  2014-08-30 : Platelets [#/volume] in Blood by Automated count 445.6 10*3/uL
+  2014-08-30 : Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+  2014-08-30 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2014-08-30 : MCH [Entitic mass] by Automated count    31.6 pg
+  2014-08-30 : MCV [Entitic volume] by Automated count  93.6 fL
+  2014-08-30 : Hematocrit [Volume Fraction] of Blood by Automated count 40.5 %
+  2014-08-30 : Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+  2014-08-30 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2014-08-30 : Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+  2014-08-30 : Respiratory rate                         14.0 /min
+  2014-08-30 : Heart rate                               93.0 /min
+  2014-08-30 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2014-08-30 : Body mass index (BMI) [Percentile] Per age and gender 46.3 %
+  2014-08-30 : Body Mass Index                          15.3 kg/m2
+  2014-08-30 : Body Weight                              18.5 kg
+  2014-08-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-08-30 : Body Height                              110.1 cm
+  2013-08-24 : Tobacco smoking status NHIS              Never smoker 
+  2013-08-24 : Respiratory rate                         14.0 /min
+  2013-08-24 : Heart rate                               68.0 /min
+  2013-08-24 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2013-08-24 : Body mass index (BMI) [Percentile] Per age and gender 31.2 %
+  2013-08-24 : Body Mass Index                          14.9 kg/m2
+  2013-08-24 : Body Weight                              16.1 kg
+  2013-08-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-08-24 : Body Height                              104.0 cm
+  2012-08-18 : Tobacco smoking status NHIS              Never smoker 
+  2012-08-18 : Respiratory rate                         15.0 /min
+  2012-08-18 : Heart rate                               64.0 /min
+  2012-08-18 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2012-08-18 : Body mass index (BMI) [Percentile] Per age and gender 18.5 %
+  2012-08-18 : Body Mass Index                          14.7 kg/m2
+  2012-08-18 : Head Occipital-frontal circumference     48.0 cm
+  2012-08-18 : Weight-for-length Per age and sex        41.4 %
+  2012-08-18 : Body Weight                              14.1 kg
+  2012-08-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-08-18 : Body Height                              97.8 cm
+  2012-02-18 : Tobacco smoking status NHIS              Never smoker 
+  2012-02-18 : Respiratory rate                         16.0 /min
+  2012-02-18 : Heart rate                               97.0 /min
+  2012-02-18 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2012-02-18 : Body mass index (BMI) [Percentile] Per age and gender 37.0 %
+  2012-02-18 : Body Mass Index                          15.5 kg/m2
+  2012-02-18 : Head Occipital-frontal circumference     48.0 cm
+  2012-02-18 : Weight-for-length Per age and sex        41.4 %
+  2012-02-18 : Body Weight                              13.8 kg
+  2012-02-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2012-02-18 : Body Height                              94.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-10-09 : Anticipatory guidance (procedure)
+  2021-10-09 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-10-09 : Assessment of substance use (procedure)
+  2021-10-09 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-10-09 : Depression screening (procedure)
+  2021-10-09 : Assessment of anxiety (procedure)
+  2020-10-03 : Anticipatory guidance (procedure)
+  2020-10-03 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2020-10-03 : Assessment of substance use (procedure)
+  2020-10-03 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2020-10-03 : Depression screening (procedure)
+  2020-10-03 : Medication Reconciliation (procedure)
+  2020-10-03 : Assessment of anxiety (procedure)
+  2019-01-04 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2017-09-16 : Medication Reconciliation (procedure)
+  2016-09-10 : Medication Reconciliation (procedure)
+  2015-10-23 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2015-09-05 : Medication Reconciliation (procedure)
+  2014-08-30 : Medication Reconciliation (procedure)
+  2013-08-24 : Medication Reconciliation (procedure)
+  2012-02-18 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-10-09 : HPV, quadrivalent
+  2021-10-09 : Influenza, seasonal, injectable, preservative free
+  2021-06-12 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-05-22 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2020-10-03 : HPV, quadrivalent
+  2020-10-03 : Influenza, seasonal, injectable, preservative free
+  2019-09-28 : meningococcal MCV4P
+  2019-09-28 : HPV, quadrivalent
+  2019-09-28 : Influenza, seasonal, injectable, preservative free
+  2019-09-28 : Tdap
+  2018-09-22 : Influenza, seasonal, injectable, preservative free
+  2017-09-16 : Influenza, seasonal, injectable, preservative free
+  2016-09-10 : Influenza, seasonal, injectable, preservative free
+  2015-09-05 : Influenza, seasonal, injectable, preservative free
+  2014-08-30 : Influenza, seasonal, injectable, preservative free
+  2013-08-24 : MMR
+  2013-08-24 : DTaP
+  2013-08-24 : Influenza, seasonal, injectable, preservative free
+  2013-08-24 : IPV
+  2013-08-24 : varicella
+  2012-08-18 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-10-09 (Dr. Cathrine Williamson) : Encounter at PCP153514
+2021-06-12 (Dr. Giovanni Greenfelder) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL
+2021-05-22 (Dr. Giovanni Greenfelder) : Encounter at UT SOUTHWESTERN UNIVERSITY HOSPITAL
+2020-10-03 (Dr. Cathrine Williamson) : Encounter at PCP153514
+2019-09-28 (Dr. Cathrine Williamson) : Encounter at PCP153514
+2019-01-04 (Dr. Sherwood Rath) : Encounter at TEXAS SCOTTISH RITE HOSPITAL FOR CHILDREN : Encounter for Acute viral pharyngitis (disorder)
+2018-09-22 (Dr. Cathrine Williamson) : Encounter at PCP153514
+2017-09-16 (Dr. Cathrine Williamson) : Encounter at PCP153514
+2016-09-10 (Dr. Cathrine Williamson) : Encounter at PCP153514
+2016-01-07 (Dr. Sherwood Rath) : Encounter at TEXAS SCOTTISH RITE HOSPITAL FOR CHILDREN : Encounter for Acute viral pharyngitis (disorder)
+2015-10-23 (Dr. Sherwood Rath) : Encounter at TEXAS SCOTTISH RITE HOSPITAL FOR CHILDREN : Encounter for Acute viral pharyngitis (disorder)
+2015-09-05 (Dr. Cathrine Williamson) : Encounter at PCP153514
+2015-08-25 (Dr. Antonia Stark) : Encounter at BAYLOR UNIVERSITY MEDICAL CENTER
+2015-01-03 (Dr. Sherwood Rath) : Encounter at TEXAS SCOTTISH RITE HOSPITAL FOR CHILDREN : Encounter for Viral sinusitis (disorder)
+2014-08-30 (Dr. Cathrine Williamson) : Encounter at PCP153514
+2013-08-24 (Dr. Cathrine Williamson) : Encounter at PCP153514
+2012-08-18 (Dr. Cathrine Williamson) : Encounter at PCP153514
+2012-07-22 (Dr. Antonia Stark) : Encounter at BAYLOR UNIVERSITY MEDICAL CENTER
+2012-03-04 (Dr. Sherwood Rath) : Encounter at TEXAS SCOTTISH RITE HOSPITAL FOR CHILDREN : Encounter for Viral sinusitis (disorder)
+2012-02-18 (Dr. Cathrine Williamson) : Encounter at PCP153514
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

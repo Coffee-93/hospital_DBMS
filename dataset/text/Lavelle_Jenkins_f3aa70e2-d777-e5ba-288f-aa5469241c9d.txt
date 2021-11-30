@@ -1,0 +1,329 @@
+Lavelle Jenkins
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 14
+Birth Date:          2007-04-06
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-01-15[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2019-08-19[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2018-11-23[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2014-11-16[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2014-11-16[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2012-02-11[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-05-01 -            : Risk activity involvement (finding)
+  2020-01-15 - 2020-01-24 : Streptococcal sore throat (disorder)
+  2019-08-19 - 2019-09-03 : Acute bronchitis (disorder)
+  2018-11-23 - 2018-12-31 : Fracture of forearm
+  2015-07-03 - 2015-07-22 : Viral sinusitis (disorder)
+  2014-11-16 - 2015-04-03 : Otitis media
+  2012-02-11 - 2012-02-24 : Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2019-08-19[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2018-11-23[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2012-02-11[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-05-07 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2021-05-07 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2020-05-01 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2020-01-24 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2019-04-26 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2019-04-26 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2018-04-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.3 %
+           - MCV [Entitic volume] by Automated count  91.6 fL
+           - MCH [Entitic mass] by Automated count    30.1 pg
+           - MCHC [Mass/volume] by Automated count    33.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+           - Platelets [#/volume] in Blood by Automated count 260.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 392.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2013-03-22 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.6 %
+           - MCV [Entitic volume] by Automated count  82.8 fL
+           - MCH [Entitic mass] by Automated count    31.8 pg
+           - MCHC [Mass/volume] by Automated count    35.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.8 fL
+           - Platelets [#/volume] in Blood by Automated count 365.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 323.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-05-07 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2021-05-07 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2021-05-07 : Tobacco smoking status NHIS              Never smoker 
+  2021-05-07 : Respiratory rate                         15.0 /min
+  2021-05-07 : Heart rate                               73.0 /min
+  2021-05-07 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2021-05-07 : Body mass index (BMI) [Percentile] Per age and gender 67.5 %
+  2021-05-07 : Body Mass Index                          20.9 kg/m2
+  2021-05-07 : Body Weight                              53.7 kg
+  2021-05-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-05-07 : Body Height                              160.3 cm
+  2020-05-01 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2020-05-01 : Tobacco smoking status NHIS              Never smoker 
+  2020-05-01 : Respiratory rate                         13.0 /min
+  2020-05-01 : Heart rate                               97.0 /min
+  2020-05-01 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2020-05-01 : Body mass index (BMI) [Percentile] Per age and gender 75.5 %
+  2020-05-01 : Body Mass Index                          21.0 kg/m2
+  2020-05-01 : Body Weight                              51.9 kg
+  2020-05-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-05-01 : Body Height                              157.0 cm
+  2020-01-24 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2020-01-24 : Tobacco smoking status NHIS              Never smoker 
+  2020-01-24 : Respiratory rate                         16.0 /min
+  2020-01-24 : Heart rate                               79.0 /min
+  2020-01-24 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2020-01-24 : Body mass index (BMI) [Percentile] Per age and gender 76.7 %
+  2020-01-24 : Body Mass Index                          21.0 kg/m2
+  2020-01-24 : Body Weight                              51.0 kg
+  2020-01-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-01-24 : Body Height                              155.8 cm
+  2020-01-15 : Body temperature                         39.3 Cel
+  2019-04-26 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2019-04-26 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2019-04-26 : Tobacco smoking status NHIS              Never smoker 
+  2019-04-26 : Respiratory rate                         14.0 /min
+  2019-04-26 : Heart rate                               77.0 /min
+  2019-04-26 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2019-04-26 : Body mass index (BMI) [Percentile] Per age and gender 80.8 %
+  2019-04-26 : Body Mass Index                          21.0 kg/m2
+  2019-04-26 : Body Weight                              48.0 kg
+  2019-04-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2019-04-26 : Body Height                              151.1 cm
+  2018-04-20 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2018-04-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 392.8 fL
+  2018-04-20 : Platelets [#/volume] in Blood by Automated count 260.8 10*3/uL
+  2018-04-20 : Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+  2018-04-20 : MCHC [Mass/volume] by Automated count    33.3 g/dL
+  2018-04-20 : MCH [Entitic mass] by Automated count    30.1 pg
+  2018-04-20 : MCV [Entitic volume] by Automated count  91.6 fL
+  2018-04-20 : Hematocrit [Volume Fraction] of Blood by Automated count 35.3 %
+  2018-04-20 : Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+  2018-04-20 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  2018-04-20 : Leukocytes [#/volume] in Blood by Automated count 5.0 10*3/uL
+  2018-04-20 : Respiratory rate                         15.0 /min
+  2018-04-20 : Heart rate                               93.0 /min
+  2018-04-20 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2018-04-20 : Body mass index (BMI) [Percentile] Per age and gender 87.1 %
+  2018-04-20 : Body Mass Index                          21.3 kg/m2
+  2018-04-20 : Body Weight                              44.1 kg
+  2018-04-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-04-20 : Body Height                              143.9 cm
+  2017-04-14 : Tobacco smoking status NHIS              Never smoker 
+  2017-04-14 : Respiratory rate                         14.0 /min
+  2017-04-14 : Heart rate                               89.0 /min
+  2017-04-14 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2017-04-14 : Body mass index (BMI) [Percentile] Per age and gender 86.4 %
+  2017-04-14 : Body Mass Index                          20.2 kg/m2
+  2017-04-14 : Body Weight                              38.5 kg
+  2017-04-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-04-14 : Body Height                              137.9 cm
+  2016-04-08 : Tobacco smoking status NHIS              Never smoker 
+  2016-04-08 : Respiratory rate                         16.0 /min
+  2016-04-08 : Heart rate                               87.0 /min
+  2016-04-08 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2016-04-08 : Body mass index (BMI) [Percentile] Per age and gender 78.9 %
+  2016-04-08 : Body Mass Index                          18.4 kg/m2
+  2016-04-08 : Body Weight                              32.4 kg
+  2016-04-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-04-08 : Body Height                              132.8 cm
+  2015-04-03 : Tobacco smoking status NHIS              Never smoker 
+  2015-04-03 : Respiratory rate                         13.0 /min
+  2015-04-03 : Heart rate                               66.0 /min
+  2015-04-03 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2015-04-03 : Body mass index (BMI) [Percentile] Per age and gender 75.2 %
+  2015-04-03 : Body Mass Index                          17.3 kg/m2
+  2015-04-03 : Body Weight                              27.9 kg
+  2015-04-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2015-04-03 : Body Height                              127.1 cm
+  2014-03-28 : Tobacco smoking status NHIS              Never smoker 
+  2014-03-28 : Respiratory rate                         15.0 /min
+  2014-03-28 : Heart rate                               90.0 /min
+  2014-03-28 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2014-03-28 : Body mass index (BMI) [Percentile] Per age and gender 61.7 %
+  2014-03-28 : Body Mass Index                          15.9 kg/m2
+  2014-03-28 : Body Weight                              23.3 kg
+  2014-03-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-03-28 : Body Height                              120.9 cm
+  2013-03-22 : Tobacco smoking status NHIS              Never smoker 
+  2013-03-22 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2013-03-22 : Platelet distribution width [Entitic volume] in Blood by Automated count 323.6 fL
+  2013-03-22 : Platelets [#/volume] in Blood by Automated count 365.6 10*3/uL
+  2013-03-22 : Erythrocyte distribution width [Entitic volume] by Automated count 44.8 fL
+  2013-03-22 : MCHC [Mass/volume] by Automated count    35.9 g/dL
+  2013-03-22 : MCH [Entitic mass] by Automated count    31.8 pg
+  2013-03-22 : MCV [Entitic volume] by Automated count  82.8 fL
+  2013-03-22 : Hematocrit [Volume Fraction] of Blood by Automated count 37.6 %
+  2013-03-22 : Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+  2013-03-22 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2013-03-22 : Leukocytes [#/volume] in Blood by Automated count 7.4 10*3/uL
+  2013-03-22 : Respiratory rate                         16.0 /min
+  2013-03-22 : Heart rate                               63.0 /min
+  2013-03-22 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2013-03-22 : Body mass index (BMI) [Percentile] Per age and gender 50.7 %
+  2013-03-22 : Body Mass Index                          15.2 kg/m2
+  2013-03-22 : Body Weight                              19.8 kg
+  2013-03-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-03-22 : Body Height                              114.2 cm
+  2012-03-16 : Tobacco smoking status NHIS              Never smoker 
+  2012-03-16 : Respiratory rate                         13.0 /min
+  2012-03-16 : Heart rate                               77.0 /min
+  2012-03-16 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2012-03-16 : Body mass index (BMI) [Percentile] Per age and gender 64.3 %
+  2012-03-16 : Body Mass Index                          15.7 kg/m2
+  2012-03-16 : Body Weight                              18.0 kg
+  2012-03-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-03-16 : Body Height                              107.1 cm
+  2012-02-24 : Tobacco smoking status NHIS              Never smoker 
+  2012-02-24 : Respiratory rate                         12.0 /min
+  2012-02-24 : Heart rate                               76.0 /min
+  2012-02-24 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2012-02-24 : Body mass index (BMI) [Percentile] Per age and gender 61.7 %
+  2012-02-24 : Body Mass Index                          15.6 kg/m2
+  2012-02-24 : Body Weight                              17.7 kg
+  2012-02-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-02-24 : Body Height                              106.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-05-08 : Health risks education (procedure) for Risk activity involvement (finding)
+  2021-05-07 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-05-07 : Assessment of substance use (procedure)
+  2021-05-07 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-05-07 : Depression screening (procedure)
+  2021-05-07 : Medication Reconciliation (procedure)
+  2021-05-07 : Assessment of anxiety (procedure)
+  2020-05-01 : Health risks education (procedure) for Risk activity involvement (finding)
+  2020-05-01 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2020-05-01 : Assessment of substance use (procedure)
+  2020-05-01 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2020-05-01 : Depression screening (procedure)
+  2020-01-24 : Anticipatory guidance (procedure)
+  2020-01-24 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2020-01-24 : Assessment of substance use (procedure)
+  2020-01-24 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2020-01-24 : Depression screening (procedure)
+  2019-08-19 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2019-04-27 : Anticipatory guidance (procedure)
+  2019-04-26 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2019-04-26 : Assessment of substance use (procedure)
+  2019-04-26 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2019-04-26 : Depression screening (procedure)
+  2019-04-26 : Assessment of anxiety (procedure)
+  2018-11-23 : Bone immobilization for Fracture of forearm
+  2018-11-23 : Upper arm X-ray
+  2016-04-08 : Medication Reconciliation (procedure)
+  2015-04-03 : Medication Reconciliation (procedure)
+  2014-03-28 : Medication Reconciliation (procedure)
+  2013-03-22 : Medication Reconciliation (procedure)
+  2012-03-16 : Medication Reconciliation (procedure)
+  2012-02-11 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-08-27 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-08-06 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-05-07 : Influenza, seasonal, injectable, preservative free
+  2020-01-24 : Influenza, seasonal, injectable, preservative free
+  2019-08-23 : HPV, quadrivalent
+  2019-04-26 : HPV, quadrivalent
+  2019-04-26 : Influenza, seasonal, injectable, preservative free
+  2018-04-20 : meningococcal MCV4P
+  2018-04-20 : HPV, quadrivalent
+  2018-04-20 : Influenza, seasonal, injectable, preservative free
+  2018-04-20 : Tdap
+  2017-04-14 : Influenza, seasonal, injectable, preservative free
+  2016-04-08 : Influenza, seasonal, injectable, preservative free
+  2015-04-03 : Influenza, seasonal, injectable, preservative free
+  2014-03-28 : Influenza, seasonal, injectable, preservative free
+  2013-03-22 : Influenza, seasonal, injectable, preservative free
+  2012-02-17 : MMR
+  2012-02-17 : DTaP
+  2012-02-17 : Influenza, seasonal, injectable, preservative free
+  2012-02-17 : IPV
+  2012-02-17 : varicella
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-08-27 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2021-08-06 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2021-05-07 (Dr. Yvone Hackett) : Encounter at PCP238724
+2020-05-01 (Dr. Yvone Hackett) : Encounter at PCP238724
+2020-01-24 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2020-01-15 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Streptococcal sore throat (disorder)
+2019-08-19 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Acute bronchitis (disorder)
+2019-08-23 (Dr. Sung Feil) : Encounter at CONCENTRA URGENT CARE - IRVING
+2019-04-26 (Dr. Yvone Hackett) : Encounter at PCP238724
+2018-12-31 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Fracture of forearm
+2018-11-23 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+2018-04-20 (Dr. Yvone Hackett) : Encounter at PCP238724
+2017-04-14 (Dr. Yvone Hackett) : Encounter at PCP238724
+2016-04-08 (Dr. Yvone Hackett) : Encounter at PCP238724
+2015-07-03 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2015-04-03 (Dr. Yvone Hackett) : Encounter at PCP238724
+2014-11-16 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Otitis media
+2014-03-28 (Dr. Yvone Hackett) : Encounter at PCP238724
+2013-03-22 (Dr. Yvone Hackett) : Encounter at PCP238724
+2012-03-16 (Dr. Yvone Hackett) : Encounter at PCP238724
+2012-02-24 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2012-02-11 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Acute bronchitis (disorder)
+2012-02-17 (Dr. Sung Feil) : Encounter at CONCENTRA URGENT CARE - IRVING
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2018-11-23 : Digital Radiography, Arm
+--------------------------------------------------------------------------------

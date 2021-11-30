@@ -1,0 +1,385 @@
+Scottie Wehner
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 44
+Birth Date:          1976-12-19
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2013-05-26[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2013-05-26[STOPPED] : Amoxicillin 250 MG Oral Capsule
+  2013-01-15[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2012-09-14[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2012-07-02[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2012-03-22[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2011-12-13[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-10-30 -            : Drug overdose
+  2021-01-03 -            : Limited social contact (finding)
+  2021-01-03 -            : Full-time employment (finding)
+  2020-07-19 - 2021-01-03 : Not in labor force (finding)
+  2020-07-16 - 2020-08-02 : Viral sinusitis (disorder)
+  2018-12-30 - 2020-07-19 : Full-time employment (finding)
+  2016-12-25 - 2020-07-19 : Limited social contact (finding)
+  2016-12-25 - 2018-12-30 : Part-time employment (finding)
+  2016-05-21 - 2016-05-29 : Viral sinusitis (disorder)
+  2014-03-09 - 2018-12-30 : Stress (finding)
+  2014-03-09 - 2016-12-25 : Not in labor force (finding)
+  2013-05-26 - 2014-03-09 : Otitis media
+  2011-03-06 - 2014-03-09 : Full-time employment (finding)
+  2005-02-27 - 2008-03-02 : Full-time employment (finding)
+  2002-02-24 - 2005-02-27 : Full-time employment (finding)
+  1996-02-18 - 1999-02-21 : Full-time employment (finding)
+  1995-02-12 -            : Only received primary school education (finding)
+  1994-02-06 -            : Risk activity involvement (finding)
+  1994-02-06 -            : Body mass index 30+ - obesity (finding)
+  1991-06-19 -            : Chronic intractable migraine without aura
+  1991-05-06 -            : Impacted molars
+  1991-01-22 -            : Chronic pain
+  1990-01-14 - 1991-01-20 : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-10-30[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-01-03 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-01-03 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2020-07-19 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2020-07-19 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2020-07-19 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2018-12-30 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2018-12-30 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2018-12-30 : Lipid Panel
+           - Total Cholesterol                        191.8 mg/dL
+           - Triglycerides                            105.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      91.2 mg/dL
+           - High Density Lipoprotein Cholesterol     79.4 mg/dL
+  2016-12-25 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    3.0 {score}
+  2016-12-25 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2016-12-25 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2016-12-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.9 %
+           - MCV [Entitic volume] by Automated count  83.1 fL
+           - MCH [Entitic mass] by Automated count    29.2 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.4 fL
+           - Platelets [#/volume] in Blood by Automated count 239.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 300.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2014-03-09 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2014-03-09 : Lipid Panel
+           - Total Cholesterol                        183.8 mg/dL
+           - Triglycerides                            114.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      86.6 mg/dL
+           - High Density Lipoprotein Cholesterol     74.2 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-01-03 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-01-03 : Total score [HARK]                       0.0 {score}
+  2021-01-03 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 27263 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             1046 Kutch Heights Unit 8 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-01-03 : Tobacco smoking status NHIS              Never smoker 
+  2021-01-03 : Respiratory rate                         13.0 /min
+  2021-01-03 : Heart rate                               98.0 /min
+  2021-01-03 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2021-01-03 : Body Mass Index                          30.8 kg/m2
+  2021-01-03 : Body Weight                              97.8 kg
+  2021-01-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-01-03 : Body Height                              178.1 cm
+  2020-07-19 : Total score [DAST-10]                    2.0 {score}
+  2020-07-19 : Total score [HARK]                       0.0 {score}
+  2020-07-19 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2020-07-19 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 27263 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             1046 Kutch Heights Unit 8 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2020-07-19 : Tobacco smoking status NHIS              Never smoker 
+  2020-07-19 : Respiratory rate                         15.0 /min
+  2020-07-19 : Heart rate                               89.0 /min
+  2020-07-19 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2020-07-19 : Body Mass Index                          30.8 kg/m2
+  2020-07-19 : Body Weight                              97.8 kg
+  2020-07-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-07-19 : Body Height                              178.1 cm
+  2018-12-30 : Total score [AUDIT-C]                    1.0 {score}
+  2018-12-30 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2018-12-30 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 27263 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             1046 Kutch Heights Unit 8 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2018-12-30 : Tobacco smoking status NHIS              Never smoker 
+  2018-12-30 : High Density Lipoprotein Cholesterol     79.4 mg/dL
+  2018-12-30 : Low Density Lipoprotein Cholesterol      91.2 mg/dL
+  2018-12-30 : Triglycerides                            105.8 mg/dL
+  2018-12-30 : Total Cholesterol                        191.8 mg/dL
+  2018-12-30 : Respiratory rate                         13.0 /min
+  2018-12-30 : Heart rate                               76.0 /min
+  2018-12-30 : Blood Pressure
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2018-12-30 : Body Mass Index                          30.8 kg/m2
+  2018-12-30 : Body Weight                              97.8 kg
+  2018-12-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-12-30 : Body Height                              178.1 cm
+  2017-11-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-12-25 : Total score [AUDIT-C]                    3.0 {score}
+  2016-12-25 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2016-12-25 : Total score [HARK]                       0.0 {score}
+  2016-12-25 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 27263 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             1046 Kutch Heights Unit 8 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2016-12-25 : Tobacco smoking status NHIS              Never smoker 
+  2016-12-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2016-12-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 300.0 fL
+  2016-12-25 : Platelets [#/volume] in Blood by Automated count 239.3 10*3/uL
+  2016-12-25 : Erythrocyte distribution width [Entitic volume] by Automated count 43.4 fL
+  2016-12-25 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  2016-12-25 : MCH [Entitic mass] by Automated count    29.2 pg
+  2016-12-25 : MCV [Entitic volume] by Automated count  83.1 fL
+  2016-12-25 : Hematocrit [Volume Fraction] of Blood by Automated count 46.9 %
+  2016-12-25 : Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+  2016-12-25 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2016-12-25 : Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+  2016-12-25 : Respiratory rate                         16.0 /min
+  2016-12-25 : Heart rate                               76.0 /min
+  2016-12-25 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2016-12-25 : Body Mass Index                          30.6 kg/m2
+  2016-12-25 : Body Weight                              97.1 kg
+  2016-12-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-12-25 : Body Height                              178.1 cm
+  2014-03-09 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2014-03-09 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 27263 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             1046 Kutch Heights Unit 8 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 4.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2014-03-09 : Tobacco smoking status NHIS              Never smoker 
+  2014-03-09 : High Density Lipoprotein Cholesterol     74.2 mg/dL
+  2014-03-09 : Low Density Lipoprotein Cholesterol      86.6 mg/dL
+  2014-03-09 : Triglycerides                            114.9 mg/dL
+  2014-03-09 : Total Cholesterol                        183.8 mg/dL
+  2014-03-09 : Respiratory rate                         13.0 /min
+  2014-03-09 : Heart rate                               71.0 /min
+  2014-03-09 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2014-03-09 : Body Mass Index                          28.8 kg/m2
+  2014-03-09 : Body Weight                              91.4 kg
+  2014-03-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-03-09 : Body Height                              178.1 cm
+  2013-08-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2013-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2012-09-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2012-07-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2012-03-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2011-12-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-01-03 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-01-03 : Depression screening (procedure)
+  2021-01-03 : Screening for domestic abuse (procedure)
+  2021-01-03 : Assessment of health and social care needs (procedure)
+  2020-07-19 : Screening for drug abuse (procedure)
+  2020-07-19 : Assessment of substance use (procedure)
+  2020-07-19 : Screening for domestic abuse (procedure)
+  2020-07-19 : Assessment of anxiety (procedure)
+  2020-07-19 : Assessment of health and social care needs (procedure)
+  2018-12-30 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2018-12-30 : Assessment of substance use (procedure)
+  2018-12-30 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2018-12-30 : Depression screening (procedure)
+  2018-12-30 : Medication Reconciliation (procedure)
+  2018-12-30 : Assessment of health and social care needs (procedure)
+  2016-12-25 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2016-12-25 : Assessment of substance use (procedure)
+  2016-12-25 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2016-12-25 : Depression screening (procedure)
+  2016-12-25 : Screening for domestic abuse (procedure)
+  2016-12-25 : Assessment of health and social care needs (procedure)
+  2014-03-09 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2014-03-09 : Depression screening (procedure)
+  2014-03-09 : Assessment of health and social care needs (procedure)
+  2012-03-22 : Extraction of wisdom tooth
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-09-12 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-08-15 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-01-03 : Influenza, seasonal, injectable, preservative free
+  2020-07-19 : Influenza, seasonal, injectable, preservative free
+  2018-12-30 : Hep A, adult
+  2018-12-30 : Td (adult) preservative free
+  2018-12-30 : Influenza, seasonal, injectable, preservative free
+  2016-12-25 : Hep A, adult
+  2016-12-25 : Influenza, seasonal, injectable, preservative free
+  2014-03-09 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-10-30 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Drug overdose
+2021-09-12 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2021-08-15 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2021-01-03 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+2020-07-16 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Viral sinusitis (disorder)
+2020-07-19 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2020-04-02 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-12-30 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+2018-04-24 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-03-25 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-11-26 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+2017-09-01 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-01-04 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2016-12-25 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+2016-05-21 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Viral sinusitis (disorder)
+2015-05-25 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2015-03-21 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2015-02-19 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2015-01-20 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2014-12-21 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2014-11-21 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2014-10-22 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2014-09-22 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2014-08-23 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2014-07-24 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2014-04-01 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2014-03-09 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+2013-08-20 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+2013-05-26 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Otitis media
+2013-01-15 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Chronic intractable migraine without aura
+2012-09-14 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Chronic intractable migraine without aura
+2012-07-02 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Chronic intractable migraine without aura
+2012-03-22 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Impacted molars
+2011-12-13 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Chronic intractable migraine without aura
+2011-03-06 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+2005-02-27 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+2002-02-24 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+1996-02-18 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+1995-02-12 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+1994-02-06 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+1991-06-19 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Chronic intractable migraine without aura
+1991-05-06 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Impacted molars
+1991-01-22 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Chronic pain
+1990-01-14 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

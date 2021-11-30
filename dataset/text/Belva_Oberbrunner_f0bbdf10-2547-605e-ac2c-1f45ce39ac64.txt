@@ -1,0 +1,255 @@
+Belva Oberbrunner
+=================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 15
+Birth Date:          2006-05-05
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-04-29[CURRENT] : Levora 0.15/30 28 Day Pack
+  2013-12-03[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2013-05-20[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-04-26 - 2018-05-07 : Acute viral pharyngitis (disorder)
+  2017-01-16 - 2017-01-26 : Viral sinusitis (disorder)
+  2013-12-03 - 2013-12-15 : Streptococcal sore throat (disorder)
+  2013-05-20 - 2013-06-02 : Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-06-11 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2020-06-05 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2019-05-31 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2019-05-31 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2017-05-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.2 %
+           - MCV [Entitic volume] by Automated count  83.1 fL
+           - MCH [Entitic mass] by Automated count    32.8 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.8 fL
+           - Platelets [#/volume] in Blood by Automated count 442.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 383.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2012-04-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.6 %
+           - MCV [Entitic volume] by Automated count  81.0 fL
+           - MCH [Entitic mass] by Automated count    28.1 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+           - Platelets [#/volume] in Blood by Automated count 290.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 207.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-06-11 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 2.0 {score}
+  2021-06-11 : Tobacco smoking status NHIS              Never smoker 
+  2021-06-11 : Respiratory rate                         16.0 /min
+  2021-06-11 : Heart rate                               81.0 /min
+  2021-06-11 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2021-06-11 : Body mass index (BMI) [Percentile] Per age and gender 90.0 %
+  2021-06-11 : Body Mass Index                          25.5 kg/m2
+  2021-06-11 : Body Weight                              69.8 kg
+  2021-06-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-06-11 : Body Height                              165.4 cm
+  2020-06-05 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2020-06-05 : Tobacco smoking status NHIS              Never smoker 
+  2020-06-05 : Respiratory rate                         14.0 /min
+  2020-06-05 : Heart rate                               97.0 /min
+  2020-06-05 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2020-06-05 : Body mass index (BMI) [Percentile] Per age and gender 91.9 %
+  2020-06-05 : Body Mass Index                          25.5 kg/m2
+  2020-06-05 : Body Weight                              68.7 kg
+  2020-06-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-06-05 : Body Height                              164.1 cm
+  2019-05-31 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2019-05-31 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2019-05-31 : Tobacco smoking status NHIS              Never smoker 
+  2019-05-31 : Respiratory rate                         14.0 /min
+  2019-05-31 : Heart rate                               93.0 /min
+  2019-05-31 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2019-05-31 : Body mass index (BMI) [Percentile] Per age and gender 91.3 %
+  2019-05-31 : Body Mass Index                          24.3 kg/m2
+  2019-05-31 : Body Weight                              63.1 kg
+  2019-05-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-05-31 : Body Height                              161.0 cm
+  2018-05-25 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-25 : Respiratory rate                         16.0 /min
+  2018-05-25 : Heart rate                               82.0 /min
+  2018-05-25 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2018-05-25 : Body mass index (BMI) [Percentile] Per age and gender 93.4 %
+  2018-05-25 : Body Mass Index                          24.3 kg/m2
+  2018-05-25 : Body Weight                              58.7 kg
+  2018-05-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-05-25 : Body Height                              155.3 cm
+  2018-04-26 : Body temperature                         37.6 Cel
+  2017-05-19 : Tobacco smoking status NHIS              Never smoker 
+  2017-05-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2017-05-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 383.8 fL
+  2017-05-19 : Platelets [#/volume] in Blood by Automated count 442.6 10*3/uL
+  2017-05-19 : Erythrocyte distribution width [Entitic volume] by Automated count 45.8 fL
+  2017-05-19 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2017-05-19 : MCH [Entitic mass] by Automated count    32.8 pg
+  2017-05-19 : MCV [Entitic volume] by Automated count  83.1 fL
+  2017-05-19 : Hematocrit [Volume Fraction] of Blood by Automated count 49.2 %
+  2017-05-19 : Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+  2017-05-19 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2017-05-19 : Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+  2017-05-19 : Respiratory rate                         14.0 /min
+  2017-05-19 : Heart rate                               97.0 /min
+  2017-05-19 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2017-05-19 : Body mass index (BMI) [Percentile] Per age and gender 94.7 %
+  2017-05-19 : Body Mass Index                          24.0 kg/m2
+  2017-05-19 : Body Weight                              52.5 kg
+  2017-05-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2017-05-19 : Body Height                              148.1 cm
+  2016-05-13 : Tobacco smoking status NHIS              Never smoker 
+  2016-05-13 : Respiratory rate                         14.0 /min
+  2016-05-13 : Heart rate                               82.0 /min
+  2016-05-13 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2016-05-13 : Body mass index (BMI) [Percentile] Per age and gender 93.6 %
+  2016-05-13 : Body Mass Index                          22.3 kg/m2
+  2016-05-13 : Body Weight                              44.7 kg
+  2016-05-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-05-13 : Body Height                              141.8 cm
+  2015-05-08 : Tobacco smoking status NHIS              Never smoker 
+  2015-05-08 : Respiratory rate                         15.0 /min
+  2015-05-08 : Heart rate                               93.0 /min
+  2015-05-08 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2015-05-08 : Body mass index (BMI) [Percentile] Per age and gender 92.5 %
+  2015-05-08 : Body Mass Index                          20.8 kg/m2
+  2015-05-08 : Body Weight                              38.7 kg
+  2015-05-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2015-05-08 : Body Height                              136.4 cm
+  2014-05-02 : Tobacco smoking status NHIS              Never smoker 
+  2014-05-02 : Respiratory rate                         13.0 /min
+  2014-05-02 : Heart rate                               80.0 /min
+  2014-05-02 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2014-05-02 : Body mass index (BMI) [Percentile] Per age and gender 91.4 %
+  2014-05-02 : Body Mass Index                          19.4 kg/m2
+  2014-05-02 : Body Weight                              33.0 kg
+  2014-05-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2014-05-02 : Body Height                              130.5 cm
+  2013-12-03 : Body temperature                         38.5 Cel
+  2013-05-20 : Body temperature                         37.6 Cel
+  2013-04-26 : Tobacco smoking status NHIS              Never smoker 
+  2013-04-26 : Respiratory rate                         13.0 /min
+  2013-04-26 : Heart rate                               92.0 /min
+  2013-04-26 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2013-04-26 : Body mass index (BMI) [Percentile] Per age and gender 91.8 %
+  2013-04-26 : Body Mass Index                          18.7 kg/m2
+  2013-04-26 : Body Weight                              28.8 kg
+  2013-04-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2013-04-26 : Body Height                              124.2 cm
+  2012-04-20 : Tobacco smoking status NHIS              Never smoker 
+  2012-04-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2012-04-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 207.3 fL
+  2012-04-20 : Platelets [#/volume] in Blood by Automated count 290.2 10*3/uL
+  2012-04-20 : Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+  2012-04-20 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2012-04-20 : MCH [Entitic mass] by Automated count    28.1 pg
+  2012-04-20 : MCV [Entitic volume] by Automated count  81.0 fL
+  2012-04-20 : Hematocrit [Volume Fraction] of Blood by Automated count 46.6 %
+  2012-04-20 : Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+  2012-04-20 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2012-04-20 : Leukocytes [#/volume] in Blood by Automated count 7.4 10*3/uL
+  2012-04-20 : Respiratory rate                         16.0 /min
+  2012-04-20 : Heart rate                               70.0 /min
+  2012-04-20 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2012-04-20 : Body mass index (BMI) [Percentile] Per age and gender 96.6 %
+  2012-04-20 : Body Mass Index                          19.5 kg/m2
+  2012-04-20 : Body Weight                              26.7 kg
+  2012-04-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2012-04-20 : Body Height                              117.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-06-11 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-06-11 : Depression screening (procedure)
+  2020-06-05 : Anticipatory guidance (procedure)
+  2020-06-05 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2020-06-05 : Assessment of substance use (procedure)
+  2020-06-05 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2020-06-05 : Medication Reconciliation (procedure)
+  2020-06-05 : Depression screening (procedure)
+  2019-05-31 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2019-05-31 : Depression screening (procedure)
+  2019-05-31 : Assessment of anxiety (procedure)
+  2018-04-26 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2013-05-20 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-07-30 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-07-09 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-06-11 : Influenza, seasonal, injectable, preservative free
+  2020-06-05 : Influenza, seasonal, injectable, preservative free
+  2019-05-31 : HPV, quadrivalent
+  2019-05-31 : Influenza, seasonal, injectable, preservative free
+  2018-05-25 : HPV, quadrivalent
+  2018-05-25 : Influenza, seasonal, injectable, preservative free
+  2017-05-19 : meningococcal MCV4P
+  2017-05-19 : HPV, quadrivalent
+  2017-05-19 : Influenza, seasonal, injectable, preservative free
+  2017-05-19 : Tdap
+  2016-05-13 : Influenza, seasonal, injectable, preservative free
+  2015-05-08 : Influenza, seasonal, injectable, preservative free
+  2014-05-02 : Influenza, seasonal, injectable, preservative free
+  2013-04-26 : Influenza, seasonal, injectable, preservative free
+  2012-04-20 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-07-30 (Dr. Marica Mills) : Encounter at TEXAS GENERAL HOSPITAL
+2021-07-09 (Dr. Marica Mills) : Encounter at TEXAS GENERAL HOSPITAL
+2021-06-11 (Dr. Eliza DuBuque) : Encounter at PCP116141
+2021-04-29 (Dr. Marica Mills) : Encounter at TEXAS GENERAL HOSPITAL
+2020-06-05 (Dr. Eliza DuBuque) : Encounter at PCP116141
+2019-05-31 (Dr. Eliza DuBuque) : Encounter at PCP116141
+2018-05-25 (Dr. Eliza DuBuque) : Encounter at PCP116141
+2018-04-26 (Dr. Marica Mills) : Encounter at TEXAS GENERAL HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2017-05-19 (Dr. Eliza DuBuque) : Encounter at PCP116141
+2017-01-16 (Dr. Marica Mills) : Encounter at TEXAS GENERAL HOSPITAL : Encounter for Viral sinusitis (disorder)
+2016-05-13 (Dr. Eliza DuBuque) : Encounter at PCP116141
+2015-05-08 (Dr. Eliza DuBuque) : Encounter at PCP116141
+2014-05-02 (Dr. Eliza DuBuque) : Encounter at PCP116141
+2013-12-03 (Dr. Marica Mills) : Encounter at TEXAS GENERAL HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2013-05-20 (Dr. Marica Mills) : Encounter at TEXAS GENERAL HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2013-04-26 (Dr. Eliza DuBuque) : Encounter at PCP116141
+2012-04-20 (Dr. Eliza DuBuque) : Encounter at PCP116141
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

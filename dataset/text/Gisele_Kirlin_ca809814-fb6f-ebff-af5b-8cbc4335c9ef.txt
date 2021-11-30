@@ -1,0 +1,237 @@
+Gisele Kirlin
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1950-05-11
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1952-10-04[CURRENT] : clonazePAM 0.25 MG Oral Tablet
+  1952-04-17[CURRENT] : Diazepam 5 MG Oral Tablet
+  1951-10-18[STOPPED] : clonazePAM 0.25 MG Oral Tablet
+  1951-04-19[STOPPED] : Carbamazepine[Tegretol]
+  1950-12-07[STOPPED] : Aspirin 81 MG Oral Tablet
+  1950-12-07[STOPPED] : Penicillin G 375 MG/ML Injectable Solution
+  1950-06-13[STOPPED] : Carbamazepine[Tegretol]
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1952-11-04 - 1952-11-29 : Viral sinusitis (disorder)
+  1950-12-07 - 1951-01-18 : Otitis media
+  1950-06-13 -            : Epilepsy
+  1950-06-13 -            : History of single seizure (situation)
+  1950-06-13 -            : Seizure disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  1953-07-02 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Sudden Cardiac Death 
+  1950-05-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.6 %
+           - MCV [Entitic volume] by Automated count  92.0 fL
+           - MCH [Entitic mass] by Automated count    32.1 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.2 fL
+           - Platelets [#/volume] in Blood by Automated count 322.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 243.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1953-07-02 : Cause of Death [US Standard Certificate of Death] Sudden Cardiac Death 
+  1953-04-16 : Tobacco smoking status NHIS              Never smoker 
+  1953-04-16 : Respiratory rate                         16.0 /min
+  1953-04-16 : Heart rate                               94.0 /min
+  1953-04-16 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  1953-04-16 : Body mass index (BMI) [Percentile] Per age and gender 61.5 %
+  1953-04-16 : Body Mass Index                          16.1 kg/m2
+  1953-04-16 : Head Occipital-frontal circumference     49.6 cm
+  1953-04-16 : Weight-for-length Per age and sex        67.8 %
+  1953-04-16 : Body Weight                              14.9 kg
+  1953-04-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1953-04-16 : Body Height                              96.2 cm
+  1952-11-06 : Tobacco smoking status NHIS              Never smoker 
+  1952-11-06 : Respiratory rate                         16.0 /min
+  1952-11-06 : Heart rate                               67.0 /min
+  1952-11-06 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  1952-11-06 : Body mass index (BMI) [Percentile] Per age and gender 60.5 %
+  1952-11-06 : Body Mass Index                          16.4 kg/m2
+  1952-11-06 : Head Occipital-frontal circumference     49.0 cm
+  1952-11-06 : Weight-for-length Per age and sex        68.2 %
+  1952-11-06 : Body Weight                              13.9 kg
+  1952-11-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1952-11-06 : Body Height                              92.0 cm
+  1952-10-16 : Tobacco smoking status NHIS              Never smoker 
+  1952-10-16 : Respiratory rate                         16.0 /min
+  1952-10-16 : Heart rate                               100.0 /min
+  1952-10-16 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  1952-10-16 : Body mass index (BMI) [Percentile] Per age and gender 60.5 %
+  1952-10-16 : Body Mass Index                          16.4 kg/m2
+  1952-10-16 : Head Occipital-frontal circumference     49.0 cm
+  1952-10-16 : Weight-for-length Per age and sex        68.2 %
+  1952-10-16 : Body Weight                              13.9 kg
+  1952-10-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  1952-10-16 : Body Height                              92.0 cm
+  1952-04-17 : Tobacco smoking status NHIS              Never smoker 
+  1952-04-17 : Respiratory rate                         15.0 /min
+  1952-04-17 : Heart rate                               83.0 /min
+  1952-04-17 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  1952-04-17 : Head Occipital-frontal circumference     48.3 cm
+  1952-04-17 : Weight-for-length Per age and sex        63.2 %
+  1952-04-17 : Body Weight                              12.8 kg
+  1952-04-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1952-04-17 : Body Height                              87.6 cm
+  1951-10-18 : Tobacco smoking status NHIS              Never smoker 
+  1951-10-18 : Respiratory rate                         13.0 /min
+  1951-10-18 : Heart rate                               84.0 /min
+  1951-10-18 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  1951-10-18 : Head Occipital-frontal circumference     47.3 cm
+  1951-10-18 : Weight-for-length Per age and sex        69.6 %
+  1951-10-18 : Body Weight                              11.6 kg
+  1951-10-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1951-10-18 : Body Height                              81.9 cm
+  1951-07-19 : Tobacco smoking status NHIS              Never smoker 
+  1951-07-19 : Respiratory rate                         15.0 /min
+  1951-07-19 : Heart rate                               85.0 /min
+  1951-07-19 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  1951-07-19 : Head Occipital-frontal circumference     46.6 cm
+  1951-07-19 : Weight-for-length Per age and sex        68.9 %
+  1951-07-19 : Body Weight                              10.9 kg
+  1951-07-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1951-07-19 : Body Height                              78.6 cm
+  1951-04-19 : Tobacco smoking status NHIS              Never smoker 
+  1951-04-19 : Respiratory rate                         13.0 /min
+  1951-04-19 : Heart rate                               90.0 /min
+  1951-04-19 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  1951-04-19 : Head Occipital-frontal circumference     45.7 cm
+  1951-04-19 : Weight-for-length Per age and sex        69.8 %
+  1951-04-19 : Body Weight                              10.0 kg
+  1951-04-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1951-04-19 : Body Height                              75.0 cm
+  1951-01-18 : Tobacco smoking status NHIS              Never smoker 
+  1951-01-18 : Respiratory rate                         13.0 /min
+  1951-01-18 : Heart rate                               61.0 /min
+  1951-01-18 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  1951-01-18 : Head Occipital-frontal circumference     44.6 cm
+  1951-01-18 : Weight-for-length Per age and sex        63.2 %
+  1951-01-18 : Body Weight                              8.9 kg
+  1951-01-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1951-01-18 : Body Height                              70.9 cm
+  1950-10-19 : Tobacco smoking status NHIS              Never smoker 
+  1950-10-19 : Respiratory rate                         13.0 /min
+  1950-10-19 : Heart rate                               100.0 /min
+  1950-10-19 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  1950-10-19 : Head Occipital-frontal circumference     42.9 cm
+  1950-10-19 : Weight-for-length Per age and sex        53.5 %
+  1950-10-19 : Body Weight                              7.5 kg
+  1950-10-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1950-10-19 : Body Height                              66.0 cm
+  1950-08-17 : Tobacco smoking status NHIS              Never smoker 
+  1950-08-17 : Respiratory rate                         15.0 /min
+  1950-08-17 : Heart rate                               76.0 /min
+  1950-08-17 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  1950-08-17 : Head Occipital-frontal circumference     41.4 cm
+  1950-08-17 : Weight-for-length Per age and sex        39.4 %
+  1950-08-17 : Body Weight                              6.3 kg
+  1950-08-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1950-08-17 : Body Height                              62.0 cm
+  1950-06-15 : Tobacco smoking status NHIS              Never smoker 
+  1950-06-15 : Respiratory rate                         13.0 /min
+  1950-06-15 : Heart rate                               91.0 /min
+  1950-06-15 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  1950-06-15 : Head Occipital-frontal circumference     38.9 cm
+  1950-06-15 : Weight-for-length Per age and sex        25.4 %
+  1950-06-15 : Body Weight                              4.9 kg
+  1950-06-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1950-06-15 : Body Height                              56.9 cm
+  1950-05-11 : Tobacco smoking status NHIS              Never smoker 
+  1950-05-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  1950-05-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 243.0 fL
+  1950-05-11 : Platelets [#/volume] in Blood by Automated count 322.6 10*3/uL
+  1950-05-11 : Erythrocyte distribution width [Entitic volume] by Automated count 43.2 fL
+  1950-05-11 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  1950-05-11 : MCH [Entitic mass] by Automated count    32.1 pg
+  1950-05-11 : MCV [Entitic volume] by Automated count  92.0 fL
+  1950-05-11 : Hematocrit [Volume Fraction] of Blood by Automated count 41.6 %
+  1950-05-11 : Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+  1950-05-11 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  1950-05-11 : Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+  1950-05-11 : Respiratory rate                         13.0 /min
+  1950-05-11 : Heart rate                               94.0 /min
+  1950-05-11 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  1950-05-11 : Head Occipital-frontal circumference     35.8 cm
+  1950-05-11 : Weight-for-length Per age and sex        39.7 %
+  1950-05-11 : Body Weight                              4.1 kg
+  1950-05-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1950-05-11 : Body Height                              53.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1953-04-16 : Medication Reconciliation (procedure)
+  1952-11-06 : Medication Reconciliation (procedure)
+  1952-10-04 : Seizure Count Cerebral Cortex Electroencephalogram (EEG)
+  1951-10-18 : Medication Reconciliation (procedure)
+  1951-07-19 : Medication Reconciliation (procedure)
+  1951-01-18 : Medication Reconciliation (procedure)
+  1950-10-19 : Medication Reconciliation (procedure)
+  1950-08-17 : Medication Reconciliation (procedure)
+  1950-07-29 : Seizure Count Cerebral Cortex Electroencephalogram (EEG)
+  1950-06-13 : Seizure Count Cerebral Cortex Electroencephalogram (EEG)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1953-04-16 : Influenza, seasonal, injectable, preservative free
+  1952-04-17 : Influenza, seasonal, injectable, preservative free
+  1951-01-18 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1953-07-02 (Dr. Cyrus Hessel) : Encounter at PCP164898 : Encounter for Sudden Cardiac Death
+1953-04-16 (Dr. Cyrus Hessel) : Encounter at PCP164898
+1952-11-04 (Dr. Donya Gleichner) : Encounter at BAYLOR SCOTT & WHITE MEDICAL CENTER GARLAND : Encounter for Viral sinusitis (disorder)
+1952-11-06 (Dr. Donya Gleichner) : Encounter at BAYLOR SCOTT & WHITE MEDICAL CENTER GARLAND
+1952-10-16 (Dr. Cyrus Hessel) : Encounter at PCP164898
+1952-10-04 (Dr. Donya Gleichner) : Encounter at BAYLOR SCOTT & WHITE MEDICAL CENTER GARLAND : Encounter for Seizure disorder
+1952-04-17 (Dr. Cyrus Hessel) : Encounter at PCP164898
+1951-10-18 (Dr. Cyrus Hessel) : Encounter at PCP164898
+1951-07-19 (Dr. Cyrus Hessel) : Encounter at PCP164898
+1951-04-19 (Dr. Cyrus Hessel) : Encounter at PCP164898
+1951-01-18 (Dr. Cyrus Hessel) : Encounter at PCP164898
+1950-12-07 (Dr. Donya Gleichner) : Encounter at BAYLOR SCOTT & WHITE MEDICAL CENTER GARLAND : Encounter for Otitis media
+1950-10-19 (Dr. Cyrus Hessel) : Encounter at PCP164898
+1950-08-17 (Dr. Cyrus Hessel) : Encounter at PCP164898
+1950-07-29 (Dr. Donya Gleichner) : Encounter at BAYLOR SCOTT & WHITE MEDICAL CENTER GARLAND : Encounter for Seizure disorder
+1950-06-13 (Dr. Donya Gleichner) : Encounter at BAYLOR SCOTT & WHITE MEDICAL CENTER GARLAND : Encounter for Seizure disorder
+1950-06-15 (Dr. Cyrus Hessel) : Encounter at PCP164898
+1950-05-11 (Dr. Cyrus Hessel) : Encounter at PCP164898
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

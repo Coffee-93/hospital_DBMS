@@ -1,0 +1,518 @@
+Ana Luisa Sáenz
+===========á===
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 32
+Birth Date:          1989-07-31
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-09-06[CURRENT] : Levora 0.15/30 28 Day Pack
+  2018-05-24[STOPPED] : Natazia 28 Day Pack
+  2017-05-25[STOPPED] : Kyleena 19.5 MG Intrauterine System
+  2013-11-04[STOPPED] : Jolivette 28 Day Pack
+  2012-11-09[STOPPED] : Errin 28 Day Pack
+  2011-11-15[STOPPED] : Yaz 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-12-28 - 2021-07-26 : Normal pregnancy
+  2020-10-12 -            : Stress (finding)
+  2020-10-12 -            : Full-time employment (finding)
+  2020-07-02 - 2020-07-18 : Viral sinusitis (disorder)
+  2019-03-25 - 2019-06-06 : Normal pregnancy
+  2017-10-09 - 2020-10-12 : Full-time employment (finding)
+  2016-09-19 - 2017-04-03 : Anemia (disorder)
+  2016-09-19 - 2017-04-03 : Normal pregnancy
+  2015-10-05 - 2016-04-18 : Normal pregnancy
+  2014-10-06 - 2017-10-09 : Full-time employment (finding)
+  2013-08-12 - 2013-08-31 : Viral sinusitis (disorder)
+  2011-10-03 - 2017-10-09 : Stress (finding)
+  2011-10-03 - 2014-10-06 : Full-time employment (finding)
+  2008-09-29 - 2020-10-12 : Social isolation (finding)
+  2007-09-24 - 2008-09-29 : Stress (finding)
+  2007-09-24 - 2008-09-29 : Full-time employment (finding)
+  2007-09-24 -            : Received higher education (finding)
+  2007-09-24 -            : Housing unsatisfactory (finding)
+  2003-09-01 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2019-03-25[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2016-09-19[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2015-10-05[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-10-12 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2020-10-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2020-10-12 : Lipid Panel
+           - Total Cholesterol                        184.3 mg/dL
+           - Triglycerides                            138.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.0 mg/dL
+           - High Density Lipoprotein Cholesterol     62.6 mg/dL
+  2017-10-09 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2017-10-09 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2017-10-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.9 %
+           - MCV [Entitic volume] by Automated count  85.7 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+           - Platelets [#/volume] in Blood by Automated count 187.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 446.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2016-09-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        11.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood    34.0 %
+           - WBC Auto (Bld) [#/Vol]                   4.7 10*3/uL
+           - RBC Auto (Bld) [#/Vol]                   4.5 10*6/uL
+           - MCV [Entitic volume] by Automated count  91.5 fL
+           - MCH [Entitic mass] by Automated count    31.8 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 45.3 fL
+           - Platelets [#/volume] in Blood by Automated count 302.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 324.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2014-10-06 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2014-10-06 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2014-10-06 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-10-12 : Total score [DAST-10]                    2.0 {score}
+  2020-10-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2020-10-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 48267 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             710 Bogan Extension 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2020-10-12 : Tobacco smoking status NHIS              Never smoker 
+  2020-10-12 : High Density Lipoprotein Cholesterol     62.6 mg/dL
+  2020-10-12 : Low Density Lipoprotein Cholesterol      94.0 mg/dL
+  2020-10-12 : Triglycerides                            138.6 mg/dL
+  2020-10-12 : Total Cholesterol                        184.3 mg/dL
+  2020-10-12 : Respiratory rate                         15.0 /min
+  2020-10-12 : Heart rate                               86.0 /min
+  2020-10-12 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2020-10-12 : Body Mass Index                          26.7 kg/m2
+  2020-10-12 : Body Weight                              70.8 kg
+  2020-10-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-10-12 : Body Height                              162.8 cm
+  2017-10-09 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2017-10-09 : Total score [HARK]                       0.0 {score}
+  2017-10-09 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 48267 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             710 Bogan Extension 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2017-10-09 : Tobacco smoking status NHIS              Never smoker 
+  2017-10-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2017-10-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 446.9 fL
+  2017-10-09 : Platelets [#/volume] in Blood by Automated count 187.3 10*3/uL
+  2017-10-09 : Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+  2017-10-09 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2017-10-09 : MCH [Entitic mass] by Automated count    28.7 pg
+  2017-10-09 : MCV [Entitic volume] by Automated count  85.7 fL
+  2017-10-09 : Hematocrit [Volume Fraction] of Blood by Automated count 35.9 %
+  2017-10-09 : Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+  2017-10-09 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2017-10-09 : Leukocytes [#/volume] in Blood by Automated count 3.8 10*3/uL
+  2017-10-09 : Respiratory rate                         14.0 /min
+  2017-10-09 : Heart rate                               85.0 /min
+  2017-10-09 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2017-10-09 : Body Mass Index                          25.2 kg/m2
+  2017-10-09 : Body Weight                              66.8 kg
+  2017-10-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-10-09 : Body Height                              162.8 cm
+  2016-09-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2016-09-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 324.4 fL
+  2016-09-19 : Platelets [#/volume] in Blood by Automated count 302.7 10*3/uL
+  2016-09-19 : RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 45.3 fL
+  2016-09-19 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2016-09-19 : MCH [Entitic mass] by Automated count    31.8 pg
+  2016-09-19 : MCV [Entitic volume] by Automated count  91.5 fL
+  2016-09-19 : RBC Auto (Bld) [#/Vol]                   4.5 10*6/uL
+  2016-09-19 : WBC Auto (Bld) [#/Vol]                   4.7 10*3/uL
+  2016-09-19 : Hematocrit [Volume Fraction] of Blood    34.0 %
+  2016-09-19 : Hemoglobin [Mass/volume] in Blood        11.8 g/dL
+  2014-10-06 : Total score [AUDIT-C]                    0.0 {score}
+  2014-10-06 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2014-10-06 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2014-10-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 48267 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             710 Bogan Extension 
+           - Are you worried about losing your housing? Yes 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2014-10-06 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-06 : Respiratory rate                         13.0 /min
+  2014-10-06 : Heart rate                               72.0 /min
+  2014-10-06 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2014-10-06 : Body Mass Index                          23.4 kg/m2
+  2014-10-06 : Body Weight                              62.1 kg
+  2014-10-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2014-10-06 : Body Height                              162.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-09-06 : Depression screening
+  2021-09-06 : Physical examination following birth
+  2021-09-06 : RhD passive immunization
+  2021-07-26 : Childbirth for Normal pregnancy
+  2021-07-26 : Medical induction of labor for Normal pregnancy
+  2021-07-12 : Auscultation of the fetal heart for Normal pregnancy
+  2021-07-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-07-12 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2021-06-14 : Auscultation of the fetal heart for Normal pregnancy
+  2021-06-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-05-17 : Auscultation of the fetal heart for Normal pregnancy
+  2021-05-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-05-17 : Urine screening for glucose for Normal pregnancy
+  2021-05-17 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2021-05-17 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2021-05-17 : RhD passive immunization for Normal pregnancy
+  2021-05-17 : Antenatal RhD antibody screening for Normal pregnancy
+  2021-04-19 : Auscultation of the fetal heart for Normal pregnancy
+  2021-04-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-03-22 : Auscultation of the fetal heart for Normal pregnancy
+  2021-03-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-02-22 : Auscultation of the fetal heart for Normal pregnancy
+  2021-02-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-02-22 : Alpha-fetoprotein test for Normal pregnancy
+  2021-02-22 : Fetal anatomy study for Normal pregnancy
+  2021-01-25 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2021-01-25 : Auscultation of the fetal heart for Normal pregnancy
+  2021-01-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-12-28 : Physical examination of mother for Normal pregnancy
+  2020-12-28 : Urine protein test for Normal pregnancy
+  2020-12-28 : Skin test for tuberculosis for Normal pregnancy
+  2020-12-28 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2020-12-28 : Rubella screening for Normal pregnancy
+  2020-12-28 : Hepatitis C antibody test for Normal pregnancy
+  2020-12-28 : Urine screening test for diabetes for Normal pregnancy
+  2020-12-28 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2020-12-28 : Urine culture for Normal pregnancy
+  2020-12-28 : Syphilis infection test for Normal pregnancy
+  2020-12-28 : Gonorrhea infection test for Normal pregnancy
+  2020-12-28 : Chlamydia antigen test for Normal pregnancy
+  2020-12-28 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2020-12-28 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2020-12-28 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2020-12-28 : Blood typing, RH typing for Normal pregnancy
+  2020-12-28 : Auscultation of the fetal heart for Normal pregnancy
+  2020-12-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-12-28 : Ultrasound scan for fetal viability for Normal pregnancy
+  2020-12-28 : Standard pregnancy test for Normal pregnancy
+  2020-10-12 : Screening for drug abuse (procedure)
+  2020-10-12 : Assessment of substance use (procedure)
+  2020-10-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2020-10-12 : Depression screening (procedure)
+  2020-10-12 : Medication Reconciliation (procedure)
+  2020-10-12 : Assessment of health and social care needs (procedure)
+  2019-06-06 : Depression screening for Normal pregnancy
+  2019-06-06 : Physical examination for Normal pregnancy
+  2019-06-06 : RhD passive immunization for Normal pregnancy
+  2019-04-22 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2019-04-22 : Auscultation of the fetal heart for Normal pregnancy
+  2019-04-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-03-25 : Physical examination of mother for Normal pregnancy
+  2019-03-25 : Urine protein test for Normal pregnancy
+  2019-03-25 : Skin test for tuberculosis for Normal pregnancy
+  2019-03-25 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2019-03-25 : Rubella screening for Normal pregnancy
+  2019-03-25 : Hepatitis C antibody test for Normal pregnancy
+  2019-03-25 : Urine screening test for diabetes for Normal pregnancy
+  2019-03-25 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2019-03-25 : Urine culture for Normal pregnancy
+  2019-03-25 : Syphilis infection test for Normal pregnancy
+  2019-03-25 : Gonorrhea infection test for Normal pregnancy
+  2019-03-25 : Chlamydia antigen test for Normal pregnancy
+  2019-03-25 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2019-03-25 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2019-03-25 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2019-03-25 : Blood typing, RH typing for Normal pregnancy
+  2019-03-25 : Auscultation of the fetal heart for Normal pregnancy
+  2019-03-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-03-25 : Ultrasound scan for fetal viability for Normal pregnancy
+  2019-03-25 : Standard pregnancy test for Normal pregnancy
+  2019-01-28 : Removal of intrauterine device
+  2017-10-09 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2017-10-09 : Depression screening (procedure)
+  2017-10-09 : Screening for domestic abuse (procedure)
+  2017-10-09 : Medication Reconciliation (procedure)
+  2017-10-09 : Assessment of health and social care needs (procedure)
+  2017-05-29 : Insertion of intrauterine contraceptive device
+  2017-05-15 : Depression screening
+  2017-05-15 : Physical examination following birth
+  2017-05-15 : RhD passive immunization
+  2017-04-03 : Cesarean section for Normal pregnancy
+  2017-04-03 : Episiotomy for Normal pregnancy
+  2017-03-06 : Auscultation of the fetal heart for Normal pregnancy
+  2017-03-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-02-06 : Auscultation of the fetal heart for Normal pregnancy
+  2017-02-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-02-06 : Urine screening for glucose for Normal pregnancy
+  2017-02-06 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2017-02-06 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-02-06 : RhD passive immunization for Normal pregnancy
+  2017-02-06 : Antenatal RhD antibody screening for Normal pregnancy
+  2017-01-09 : Auscultation of the fetal heart for Normal pregnancy
+  2017-01-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-12-12 : Auscultation of the fetal heart for Normal pregnancy
+  2016-12-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-11-14 : Auscultation of the fetal heart for Normal pregnancy
+  2016-11-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-11-14 : Alpha-fetoprotein test for Normal pregnancy
+  2016-11-14 : Fetal anatomy study for Normal pregnancy
+  2016-10-17 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2016-10-17 : Auscultation of the fetal heart for Normal pregnancy
+  2016-10-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-09-19 : Brief general examination (procedure)
+  2016-09-19 : Medication Reconciliation (procedure)
+  2016-09-19 : Review of systems (procedure)
+  2016-09-19 : Peripheral blood smear interpretation
+  2016-09-19 : Physical examination of mother for Normal pregnancy
+  2016-09-19 : Urine protein test for Normal pregnancy
+  2016-09-19 : Skin test for tuberculosis for Normal pregnancy
+  2016-09-19 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2016-09-19 : Rubella screening for Normal pregnancy
+  2016-09-19 : Hepatitis C antibody test for Normal pregnancy
+  2016-09-19 : Urine screening test for diabetes for Normal pregnancy
+  2016-09-19 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2016-09-19 : Urine culture for Normal pregnancy
+  2016-09-19 : Syphilis infection test for Normal pregnancy
+  2016-09-19 : Gonorrhea infection test for Normal pregnancy
+  2016-09-19 : Chlamydia antigen test for Normal pregnancy
+  2016-09-19 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2016-09-19 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2016-09-19 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-09-19 : Blood typing, RH typing for Normal pregnancy
+  2016-09-19 : Auscultation of the fetal heart for Normal pregnancy
+  2016-09-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-09-19 : Ultrasound scan for fetal viability for Normal pregnancy
+  2016-09-19 : Standard pregnancy test for Normal pregnancy
+  2016-05-30 : Depression screening
+  2016-05-30 : Physical examination following birth
+  2016-05-30 : RhD passive immunization
+  2016-04-18 : Premature birth of newborn for Normal pregnancy
+  2016-04-18 : Episiotomy for Normal pregnancy
+  2016-03-21 : Auscultation of the fetal heart for Normal pregnancy
+  2016-03-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-02-22 : Auscultation of the fetal heart for Normal pregnancy
+  2016-02-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-02-22 : Urine screening for glucose for Normal pregnancy
+  2016-02-22 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2016-02-22 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-02-22 : RhD passive immunization for Normal pregnancy
+  2016-02-22 : Antenatal RhD antibody screening for Normal pregnancy
+  2016-01-25 : Auscultation of the fetal heart for Normal pregnancy
+  2016-01-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-12-28 : Auscultation of the fetal heart for Normal pregnancy
+  2015-12-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-11-30 : Auscultation of the fetal heart for Normal pregnancy
+  2015-11-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-11-30 : Alpha-fetoprotein test for Normal pregnancy
+  2015-11-30 : Fetal anatomy study for Normal pregnancy
+  2015-11-02 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2015-11-02 : Auscultation of the fetal heart for Normal pregnancy
+  2015-11-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-10-05 : Physical examination of mother for Normal pregnancy
+  2015-10-05 : Urine protein test for Normal pregnancy
+  2015-10-05 : Skin test for tuberculosis for Normal pregnancy
+  2015-10-05 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2015-10-05 : Rubella screening for Normal pregnancy
+  2015-10-05 : Hepatitis C antibody test for Normal pregnancy
+  2015-10-05 : Urine screening test for diabetes for Normal pregnancy
+  2015-10-05 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2015-10-05 : Urine culture for Normal pregnancy
+  2015-10-05 : Syphilis infection test for Normal pregnancy
+  2015-10-05 : Gonorrhea infection test for Normal pregnancy
+  2015-10-05 : Chlamydia antigen test for Normal pregnancy
+  2015-10-05 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2015-10-05 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2015-10-05 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-10-05 : Blood typing, RH typing for Normal pregnancy
+  2015-10-05 : Auscultation of the fetal heart for Normal pregnancy
+  2015-10-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-10-05 : Ultrasound scan for fetal viability for Normal pregnancy
+  2015-10-05 : Standard pregnancy test for Normal pregnancy
+  2015-06-01 : Intramuscular injection
+  2015-03-02 : Intramuscular injection
+  2014-12-01 : Intramuscular injection
+  2014-10-06 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2014-10-06 : Assessment of substance use (procedure)
+  2014-10-06 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2014-10-06 : Depression screening (procedure)
+  2014-10-06 : Assessment of anxiety (procedure)
+  2014-10-06 : Assessment of health and social care needs (procedure)
+  2014-09-01 : Intramuscular injection
+  2014-06-02 : Intramuscular injection
+  2014-03-03 : Intramuscular injection
+  2013-12-02 : Intramuscular injection
+  2013-09-02 : Intramuscular injection
+  2013-06-03 : Intramuscular injection
+  2013-03-04 : Intramuscular injection
+  2012-12-03 : Intramuscular injection
+  2012-09-03 : Intramuscular injection
+  2012-06-04 : Intramuscular injection
+  2012-03-05 : Intramuscular injection
+  2011-12-05 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-04-12 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-03-22 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2020-10-12 : Td (adult) preservative free
+  2020-10-12 : Influenza, seasonal, injectable, preservative free
+  2017-10-09 : Influenza, seasonal, injectable, preservative free
+  2014-10-06 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-09-06 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2021-09-06 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2021-07-26 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2021-07-12 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2021-06-14 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2021-05-17 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2021-04-19 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2021-04-12 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2021-03-22 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2021-03-22 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2021-02-22 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2021-01-25 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2020-12-28 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2020-10-12 (Dr. Elli Jakubowski) : Encounter at MACARTHUR MEDICAL CENTER PLLC
+2020-07-02 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2019-06-06 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Fetus with chromosomal abnormality
+2019-05-20 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2019-04-22 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2019-03-25 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2019-01-28 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-05-24 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-10-09 (Dr. Elli Jakubowski) : Encounter at MACARTHUR MEDICAL CENTER PLLC
+2017-05-29 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-05-25 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2017-05-15 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2017-04-03 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2017-03-06 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2017-02-06 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2017-01-09 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2016-12-12 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2016-11-14 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2016-10-17 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2016-09-19 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Anemia (disorder)
+2016-09-19 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2016-05-30 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2016-04-18 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2016-03-21 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2016-02-22 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2016-01-25 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2015-12-28 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2015-11-30 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2015-11-02 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2015-10-05 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+2015-06-01 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2015-03-02 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2014-12-01 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2014-10-06 (Dr. Elli Jakubowski) : Encounter at MACARTHUR MEDICAL CENTER PLLC
+2014-09-01 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2014-06-02 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2014-03-03 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2013-12-02 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2013-11-04 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2013-09-02 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2013-08-12 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2013-06-03 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2013-03-04 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2012-12-03 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2012-11-09 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2012-09-03 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2012-06-04 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2012-03-05 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2011-12-05 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2011-11-15 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2011-10-03 (Dr. Elli Jakubowski) : Encounter at MACARTHUR MEDICAL CENTER PLLC
+2008-09-29 (Dr. Elli Jakubowski) : Encounter at MACARTHUR MEDICAL CENTER PLLC
+2007-09-24 (Dr. Elli Jakubowski) : Encounter at MACARTHUR MEDICAL CENTER PLLC
+2003-09-01 (Dr. Elli Jakubowski) : Encounter at MACARTHUR MEDICAL CENTER PLLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

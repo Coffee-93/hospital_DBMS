@@ -1,0 +1,689 @@
+Jeniffer Sauer
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1961-11-07
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-09-13[STOPPED] : Captopril 25 MG Oral Tablet
+  2016-09-13[STOPPED] : Atorvastatin 80 MG Oral Tablet
+  2016-01-19[CURRENT] : Amlodipine 5 MG Oral Tablet
+  2016-01-19[CURRENT] : Simvastatin 20 MG Oral Tablet
+  2016-01-19[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2016-01-19[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2015-01-13[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2015-01-13[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2015-01-13[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2015-01-13[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2014-01-07[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2014-01-07[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2014-01-07[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2014-01-07[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2013-01-01[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2013-01-01[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2013-01-01[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2013-01-01[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2011-12-27[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2011-12-27[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2011-12-27[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2011-12-27[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2010-12-21[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2010-12-21[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2010-12-21[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2010-12-21[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2009-12-15[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2009-12-15[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2009-12-15[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2009-12-15[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2008-12-09[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2008-12-09[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2008-12-09[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2008-12-09[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2007-12-04[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2007-12-04[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2007-12-04[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2007-12-04[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2006-11-28[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2006-11-28[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2006-11-28[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2006-11-28[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2005-11-22[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2005-11-22[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2005-11-22[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2005-11-22[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2005-11-22[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2005-11-22[STOPPED] : Simvastatin 20 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-09-13 -            : History of myocardial infarction (situation)
+  2016-09-13 -            : Myocardial Infarction
+  2016-01-19 -            : Not in labor force (finding)
+  2015-01-13 - 2016-01-19 : Stress (finding)
+  2015-01-13 - 2016-01-19 : Limited social contact (finding)
+  2015-01-13 - 2016-01-19 : Full-time employment (finding)
+  2014-01-07 - 2015-01-13 : Full-time employment (finding)
+  2013-01-01 - 2014-01-07 : Stress (finding)
+  2013-01-01 - 2014-01-07 : Part-time employment (finding)
+  2011-12-27 - 2013-01-01 : Part-time employment (finding)
+  2010-12-21 - 2011-12-27 : Full-time employment (finding)
+  2009-12-15 - 2011-12-27 : Stress (finding)
+  2009-12-15 - 2010-12-21 : Full-time employment (finding)
+  2008-12-09 - 2009-12-15 : Full-time employment (finding)
+  2007-12-04 -            : Has a criminal record (finding)
+  2007-12-04 - 2008-12-09 : Part-time employment (finding)
+  2006-11-28 - 2007-12-04 : Part-time employment (finding)
+  2005-11-22 - 2006-11-28 : Full-time employment (finding)
+  2005-11-22 -            : Coronary Heart Disease
+  2003-11-18 - 2005-11-22 : Not in labor force (finding)
+  2001-11-13 - 2006-11-28 : Stress (finding)
+  2001-11-13 -            : Body mass index 30+ - obesity (finding)
+  1996-01-23 -            : Victim of intimate partner abuse (finding)
+  1987-01-13 - 2014-01-07 : Limited social contact (finding)
+  1984-01-10 -            : Social isolation (finding)
+  1980-01-01 -            : Received certificate of high school equivalency (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1991-07-09[CURRENT] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1990-05-22[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-09-20 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Myocardial Infarction 
+  2016-01-19 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2016-01-19 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2016-01-19 : Lipid Panel
+           - Total Cholesterol                        199.5 mg/dL
+           - Triglycerides                            130.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      95.7 mg/dL
+           - High Density Lipoprotein Cholesterol     77.8 mg/dL
+  2015-01-13 : PHQ-9 quick depression assessment panel [Reported.PHQ]
+           - Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 25.0 {score}
+  2015-01-13 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 5.0 {score}
+  2015-01-13 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2014-01-07 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2013-01-02 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2013-01-01 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2013-01-01 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2013-01-01 : Lipid Panel
+           - Total Cholesterol                        165.4 mg/dL
+           - Triglycerides                            114.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      80.7 mg/dL
+           - High Density Lipoprotein Cholesterol     61.8 mg/dL
+  2011-12-27 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2011-12-27 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2011-12-27 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2011-12-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.6 %
+           - MCV [Entitic volume] by Automated count  84.0 fL
+           - MCH [Entitic mass] by Automated count    32.5 pg
+           - MCHC [Mass/volume] by Automated count    33.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 237.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 348.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2010-12-21 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2010-12-21 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2010-12-21 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 10.0 {score}
+  2009-12-15 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2009-12-15 : Lipid Panel
+           - Total Cholesterol                        161.1 mg/dL
+           - Triglycerides                            123.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      75.9 mg/dL
+           - High Density Lipoprotein Cholesterol     60.5 mg/dL
+  2008-12-09 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2008-12-09 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2008-12-09 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2007-12-04 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2007-12-04 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2006-11-29 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2006-11-28 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2006-11-28 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2006-11-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.3 %
+           - MCV [Entitic volume] by Automated count  92.4 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+           - Platelets [#/volume] in Blood by Automated count 242.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 492.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2006-11-28 : Lipid Panel
+           - Total Cholesterol                        185.5 mg/dL
+           - Triglycerides                            120.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.6 mg/dL
+           - High Density Lipoprotein Cholesterol     66.8 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2016-09-20 : Cause of Death [US Standard Certificate of Death] Myocardial Infarction 
+  2016-01-19 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2016-01-19 : Total score [HARK]                       0.0 {score}
+  2016-01-19 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 15301 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             173 Pfannerstill Meadow 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2016-01-19 : Tobacco smoking status NHIS              Former smoker 
+  2016-01-19 : High Density Lipoprotein Cholesterol     77.8 mg/dL
+  2016-01-19 : Low Density Lipoprotein Cholesterol      95.7 mg/dL
+  2016-01-19 : Triglycerides                            130.4 mg/dL
+  2016-01-19 : Total Cholesterol                        199.5 mg/dL
+  2016-01-19 : Respiratory rate                         12.0 /min
+  2016-01-19 : Heart rate                               65.0 /min
+  2016-01-19 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2016-01-19 : Body Mass Index                          30.5 kg/m2
+  2016-01-19 : Body Weight                              82.9 kg
+  2016-01-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-01-19 : Body Height                              165.0 cm
+  2015-01-13 : Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 25.0 {score}
+  2015-01-13 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 5.0 {score}
+  2015-01-13 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2015-01-13 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 15301 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             173 Pfannerstill Meadow 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2015-01-13 : Tobacco smoking status NHIS              Former smoker 
+  2015-01-13 : Respiratory rate                         16.0 /min
+  2015-01-13 : Heart rate                               86.0 /min
+  2015-01-13 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2015-01-13 : Body Mass Index                          29.9 kg/m2
+  2015-01-13 : Body Weight                              81.4 kg
+  2015-01-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-01-13 : Body Height                              165.0 cm
+  2014-01-07 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2014-01-07 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 15301 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             173 Pfannerstill Meadow 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Yes 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2014-01-07 : Tobacco smoking status NHIS              Former smoker 
+  2014-01-07 : Respiratory rate                         13.0 /min
+  2014-01-07 : Heart rate                               63.0 /min
+  2014-01-07 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2014-01-07 : Body Mass Index                          29.3 kg/m2
+  2014-01-07 : Body Weight                              79.8 kg
+  2014-01-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2014-01-07 : Body Height                              165.0 cm
+  2013-01-02 : Total score [AUDIT-C]                    1.0 {score}
+  2013-01-01 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2013-01-01 : Total score [HARK]                       0.0 {score}
+  2013-01-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 15301 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             173 Pfannerstill Meadow 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2013-01-01 : Tobacco smoking status NHIS              Former smoker 
+  2013-01-01 : High Density Lipoprotein Cholesterol     61.8 mg/dL
+  2013-01-01 : Low Density Lipoprotein Cholesterol      80.7 mg/dL
+  2013-01-01 : Triglycerides                            114.5 mg/dL
+  2013-01-01 : Total Cholesterol                        165.4 mg/dL
+  2013-01-01 : Respiratory rate                         14.0 /min
+  2013-01-01 : Heart rate                               72.0 /min
+  2013-01-01 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2013-01-01 : Body Mass Index                          28.7 kg/m2
+  2013-01-01 : Body Weight                              78.3 kg
+  2013-01-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-01-01 : Body Height                              165.0 cm
+  2011-12-27 : Total score [DAST-10]                    1.0 {score}
+  2011-12-27 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2011-12-27 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2011-12-27 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 15301 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             173 Pfannerstill Meadow 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2011-12-27 : Tobacco smoking status NHIS              Former smoker 
+  2011-12-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2011-12-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 348.9 fL
+  2011-12-27 : Platelets [#/volume] in Blood by Automated count 237.2 10*3/uL
+  2011-12-27 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  2011-12-27 : MCHC [Mass/volume] by Automated count    33.8 g/dL
+  2011-12-27 : MCH [Entitic mass] by Automated count    32.5 pg
+  2011-12-27 : MCV [Entitic volume] by Automated count  84.0 fL
+  2011-12-27 : Hematocrit [Volume Fraction] of Blood by Automated count 38.6 %
+  2011-12-27 : Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+  2011-12-27 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2011-12-27 : Leukocytes [#/volume] in Blood by Automated count 9.8 10*3/uL
+  2011-12-27 : Respiratory rate                         14.0 /min
+  2011-12-27 : Heart rate                               99.0 /min
+  2011-12-27 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2011-12-27 : Body Mass Index                          28.2 kg/m2
+  2011-12-27 : Body Weight                              76.7 kg
+  2011-12-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2011-12-27 : Body Height                              165.0 cm
+  2010-12-21 : Total score [DAST-10]                    2.0 {score}
+  2010-12-21 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2010-12-21 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 10.0 {score}
+  2010-12-21 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 15301 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             173 Pfannerstill Meadow 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2010-12-21 : Tobacco smoking status NHIS              Former smoker 
+  2010-12-21 : Respiratory rate                         12.0 /min
+  2010-12-21 : Heart rate                               61.0 /min
+  2010-12-21 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2010-12-21 : Body Mass Index                          30.4 kg/m2
+  2010-12-21 : Body Weight                              82.9 kg
+  2010-12-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2010-12-21 : Body Height                              165.0 cm
+  2009-12-15 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2009-12-15 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Phone 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 15301 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             173 Pfannerstill Meadow 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2009-12-15 : Tobacco smoking status NHIS              Former smoker 
+  2009-12-15 : High Density Lipoprotein Cholesterol     60.5 mg/dL
+  2009-12-15 : Low Density Lipoprotein Cholesterol      75.9 mg/dL
+  2009-12-15 : Triglycerides                            123.1 mg/dL
+  2009-12-15 : Total Cholesterol                        161.1 mg/dL
+  2009-12-15 : Respiratory rate                         12.0 /min
+  2009-12-15 : Heart rate                               92.0 /min
+  2009-12-15 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2009-12-15 : Body Mass Index                          29.7 kg/m2
+  2009-12-15 : Body Weight                              81.0 kg
+  2009-12-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2009-12-15 : Body Height                              165.0 cm
+  2008-12-09 : Total score [DAST-10]                    0.0 {score}
+  2008-12-09 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2008-12-09 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2008-12-09 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 15301 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             173 Pfannerstill Meadow 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2008-12-09 : Tobacco smoking status NHIS              Former smoker 
+  2008-12-09 : Respiratory rate                         13.0 /min
+  2008-12-09 : Heart rate                               80.0 /min
+  2008-12-09 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2008-12-09 : Body Mass Index                          29.0 kg/m2
+  2008-12-09 : Body Weight                              78.9 kg
+  2008-12-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2008-12-09 : Body Height                              165.0 cm
+  2007-12-04 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2007-12-04 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2007-12-04 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? I choose not to answer this question 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Phone 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 15301 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             173 Pfannerstill Meadow 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2007-12-04 : Tobacco smoking status NHIS              Former smoker 
+  2007-12-04 : Respiratory rate                         14.0 /min
+  2007-12-04 : Heart rate                               69.0 /min
+  2007-12-04 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  138.0 mm[Hg]
+  2007-12-04 : Body Mass Index                          28.2 kg/m2
+  2007-12-04 : Body Weight                              76.9 kg
+  2007-12-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2007-12-04 : Body Height                              165.0 cm
+  2006-11-29 : Total score [AUDIT-C]                    2.0 {score}
+  2006-11-28 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2006-11-28 : Total score [HARK]                       0.0 {score}
+  2006-11-28 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 15301 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             173 Pfannerstill Meadow 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2006-11-28 : Tobacco smoking status NHIS              Former smoker 
+  2006-11-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2006-11-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 492.8 fL
+  2006-11-28 : Platelets [#/volume] in Blood by Automated count 242.1 10*3/uL
+  2006-11-28 : Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+  2006-11-28 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2006-11-28 : MCH [Entitic mass] by Automated count    28.7 pg
+  2006-11-28 : MCV [Entitic volume] by Automated count  92.4 fL
+  2006-11-28 : Hematocrit [Volume Fraction] of Blood by Automated count 47.3 %
+  2006-11-28 : Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+  2006-11-28 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2006-11-28 : Leukocytes [#/volume] in Blood by Automated count 7.8 10*3/uL
+  2006-11-28 : High Density Lipoprotein Cholesterol     66.8 mg/dL
+  2006-11-28 : Low Density Lipoprotein Cholesterol      94.6 mg/dL
+  2006-11-28 : Triglycerides                            120.5 mg/dL
+  2006-11-28 : Total Cholesterol                        185.5 mg/dL
+  2006-11-28 : Respiratory rate                         15.0 /min
+  2006-11-28 : Heart rate                               96.0 /min
+  2006-11-28 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2006-11-28 : Body Mass Index                          27.5 kg/m2
+  2006-11-28 : Body Weight                              74.8 kg
+  2006-11-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2006-11-28 : Body Height                              165.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-09-13 : Coronary artery bypass grafting for Myocardial Infarction
+  2016-09-13 : Percutaneous coronary intervention for Myocardial Infarction
+  2016-09-13 : Echocardiography (procedure) for Myocardial Infarction
+  2016-01-19 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2016-01-19 : Depression screening (procedure)
+  2016-01-19 : Screening for domestic abuse (procedure)
+  2016-01-19 : Medication Reconciliation (procedure)
+  2016-01-19 : Assessment of health and social care needs (procedure)
+  2015-01-13 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2015-01-13 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2015-01-13 : Depression screening (procedure)
+  2015-01-13 : Assessment of anxiety (procedure)
+  2015-01-13 : Medication Reconciliation (procedure)
+  2015-01-13 : Assessment of health and social care needs (procedure)
+  2014-01-07 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2014-01-07 : Depression screening (procedure)
+  2014-01-07 : Assessment of health and social care needs (procedure)
+  2013-03-19 : Replacement of contraceptive intrauterine device
+  2013-01-01 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2013-01-01 : Assessment of substance use (procedure)
+  2013-01-01 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2013-01-01 : Depression screening (procedure)
+  2013-01-01 : Screening for domestic abuse (procedure)
+  2013-01-01 : Medication Reconciliation (procedure)
+  2013-01-01 : Assessment of health and social care needs (procedure)
+  2011-12-27 : Screening for drug abuse (procedure)
+  2011-12-27 : Assessment of substance use (procedure)
+  2011-12-27 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2011-12-27 : Depression screening (procedure)
+  2011-12-27 : Assessment of anxiety (procedure)
+  2011-12-27 : Assessment of health and social care needs (procedure)
+  2011-11-08 : Colonoscopy
+  2010-12-21 : Screening for drug abuse (procedure)
+  2010-12-21 : Assessment of substance use (procedure)
+  2010-12-21 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2010-12-21 : Depression screening (procedure)
+  2010-12-21 : Assessment of anxiety (procedure)
+  2010-12-21 : Medication Reconciliation (procedure)
+  2010-12-21 : Assessment of health and social care needs (procedure)
+  2009-12-15 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2009-12-15 : Depression screening (procedure)
+  2009-12-15 : Assessment of health and social care needs (procedure)
+  2008-12-09 : Screening for drug abuse (procedure)
+  2008-12-09 : Assessment of substance use (procedure)
+  2008-12-09 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2008-12-09 : Depression screening (procedure)
+  2008-12-09 : Assessment of anxiety (procedure)
+  2008-12-09 : Assessment of health and social care needs (procedure)
+  2008-03-18 : Replacement of contraceptive intrauterine device
+  2007-12-04 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2007-12-04 : Depression screening (procedure)
+  2007-12-04 : Assessment of anxiety (procedure)
+  2007-12-04 : Medication Reconciliation (procedure)
+  2007-12-04 : Assessment of health and social care needs (procedure)
+  2006-11-28 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2006-11-28 : Assessment of substance use (procedure)
+  2006-11-28 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2006-11-28 : Depression screening (procedure)
+  2006-11-28 : Screening for domestic abuse (procedure)
+  2006-11-28 : Medication Reconciliation (procedure)
+  2006-11-28 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2016-01-19 : Influenza, seasonal, injectable, preservative free
+  2015-01-13 : Influenza, seasonal, injectable, preservative free
+  2014-01-07 : Influenza, seasonal, injectable, preservative free
+  2013-01-01 : Td (adult) preservative free
+  2013-01-01 : Influenza, seasonal, injectable, preservative free
+  2013-01-01 : zoster
+  2011-12-27 : Influenza, seasonal, injectable, preservative free
+  2011-12-27 : zoster
+  2010-12-21 : Influenza, seasonal, injectable, preservative free
+  2009-12-15 : Influenza, seasonal, injectable, preservative free
+  2008-12-09 : Influenza, seasonal, injectable, preservative free
+  2007-12-04 : Influenza, seasonal, injectable, preservative free
+  2006-11-28 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2016-09-20 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK : Encounter for Myocardial Infarction
+2016-09-13 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2016-01-19 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK
+2015-01-13 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK
+2014-01-07 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK
+2013-03-19 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+2013-01-01 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK
+2011-12-27 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK
+2011-11-08 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2010-12-21 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK
+2009-12-15 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK
+2008-12-09 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK
+2008-03-18 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+2007-12-04 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK
+2006-11-28 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK
+2005-11-22 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK
+2003-11-18 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK
+2001-11-13 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK
+1996-01-23 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK
+1991-07-09 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+1990-05-22 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Normal pregnancy
+1987-01-08 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER : Encounter for Acute viral pharyngitis (disorder)
+1984-01-10 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK
+1980-01-01 (Dr. Micah Larkin) : Encounter at HEALTHTEXAS PROVIDER NETWORK
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

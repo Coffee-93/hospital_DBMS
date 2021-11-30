@@ -1,0 +1,2219 @@
+Zackary Mohr
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1977-08-23
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-01-17[CURRENT] : Albuterol 5 MG/ML Inhalation Solution for Hypoxemia (disorder)
+  2021-01-14[CURRENT] : 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe for Acute deep venous thrombosis (disorder)
+  2021-01-12[CURRENT] : Acetaminophen 500 MG Oral Tablet
+  2021-01-12[CURRENT] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Hypoxemia (disorder)
+  2021-01-12[CURRENT] : 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+  2017-11-22[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2012-11-20[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-01-17 -            : Acute respiratory distress syndrome (disorder)
+  2021-01-17 -            : Injury of heart (disorder)
+  2021-01-14 -            : Acute deep venous thrombosis (disorder)
+  2021-01-12 -            : Sepsis caused by virus (disorder)
+  2021-01-12 -            : Acute respiratory failure (disorder)
+  2021-01-12 -            : Respiratory distress (finding)
+  2021-01-12 -            : Hypoxemia (disorder)
+  2021-01-12 -            : Pneumonia (disorder)
+  2021-01-12 -            : COVID-19
+  2021-01-12 - 2021-01-12 : Suspected COVID-19
+  2021-01-12 -            : Fever (finding)
+  2021-01-12 -            : Vomiting symptom (finding)
+  2021-01-12 -            : Nausea (finding)
+  2021-01-12 -            : Wheezing (finding)
+  2021-01-12 -            : Dyspnea (finding)
+  2021-01-12 -            : Sputum finding (finding)
+  2019-09-03 -            : Stress (finding)
+  2019-09-03 -            : Part-time employment (finding)
+  2018-01-08 - 2018-02-06 : Sinusitis (disorder)
+  2017-12-05 - 2019-09-03 : Full-time employment (finding)
+  2017-11-22 - 2017-12-06 : Acute bronchitis (disorder)
+  2017-08-29 - 2017-12-05 : Full-time employment (finding)
+  2015-02-19 - 2015-03-01 : Acute viral pharyngitis (disorder)
+  2014-11-11 - 2017-08-29 : Full-time employment (finding)
+  2012-11-20 - 2012-11-29 : Streptococcal sore throat (disorder)
+  2012-08-03 - 2012-08-27 : Viral sinusitis (disorder)
+  2011-10-12 - 2011-10-23 : Acute viral pharyngitis (disorder)
+  2008-11-04 - 2014-11-11 : Full-time employment (finding)
+  2005-11-01 - 2017-08-29 : Stress (finding)
+  1996-07-30 - 2019-09-03 : Limited social contact (finding)
+  1996-07-30 - 1996-10-22 : Part-time employment (finding)
+  1995-10-17 - 1996-10-22 : Stress (finding)
+  1995-10-17 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-01-12[STOPPED] : Infectious disease care plan (record artifact)
+                         Reason: Suspected COVID-19
+                         Activity: Isolation nursing in negative pressure isolation environment (regime/therapy)
+                         Activity: Airborne precautions (procedure)
+                         Activity: Personal protective equipment (physical object)
+  2017-11-22[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-02-09 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] COVID-19 
+  2021-01-27 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    12.5 s
+           - INR in Platelet poor plasma by Coagulation assay 3.1 {INR}
+  2021-01-27 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 62.4 pg/mL
+  2021-01-27 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 1831.0 ug/L
+  2021-01-27 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.1 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 40.6 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 37.4 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 24.1 mmol/L
+           - Oxygen saturation in Arterial blood      77.7 %
+  2021-01-27 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 66.9 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 11.1 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 3.0 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 10.1 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 142.7 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.1 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 102.7 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.3 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 11.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.9 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 11.3 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 55.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 37.4 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 1.5 U/L
+  2021-01-27 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 32.5 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 13.6 %
+           - Monocytes/100 leukocytes in Blood by Automated count 6.4 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 3.3 %
+           - Basophils/100 leukocytes in Blood by Automated count 2.1 %
+           - Neutrophils [#/volume] in Blood by Automated count 3.4 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 1.3 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        11.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.4 %
+           - MCV [Entitic volume] by Automated count  89.5 fL
+           - MCH [Entitic mass] by Automated count    31.7 pg
+           - MCHC [Mass/volume] by Automated count    32.9 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.1 %
+           - Platelets [#/volume] in Blood by Automated count 123.9 10*3/uL
+  2021-01-26 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    13.6 s
+           - INR in Platelet poor plasma by Coagulation assay 3.1 {INR}
+  2021-01-26 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 55.6 pg/mL
+  2021-01-26 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 1806.0 ug/L
+  2021-01-26 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.1 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 35.2 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 47.4 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 25.7 mmol/L
+           - Oxygen saturation in Arterial blood      83.7 %
+  2021-01-26 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 66.9 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 11.1 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 10.1 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 142.7 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.1 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 102.7 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.3 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 6.9 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.6 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.1 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 8.7 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 46.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 43.0 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11.7 U/L
+  2021-01-26 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 33.7 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 24.4 %
+           - Monocytes/100 leukocytes in Blood by Automated count 7.8 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 3.3 %
+           - Basophils/100 leukocytes in Blood by Automated count 3.5 %
+           - Neutrophils [#/volume] in Blood by Automated count 2.9 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.4 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 1.3 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.6 %
+           - MCV [Entitic volume] by Automated count  88.7 fL
+           - MCH [Entitic mass] by Automated count    32.6 pg
+           - MCHC [Mass/volume] by Automated count    32.8 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.9 %
+           - Platelets [#/volume] in Blood by Automated count 125.0 10*3/uL
+  2021-01-25 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    12.2 s
+           - INR in Platelet poor plasma by Coagulation assay 4.8 {INR}
+  2021-01-25 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 53.7 pg/mL
+  2021-01-25 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 1501.7 ug/L
+  2021-01-25 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.1 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 39.7 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 42.4 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 24.1 mmol/L
+           - Oxygen saturation in Arterial blood      82.1 %
+  2021-01-25 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 71.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 10.2 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.1 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 139.2 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 108.0 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 11.6 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 5.8 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.5 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 13.0 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 53.3 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12.5 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.7 U/L
+  2021-01-25 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 30.6 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 5.7 %
+           - Monocytes/100 leukocytes in Blood by Automated count 13.4 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 4.3 %
+           - Basophils/100 leukocytes in Blood by Automated count 4.0 %
+           - Neutrophils [#/volume] in Blood by Automated count 3.4 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.6 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 1.1 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2021-01-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.0 %
+           - MCV [Entitic volume] by Automated count  87.7 fL
+           - MCH [Entitic mass] by Automated count    30.8 pg
+           - MCHC [Mass/volume] by Automated count    31.6 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.7 %
+           - Platelets [#/volume] in Blood by Automated count 137.9 10*3/uL
+  2021-01-24 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    13.2 s
+           - INR in Platelet poor plasma by Coagulation assay 4.6 {INR}
+  2021-01-24 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 54.1 pg/mL
+  2021-01-24 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 1844.1 ug/L
+  2021-01-24 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.1 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 42.8 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 56.1 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 22.5 mmol/L
+           - Oxygen saturation in Arterial blood      78.1 %
+  2021-01-24 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 71.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 10.2 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.1 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 139.2 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 108.0 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 5.2 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 8.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.3 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 10.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 91.3 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 4.4 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.8 U/L
+  2021-01-24 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 34.1 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 24.7 %
+           - Monocytes/100 leukocytes in Blood by Automated count 5.5 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 4.2 %
+           - Basophils/100 leukocytes in Blood by Automated count 2.9 %
+           - Neutrophils [#/volume] in Blood by Automated count 3.8 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.6 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 1.2 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.3 %
+           - MCV [Entitic volume] by Automated count  90.7 fL
+           - MCH [Entitic mass] by Automated count    30.0 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 15.0 %
+           - Platelets [#/volume] in Blood by Automated count 142.3 10*3/uL
+  2021-01-23 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    13.0 s
+           - INR in Platelet poor plasma by Coagulation assay 4.5 {INR}
+  2021-01-23 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 58.2 pg/mL
+  2021-01-23 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 1516.6 ug/L
+  2021-01-23 : Gas panel - Arterial blood
+           - pH of Arterial blood                     6.9 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 40.7 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 38.4 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 25.6 mmol/L
+           - Oxygen saturation in Arterial blood      77.4 %
+  2021-01-23 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 71.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 10.2 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.8 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.1 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 139.2 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 108.0 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 8.1 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.9 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.9 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 8.8 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 43.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 40.0 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.8 U/L
+  2021-01-23 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 42.4 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 12.7 %
+           - Monocytes/100 leukocytes in Blood by Automated count 5.9 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 5.6 %
+           - Basophils/100 leukocytes in Blood by Automated count 3.7 %
+           - Neutrophils [#/volume] in Blood by Automated count 2.8 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.6 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 1.0 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2021-01-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.7 %
+           - MCV [Entitic volume] by Automated count  79.8 fL
+           - MCH [Entitic mass] by Automated count    27.4 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.2 %
+           - Platelets [#/volume] in Blood by Automated count 118.6 10*3/uL
+  2021-01-22 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    12.8 s
+           - INR in Platelet poor plasma by Coagulation assay 3.7 {INR}
+  2021-01-22 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 21.1 pg/mL
+  2021-01-22 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 1554.5 ug/L
+  2021-01-22 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.0 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 39.6 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 51.3 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 26.2 mmol/L
+           - Oxygen saturation in Arterial blood      77.2 %
+  2021-01-22 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 71.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 10.2 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.1 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 139.2 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 108.0 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 10.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 8.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.7 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 9.9 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 96.0 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.4 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 25.8 U/L
+  2021-01-22 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 29.4 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 10.0 %
+           - Monocytes/100 leukocytes in Blood by Automated count 12.4 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 4.0 %
+           - Basophils/100 leukocytes in Blood by Automated count 2.0 %
+           - Neutrophils [#/volume] in Blood by Automated count 3.4 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.6 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 0.8 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.6 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-22 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.1 %
+           - MCV [Entitic volume] by Automated count  84.9 fL
+           - MCH [Entitic mass] by Automated count    31.3 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.1 %
+           - Platelets [#/volume] in Blood by Automated count 105.1 10*3/uL
+  2021-01-21 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    12.5 s
+           - INR in Platelet poor plasma by Coagulation assay 3.7 {INR}
+  2021-01-21 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 23.1 pg/mL
+  2021-01-21 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 1574.2 ug/L
+  2021-01-21 : Gas panel - Arterial blood
+           - pH of Arterial blood                     6.8 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 42.6 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 51.6 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 26.2 mmol/L
+           - Oxygen saturation in Arterial blood      79.8 %
+  2021-01-21 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 71.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 10.2 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.1 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 139.2 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 108.0 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 6.4 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.6 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.1 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 10.8 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 98.5 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 5.8 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 32.3 U/L
+  2021-01-21 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 33.0 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 10.3 %
+           - Monocytes/100 leukocytes in Blood by Automated count 11.4 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 4.3 %
+           - Basophils/100 leukocytes in Blood by Automated count 3.9 %
+           - Neutrophils [#/volume] in Blood by Automated count 2.8 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.2 %
+           - MCV [Entitic volume] by Automated count  84.2 fL
+           - MCH [Entitic mass] by Automated count    32.7 pg
+           - MCHC [Mass/volume] by Automated count    32.4 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.2 %
+           - Platelets [#/volume] in Blood by Automated count 124.7 10*3/uL
+  2021-01-20 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    11.2 s
+           - INR in Platelet poor plasma by Coagulation assay 4.1 {INR}
+  2021-01-20 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 23.8 pg/mL
+  2021-01-20 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 1414.6 ug/L
+  2021-01-20 : Gas panel - Arterial blood
+           - pH of Arterial blood                     6.8 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 43.7 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 52.7 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 26.8 mmol/L
+           - Oxygen saturation in Arterial blood      85.5 %
+  2021-01-20 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 71.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 10.2 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.1 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 139.2 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 108.0 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 5.4 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.1 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 12.3 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 63.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11.0 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 32.8 U/L
+  2021-01-20 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 36.9 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 14.2 %
+           - Monocytes/100 leukocytes in Blood by Automated count 13.9 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 3.3 %
+           - Basophils/100 leukocytes in Blood by Automated count 3.8 %
+           - Neutrophils [#/volume] in Blood by Automated count 2.4 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        11.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.1 %
+           - MCV [Entitic volume] by Automated count  80.6 fL
+           - MCH [Entitic mass] by Automated count    28.5 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.2 %
+           - Platelets [#/volume] in Blood by Automated count 132.8 10*3/uL
+  2021-01-19 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    12.1 s
+           - INR in Platelet poor plasma by Coagulation assay 3.7 {INR}
+  2021-01-19 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 25.7 pg/mL
+  2021-01-19 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 1494.5 ug/L
+  2021-01-19 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.1 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 35.9 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 48.3 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 26.0 mmol/L
+           - Oxygen saturation in Arterial blood      87.9 %
+  2021-01-19 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 71.6 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 10.2 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.1 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 139.2 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 108.0 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 11.8 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 5.8 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.7 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 7.9 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 45.0 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 2.3 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 3.2 U/L
+  2021-01-19 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 34.2 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 9.1 %
+           - Monocytes/100 leukocytes in Blood by Automated count 9.8 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 5.6 %
+           - Basophils/100 leukocytes in Blood by Automated count 3.5 %
+           - Neutrophils [#/volume] in Blood by Automated count 2.2 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.7 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 1.3 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.6 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        11.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.3 %
+           - MCV [Entitic volume] by Automated count  94.2 fL
+           - MCH [Entitic mass] by Automated count    32.5 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.3 %
+           - Platelets [#/volume] in Blood by Automated count 144.5 10*3/uL
+  2021-01-18 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    12.9 s
+           - INR in Platelet poor plasma by Coagulation assay 3.9 {INR}
+  2021-01-18 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 22.0 pg/mL
+  2021-01-18 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 1664.1 ug/L
+  2021-01-18 : Gas panel - Arterial blood
+           - pH of Arterial blood                     6.8 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 36.3 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 48.0 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 24.1 mmol/L
+           - Oxygen saturation in Arterial blood      86.7 %
+  2021-01-18 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 90.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 17.8 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 5.1 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.5 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 9.5 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 113.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.1 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 32.4 U/L
+  2021-01-18 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 21.9 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 24.1 %
+           - Monocytes/100 leukocytes in Blood by Automated count 12.5 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 5.5 %
+           - Basophils/100 leukocytes in Blood by Automated count 3.9 %
+           - Neutrophils [#/volume] in Blood by Automated count 2.4 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.7 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.5 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2021-01-18 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.0 %
+           - MCV [Entitic volume] by Automated count  84.9 fL
+           - MCH [Entitic mass] by Automated count    32.5 pg
+           - MCHC [Mass/volume] by Automated count    32.3 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.0 %
+           - Platelets [#/volume] in Blood by Automated count 139.3 10*3/uL
+  2021-01-17 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    13.5 s
+           - INR in Platelet poor plasma by Coagulation assay 3.3 {INR}
+  2021-01-17 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 24.9 pg/mL
+  2021-01-17 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 1569.2 ug/L
+  2021-01-17 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.2 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 44.8 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 42.0 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 24.9 mmol/L
+           - Oxygen saturation in Arterial blood      86.0 %
+  2021-01-17 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 90.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 17.8 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 5.1 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.4 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 12.8 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 52.5 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 36.3 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 26.1 U/L
+  2021-01-17 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 30.5 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 12.1 %
+           - Monocytes/100 leukocytes in Blood by Automated count 8.7 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 3.1 %
+           - Basophils/100 leukocytes in Blood by Automated count 3.5 %
+           - Neutrophils [#/volume] in Blood by Automated count 3.7 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.8 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 1.1 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.6 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-17 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.9 %
+           - MCV [Entitic volume] by Automated count  92.6 fL
+           - MCH [Entitic mass] by Automated count    27.2 pg
+           - MCHC [Mass/volume] by Automated count    31.6 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.3 %
+           - Platelets [#/volume] in Blood by Automated count 118.1 10*3/uL
+  2021-01-17 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.1 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 45.0 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 41.8 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 26.4 mmol/L
+           - Oxygen saturation in Arterial blood      78.0 %
+  2021-01-17 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 90.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 17.8 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 9.2 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 5.8 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 13.6 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 49.7 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 3.0 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 19.6 U/L
+  2021-01-17 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 43.5 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 14.4 %
+           - Monocytes/100 leukocytes in Blood by Automated count 11.9 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 5.5 %
+           - Basophils/100 leukocytes in Blood by Automated count 3.1 %
+           - Neutrophils [#/volume] in Blood by Automated count 2.3 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.7 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 1.4 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-17 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.7 %
+           - MCV [Entitic volume] by Automated count  86.8 fL
+           - MCH [Entitic mass] by Automated count    32.4 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.7 %
+           - Platelets [#/volume] in Blood by Automated count 131.1 10*3/uL
+  2021-01-16 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    13.2 s
+           - INR in Platelet poor plasma by Coagulation assay 3.4 {INR}
+  2021-01-16 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 8.8 pg/mL
+  2021-01-16 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 953.4 ug/L
+  2021-01-16 : Gas panel - Arterial blood
+           - pH of Arterial blood                     6.8 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 44.9 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 52.9 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 26.8 mmol/L
+           - Oxygen saturation in Arterial blood      79.1 %
+  2021-01-16 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 90.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 17.8 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 5.4 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.9 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 14.0 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 89.3 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.6 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 37.0 U/L
+  2021-01-16 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 44.8 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 21.4 %
+           - Monocytes/100 leukocytes in Blood by Automated count 5.9 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 3.8 %
+           - Basophils/100 leukocytes in Blood by Automated count 2.9 %
+           - Neutrophils [#/volume] in Blood by Automated count 2.3 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.7 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 0.6 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.6 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.8 %
+           - MCV [Entitic volume] by Automated count  88.7 fL
+           - MCH [Entitic mass] by Automated count    29.8 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.7 %
+           - Platelets [#/volume] in Blood by Automated count 143.1 10*3/uL
+  2021-01-15 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.2 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 38.2 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 39.8 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 22.7 mmol/L
+           - Oxygen saturation in Arterial blood      84.1 %
+  2021-01-15 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 90.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 17.8 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.5 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 8.3 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.9 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 14.6 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 63.0 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 33.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 14.9 U/L
+  2021-01-15 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 17.8 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 11.3 %
+           - Monocytes/100 leukocytes in Blood by Automated count 5.7 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 4.9 %
+           - Basophils/100 leukocytes in Blood by Automated count 3.5 %
+           - Neutrophils [#/volume] in Blood by Automated count 3.5 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.4 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.8 %
+           - MCV [Entitic volume] by Automated count  89.4 fL
+           - MCH [Entitic mass] by Automated count    28.4 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.1 %
+           - Platelets [#/volume] in Blood by Automated count 133.9 10*3/uL
+  2021-01-14 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    12.5 s
+           - INR in Platelet poor plasma by Coagulation assay 3.3 {INR}
+  2021-01-14 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 6.9 pg/mL
+  2021-01-14 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 866.5 ug/L
+  2021-01-14 : Gas panel - Arterial blood
+           - pH of Arterial blood                     7.2 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 44.3 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 44.2 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 24.0 mmol/L
+           - Oxygen saturation in Arterial blood      78.4 %
+  2021-01-14 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 90.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 17.8 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 9.9 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.9 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.9 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 8.3 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 97.3 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 21.2 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 5.8 U/L
+  2021-01-14 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 21.1 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 16.2 %
+           - Monocytes/100 leukocytes in Blood by Automated count 13.6 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 5.8 %
+           - Basophils/100 leukocytes in Blood by Automated count 2.5 %
+           - Neutrophils [#/volume] in Blood by Automated count 3.6 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 0.8 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.5 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.6 %
+           - MCV [Entitic volume] by Automated count  91.7 fL
+           - MCH [Entitic mass] by Automated count    27.4 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.2 %
+           - Platelets [#/volume] in Blood by Automated count 103.6 10*3/uL
+  2021-01-13 : Gas panel - Arterial blood
+           - pH of Arterial blood                     6.8 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 41.0 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 52.0 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 24.3 mmol/L
+           - Oxygen saturation in Arterial blood      76.9 %
+  2021-01-13 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 90.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 17.8 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 13.0 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 5.8 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 78.1 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12.7 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 39.9 U/L
+  2021-01-13 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 11.3 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 24.6 %
+           - Monocytes/100 leukocytes in Blood by Automated count 14.5 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 4.4 %
+           - Basophils/100 leukocytes in Blood by Automated count 3.3 %
+           - Neutrophils [#/volume] in Blood by Automated count 3.1 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-13 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.5 %
+           - MCV [Entitic volume] by Automated count  86.7 fL
+           - MCH [Entitic mass] by Automated count    32.4 pg
+           - MCHC [Mass/volume] by Automated count    32.8 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.2 %
+           - Platelets [#/volume] in Blood by Automated count 127.3 10*3/uL
+  2021-01-12 : PT panel - Platelet poor plasma by Coagulation assay
+           - Prothrombin time (PT)                    13.3 s
+           - INR in Platelet poor plasma by Coagulation assay 3.9 {INR}
+  2021-01-12 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 7.5 pg/mL
+  2021-01-12 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 1061.0 ug/L
+  2021-01-12 : Gas panel - Arterial blood
+           - pH of Arterial blood                     6.8 [pH]
+           - Carbon dioxide [Partial pressure] in Arterial blood 38.7 mm[Hg]
+           - Oxygen [Partial pressure] in Arterial blood 43.3 mm[Hg]
+           - Bicarbonate [Moles/volume] in Arterial blood 22.3 mmol/L
+           - Oxygen saturation in Arterial blood      85.9 %
+  2021-01-12 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 90.0 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 17.8 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 8.2 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.9 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 7.3 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 89.9 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.5 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 15.4 U/L
+  2021-01-12 : Auto Differential panel - Blood
+           - Neutrophils/100 leukocytes in Blood by Automated count 25.8 %
+           - Lymphocytes/100 leukocytes in Blood by Automated count 12.5 %
+           - Monocytes/100 leukocytes in Blood by Automated count 6.8 %
+           - Eosinophils/100 leukocytes in Blood by Automated count 5.8 %
+           - Basophils/100 leukocytes in Blood by Automated count 2.8 %
+           - Neutrophils [#/volume] in Blood by Automated count 2.1 10*3/uL
+           - Lymphocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+           - Monocytes [#/volume] in Blood by Automated count 0.9 10*3/uL
+           - Eosinophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+           - Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-12 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.0 %
+           - MCV [Entitic volume] by Automated count  82.6 fL
+           - MCH [Entitic mass] by Automated count    32.0 pg
+           - MCHC [Mass/volume] by Automated count    32.9 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.4 %
+           - Platelets [#/volume] in Blood by Automated count 109.6 10*3/uL
+  2021-01-12 : SARS-CoV-2 RNA Pnl Resp NAA+probe
+           - SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-01-12 : Influenza virus A and B Ag panel - Nasopharynx by Rapid immunoassay
+           - Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+           - Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+  2019-09-03 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2019-09-03 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2017-12-05 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2017-12-05 : Lipid Panel
+           - Total Cholesterol                        164.1 mg/dL
+           - Triglycerides                            113.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      74.4 mg/dL
+           - High Density Lipoprotein Cholesterol     67.1 mg/dL
+  2017-08-29 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    3.0 {score}
+  2017-08-29 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.3 %
+           - MCV [Entitic volume] by Automated count  86.1 fL
+           - MCH [Entitic mass] by Automated count    27.2 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+           - Platelets [#/volume] in Blood by Automated count 428.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 341.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2014-11-11 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2014-11-11 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2014-11-11 : Lipid Panel
+           - Total Cholesterol                        165.8 mg/dL
+           - Triglycerides                            148.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      58.0 mg/dL
+           - High Density Lipoprotein Cholesterol     78.1 mg/dL
+  2011-11-08 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2011-11-08 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2011-11-08 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2011-11-08 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2011-11-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.0 %
+           - MCV [Entitic volume] by Automated count  94.4 fL
+           - MCH [Entitic mass] by Automated count    32.9 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+           - Platelets [#/volume] in Blood by Automated count 410.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 423.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2011-11-08 : Lipid Panel
+           - Total Cholesterol                        167.3 mg/dL
+           - Triglycerides                            137.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      77.4 mg/dL
+           - High Density Lipoprotein Cholesterol     62.3 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-02-09 : Cause of Death [US Standard Certificate of Death] COVID-19 
+  2021-01-27 : Procalcitonin [Mass/volume] in Serum or Plasma 0.0 ng/mL
+  2021-01-27 : INR in Platelet poor plasma by Coagulation assay 3.1 {INR}
+  2021-01-27 : Prothrombin time (PT)                    12.5 s
+  2021-01-27 : C reactive protein [Mass/volume] in Serum or Plasma 11.0 mg/L
+  2021-01-27 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 127.9 U/L
+  2021-01-27 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 371.5 U/L
+  2021-01-27 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 62.4 pg/mL
+  2021-01-27 : Ferritin [Mass/volume] in Serum or Plasma 1831.0 ug/L
+  2021-01-27 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 20.5 ug/mL
+  2021-01-27 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 90.9 %
+  2021-01-27 : Oxygen saturation in Arterial blood      77.7 %
+  2021-01-27 : Bicarbonate [Moles/volume] in Arterial blood 24.1 mmol/L
+  2021-01-27 : Oxygen [Partial pressure] in Arterial blood 37.4 mm[Hg]
+  2021-01-27 : Carbon dioxide [Partial pressure] in Arterial blood 40.6 mm[Hg]
+  2021-01-27 : pH of Arterial blood                     7.1 [pH]
+  2021-01-27 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 1.5 U/L
+  2021-01-27 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 37.4 U/L
+  2021-01-27 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 55.8 U/L
+  2021-01-27 : Bilirubin.total [Mass/volume] in Serum or Plasma 11.3 mg/dL
+  2021-01-27 : Albumin [Mass/volume] in Serum or Plasma 3.9 g/dL
+  2021-01-27 : Protein [Mass/volume] in Serum or Plasma 7.0 g/dL
+  2021-01-27 : Glomerular filtration rate/1.73 sq M.predicted 11.3 mL/min
+  2021-01-27 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.3 mmol/L
+  2021-01-27 : Chloride [Moles/volume] in Serum or Plasma 102.7 mmol/L
+  2021-01-27 : Potassium [Moles/volume] in Serum or Plasma 4.1 mmol/L
+  2021-01-27 : Sodium [Moles/volume] in Serum or Plasma 142.7 mmol/L
+  2021-01-27 : Calcium [Mass/volume] in Serum or Plasma 10.1 mg/dL
+  2021-01-27 : Creatinine [Mass/volume] in Serum or Plasma 3.0 mg/dL
+  2021-01-27 : Urea nitrogen [Mass/volume] in Serum or Plasma 11.1 mg/dL
+  2021-01-27 : Glucose [Mass/volume] in Serum or Plasma 66.9 mg/dL
+  2021-01-27 : Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-27 : Eosinophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-27 : Monocytes [#/volume] in Blood by Automated count 1.3 10*3/uL
+  2021-01-27 : Lymphocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+  2021-01-27 : Neutrophils [#/volume] in Blood by Automated count 3.4 10*3/uL
+  2021-01-27 : Basophils/100 leukocytes in Blood by Automated count 2.1 %
+  2021-01-27 : Eosinophils/100 leukocytes in Blood by Automated count 3.3 %
+  2021-01-27 : Monocytes/100 leukocytes in Blood by Automated count 6.4 %
+  2021-01-27 : Lymphocytes/100 leukocytes in Blood by Automated count 13.6 %
+  2021-01-27 : Neutrophils/100 leukocytes in Blood by Automated count 32.5 %
+  2021-01-27 : Platelets [#/volume] in Blood by Automated count 123.9 10*3/uL
+  2021-01-27 : Erythrocyte distribution width [Ratio] by Automated count 14.1 %
+  2021-01-27 : MCHC [Mass/volume] by Automated count    32.9 g/dL
+  2021-01-27 : MCH [Entitic mass] by Automated count    31.7 pg
+  2021-01-27 : MCV [Entitic volume] by Automated count  89.5 fL
+  2021-01-27 : Hematocrit [Volume Fraction] of Blood by Automated count 46.4 %
+  2021-01-27 : Hemoglobin [Mass/volume] in Blood        11.8 g/dL
+  2021-01-27 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2021-01-27 : Leukocytes [#/volume] in Blood by Automated count 3.3 10*3/uL
+  2021-01-27 : Body Weight                              76.6 kg
+  2021-01-27 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2021-01-27 : Oxygen saturation in Arterial blood      82.3 %
+  2021-01-27 : Heart rate                               83.3 /min
+  2021-01-27 : Respiratory rate                         22.9 /min
+  2021-01-27 : Body temperature                         38.2 Cel
+  2021-01-26 : Procalcitonin [Mass/volume] in Serum or Plasma 0.1 ng/mL
+  2021-01-26 : INR in Platelet poor plasma by Coagulation assay 3.1 {INR}
+  2021-01-26 : Prothrombin time (PT)                    13.6 s
+  2021-01-26 : C reactive protein [Mass/volume] in Serum or Plasma 9.0 mg/L
+  2021-01-26 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 196.3 U/L
+  2021-01-26 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 387.0 U/L
+  2021-01-26 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 55.6 pg/mL
+  2021-01-26 : Ferritin [Mass/volume] in Serum or Plasma 1806.0 ug/L
+  2021-01-26 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 20.1 ug/mL
+  2021-01-26 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 49.1 %
+  2021-01-26 : Oxygen saturation in Arterial blood      83.7 %
+  2021-01-26 : Bicarbonate [Moles/volume] in Arterial blood 25.7 mmol/L
+  2021-01-26 : Oxygen [Partial pressure] in Arterial blood 47.4 mm[Hg]
+  2021-01-26 : Carbon dioxide [Partial pressure] in Arterial blood 35.2 mm[Hg]
+  2021-01-26 : pH of Arterial blood                     7.1 [pH]
+  2021-01-26 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11.7 U/L
+  2021-01-26 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 43.0 U/L
+  2021-01-26 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 46.9 U/L
+  2021-01-26 : Bilirubin.total [Mass/volume] in Serum or Plasma 8.7 mg/dL
+  2021-01-26 : Albumin [Mass/volume] in Serum or Plasma 4.1 g/dL
+  2021-01-26 : Protein [Mass/volume] in Serum or Plasma 7.6 g/dL
+  2021-01-26 : Glomerular filtration rate/1.73 sq M.predicted 6.9 mL/min
+  2021-01-26 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.3 mmol/L
+  2021-01-26 : Chloride [Moles/volume] in Serum or Plasma 102.7 mmol/L
+  2021-01-26 : Potassium [Moles/volume] in Serum or Plasma 4.1 mmol/L
+  2021-01-26 : Sodium [Moles/volume] in Serum or Plasma 142.7 mmol/L
+  2021-01-26 : Calcium [Mass/volume] in Serum or Plasma 10.1 mg/dL
+  2021-01-26 : Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+  2021-01-26 : Urea nitrogen [Mass/volume] in Serum or Plasma 11.1 mg/dL
+  2021-01-26 : Glucose [Mass/volume] in Serum or Plasma 66.9 mg/dL
+  2021-01-26 : Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-26 : Eosinophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2021-01-26 : Monocytes [#/volume] in Blood by Automated count 1.3 10*3/uL
+  2021-01-26 : Lymphocytes [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2021-01-26 : Neutrophils [#/volume] in Blood by Automated count 2.9 10*3/uL
+  2021-01-26 : Basophils/100 leukocytes in Blood by Automated count 3.5 %
+  2021-01-26 : Eosinophils/100 leukocytes in Blood by Automated count 3.3 %
+  2021-01-26 : Monocytes/100 leukocytes in Blood by Automated count 7.8 %
+  2021-01-26 : Lymphocytes/100 leukocytes in Blood by Automated count 24.4 %
+  2021-01-26 : Neutrophils/100 leukocytes in Blood by Automated count 33.7 %
+  2021-01-26 : Platelets [#/volume] in Blood by Automated count 125.0 10*3/uL
+  2021-01-26 : Erythrocyte distribution width [Ratio] by Automated count 14.9 %
+  2021-01-26 : MCHC [Mass/volume] by Automated count    32.8 g/dL
+  2021-01-26 : MCH [Entitic mass] by Automated count    32.6 pg
+  2021-01-26 : MCV [Entitic volume] by Automated count  88.7 fL
+  2021-01-26 : Hematocrit [Volume Fraction] of Blood by Automated count 41.6 %
+  2021-01-26 : Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+  2021-01-26 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2021-01-26 : Leukocytes [#/volume] in Blood by Automated count 3.1 10*3/uL
+  2021-01-26 : Body Weight                              76.6 kg
+  2021-01-26 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2021-01-26 : Oxygen saturation in Arterial blood      88.6 %
+  2021-01-26 : Heart rate                               99.2 /min
+  2021-01-26 : Respiratory rate                         13.0 /min
+  2021-01-26 : Body temperature                         41.5 Cel
+  2021-01-25 : Procalcitonin [Mass/volume] in Serum or Plasma 0.2 ng/mL
+  2021-01-25 : INR in Platelet poor plasma by Coagulation assay 4.8 {INR}
+  2021-01-25 : Prothrombin time (PT)                    12.2 s
+  2021-01-25 : C reactive protein [Mass/volume] in Serum or Plasma 14.2 mg/L
+  2021-01-25 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 133.1 U/L
+  2021-01-25 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 400.8 U/L
+  2021-01-25 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 53.7 pg/mL
+  2021-01-25 : Ferritin [Mass/volume] in Serum or Plasma 1501.7 ug/L
+  2021-01-25 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 15.5 ug/mL
+  2021-01-25 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 70.2 %
+  2021-01-25 : Oxygen saturation in Arterial blood      82.1 %
+  2021-01-25 : Bicarbonate [Moles/volume] in Arterial blood 24.1 mmol/L
+  2021-01-25 : Oxygen [Partial pressure] in Arterial blood 42.4 mm[Hg]
+  2021-01-25 : Carbon dioxide [Partial pressure] in Arterial blood 39.7 mm[Hg]
+  2021-01-25 : pH of Arterial blood                     7.1 [pH]
+  2021-01-25 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.7 U/L
+  2021-01-25 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12.5 U/L
+  2021-01-25 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 53.3 U/L
+  2021-01-25 : Bilirubin.total [Mass/volume] in Serum or Plasma 13.0 mg/dL
+  2021-01-25 : Albumin [Mass/volume] in Serum or Plasma 4.5 g/dL
+  2021-01-25 : Protein [Mass/volume] in Serum or Plasma 5.8 g/dL
+  2021-01-25 : Glomerular filtration rate/1.73 sq M.predicted 11.6 mL/min
+  2021-01-25 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.6 mmol/L
+  2021-01-25 : Chloride [Moles/volume] in Serum or Plasma 108.0 mmol/L
+  2021-01-25 : Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+  2021-01-25 : Sodium [Moles/volume] in Serum or Plasma 139.2 mmol/L
+  2021-01-25 : Calcium [Mass/volume] in Serum or Plasma 9.1 mg/dL
+  2021-01-25 : Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+  2021-01-25 : Urea nitrogen [Mass/volume] in Serum or Plasma 10.2 mg/dL
+  2021-01-25 : Glucose [Mass/volume] in Serum or Plasma 71.6 mg/dL
+  2021-01-25 : Basophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2021-01-25 : Eosinophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-25 : Monocytes [#/volume] in Blood by Automated count 1.1 10*3/uL
+  2021-01-25 : Lymphocytes [#/volume] in Blood by Automated count 0.6 10*3/uL
+  2021-01-25 : Neutrophils [#/volume] in Blood by Automated count 3.4 10*3/uL
+  2021-01-25 : Basophils/100 leukocytes in Blood by Automated count 4.0 %
+  2021-01-25 : Eosinophils/100 leukocytes in Blood by Automated count 4.3 %
+  2021-01-25 : Monocytes/100 leukocytes in Blood by Automated count 13.4 %
+  2021-01-25 : Lymphocytes/100 leukocytes in Blood by Automated count 5.7 %
+  2021-01-25 : Neutrophils/100 leukocytes in Blood by Automated count 30.6 %
+  2021-01-25 : Platelets [#/volume] in Blood by Automated count 137.9 10*3/uL
+  2021-01-25 : Erythrocyte distribution width [Ratio] by Automated count 13.7 %
+  2021-01-25 : MCHC [Mass/volume] by Automated count    31.6 g/dL
+  2021-01-25 : MCH [Entitic mass] by Automated count    30.8 pg
+  2021-01-25 : MCV [Entitic volume] by Automated count  87.7 fL
+  2021-01-25 : Hematocrit [Volume Fraction] of Blood by Automated count 40.0 %
+  2021-01-25 : Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+  2021-01-25 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2021-01-25 : Leukocytes [#/volume] in Blood by Automated count 3.1 10*3/uL
+  2021-01-25 : Body Weight                              76.6 kg
+  2021-01-25 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2021-01-25 : Oxygen saturation in Arterial blood      88.7 %
+  2021-01-25 : Heart rate                               173.8 /min
+  2021-01-25 : Respiratory rate                         33.5 /min
+  2021-01-25 : Body temperature                         40.7 Cel
+  2021-01-24 : Procalcitonin [Mass/volume] in Serum or Plasma 0.4 ng/mL
+  2021-01-24 : INR in Platelet poor plasma by Coagulation assay 4.6 {INR}
+  2021-01-24 : Prothrombin time (PT)                    13.2 s
+  2021-01-24 : C reactive protein [Mass/volume] in Serum or Plasma 15.4 mg/L
+  2021-01-24 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 34.1 U/L
+  2021-01-24 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 409.4 U/L
+  2021-01-24 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 54.1 pg/mL
+  2021-01-24 : Ferritin [Mass/volume] in Serum or Plasma 1844.1 ug/L
+  2021-01-24 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 15.2 ug/mL
+  2021-01-24 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 84.2 %
+  2021-01-24 : Oxygen saturation in Arterial blood      78.1 %
+  2021-01-24 : Bicarbonate [Moles/volume] in Arterial blood 22.5 mmol/L
+  2021-01-24 : Oxygen [Partial pressure] in Arterial blood 56.1 mm[Hg]
+  2021-01-24 : Carbon dioxide [Partial pressure] in Arterial blood 42.8 mm[Hg]
+  2021-01-24 : pH of Arterial blood                     7.1 [pH]
+  2021-01-24 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.8 U/L
+  2021-01-24 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 4.4 U/L
+  2021-01-24 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 91.3 U/L
+  2021-01-24 : Bilirubin.total [Mass/volume] in Serum or Plasma 10.4 mg/dL
+  2021-01-24 : Albumin [Mass/volume] in Serum or Plasma 4.3 g/dL
+  2021-01-24 : Protein [Mass/volume] in Serum or Plasma 8.0 g/dL
+  2021-01-24 : Glomerular filtration rate/1.73 sq M.predicted 5.2 mL/min
+  2021-01-24 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.6 mmol/L
+  2021-01-24 : Chloride [Moles/volume] in Serum or Plasma 108.0 mmol/L
+  2021-01-24 : Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+  2021-01-24 : Sodium [Moles/volume] in Serum or Plasma 139.2 mmol/L
+  2021-01-24 : Calcium [Mass/volume] in Serum or Plasma 9.1 mg/dL
+  2021-01-24 : Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+  2021-01-24 : Urea nitrogen [Mass/volume] in Serum or Plasma 10.2 mg/dL
+  2021-01-24 : Glucose [Mass/volume] in Serum or Plasma 71.6 mg/dL
+  2021-01-24 : Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-24 : Eosinophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-24 : Monocytes [#/volume] in Blood by Automated count 1.2 10*3/uL
+  2021-01-24 : Lymphocytes [#/volume] in Blood by Automated count 0.6 10*3/uL
+  2021-01-24 : Neutrophils [#/volume] in Blood by Automated count 3.8 10*3/uL
+  2021-01-24 : Basophils/100 leukocytes in Blood by Automated count 2.9 %
+  2021-01-24 : Eosinophils/100 leukocytes in Blood by Automated count 4.2 %
+  2021-01-24 : Monocytes/100 leukocytes in Blood by Automated count 5.5 %
+  2021-01-24 : Lymphocytes/100 leukocytes in Blood by Automated count 24.7 %
+  2021-01-24 : Neutrophils/100 leukocytes in Blood by Automated count 34.1 %
+  2021-01-24 : Platelets [#/volume] in Blood by Automated count 142.3 10*3/uL
+  2021-01-24 : Erythrocyte distribution width [Ratio] by Automated count 15.0 %
+  2021-01-24 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2021-01-24 : MCH [Entitic mass] by Automated count    30.0 pg
+  2021-01-24 : MCV [Entitic volume] by Automated count  90.7 fL
+  2021-01-24 : Hematocrit [Volume Fraction] of Blood by Automated count 42.3 %
+  2021-01-24 : Hemoglobin [Mass/volume] in Blood        12.8 g/dL
+  2021-01-24 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2021-01-24 : Leukocytes [#/volume] in Blood by Automated count 3.5 10*3/uL
+  2021-01-24 : Body Weight                              76.6 kg
+  2021-01-24 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2021-01-24 : Oxygen saturation in Arterial blood      83.8 %
+  2021-01-24 : Heart rate                               55.8 /min
+  2021-01-24 : Respiratory rate                         15.1 /min
+  2021-01-24 : Body temperature                         38.8 Cel
+  2021-01-23 : Procalcitonin [Mass/volume] in Serum or Plasma 0.2 ng/mL
+  2021-01-23 : INR in Platelet poor plasma by Coagulation assay 4.5 {INR}
+  2021-01-23 : Prothrombin time (PT)                    13.0 s
+  2021-01-23 : C reactive protein [Mass/volume] in Serum or Plasma 8.1 mg/L
+  2021-01-23 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 139.4 U/L
+  2021-01-23 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 394.6 U/L
+  2021-01-23 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 58.2 pg/mL
+  2021-01-23 : Ferritin [Mass/volume] in Serum or Plasma 1516.6 ug/L
+  2021-01-23 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 15.6 ug/mL
+  2021-01-23 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 68.8 %
+  2021-01-23 : Oxygen saturation in Arterial blood      77.4 %
+  2021-01-23 : Bicarbonate [Moles/volume] in Arterial blood 25.6 mmol/L
+  2021-01-23 : Oxygen [Partial pressure] in Arterial blood 38.4 mm[Hg]
+  2021-01-23 : Carbon dioxide [Partial pressure] in Arterial blood 40.7 mm[Hg]
+  2021-01-23 : pH of Arterial blood                     6.9 [pH]
+  2021-01-23 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.8 U/L
+  2021-01-23 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 40.0 U/L
+  2021-01-23 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 43.9 U/L
+  2021-01-23 : Bilirubin.total [Mass/volume] in Serum or Plasma 8.8 mg/dL
+  2021-01-23 : Albumin [Mass/volume] in Serum or Plasma 4.9 g/dL
+  2021-01-23 : Protein [Mass/volume] in Serum or Plasma 7.9 g/dL
+  2021-01-23 : Glomerular filtration rate/1.73 sq M.predicted 8.1 mL/min
+  2021-01-23 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.6 mmol/L
+  2021-01-23 : Chloride [Moles/volume] in Serum or Plasma 108.0 mmol/L
+  2021-01-23 : Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+  2021-01-23 : Sodium [Moles/volume] in Serum or Plasma 139.2 mmol/L
+  2021-01-23 : Calcium [Mass/volume] in Serum or Plasma 9.1 mg/dL
+  2021-01-23 : Creatinine [Mass/volume] in Serum or Plasma 2.8 mg/dL
+  2021-01-23 : Urea nitrogen [Mass/volume] in Serum or Plasma 10.2 mg/dL
+  2021-01-23 : Glucose [Mass/volume] in Serum or Plasma 71.6 mg/dL
+  2021-01-23 : Basophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2021-01-23 : Eosinophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-23 : Monocytes [#/volume] in Blood by Automated count 1.0 10*3/uL
+  2021-01-23 : Lymphocytes [#/volume] in Blood by Automated count 0.6 10*3/uL
+  2021-01-23 : Neutrophils [#/volume] in Blood by Automated count 2.8 10*3/uL
+  2021-01-23 : Basophils/100 leukocytes in Blood by Automated count 3.7 %
+  2021-01-23 : Eosinophils/100 leukocytes in Blood by Automated count 5.6 %
+  2021-01-23 : Monocytes/100 leukocytes in Blood by Automated count 5.9 %
+  2021-01-23 : Lymphocytes/100 leukocytes in Blood by Automated count 12.7 %
+  2021-01-23 : Neutrophils/100 leukocytes in Blood by Automated count 42.4 %
+  2021-01-23 : Platelets [#/volume] in Blood by Automated count 118.6 10*3/uL
+  2021-01-23 : Erythrocyte distribution width [Ratio] by Automated count 14.2 %
+  2021-01-23 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2021-01-23 : MCH [Entitic mass] by Automated count    27.4 pg
+  2021-01-23 : MCV [Entitic volume] by Automated count  79.8 fL
+  2021-01-23 : Hematocrit [Volume Fraction] of Blood by Automated count 39.7 %
+  2021-01-23 : Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+  2021-01-23 : Erythrocytes [#/volume] in Blood by Automated count 5.7 10*6/uL
+  2021-01-23 : Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+  2021-01-23 : Body Weight                              76.6 kg
+  2021-01-23 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2021-01-23 : Oxygen saturation in Arterial blood      88.6 %
+  2021-01-23 : Heart rate                               119.2 /min
+  2021-01-23 : Respiratory rate                         33.9 /min
+  2021-01-23 : Body temperature                         38.2 Cel
+  2021-01-22 : Procalcitonin [Mass/volume] in Serum or Plasma 0.3 ng/mL
+  2021-01-22 : INR in Platelet poor plasma by Coagulation assay 3.7 {INR}
+  2021-01-22 : Prothrombin time (PT)                    12.8 s
+  2021-01-22 : C reactive protein [Mass/volume] in Serum or Plasma 13.3 mg/L
+  2021-01-22 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 74.8 U/L
+  2021-01-22 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 385.7 U/L
+  2021-01-22 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 21.1 pg/mL
+  2021-01-22 : Ferritin [Mass/volume] in Serum or Plasma 1554.5 ug/L
+  2021-01-22 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 15.4 ug/mL
+  2021-01-22 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 86.7 %
+  2021-01-22 : Oxygen saturation in Arterial blood      77.2 %
+  2021-01-22 : Bicarbonate [Moles/volume] in Arterial blood 26.2 mmol/L
+  2021-01-22 : Oxygen [Partial pressure] in Arterial blood 51.3 mm[Hg]
+  2021-01-22 : Carbon dioxide [Partial pressure] in Arterial blood 39.6 mm[Hg]
+  2021-01-22 : pH of Arterial blood                     7.0 [pH]
+  2021-01-22 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 25.8 U/L
+  2021-01-22 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 7.4 U/L
+  2021-01-22 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 96.0 U/L
+  2021-01-22 : Bilirubin.total [Mass/volume] in Serum or Plasma 9.9 mg/dL
+  2021-01-22 : Albumin [Mass/volume] in Serum or Plasma 4.7 g/dL
+  2021-01-22 : Protein [Mass/volume] in Serum or Plasma 8.0 g/dL
+  2021-01-22 : Glomerular filtration rate/1.73 sq M.predicted 10.3 mL/min
+  2021-01-22 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.6 mmol/L
+  2021-01-22 : Chloride [Moles/volume] in Serum or Plasma 108.0 mmol/L
+  2021-01-22 : Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+  2021-01-22 : Sodium [Moles/volume] in Serum or Plasma 139.2 mmol/L
+  2021-01-22 : Calcium [Mass/volume] in Serum or Plasma 9.1 mg/dL
+  2021-01-22 : Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+  2021-01-22 : Urea nitrogen [Mass/volume] in Serum or Plasma 10.2 mg/dL
+  2021-01-22 : Glucose [Mass/volume] in Serum or Plasma 71.6 mg/dL
+  2021-01-22 : Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-22 : Eosinophils [#/volume] in Blood by Automated count 0.6 10*3/uL
+  2021-01-22 : Monocytes [#/volume] in Blood by Automated count 0.8 10*3/uL
+  2021-01-22 : Lymphocytes [#/volume] in Blood by Automated count 0.6 10*3/uL
+  2021-01-22 : Neutrophils [#/volume] in Blood by Automated count 3.4 10*3/uL
+  2021-01-22 : Basophils/100 leukocytes in Blood by Automated count 2.0 %
+  2021-01-22 : Eosinophils/100 leukocytes in Blood by Automated count 4.0 %
+  2021-01-22 : Monocytes/100 leukocytes in Blood by Automated count 12.4 %
+  2021-01-22 : Lymphocytes/100 leukocytes in Blood by Automated count 10.0 %
+  2021-01-22 : Neutrophils/100 leukocytes in Blood by Automated count 29.4 %
+  2021-01-22 : Platelets [#/volume] in Blood by Automated count 105.1 10*3/uL
+  2021-01-22 : Erythrocyte distribution width [Ratio] by Automated count 13.1 %
+  2021-01-22 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  2021-01-22 : MCH [Entitic mass] by Automated count    31.3 pg
+  2021-01-22 : MCV [Entitic volume] by Automated count  84.9 fL
+  2021-01-22 : Hematocrit [Volume Fraction] of Blood by Automated count 44.1 %
+  2021-01-22 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2021-01-22 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2021-01-22 : Leukocytes [#/volume] in Blood by Automated count 3.3 10*3/uL
+  2021-01-22 : Body Weight                              76.6 kg
+  2021-01-22 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2021-01-22 : Oxygen saturation in Arterial blood      76.2 %
+  2021-01-22 : Heart rate                               62.5 /min
+  2021-01-22 : Respiratory rate                         27.3 /min
+  2021-01-22 : Body temperature                         38.3 Cel
+  2021-01-21 : Procalcitonin [Mass/volume] in Serum or Plasma 0.4 ng/mL
+  2021-01-21 : INR in Platelet poor plasma by Coagulation assay 3.7 {INR}
+  2021-01-21 : Prothrombin time (PT)                    12.5 s
+  2021-01-21 : C reactive protein [Mass/volume] in Serum or Plasma 9.1 mg/L
+  2021-01-21 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 27.6 U/L
+  2021-01-21 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 389.0 U/L
+  2021-01-21 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 23.1 pg/mL
+  2021-01-21 : Ferritin [Mass/volume] in Serum or Plasma 1574.2 ug/L
+  2021-01-21 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 13.0 ug/mL
+  2021-01-21 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 32.5 %
+  2021-01-21 : Oxygen saturation in Arterial blood      79.8 %
+  2021-01-21 : Bicarbonate [Moles/volume] in Arterial blood 26.2 mmol/L
+  2021-01-21 : Oxygen [Partial pressure] in Arterial blood 51.6 mm[Hg]
+  2021-01-21 : Carbon dioxide [Partial pressure] in Arterial blood 42.6 mm[Hg]
+  2021-01-21 : pH of Arterial blood                     6.8 [pH]
+  2021-01-21 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 32.3 U/L
+  2021-01-21 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 5.8 U/L
+  2021-01-21 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 98.5 U/L
+  2021-01-21 : Bilirubin.total [Mass/volume] in Serum or Plasma 10.8 mg/dL
+  2021-01-21 : Albumin [Mass/volume] in Serum or Plasma 5.1 g/dL
+  2021-01-21 : Protein [Mass/volume] in Serum or Plasma 7.6 g/dL
+  2021-01-21 : Glomerular filtration rate/1.73 sq M.predicted 6.4 mL/min
+  2021-01-21 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.6 mmol/L
+  2021-01-21 : Chloride [Moles/volume] in Serum or Plasma 108.0 mmol/L
+  2021-01-21 : Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+  2021-01-21 : Sodium [Moles/volume] in Serum or Plasma 139.2 mmol/L
+  2021-01-21 : Calcium [Mass/volume] in Serum or Plasma 9.1 mg/dL
+  2021-01-21 : Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+  2021-01-21 : Urea nitrogen [Mass/volume] in Serum or Plasma 10.2 mg/dL
+  2021-01-21 : Glucose [Mass/volume] in Serum or Plasma 71.6 mg/dL
+  2021-01-21 : Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-21 : Eosinophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-21 : Monocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+  2021-01-21 : Lymphocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+  2021-01-21 : Neutrophils [#/volume] in Blood by Automated count 2.8 10*3/uL
+  2021-01-21 : Basophils/100 leukocytes in Blood by Automated count 3.9 %
+  2021-01-21 : Eosinophils/100 leukocytes in Blood by Automated count 4.3 %
+  2021-01-21 : Monocytes/100 leukocytes in Blood by Automated count 11.4 %
+  2021-01-21 : Lymphocytes/100 leukocytes in Blood by Automated count 10.3 %
+  2021-01-21 : Neutrophils/100 leukocytes in Blood by Automated count 33.0 %
+  2021-01-21 : Platelets [#/volume] in Blood by Automated count 124.7 10*3/uL
+  2021-01-21 : Erythrocyte distribution width [Ratio] by Automated count 14.2 %
+  2021-01-21 : MCHC [Mass/volume] by Automated count    32.4 g/dL
+  2021-01-21 : MCH [Entitic mass] by Automated count    32.7 pg
+  2021-01-21 : MCV [Entitic volume] by Automated count  84.2 fL
+  2021-01-21 : Hematocrit [Volume Fraction] of Blood by Automated count 42.2 %
+  2021-01-21 : Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+  2021-01-21 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  2021-01-21 : Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+  2021-01-21 : Body Weight                              76.6 kg
+  2021-01-21 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2021-01-21 : Oxygen saturation in Arterial blood      79.0 %
+  2021-01-21 : Heart rate                               156.9 /min
+  2021-01-21 : Respiratory rate                         39.0 /min
+  2021-01-21 : Body temperature                         40.8 Cel
+  2021-01-20 : Procalcitonin [Mass/volume] in Serum or Plasma 0.4 ng/mL
+  2021-01-20 : INR in Platelet poor plasma by Coagulation assay 4.1 {INR}
+  2021-01-20 : Prothrombin time (PT)                    11.2 s
+  2021-01-20 : C reactive protein [Mass/volume] in Serum or Plasma 14.1 mg/L
+  2021-01-20 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 97.4 U/L
+  2021-01-20 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 385.2 U/L
+  2021-01-20 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 23.8 pg/mL
+  2021-01-20 : Ferritin [Mass/volume] in Serum or Plasma 1414.6 ug/L
+  2021-01-20 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 13.1 ug/mL
+  2021-01-20 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 82.0 %
+  2021-01-20 : Oxygen saturation in Arterial blood      85.5 %
+  2021-01-20 : Bicarbonate [Moles/volume] in Arterial blood 26.8 mmol/L
+  2021-01-20 : Oxygen [Partial pressure] in Arterial blood 52.7 mm[Hg]
+  2021-01-20 : Carbon dioxide [Partial pressure] in Arterial blood 43.7 mm[Hg]
+  2021-01-20 : pH of Arterial blood                     6.8 [pH]
+  2021-01-20 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 32.8 U/L
+  2021-01-20 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 11.0 U/L
+  2021-01-20 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 63.9 U/L
+  2021-01-20 : Bilirubin.total [Mass/volume] in Serum or Plasma 12.3 mg/dL
+  2021-01-20 : Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+  2021-01-20 : Protein [Mass/volume] in Serum or Plasma 6.1 g/dL
+  2021-01-20 : Glomerular filtration rate/1.73 sq M.predicted 5.4 mL/min
+  2021-01-20 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.6 mmol/L
+  2021-01-20 : Chloride [Moles/volume] in Serum or Plasma 108.0 mmol/L
+  2021-01-20 : Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+  2021-01-20 : Sodium [Moles/volume] in Serum or Plasma 139.2 mmol/L
+  2021-01-20 : Calcium [Mass/volume] in Serum or Plasma 9.1 mg/dL
+  2021-01-20 : Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+  2021-01-20 : Urea nitrogen [Mass/volume] in Serum or Plasma 10.2 mg/dL
+  2021-01-20 : Glucose [Mass/volume] in Serum or Plasma 71.6 mg/dL
+  2021-01-20 : Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-20 : Eosinophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-20 : Monocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+  2021-01-20 : Lymphocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+  2021-01-20 : Neutrophils [#/volume] in Blood by Automated count 2.4 10*3/uL
+  2021-01-20 : Basophils/100 leukocytes in Blood by Automated count 3.8 %
+  2021-01-20 : Eosinophils/100 leukocytes in Blood by Automated count 3.3 %
+  2021-01-20 : Monocytes/100 leukocytes in Blood by Automated count 13.9 %
+  2021-01-20 : Lymphocytes/100 leukocytes in Blood by Automated count 14.2 %
+  2021-01-20 : Neutrophils/100 leukocytes in Blood by Automated count 36.9 %
+  2021-01-20 : Platelets [#/volume] in Blood by Automated count 132.8 10*3/uL
+  2021-01-20 : Erythrocyte distribution width [Ratio] by Automated count 13.2 %
+  2021-01-20 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2021-01-20 : MCH [Entitic mass] by Automated count    28.5 pg
+  2021-01-20 : MCV [Entitic volume] by Automated count  80.6 fL
+  2021-01-20 : Hematocrit [Volume Fraction] of Blood by Automated count 44.1 %
+  2021-01-20 : Hemoglobin [Mass/volume] in Blood        11.7 g/dL
+  2021-01-20 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2021-01-20 : Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+  2021-01-20 : Body Weight                              76.6 kg
+  2021-01-20 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2021-01-20 : Oxygen saturation in Arterial blood      76.6 %
+  2021-01-20 : Heart rate                               123.1 /min
+  2021-01-20 : Respiratory rate                         31.3 /min
+  2021-01-20 : Body temperature                         41.2 Cel
+  2021-01-19 : Procalcitonin [Mass/volume] in Serum or Plasma 0.1 ng/mL
+  2021-01-19 : INR in Platelet poor plasma by Coagulation assay 3.7 {INR}
+  2021-01-19 : Prothrombin time (PT)                    12.1 s
+  2021-01-19 : C reactive protein [Mass/volume] in Serum or Plasma 15.2 mg/L
+  2021-01-19 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 95.6 U/L
+  2021-01-19 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 316.7 U/L
+  2021-01-19 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 25.7 pg/mL
+  2021-01-19 : Ferritin [Mass/volume] in Serum or Plasma 1494.5 ug/L
+  2021-01-19 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 2.8 ug/mL
+  2021-01-19 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 49.2 %
+  2021-01-19 : Oxygen saturation in Arterial blood      87.9 %
+  2021-01-19 : Bicarbonate [Moles/volume] in Arterial blood 26.0 mmol/L
+  2021-01-19 : Oxygen [Partial pressure] in Arterial blood 48.3 mm[Hg]
+  2021-01-19 : Carbon dioxide [Partial pressure] in Arterial blood 35.9 mm[Hg]
+  2021-01-19 : pH of Arterial blood                     7.1 [pH]
+  2021-01-19 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 3.2 U/L
+  2021-01-19 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 2.3 U/L
+  2021-01-19 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 45.0 U/L
+  2021-01-19 : Bilirubin.total [Mass/volume] in Serum or Plasma 7.9 mg/dL
+  2021-01-19 : Albumin [Mass/volume] in Serum or Plasma 3.7 g/dL
+  2021-01-19 : Protein [Mass/volume] in Serum or Plasma 5.8 g/dL
+  2021-01-19 : Glomerular filtration rate/1.73 sq M.predicted 11.8 mL/min
+  2021-01-19 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 20.6 mmol/L
+  2021-01-19 : Chloride [Moles/volume] in Serum or Plasma 108.0 mmol/L
+  2021-01-19 : Potassium [Moles/volume] in Serum or Plasma 4.8 mmol/L
+  2021-01-19 : Sodium [Moles/volume] in Serum or Plasma 139.2 mmol/L
+  2021-01-19 : Calcium [Mass/volume] in Serum or Plasma 9.1 mg/dL
+  2021-01-19 : Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+  2021-01-19 : Urea nitrogen [Mass/volume] in Serum or Plasma 10.2 mg/dL
+  2021-01-19 : Glucose [Mass/volume] in Serum or Plasma 71.6 mg/dL
+  2021-01-19 : Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-19 : Eosinophils [#/volume] in Blood by Automated count 0.6 10*3/uL
+  2021-01-19 : Monocytes [#/volume] in Blood by Automated count 1.3 10*3/uL
+  2021-01-19 : Lymphocytes [#/volume] in Blood by Automated count 0.7 10*3/uL
+  2021-01-19 : Neutrophils [#/volume] in Blood by Automated count 2.2 10*3/uL
+  2021-01-19 : Basophils/100 leukocytes in Blood by Automated count 3.5 %
+  2021-01-19 : Eosinophils/100 leukocytes in Blood by Automated count 5.6 %
+  2021-01-19 : Monocytes/100 leukocytes in Blood by Automated count 9.8 %
+  2021-01-19 : Lymphocytes/100 leukocytes in Blood by Automated count 9.1 %
+  2021-01-19 : Neutrophils/100 leukocytes in Blood by Automated count 34.2 %
+  2021-01-19 : Platelets [#/volume] in Blood by Automated count 144.5 10*3/uL
+  2021-01-19 : Erythrocyte distribution width [Ratio] by Automated count 13.3 %
+  2021-01-19 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2021-01-19 : MCH [Entitic mass] by Automated count    32.5 pg
+  2021-01-19 : MCV [Entitic volume] by Automated count  94.2 fL
+  2021-01-19 : Hematocrit [Volume Fraction] of Blood by Automated count 44.3 %
+  2021-01-19 : Hemoglobin [Mass/volume] in Blood        11.2 g/dL
+  2021-01-19 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2021-01-19 : Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+  2021-01-19 : Body Weight                              76.6 kg
+  2021-01-19 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2021-01-19 : Oxygen saturation in Arterial blood      87.0 %
+  2021-01-19 : Heart rate                               180.9 /min
+  2021-01-19 : Respiratory rate                         16.7 /min
+  2021-01-19 : Body temperature                         40.6 Cel
+  2021-01-18 : Procalcitonin [Mass/volume] in Serum or Plasma 0.2 ng/mL
+  2021-01-18 : INR in Platelet poor plasma by Coagulation assay 3.9 {INR}
+  2021-01-18 : Prothrombin time (PT)                    12.9 s
+  2021-01-18 : C reactive protein [Mass/volume] in Serum or Plasma 14.5 mg/L
+  2021-01-18 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 191.6 U/L
+  2021-01-18 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 321.0 U/L
+  2021-01-18 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 22.0 pg/mL
+  2021-01-18 : Ferritin [Mass/volume] in Serum or Plasma 1664.1 ug/L
+  2021-01-18 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 2.7 ug/mL
+  2021-01-18 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 47.1 %
+  2021-01-18 : Oxygen saturation in Arterial blood      86.7 %
+  2021-01-18 : Bicarbonate [Moles/volume] in Arterial blood 24.1 mmol/L
+  2021-01-18 : Oxygen [Partial pressure] in Arterial blood 48.0 mm[Hg]
+  2021-01-18 : Carbon dioxide [Partial pressure] in Arterial blood 36.3 mm[Hg]
+  2021-01-18 : pH of Arterial blood                     6.8 [pH]
+  2021-01-18 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 32.4 U/L
+  2021-01-18 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.1 U/L
+  2021-01-18 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 113.8 U/L
+  2021-01-18 : Bilirubin.total [Mass/volume] in Serum or Plasma 9.5 mg/dL
+  2021-01-18 : Albumin [Mass/volume] in Serum or Plasma 4.5 g/dL
+  2021-01-18 : Protein [Mass/volume] in Serum or Plasma 7.0 g/dL
+  2021-01-18 : Glomerular filtration rate/1.73 sq M.predicted 5.1 mL/min
+  2021-01-18 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+  2021-01-18 : Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+  2021-01-18 : Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+  2021-01-18 : Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+  2021-01-18 : Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2021-01-18 : Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+  2021-01-18 : Urea nitrogen [Mass/volume] in Serum or Plasma 17.8 mg/dL
+  2021-01-18 : Glucose [Mass/volume] in Serum or Plasma 90.0 mg/dL
+  2021-01-18 : Basophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2021-01-18 : Eosinophils [#/volume] in Blood by Automated count 0.5 10*3/uL
+  2021-01-18 : Monocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+  2021-01-18 : Lymphocytes [#/volume] in Blood by Automated count 0.7 10*3/uL
+  2021-01-18 : Neutrophils [#/volume] in Blood by Automated count 2.4 10*3/uL
+  2021-01-18 : Basophils/100 leukocytes in Blood by Automated count 3.9 %
+  2021-01-18 : Eosinophils/100 leukocytes in Blood by Automated count 5.5 %
+  2021-01-18 : Monocytes/100 leukocytes in Blood by Automated count 12.5 %
+  2021-01-18 : Lymphocytes/100 leukocytes in Blood by Automated count 24.1 %
+  2021-01-18 : Neutrophils/100 leukocytes in Blood by Automated count 21.9 %
+  2021-01-18 : Platelets [#/volume] in Blood by Automated count 139.3 10*3/uL
+  2021-01-18 : Erythrocyte distribution width [Ratio] by Automated count 13.0 %
+  2021-01-18 : MCHC [Mass/volume] by Automated count    32.3 g/dL
+  2021-01-18 : MCH [Entitic mass] by Automated count    32.5 pg
+  2021-01-18 : MCV [Entitic volume] by Automated count  84.9 fL
+  2021-01-18 : Hematocrit [Volume Fraction] of Blood by Automated count 42.0 %
+  2021-01-18 : Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+  2021-01-18 : Erythrocytes [#/volume] in Blood by Automated count 5.7 10*6/uL
+  2021-01-18 : Leukocytes [#/volume] in Blood by Automated count 3.8 10*3/uL
+  2021-01-18 : Body Weight                              76.6 kg
+  2021-01-18 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2021-01-18 : Oxygen saturation in Arterial blood      82.8 %
+  2021-01-18 : Heart rate                               146.1 /min
+  2021-01-18 : Respiratory rate                         19.2 /min
+  2021-01-18 : Body temperature                         40.5 Cel
+  2021-01-17 : Procalcitonin [Mass/volume] in Serum or Plasma 0.3 ng/mL
+  2021-01-17 : INR in Platelet poor plasma by Coagulation assay 3.3 {INR}
+  2021-01-17 : Prothrombin time (PT)                    13.5 s
+  2021-01-17 : C reactive protein [Mass/volume] in Serum or Plasma 9.4 mg/L
+  2021-01-17 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 52.4 U/L
+  2021-01-17 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 325.1 U/L
+  2021-01-17 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 24.9 pg/mL
+  2021-01-17 : Ferritin [Mass/volume] in Serum or Plasma 1569.2 ug/L
+  2021-01-17 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 2.5 ug/mL
+  2021-01-17 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 90.2 %
+  2021-01-17 : Oxygen saturation in Arterial blood      86.0 %
+  2021-01-17 : Bicarbonate [Moles/volume] in Arterial blood 24.9 mmol/L
+  2021-01-17 : Oxygen [Partial pressure] in Arterial blood 42.0 mm[Hg]
+  2021-01-17 : Carbon dioxide [Partial pressure] in Arterial blood 44.8 mm[Hg]
+  2021-01-17 : pH of Arterial blood                     7.2 [pH]
+  2021-01-17 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 26.1 U/L
+  2021-01-17 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 36.3 U/L
+  2021-01-17 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 52.5 U/L
+  2021-01-17 : Bilirubin.total [Mass/volume] in Serum or Plasma 12.8 mg/dL
+  2021-01-17 : Albumin [Mass/volume] in Serum or Plasma 4.4 g/dL
+  2021-01-17 : Protein [Mass/volume] in Serum or Plasma 7.7 g/dL
+  2021-01-17 : Glomerular filtration rate/1.73 sq M.predicted 5.1 mL/min
+  2021-01-17 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+  2021-01-17 : Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+  2021-01-17 : Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+  2021-01-17 : Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+  2021-01-17 : Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2021-01-17 : Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+  2021-01-17 : Urea nitrogen [Mass/volume] in Serum or Plasma 17.8 mg/dL
+  2021-01-17 : Glucose [Mass/volume] in Serum or Plasma 90.0 mg/dL
+  2021-01-17 : Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-17 : Eosinophils [#/volume] in Blood by Automated count 0.6 10*3/uL
+  2021-01-17 : Monocytes [#/volume] in Blood by Automated count 1.1 10*3/uL
+  2021-01-17 : Lymphocytes [#/volume] in Blood by Automated count 0.8 10*3/uL
+  2021-01-17 : Neutrophils [#/volume] in Blood by Automated count 3.7 10*3/uL
+  2021-01-17 : Basophils/100 leukocytes in Blood by Automated count 3.5 %
+  2021-01-17 : Eosinophils/100 leukocytes in Blood by Automated count 3.1 %
+  2021-01-17 : Monocytes/100 leukocytes in Blood by Automated count 8.7 %
+  2021-01-17 : Lymphocytes/100 leukocytes in Blood by Automated count 12.1 %
+  2021-01-17 : Neutrophils/100 leukocytes in Blood by Automated count 30.5 %
+  2021-01-17 : Platelets [#/volume] in Blood by Automated count 118.1 10*3/uL
+  2021-01-17 : Erythrocyte distribution width [Ratio] by Automated count 14.3 %
+  2021-01-17 : MCHC [Mass/volume] by Automated count    31.6 g/dL
+  2021-01-17 : MCH [Entitic mass] by Automated count    27.2 pg
+  2021-01-17 : MCV [Entitic volume] by Automated count  92.6 fL
+  2021-01-17 : Hematocrit [Volume Fraction] of Blood by Automated count 39.9 %
+  2021-01-17 : Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+  2021-01-17 : Erythrocytes [#/volume] in Blood by Automated count 5.7 10*6/uL
+  2021-01-17 : Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+  2021-01-17 : Body Weight                              76.6 kg
+  2021-01-17 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2021-01-17 : Oxygen saturation in Arterial blood      86.1 %
+  2021-01-17 : Heart rate                               69.1 /min
+  2021-01-17 : Respiratory rate                         31.4 /min
+  2021-01-17 : Body temperature                         42.2 Cel
+  2021-01-17 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 52.5 %
+  2021-01-17 : Oxygen saturation in Arterial blood      78.0 %
+  2021-01-17 : Bicarbonate [Moles/volume] in Arterial blood 26.4 mmol/L
+  2021-01-17 : Oxygen [Partial pressure] in Arterial blood 41.8 mm[Hg]
+  2021-01-17 : Carbon dioxide [Partial pressure] in Arterial blood 45.0 mm[Hg]
+  2021-01-17 : pH of Arterial blood                     7.1 [pH]
+  2021-01-17 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 19.6 U/L
+  2021-01-17 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 3.0 U/L
+  2021-01-17 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 49.7 U/L
+  2021-01-17 : Bilirubin.total [Mass/volume] in Serum or Plasma 13.6 mg/dL
+  2021-01-17 : Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+  2021-01-17 : Protein [Mass/volume] in Serum or Plasma 5.8 g/dL
+  2021-01-17 : Glomerular filtration rate/1.73 sq M.predicted 9.2 mL/min
+  2021-01-17 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+  2021-01-17 : Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+  2021-01-17 : Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+  2021-01-17 : Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+  2021-01-17 : Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2021-01-17 : Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+  2021-01-17 : Urea nitrogen [Mass/volume] in Serum or Plasma 17.8 mg/dL
+  2021-01-17 : Glucose [Mass/volume] in Serum or Plasma 90.0 mg/dL
+  2021-01-17 : Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-17 : Eosinophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2021-01-17 : Monocytes [#/volume] in Blood by Automated count 1.4 10*3/uL
+  2021-01-17 : Lymphocytes [#/volume] in Blood by Automated count 0.7 10*3/uL
+  2021-01-17 : Neutrophils [#/volume] in Blood by Automated count 2.3 10*3/uL
+  2021-01-17 : Basophils/100 leukocytes in Blood by Automated count 3.1 %
+  2021-01-17 : Eosinophils/100 leukocytes in Blood by Automated count 5.5 %
+  2021-01-17 : Monocytes/100 leukocytes in Blood by Automated count 11.9 %
+  2021-01-17 : Lymphocytes/100 leukocytes in Blood by Automated count 14.4 %
+  2021-01-17 : Neutrophils/100 leukocytes in Blood by Automated count 43.5 %
+  2021-01-17 : Platelets [#/volume] in Blood by Automated count 131.1 10*3/uL
+  2021-01-17 : Erythrocyte distribution width [Ratio] by Automated count 14.7 %
+  2021-01-17 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2021-01-17 : MCH [Entitic mass] by Automated count    32.4 pg
+  2021-01-17 : MCV [Entitic volume] by Automated count  86.8 fL
+  2021-01-17 : Hematocrit [Volume Fraction] of Blood by Automated count 42.7 %
+  2021-01-17 : Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+  2021-01-17 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2021-01-17 : Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+  2021-01-17 : Body Weight                              76.6 kg
+  2021-01-17 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2021-01-17 : Oxygen saturation in Arterial blood      84.3 %
+  2021-01-17 : Heart rate                               176.3 /min
+  2021-01-17 : Respiratory rate                         12.3 /min
+  2021-01-17 : Body temperature                         38.2 Cel
+  2021-01-16 : Procalcitonin [Mass/volume] in Serum or Plasma 0.1 ng/mL
+  2021-01-16 : INR in Platelet poor plasma by Coagulation assay 3.4 {INR}
+  2021-01-16 : Prothrombin time (PT)                    13.2 s
+  2021-01-16 : C reactive protein [Mass/volume] in Serum or Plasma 11.8 mg/L
+  2021-01-16 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 83.3 U/L
+  2021-01-16 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 321.8 U/L
+  2021-01-16 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 8.8 pg/mL
+  2021-01-16 : Ferritin [Mass/volume] in Serum or Plasma 953.4 ug/L
+  2021-01-16 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 1.1 ug/mL
+  2021-01-16 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 52.5 %
+  2021-01-16 : Oxygen saturation in Arterial blood      79.1 %
+  2021-01-16 : Bicarbonate [Moles/volume] in Arterial blood 26.8 mmol/L
+  2021-01-16 : Oxygen [Partial pressure] in Arterial blood 52.9 mm[Hg]
+  2021-01-16 : Carbon dioxide [Partial pressure] in Arterial blood 44.9 mm[Hg]
+  2021-01-16 : pH of Arterial blood                     6.8 [pH]
+  2021-01-16 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 37.0 U/L
+  2021-01-16 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.6 U/L
+  2021-01-16 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 89.3 U/L
+  2021-01-16 : Bilirubin.total [Mass/volume] in Serum or Plasma 14.0 mg/dL
+  2021-01-16 : Albumin [Mass/volume] in Serum or Plasma 4.9 g/dL
+  2021-01-16 : Protein [Mass/volume] in Serum or Plasma 7.0 g/dL
+  2021-01-16 : Glomerular filtration rate/1.73 sq M.predicted 5.4 mL/min
+  2021-01-16 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+  2021-01-16 : Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+  2021-01-16 : Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+  2021-01-16 : Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+  2021-01-16 : Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2021-01-16 : Creatinine [Mass/volume] in Serum or Plasma 2.6 mg/dL
+  2021-01-16 : Urea nitrogen [Mass/volume] in Serum or Plasma 17.8 mg/dL
+  2021-01-16 : Glucose [Mass/volume] in Serum or Plasma 90.0 mg/dL
+  2021-01-16 : Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-16 : Eosinophils [#/volume] in Blood by Automated count 0.6 10*3/uL
+  2021-01-16 : Monocytes [#/volume] in Blood by Automated count 0.6 10*3/uL
+  2021-01-16 : Lymphocytes [#/volume] in Blood by Automated count 0.7 10*3/uL
+  2021-01-16 : Neutrophils [#/volume] in Blood by Automated count 2.3 10*3/uL
+  2021-01-16 : Basophils/100 leukocytes in Blood by Automated count 2.9 %
+  2021-01-16 : Eosinophils/100 leukocytes in Blood by Automated count 3.8 %
+  2021-01-16 : Monocytes/100 leukocytes in Blood by Automated count 5.9 %
+  2021-01-16 : Lymphocytes/100 leukocytes in Blood by Automated count 21.4 %
+  2021-01-16 : Neutrophils/100 leukocytes in Blood by Automated count 44.8 %
+  2021-01-16 : Platelets [#/volume] in Blood by Automated count 143.1 10*3/uL
+  2021-01-16 : Erythrocyte distribution width [Ratio] by Automated count 14.7 %
+  2021-01-16 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2021-01-16 : MCH [Entitic mass] by Automated count    29.8 pg
+  2021-01-16 : MCV [Entitic volume] by Automated count  88.7 fL
+  2021-01-16 : Hematocrit [Volume Fraction] of Blood by Automated count 41.8 %
+  2021-01-16 : Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+  2021-01-16 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2021-01-16 : Leukocytes [#/volume] in Blood by Automated count 3.0 10*3/uL
+  2021-01-16 : Body Weight                              76.6 kg
+  2021-01-16 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2021-01-16 : Oxygen saturation in Arterial blood      81.9 %
+  2021-01-16 : Heart rate                               153.4 /min
+  2021-01-16 : Respiratory rate                         36.0 /min
+  2021-01-16 : Body temperature                         41.0 Cel
+  2021-01-15 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 54.2 %
+  2021-01-15 : Oxygen saturation in Arterial blood      84.1 %
+  2021-01-15 : Bicarbonate [Moles/volume] in Arterial blood 22.7 mmol/L
+  2021-01-15 : Oxygen [Partial pressure] in Arterial blood 39.8 mm[Hg]
+  2021-01-15 : Carbon dioxide [Partial pressure] in Arterial blood 38.2 mm[Hg]
+  2021-01-15 : pH of Arterial blood                     7.2 [pH]
+  2021-01-15 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 14.9 U/L
+  2021-01-15 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 33.2 U/L
+  2021-01-15 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 63.0 U/L
+  2021-01-15 : Bilirubin.total [Mass/volume] in Serum or Plasma 14.6 mg/dL
+  2021-01-15 : Albumin [Mass/volume] in Serum or Plasma 4.9 g/dL
+  2021-01-15 : Protein [Mass/volume] in Serum or Plasma 7.7 g/dL
+  2021-01-15 : Glomerular filtration rate/1.73 sq M.predicted 8.3 mL/min
+  2021-01-15 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+  2021-01-15 : Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+  2021-01-15 : Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+  2021-01-15 : Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+  2021-01-15 : Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2021-01-15 : Creatinine [Mass/volume] in Serum or Plasma 2.5 mg/dL
+  2021-01-15 : Urea nitrogen [Mass/volume] in Serum or Plasma 17.8 mg/dL
+  2021-01-15 : Glucose [Mass/volume] in Serum or Plasma 90.0 mg/dL
+  2021-01-15 : Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-15 : Eosinophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2021-01-15 : Monocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+  2021-01-15 : Lymphocytes [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2021-01-15 : Neutrophils [#/volume] in Blood by Automated count 3.5 10*3/uL
+  2021-01-15 : Basophils/100 leukocytes in Blood by Automated count 3.5 %
+  2021-01-15 : Eosinophils/100 leukocytes in Blood by Automated count 4.9 %
+  2021-01-15 : Monocytes/100 leukocytes in Blood by Automated count 5.7 %
+  2021-01-15 : Lymphocytes/100 leukocytes in Blood by Automated count 11.3 %
+  2021-01-15 : Neutrophils/100 leukocytes in Blood by Automated count 17.8 %
+  2021-01-15 : Platelets [#/volume] in Blood by Automated count 133.9 10*3/uL
+  2021-01-15 : Erythrocyte distribution width [Ratio] by Automated count 13.1 %
+  2021-01-15 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2021-01-15 : MCH [Entitic mass] by Automated count    28.4 pg
+  2021-01-15 : MCV [Entitic volume] by Automated count  89.4 fL
+  2021-01-15 : Hematocrit [Volume Fraction] of Blood by Automated count 40.8 %
+  2021-01-15 : Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+  2021-01-15 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2021-01-15 : Leukocytes [#/volume] in Blood by Automated count 3.5 10*3/uL
+  2021-01-15 : Body Weight                              76.6 kg
+  2021-01-15 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2021-01-15 : Oxygen saturation in Arterial blood      82.1 %
+  2021-01-15 : Heart rate                               129.0 /min
+  2021-01-15 : Respiratory rate                         33.2 /min
+  2021-01-15 : Body temperature                         40.4 Cel
+  2021-01-14 : Procalcitonin [Mass/volume] in Serum or Plasma 0.1 ng/mL
+  2021-01-14 : INR in Platelet poor plasma by Coagulation assay 3.3 {INR}
+  2021-01-14 : Prothrombin time (PT)                    12.5 s
+  2021-01-14 : C reactive protein [Mass/volume] in Serum or Plasma 14.0 mg/L
+  2021-01-14 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 180.2 U/L
+  2021-01-14 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 325.3 U/L
+  2021-01-14 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 6.9 pg/mL
+  2021-01-14 : Ferritin [Mass/volume] in Serum or Plasma 866.5 ug/L
+  2021-01-14 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 1.2 ug/mL
+  2021-01-14 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 63.6 %
+  2021-01-14 : Oxygen saturation in Arterial blood      78.4 %
+  2021-01-14 : Bicarbonate [Moles/volume] in Arterial blood 24.0 mmol/L
+  2021-01-14 : Oxygen [Partial pressure] in Arterial blood 44.2 mm[Hg]
+  2021-01-14 : Carbon dioxide [Partial pressure] in Arterial blood 44.3 mm[Hg]
+  2021-01-14 : pH of Arterial blood                     7.2 [pH]
+  2021-01-14 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 5.8 U/L
+  2021-01-14 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 21.2 U/L
+  2021-01-14 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 97.3 U/L
+  2021-01-14 : Bilirubin.total [Mass/volume] in Serum or Plasma 8.3 mg/dL
+  2021-01-14 : Albumin [Mass/volume] in Serum or Plasma 3.9 g/dL
+  2021-01-14 : Protein [Mass/volume] in Serum or Plasma 6.9 g/dL
+  2021-01-14 : Glomerular filtration rate/1.73 sq M.predicted 9.9 mL/min
+  2021-01-14 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+  2021-01-14 : Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+  2021-01-14 : Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+  2021-01-14 : Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+  2021-01-14 : Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2021-01-14 : Creatinine [Mass/volume] in Serum or Plasma 2.7 mg/dL
+  2021-01-14 : Urea nitrogen [Mass/volume] in Serum or Plasma 17.8 mg/dL
+  2021-01-14 : Glucose [Mass/volume] in Serum or Plasma 90.0 mg/dL
+  2021-01-14 : Basophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-14 : Eosinophils [#/volume] in Blood by Automated count 0.5 10*3/uL
+  2021-01-14 : Monocytes [#/volume] in Blood by Automated count 0.8 10*3/uL
+  2021-01-14 : Lymphocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+  2021-01-14 : Neutrophils [#/volume] in Blood by Automated count 3.6 10*3/uL
+  2021-01-14 : Basophils/100 leukocytes in Blood by Automated count 2.5 %
+  2021-01-14 : Eosinophils/100 leukocytes in Blood by Automated count 5.8 %
+  2021-01-14 : Monocytes/100 leukocytes in Blood by Automated count 13.6 %
+  2021-01-14 : Lymphocytes/100 leukocytes in Blood by Automated count 16.2 %
+  2021-01-14 : Neutrophils/100 leukocytes in Blood by Automated count 21.1 %
+  2021-01-14 : Platelets [#/volume] in Blood by Automated count 103.6 10*3/uL
+  2021-01-14 : Erythrocyte distribution width [Ratio] by Automated count 13.2 %
+  2021-01-14 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2021-01-14 : MCH [Entitic mass] by Automated count    27.4 pg
+  2021-01-14 : MCV [Entitic volume] by Automated count  91.7 fL
+  2021-01-14 : Hematocrit [Volume Fraction] of Blood by Automated count 37.6 %
+  2021-01-14 : Hemoglobin [Mass/volume] in Blood        13.4 g/dL
+  2021-01-14 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2021-01-14 : Leukocytes [#/volume] in Blood by Automated count 3.0 10*3/uL
+  2021-01-14 : Body Weight                              76.6 kg
+  2021-01-14 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2021-01-14 : Oxygen saturation in Arterial blood      84.2 %
+  2021-01-14 : Heart rate                               189.0 /min
+  2021-01-14 : Respiratory rate                         22.9 /min
+  2021-01-14 : Body temperature                         38.6 Cel
+  2021-01-13 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 30.2 %
+  2021-01-13 : Oxygen saturation in Arterial blood      76.9 %
+  2021-01-13 : Bicarbonate [Moles/volume] in Arterial blood 24.3 mmol/L
+  2021-01-13 : Oxygen [Partial pressure] in Arterial blood 52.0 mm[Hg]
+  2021-01-13 : Carbon dioxide [Partial pressure] in Arterial blood 41.0 mm[Hg]
+  2021-01-13 : pH of Arterial blood                     6.8 [pH]
+  2021-01-13 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 39.9 U/L
+  2021-01-13 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12.7 U/L
+  2021-01-13 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 78.1 U/L
+  2021-01-13 : Bilirubin.total [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2021-01-13 : Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+  2021-01-13 : Protein [Mass/volume] in Serum or Plasma 5.8 g/dL
+  2021-01-13 : Glomerular filtration rate/1.73 sq M.predicted 13.0 mL/min
+  2021-01-13 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+  2021-01-13 : Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+  2021-01-13 : Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+  2021-01-13 : Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+  2021-01-13 : Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2021-01-13 : Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+  2021-01-13 : Urea nitrogen [Mass/volume] in Serum or Plasma 17.8 mg/dL
+  2021-01-13 : Glucose [Mass/volume] in Serum or Plasma 90.0 mg/dL
+  2021-01-13 : Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-13 : Eosinophils [#/volume] in Blood by Automated count 0.4 10*3/uL
+  2021-01-13 : Monocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+  2021-01-13 : Lymphocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+  2021-01-13 : Neutrophils [#/volume] in Blood by Automated count 3.1 10*3/uL
+  2021-01-13 : Basophils/100 leukocytes in Blood by Automated count 3.3 %
+  2021-01-13 : Eosinophils/100 leukocytes in Blood by Automated count 4.4 %
+  2021-01-13 : Monocytes/100 leukocytes in Blood by Automated count 14.5 %
+  2021-01-13 : Lymphocytes/100 leukocytes in Blood by Automated count 24.6 %
+  2021-01-13 : Neutrophils/100 leukocytes in Blood by Automated count 11.3 %
+  2021-01-13 : Platelets [#/volume] in Blood by Automated count 127.3 10*3/uL
+  2021-01-13 : Erythrocyte distribution width [Ratio] by Automated count 13.2 %
+  2021-01-13 : MCHC [Mass/volume] by Automated count    32.8 g/dL
+  2021-01-13 : MCH [Entitic mass] by Automated count    32.4 pg
+  2021-01-13 : MCV [Entitic volume] by Automated count  86.7 fL
+  2021-01-13 : Hematocrit [Volume Fraction] of Blood by Automated count 45.5 %
+  2021-01-13 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2021-01-13 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2021-01-13 : Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+  2021-01-13 : Body Weight                              76.6 kg
+  2021-01-13 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2021-01-13 : Oxygen saturation in Arterial blood      76.7 %
+  2021-01-13 : Heart rate                               90.9 /min
+  2021-01-13 : Respiratory rate                         31.9 /min
+  2021-01-13 : Body temperature                         40.8 Cel
+  2021-01-12 : Procalcitonin [Mass/volume] in Serum or Plasma 0.3 ng/mL
+  2021-01-12 : INR in Platelet poor plasma by Coagulation assay 3.9 {INR}
+  2021-01-12 : Prothrombin time (PT)                    13.3 s
+  2021-01-12 : C reactive protein [Mass/volume] in Serum or Plasma 10.5 mg/L
+  2021-01-12 : Creatine kinase [Enzymatic activity/volume] in Serum or Plasma 50.5 U/L
+  2021-01-12 : Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction 343.7 U/L
+  2021-01-12 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 7.5 pg/mL
+  2021-01-12 : Ferritin [Mass/volume] in Serum or Plasma 1061.0 ug/L
+  2021-01-12 : Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma 1.2 ug/mL
+  2021-01-12 : Oxygen/Inspired gas setting [Volume Fraction] Ventilator 80.5 %
+  2021-01-12 : Oxygen saturation in Arterial blood      85.9 %
+  2021-01-12 : Bicarbonate [Moles/volume] in Arterial blood 22.3 mmol/L
+  2021-01-12 : Oxygen [Partial pressure] in Arterial blood 43.3 mm[Hg]
+  2021-01-12 : Carbon dioxide [Partial pressure] in Arterial blood 38.7 mm[Hg]
+  2021-01-12 : pH of Arterial blood                     6.8 [pH]
+  2021-01-12 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 15.4 U/L
+  2021-01-12 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 28.5 U/L
+  2021-01-12 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 89.9 U/L
+  2021-01-12 : Bilirubin.total [Mass/volume] in Serum or Plasma 7.3 mg/dL
+  2021-01-12 : Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+  2021-01-12 : Protein [Mass/volume] in Serum or Plasma 6.9 g/dL
+  2021-01-12 : Glomerular filtration rate/1.73 sq M.predicted 8.2 mL/min
+  2021-01-12 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 22.1 mmol/L
+  2021-01-12 : Chloride [Moles/volume] in Serum or Plasma 107.3 mmol/L
+  2021-01-12 : Potassium [Moles/volume] in Serum or Plasma 4.0 mmol/L
+  2021-01-12 : Sodium [Moles/volume] in Serum or Plasma 138.4 mmol/L
+  2021-01-12 : Calcium [Mass/volume] in Serum or Plasma 9.3 mg/dL
+  2021-01-12 : Creatinine [Mass/volume] in Serum or Plasma 2.9 mg/dL
+  2021-01-12 : Urea nitrogen [Mass/volume] in Serum or Plasma 17.8 mg/dL
+  2021-01-12 : Glucose [Mass/volume] in Serum or Plasma 90.0 mg/dL
+  2021-01-12 : Basophils [#/volume] in Blood by Automated count 0.3 10*3/uL
+  2021-01-12 : Eosinophils [#/volume] in Blood by Automated count 0.2 10*3/uL
+  2021-01-12 : Monocytes [#/volume] in Blood by Automated count 0.9 10*3/uL
+  2021-01-12 : Lymphocytes [#/volume] in Blood by Automated count 0.5 10*3/uL
+  2021-01-12 : Neutrophils [#/volume] in Blood by Automated count 2.1 10*3/uL
+  2021-01-12 : Basophils/100 leukocytes in Blood by Automated count 2.8 %
+  2021-01-12 : Eosinophils/100 leukocytes in Blood by Automated count 5.8 %
+  2021-01-12 : Monocytes/100 leukocytes in Blood by Automated count 6.8 %
+  2021-01-12 : Lymphocytes/100 leukocytes in Blood by Automated count 12.5 %
+  2021-01-12 : Neutrophils/100 leukocytes in Blood by Automated count 25.8 %
+  2021-01-12 : Platelets [#/volume] in Blood by Automated count 109.6 10*3/uL
+  2021-01-12 : Erythrocyte distribution width [Ratio] by Automated count 14.4 %
+  2021-01-12 : MCHC [Mass/volume] by Automated count    32.9 g/dL
+  2021-01-12 : MCH [Entitic mass] by Automated count    32.0 pg
+  2021-01-12 : MCV [Entitic volume] by Automated count  82.6 fL
+  2021-01-12 : Hematocrit [Volume Fraction] of Blood by Automated count 44.0 %
+  2021-01-12 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2021-01-12 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2021-01-12 : Leukocytes [#/volume] in Blood by Automated count 3.5 10*3/uL
+  2021-01-12 : Body Weight                              76.6 kg
+  2021-01-12 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2021-01-12 : Oxygen saturation in Arterial blood      85.2 %
+  2021-01-12 : Heart rate                               109.2 /min
+  2021-01-12 : Respiratory rate                         16.4 /min
+  2021-01-12 : Body temperature                         38.9 Cel
+  2021-01-12 : SARS-CoV-2 RNA Pnl Resp NAA+probe        Detected (qualifier value) 
+  2021-01-12 : Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+  2021-01-12 : Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay Not detected (qualifier value) 
+  2021-01-12 : Body Weight                              76.6 kg
+  2021-01-12 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2021-01-12 : Oxygen saturation in Arterial blood      85.0 %
+  2021-01-12 : Heart rate                               111.2 /min
+  2021-01-12 : Respiratory rate                         22.8 /min
+  2021-01-12 : Body temperature                         39.7 Cel
+  2019-09-03 : Total score [DAST-10]                    2.0 {score}
+  2019-09-03 : Total score [HARK]                       0.0 {score}
+  2019-09-03 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 47587 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             524 Beer Gate Unit 5 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2019-09-03 : Tobacco smoking status NHIS              Never smoker 
+  2019-09-03 : Respiratory rate                         14.0 /min
+  2019-09-03 : Heart rate                               69.0 /min
+  2019-09-03 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2019-09-03 : Body Mass Index                          27.9 kg/m2
+  2019-09-03 : Body Weight                              76.6 kg
+  2019-09-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-09-03 : Body Height                              165.7 cm
+  2017-12-05 : Total score [DAST-10]                    0.0 {score}
+  2017-12-05 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 47587 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             524 Beer Gate Unit 5 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2017-12-05 : Tobacco smoking status NHIS              Never smoker 
+  2017-12-05 : High Density Lipoprotein Cholesterol     67.1 mg/dL
+  2017-12-05 : Low Density Lipoprotein Cholesterol      74.4 mg/dL
+  2017-12-05 : Triglycerides                            113.1 mg/dL
+  2017-12-05 : Total Cholesterol                        164.1 mg/dL
+  2017-12-05 : Respiratory rate                         16.0 /min
+  2017-12-05 : Heart rate                               76.0 /min
+  2017-12-05 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2017-12-05 : Body Mass Index                          27.9 kg/m2
+  2017-12-05 : Body Weight                              76.6 kg
+  2017-12-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-12-05 : Body Height                              165.7 cm
+  2017-08-29 : Total score [AUDIT-C]                    3.0 {score}
+  2017-08-29 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 47587 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             524 Beer Gate Unit 5 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              I choose not to answer this question 
+  2017-08-29 : Tobacco smoking status NHIS              Never smoker 
+  2017-08-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2017-08-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 341.5 fL
+  2017-08-29 : Platelets [#/volume] in Blood by Automated count 428.6 10*3/uL
+  2017-08-29 : Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+  2017-08-29 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2017-08-29 : MCH [Entitic mass] by Automated count    27.2 pg
+  2017-08-29 : MCV [Entitic volume] by Automated count  86.1 fL
+  2017-08-29 : Hematocrit [Volume Fraction] of Blood by Automated count 36.3 %
+  2017-08-29 : Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+  2017-08-29 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2017-08-29 : Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+  2017-08-29 : Respiratory rate                         15.0 /min
+  2017-08-29 : Heart rate                               81.0 /min
+  2017-08-29 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2017-08-29 : Body Mass Index                          27.9 kg/m2
+  2017-08-29 : Body Weight                              76.6 kg
+  2017-08-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-08-29 : Body Height                              165.7 cm
+  2015-02-19 : Body temperature                         37.8 Cel
+  2014-11-11 : Total score [AUDIT-C]                    2.0 {score}
+  2014-11-11 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2014-11-11 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 47587 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             524 Beer Gate Unit 5 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2014-11-11 : Tobacco smoking status NHIS              Never smoker 
+  2014-11-11 : High Density Lipoprotein Cholesterol     78.1 mg/dL
+  2014-11-11 : Low Density Lipoprotein Cholesterol      58.0 mg/dL
+  2014-11-11 : Triglycerides                            148.6 mg/dL
+  2014-11-11 : Total Cholesterol                        165.8 mg/dL
+  2014-11-11 : Respiratory rate                         15.0 /min
+  2014-11-11 : Heart rate                               79.0 /min
+  2014-11-11 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2014-11-11 : Body Mass Index                          27.9 kg/m2
+  2014-11-11 : Body Weight                              76.6 kg
+  2014-11-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2014-11-11 : Body Height                              165.7 cm
+  2012-11-20 : Body temperature                         38.5 Cel
+  2011-11-08 : Total score [DAST-10]                    1.0 {score}
+  2011-11-08 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2011-11-08 : Total score [HARK]                       0.0 {score}
+  2011-11-08 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2011-11-08 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 47587 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     I choose not to answer this question 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             524 Beer Gate Unit 5 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2011-11-08 : Tobacco smoking status NHIS              Never smoker 
+  2011-11-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2011-11-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 423.9 fL
+  2011-11-08 : Platelets [#/volume] in Blood by Automated count 410.2 10*3/uL
+  2011-11-08 : Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+  2011-11-08 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2011-11-08 : MCH [Entitic mass] by Automated count    32.9 pg
+  2011-11-08 : MCV [Entitic volume] by Automated count  94.4 fL
+  2011-11-08 : Hematocrit [Volume Fraction] of Blood by Automated count 47.0 %
+  2011-11-08 : Hemoglobin [Mass/volume] in Blood        16.3 g/dL
+  2011-11-08 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2011-11-08 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  2011-11-08 : High Density Lipoprotein Cholesterol     62.3 mg/dL
+  2011-11-08 : Low Density Lipoprotein Cholesterol      77.4 mg/dL
+  2011-11-08 : Triglycerides                            137.5 mg/dL
+  2011-11-08 : Total Cholesterol                        167.3 mg/dL
+  2011-11-08 : Respiratory rate                         15.0 /min
+  2011-11-08 : Heart rate                               99.0 /min
+  2011-11-08 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2011-11-08 : Body Mass Index                          27.9 kg/m2
+  2011-11-08 : Body Weight                              76.6 kg
+  2011-11-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2011-11-08 : Body Height                              165.7 cm
+  2011-10-12 : Body temperature                         37.2 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-01-27 : Controlled ventilation procedure and therapy, initiation and management (procedure) for Acute respiratory failure (disorder)
+  2021-01-26 : Controlled ventilation procedure and therapy, initiation and management (procedure) for Acute respiratory failure (disorder)
+  2021-01-25 : Controlled ventilation procedure and therapy, initiation and management (procedure) for Acute respiratory failure (disorder)
+  2021-01-24 : Controlled ventilation procedure and therapy, initiation and management (procedure) for Acute respiratory failure (disorder)
+  2021-01-23 : Controlled ventilation procedure and therapy, initiation and management (procedure) for Acute respiratory failure (disorder)
+  2021-01-22 : Controlled ventilation procedure and therapy, initiation and management (procedure) for Acute respiratory failure (disorder)
+  2021-01-21 : Controlled ventilation procedure and therapy, initiation and management (procedure) for Acute respiratory failure (disorder)
+  2021-01-20 : Controlled ventilation procedure and therapy, initiation and management (procedure) for Acute respiratory failure (disorder)
+  2021-01-19 : Controlled ventilation procedure and therapy, initiation and management (procedure) for Acute respiratory failure (disorder)
+  2021-01-18 : Controlled ventilation procedure and therapy, initiation and management (procedure) for Acute respiratory failure (disorder)
+  2021-01-17 : Controlled ventilation procedure and therapy, initiation and management (procedure) for Acute respiratory failure (disorder)
+  2021-01-17 : Plain chest X-ray (procedure)
+  2021-01-17 : Insertion of endotracheal tube (procedure) for Acute respiratory failure (disorder)
+  2021-01-17 : Placing subject in prone position (procedure) for Hypoxemia (disorder)
+  2021-01-17 : Oxygen administration by mask (procedure) for Hypoxemia (disorder)
+  2021-01-16 : Placing subject in prone position (procedure) for Hypoxemia (disorder)
+  2021-01-16 : Oxygen administration by mask (procedure) for Hypoxemia (disorder)
+  2021-01-15 : Placing subject in prone position (procedure) for Hypoxemia (disorder)
+  2021-01-15 : Oxygen administration by mask (procedure) for Hypoxemia (disorder)
+  2021-01-14 : Placing subject in prone position (procedure) for Hypoxemia (disorder)
+  2021-01-14 : Oxygen administration by mask (procedure) for Hypoxemia (disorder)
+  2021-01-13 : Placing subject in prone position (procedure) for Hypoxemia (disorder)
+  2021-01-13 : Oxygen administration by mask (procedure) for Hypoxemia (disorder)
+  2021-01-12 : Placing subject in prone position (procedure) for Hypoxemia (disorder)
+  2021-01-12 : Oxygen administration by mask (procedure) for Hypoxemia (disorder)
+  2021-01-12 : Plain chest X-ray (procedure)
+  2021-01-12 : Face mask (physical object) for Suspected COVID-19
+  2019-09-03 : Screening for drug abuse (procedure)
+  2019-09-03 : Assessment of substance use (procedure)
+  2019-09-03 : Screening for domestic abuse (procedure)
+  2019-09-03 : Medication Reconciliation (procedure)
+  2019-09-03 : Assessment of health and social care needs (procedure)
+  2017-12-05 : Screening for drug abuse (procedure)
+  2017-12-05 : Assessment of substance use (procedure)
+  2017-12-05 : Medication Reconciliation (procedure)
+  2017-12-05 : Assessment of health and social care needs (procedure)
+  2017-11-22 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2017-08-29 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2017-08-29 : Assessment of substance use (procedure)
+  2017-08-29 : Assessment of health and social care needs (procedure)
+  2015-02-19 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2014-11-11 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2014-11-11 : Assessment of substance use (procedure)
+  2014-11-11 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2014-11-11 : Depression screening (procedure)
+  2014-11-11 : Medication Reconciliation (procedure)
+  2014-11-11 : Assessment of health and social care needs (procedure)
+  2011-11-08 : Screening for drug abuse (procedure)
+  2011-11-08 : Assessment of substance use (procedure)
+  2011-11-08 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2011-11-08 : Depression screening (procedure)
+  2011-11-08 : Screening for domestic abuse (procedure)
+  2011-11-08 : Assessment of anxiety (procedure)
+  2011-11-08 : Medication Reconciliation (procedure)
+  2011-11-08 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-09-03 : Hep A, adult
+  2019-09-03 : Td (adult) preservative free
+  2019-09-03 : Influenza, seasonal, injectable, preservative free
+  2017-12-05 : Influenza, seasonal, injectable, preservative free
+  2017-11-28 : Influenza, seasonal, injectable, preservative free
+  2017-08-29 : Hep A, adult
+  2017-08-29 : Influenza, seasonal, injectable, preservative free
+  2014-11-11 : Influenza, seasonal, injectable, preservative free
+  2011-11-08 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-02-09 (Dr. Tonette Osinski) : Encounter at PCP166094 : Encounter for COVID-19
+2021-01-17 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for COVID-19
+2021-01-12 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for COVID-19
+2021-01-12 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Victim of intimate partner abuse (finding)
+2019-09-03 (Dr. Tonette Osinski) : Encounter at PCP166094
+2018-01-08 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Sinusitis (disorder)
+2017-12-05 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2017-11-22 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Acute bronchitis (disorder)
+2017-11-28 (Dr. Darleen Runolfsdottir) : Encounter at JOSEY LANE FAMILY CARE MEDICAL CENTER
+2017-08-29 (Dr. Tonette Osinski) : Encounter at PCP166094
+2015-02-19 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Acute viral pharyngitis (disorder)
+2014-11-11 (Dr. Tonette Osinski) : Encounter at PCP166094
+2012-11-20 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Streptococcal sore throat (disorder)
+2012-08-03 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Viral sinusitis (disorder)
+2011-11-08 (Dr. Tonette Osinski) : Encounter at PCP166094
+2011-10-12 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Acute viral pharyngitis (disorder)
+2008-11-04 (Dr. Tonette Osinski) : Encounter at PCP166094
+2005-11-01 (Dr. Tonette Osinski) : Encounter at PCP166094
+1996-07-30 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+1995-10-17 (Dr. Tonette Osinski) : Encounter at PCP166094
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

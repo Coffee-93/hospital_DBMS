@@ -1,0 +1,376 @@
+Freddy Parisian
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 7
+Birth Date:          2014-04-23
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2015-07-18 -            : Fish (substance)
+  2015-07-18 -            : Tree pollen (substance)
+  2015-07-18 -            : Grass pollen (substance)
+  2015-07-18 -            : Animal dander (substance)
+  2015-07-18 -            : Mold (organism)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2019-08-27[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2018-05-02[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2018-05-02[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2015-07-18[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2015-07-18[CURRENT] : cetirizine hydrochloride 5 MG Oral Tablet
+  2015-07-03[STOPPED] : predniSONE 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-03-03 - 2020-03-15 : Viral sinusitis (disorder)
+  2019-08-27 - 2019-09-05 : Streptococcal sore throat (disorder)
+  2018-05-02 - 2019-04-03 : Otitis media
+  2016-08-06 -            : Perennial allergic rhinitis
+  2015-08-23 - 2015-09-16 : Viral sinusitis (disorder)
+  2015-07-03 - 2015-07-03 : Acute allergic reaction
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-07-04[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2019-09-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.8 %
+           - MCV [Entitic volume] by Automated count  91.6 fL
+           - MCH [Entitic mass] by Automated count    31.2 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 361.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 450.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2014-04-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.1 %
+           - MCV [Entitic volume] by Automated count  84.4 fL
+           - MCH [Entitic mass] by Automated count    30.1 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.1 fL
+           - Platelets [#/volume] in Blood by Automated count 360.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 385.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-04-14 : Tobacco smoking status NHIS              Never smoker 
+  2021-04-14 : Respiratory rate                         14.0 /min
+  2021-04-14 : Heart rate                               83.0 /min
+  2021-04-14 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2021-04-14 : Body mass index (BMI) [Percentile] Per age and gender 54.6 %
+  2021-04-14 : Body Mass Index                          15.7 kg/m2
+  2021-04-14 : Body Weight                              23.8 kg
+  2021-04-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-04-14 : Body Height                              123.2 cm
+  2020-04-08 : Tobacco smoking status NHIS              Never smoker 
+  2020-04-08 : Respiratory rate                         14.0 /min
+  2020-04-08 : Heart rate                               88.0 /min
+  2020-04-08 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2020-04-08 : Body mass index (BMI) [Percentile] Per age and gender 56.8 %
+  2020-04-08 : Body Mass Index                          15.6 kg/m2
+  2020-04-08 : Body Weight                              21.2 kg
+  2020-04-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-04-08 : Body Height                              116.7 cm
+  2019-09-11 : Tobacco smoking status NHIS              Never smoker 
+  2019-09-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2019-09-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 450.6 fL
+  2019-09-11 : Platelets [#/volume] in Blood by Automated count 361.9 10*3/uL
+  2019-09-11 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  2019-09-11 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2019-09-11 : MCH [Entitic mass] by Automated count    31.2 pg
+  2019-09-11 : MCV [Entitic volume] by Automated count  91.6 fL
+  2019-09-11 : Hematocrit [Volume Fraction] of Blood by Automated count 39.8 %
+  2019-09-11 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2019-09-11 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2019-09-11 : Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+  2019-09-11 : Respiratory rate                         16.0 /min
+  2019-09-11 : Heart rate                               61.0 /min
+  2019-09-11 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2019-09-11 : Body mass index (BMI) [Percentile] Per age and gender 50.7 %
+  2019-09-11 : Body Mass Index                          15.4 kg/m2
+  2019-09-11 : Body Weight                              19.6 kg
+  2019-09-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-09-11 : Body Height                              112.8 cm
+  2019-08-27 : Body temperature                         38.8 Cel
+  2019-04-03 : Tobacco smoking status NHIS              Never smoker 
+  2019-04-03 : Respiratory rate                         13.0 /min
+  2019-04-03 : Heart rate                               69.0 /min
+  2019-04-03 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2019-04-03 : Body mass index (BMI) [Percentile] Per age and gender 62.4 %
+  2019-04-03 : Body Mass Index                          15.8 kg/m2
+  2019-04-03 : Body Weight                              19.1 kg
+  2019-04-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2019-04-03 : Body Height                              110.0 cm
+  2018-03-28 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-28 : Respiratory rate                         13.0 /min
+  2018-03-28 : Heart rate                               83.0 /min
+  2018-03-28 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2018-03-28 : Body mass index (BMI) [Percentile] Per age and gender 80.1 %
+  2018-03-28 : Body Mass Index                          16.7 kg/m2
+  2018-03-28 : Head Occipital-frontal circumference     50.2 cm
+  2018-03-28 : Weight-for-length Per age and sex        82.4 %
+  2018-03-28 : Body Weight                              17.8 kg
+  2018-03-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-03-28 : Body Height                              103.2 cm
+  2017-09-27 : Tobacco smoking status NHIS              Never smoker 
+  2017-09-27 : Respiratory rate                         12.0 /min
+  2017-09-27 : Heart rate                               84.0 /min
+  2017-09-27 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  2017-09-27 : Body mass index (BMI) [Percentile] Per age and gender 81.0 %
+  2017-09-27 : Body Mass Index                          16.9 kg/m2
+  2017-09-27 : Head Occipital-frontal circumference     50.2 cm
+  2017-09-27 : Weight-for-length Per age and sex        82.4 %
+  2017-09-27 : Body Weight                              16.8 kg
+  2017-09-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-09-27 : Body Height                              99.6 cm
+  2017-03-29 : Tobacco smoking status NHIS              Never smoker 
+  2017-03-29 : Respiratory rate                         15.0 /min
+  2017-03-29 : Heart rate                               62.0 /min
+  2017-03-29 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2017-03-29 : Body mass index (BMI) [Percentile] Per age and gender 81.9 %
+  2017-03-29 : Body Mass Index                          17.2 kg/m2
+  2017-03-29 : Head Occipital-frontal circumference     50.1 cm
+  2017-03-29 : Weight-for-length Per age and sex        83.8 %
+  2017-03-29 : Body Weight                              15.8 kg
+  2017-03-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-03-29 : Body Height                              95.8 cm
+  2016-09-28 : Tobacco smoking status NHIS              Never smoker 
+  2016-09-28 : Respiratory rate                         16.0 /min
+  2016-09-28 : Heart rate                               65.0 /min
+  2016-09-28 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  101.0 mm[Hg]
+  2016-09-28 : Body mass index (BMI) [Percentile] Per age and gender 81.6 %
+  2016-09-28 : Body Mass Index                          17.5 kg/m2
+  2016-09-28 : Head Occipital-frontal circumference     49.7 cm
+  2016-09-28 : Weight-for-length Per age and sex        85.3 %
+  2016-09-28 : Body Weight                              14.8 kg
+  2016-09-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-09-28 : Body Height                              91.8 cm
+  2016-03-30 : Tobacco smoking status NHIS              Never smoker 
+  2016-03-30 : Respiratory rate                         13.0 /min
+  2016-03-30 : Heart rate                               77.0 /min
+  2016-03-30 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2016-03-30 : Head Occipital-frontal circumference     49.0 cm
+  2016-03-30 : Weight-for-length Per age and sex        85.6 %
+  2016-03-30 : Body Weight                              13.8 kg
+  2016-03-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-03-30 : Body Height                              87.9 cm
+  2015-09-30 : Tobacco smoking status NHIS              Never smoker 
+  2015-09-30 : Respiratory rate                         15.0 /min
+  2015-09-30 : Heart rate                               61.0 /min
+  2015-09-30 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2015-09-30 : Head Occipital-frontal circumference     48.1 cm
+  2015-09-30 : Weight-for-length Per age and sex        92.2 %
+  2015-09-30 : Body Weight                              12.7 kg
+  2015-09-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-09-30 : Body Height                              82.4 cm
+  2015-07-18 : Latex IgE Ab in Serum                    0.1 kU/L
+  2015-07-18 : Honey bee IgE Ab in Serum                0.1 kU/L
+  2015-07-18 : Cladosporium herbarum IgE Ab in Serum    0.0 kU/L
+  2015-07-18 : American house dust mite IgE Ab in Serum 0.2 kU/L
+  2015-07-18 : Cat dander IgE Ab in Serum               0.0 kU/L
+  2015-07-18 : Common Ragweed IgE Ab in Serum           0.0 kU/L
+  2015-07-18 : White oak IgE Ab in Serum                0.2 kU/L
+  2015-07-18 : Cow milk IgE Ab in Serum                 0.3 kU/L
+  2015-07-18 : Soybean IgE Ab in Serum                  0.1 kU/L
+  2015-07-18 : Egg white IgE Ab in Serum                0.2 kU/L
+  2015-07-18 : Wheat IgE Ab in Serum                    0.0 kU/L
+  2015-07-18 : Shrimp IgE Ab in Serum                   0.0 kU/L
+  2015-07-18 : Codfish IgE Ab in Serum                  0.1 kU/L
+  2015-07-18 : Walnut IgE Ab in Serum                   0.1 kU/L
+  2015-07-18 : Peanut IgE Ab in Serum                   0.1 kU/L
+  2015-07-01 : Tobacco smoking status NHIS              Never smoker 
+  2015-07-01 : Respiratory rate                         14.0 /min
+  2015-07-01 : Heart rate                               84.0 /min
+  2015-07-01 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2015-07-01 : Head Occipital-frontal circumference     47.4 cm
+  2015-07-01 : Weight-for-length Per age and sex        92.8 %
+  2015-07-01 : Body Weight                              12.0 kg
+  2015-07-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-07-01 : Body Height                              79.3 cm
+  2015-04-01 : Tobacco smoking status NHIS              Never smoker 
+  2015-04-01 : Respiratory rate                         15.0 /min
+  2015-04-01 : Heart rate                               84.0 /min
+  2015-04-01 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2015-04-01 : Head Occipital-frontal circumference     46.6 cm
+  2015-04-01 : Weight-for-length Per age and sex        92.0 %
+  2015-04-01 : Body Weight                              11.2 kg
+  2015-04-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2015-04-01 : Body Height                              75.8 cm
+  2014-12-31 : Tobacco smoking status NHIS              Never smoker 
+  2014-12-31 : Respiratory rate                         16.0 /min
+  2014-12-31 : Heart rate                               72.0 /min
+  2014-12-31 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2014-12-31 : Head Occipital-frontal circumference     45.5 cm
+  2014-12-31 : Weight-for-length Per age and sex        88.8 %
+  2014-12-31 : Body Weight                              10.0 kg
+  2014-12-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-12-31 : Body Height                              71.8 cm
+  2014-10-01 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-01 : Respiratory rate                         12.0 /min
+  2014-10-01 : Heart rate                               73.0 /min
+  2014-10-01 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2014-10-01 : Head Occipital-frontal circumference     43.8 cm
+  2014-10-01 : Weight-for-length Per age and sex        80.4 %
+  2014-10-01 : Body Weight                              8.4 kg
+  2014-10-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-10-01 : Body Height                              66.9 cm
+  2014-07-30 : Tobacco smoking status NHIS              Never smoker 
+  2014-07-30 : Respiratory rate                         14.0 /min
+  2014-07-30 : Heart rate                               79.0 /min
+  2014-07-30 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2014-07-30 : Head Occipital-frontal circumference     42.2 cm
+  2014-07-30 : Weight-for-length Per age and sex        69.6 %
+  2014-07-30 : Body Weight                              7.1 kg
+  2014-07-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2014-07-30 : Body Height                              62.9 cm
+  2014-05-28 : Tobacco smoking status NHIS              Never smoker 
+  2014-05-28 : Respiratory rate                         15.0 /min
+  2014-05-28 : Heart rate                               79.0 /min
+  2014-05-28 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  2014-05-28 : Head Occipital-frontal circumference     39.7 cm
+  2014-05-28 : Weight-for-length Per age and sex        62.9 %
+  2014-05-28 : Body Weight                              5.4 kg
+  2014-05-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-05-28 : Body Height                              57.4 cm
+  2014-04-23 : Tobacco smoking status NHIS              Never smoker 
+  2014-04-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2014-04-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 385.8 fL
+  2014-04-23 : Platelets [#/volume] in Blood by Automated count 360.3 10*3/uL
+  2014-04-23 : Erythrocyte distribution width [Entitic volume] by Automated count 42.1 fL
+  2014-04-23 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2014-04-23 : MCH [Entitic mass] by Automated count    30.1 pg
+  2014-04-23 : MCV [Entitic volume] by Automated count  84.4 fL
+  2014-04-23 : Hematocrit [Volume Fraction] of Blood by Automated count 35.1 %
+  2014-04-23 : Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+  2014-04-23 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2014-04-23 : Leukocytes [#/volume] in Blood by Automated count 7.8 10*3/uL
+  2014-04-23 : Respiratory rate                         16.0 /min
+  2014-04-23 : Heart rate                               94.0 /min
+  2014-04-23 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2014-04-23 : Head Occipital-frontal circumference     36.4 cm
+  2014-04-23 : Weight-for-length Per age and sex        53.0 %
+  2014-04-23 : Body Weight                              4.5 kg
+  2014-04-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-04-23 : Body Height                              53.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2019-04-03 : Medication Reconciliation (procedure)
+  2016-03-30 : Medication Reconciliation (procedure)
+  2015-07-18 : Allergy screening test
+  2015-07-03 : Injection of adrenaline
+  2014-12-31 : Medication Reconciliation (procedure)
+  2014-10-01 : Medication Reconciliation (procedure)
+  2014-07-30 : Medication Reconciliation (procedure)
+  2014-05-28 : Medication Reconciliation (procedure)
+  2014-04-23 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-04-14 : Influenza, seasonal, injectable, preservative free
+  2020-04-08 : Influenza, seasonal, injectable, preservative free
+  2019-04-03 : MMR
+  2019-04-03 : DTaP
+  2019-04-03 : Influenza, seasonal, injectable, preservative free
+  2019-04-03 : IPV
+  2019-04-03 : varicella
+  2018-03-28 : Influenza, seasonal, injectable, preservative free
+  2017-03-29 : Influenza, seasonal, injectable, preservative free
+  2016-09-28 : Hep A, ped/adol, 2 dose
+  2016-03-30 : Influenza, seasonal, injectable, preservative free
+  2015-09-30 : DTaP
+  2015-07-01 : Hep A, ped/adol, 2 dose
+  2015-07-01 : Pneumococcal conjugate PCV 13
+  2015-07-01 : MMR
+  2015-07-01 : varicella
+  2015-07-01 : Hib (PRP-OMP)
+  2014-12-31 : Hep B, adolescent or pediatric
+  2014-12-31 : Pneumococcal conjugate PCV 13
+  2014-12-31 : DTaP
+  2014-12-31 : Influenza, seasonal, injectable, preservative free
+  2014-12-31 : IPV
+  2014-10-01 : Pneumococcal conjugate PCV 13
+  2014-10-01 : DTaP
+  2014-10-01 : IPV
+  2014-10-01 : rotavirus, monovalent
+  2014-10-01 : Hib (PRP-OMP)
+  2014-07-30 : Pneumococcal conjugate PCV 13
+  2014-07-30 : DTaP
+  2014-07-30 : IPV
+  2014-07-30 : rotavirus, monovalent
+  2014-07-30 : Hib (PRP-OMP)
+  2014-05-28 : Hep B, adolescent or pediatric
+  2014-04-23 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-04-14 (Dr. Tobias Hansen) : Encounter at PCP198170
+2020-04-08 (Dr. Tobias Hansen) : Encounter at PCP198170
+2020-03-03 (Dr. Mireille Flatley) : Encounter at BAYLOR REGIONAL MEDICAL CENTER AT PLANO : Encounter for Viral sinusitis (disorder)
+2019-09-11 (Dr. Laurena Wyman) : Encounter at MEDICAL CENTER OF PLANO
+2019-09-04 (Dr. Lena Skiles) : Encounter at ACUTE KIDS URGENT CARE - PLANO
+2019-08-27 (Dr. Mireille Flatley) : Encounter at BAYLOR REGIONAL MEDICAL CENTER AT PLANO : Encounter for Streptococcal sore throat (disorder)
+2019-04-03 (Dr. Tobias Hansen) : Encounter at PCP198170
+2018-05-02 (Dr. Laurena Wyman) : Encounter at MEDICAL CENTER OF PLANO : Encounter for Otitis media
+2018-03-28 (Dr. Tobias Hansen) : Encounter at PCP198170
+2017-09-27 (Dr. Tobias Hansen) : Encounter at PCP198170
+2017-03-29 (Dr. Tobias Hansen) : Encounter at PCP198170
+2016-09-28 (Dr. Tobias Hansen) : Encounter at PCP198170
+2016-08-06 (Dr. Mireille Flatley) : Encounter at BAYLOR REGIONAL MEDICAL CENTER AT PLANO : Encounter for Perennial allergic rhinitis
+2016-03-30 (Dr. Tobias Hansen) : Encounter at PCP198170
+2015-09-30 (Dr. Tobias Hansen) : Encounter at PCP198170
+2015-08-23 (Dr. Mireille Flatley) : Encounter at BAYLOR REGIONAL MEDICAL CENTER AT PLANO : Encounter for Viral sinusitis (disorder)
+2015-07-18 (Dr. Mireille Flatley) : Encounter at BAYLOR REGIONAL MEDICAL CENTER AT PLANO
+2015-07-04 (Dr. Mireille Flatley) : Encounter at BAYLOR REGIONAL MEDICAL CENTER AT PLANO
+2015-07-03 (Dr. Fallon Schroeder) : Encounter at TEXAS HEALTH PRESBYTERIAN HOSPITAL PLANO
+2015-07-01 (Dr. Tobias Hansen) : Encounter at PCP198170
+2015-04-01 (Dr. Tobias Hansen) : Encounter at PCP198170
+2014-12-31 (Dr. Tobias Hansen) : Encounter at PCP198170
+2014-10-01 (Dr. Tobias Hansen) : Encounter at PCP198170
+2014-07-30 (Dr. Tobias Hansen) : Encounter at PCP198170
+2014-05-28 (Dr. Tobias Hansen) : Encounter at PCP198170
+2014-04-23 (Dr. Tobias Hansen) : Encounter at PCP198170
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

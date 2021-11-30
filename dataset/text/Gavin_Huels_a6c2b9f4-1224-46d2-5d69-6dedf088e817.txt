@@ -1,0 +1,351 @@
+Gavin Huels
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 50
+Birth Date:          1971-09-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2009-09-30[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+  1996-11-13[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1996-11-13[CURRENT] : Fexofenadine hydrochloride 60 MG Oral Tablet
+  1996-10-25[CURRENT] : Hydrocortisone 10 MG/ML Topical Cream for Contact dermatitis
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-09-15 -            : Stress (finding)
+  2021-09-15 -            : Part-time employment (finding)
+  2019-10-09 - 2021-09-15 : Victim of intimate partner abuse (finding)
+  2019-10-09 - 2021-09-15 : Full-time employment (finding)
+  2017-10-04 - 2021-09-15 : Social isolation (finding)
+  2017-10-04 - 2019-10-09 : Part-time employment (finding)
+  2015-09-30 - 2019-10-09 : Stress (finding)
+  2015-09-30 - 2017-10-04 : Full-time employment (finding)
+  2013-09-25 - 2015-09-30 : Full-time employment (finding)
+  2013-09-25 -            : Body mass index 30+ - obesity (finding)
+  2012-11-21 - 2012-11-30 : Acute viral pharyngitis (disorder)
+  2011-09-21 - 2015-09-30 : Limited social contact (finding)
+  2011-09-21 - 2013-09-25 : Full-time employment (finding)
+  2009-09-30 -            : Osteoarthritis of knee
+  2008-12-03 - 2011-09-21 : Stress (finding)
+  2008-12-03 - 2011-09-21 : Part-time employment (finding)
+  1999-11-24 - 2004-11-24 : Stress (finding)
+  1989-11-08 - 1996-11-20 : Stress (finding)
+  1989-11-08 -            : Only received primary school education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2009-09-30[CURRENT] : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  1996-11-13[CURRENT] : Self-care interventions (procedure)
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-09-15 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-09-15 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-09-15 : Lipid Panel
+           - Total Cholesterol                        190.5 mg/dL
+           - Triglycerides                            134.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      99.7 mg/dL
+           - High Density Lipoprotein Cholesterol     63.9 mg/dL
+  2019-10-09 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2019-10-09 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-10-04 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2017-10-04 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2017-10-04 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.8 %
+           - MCV [Entitic volume] by Automated count  93.5 fL
+           - MCH [Entitic mass] by Automated count    29.7 pg
+           - MCHC [Mass/volume] by Automated count    33.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.9 fL
+           - Platelets [#/volume] in Blood by Automated count 371.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 259.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2017-10-04 : Lipid Panel
+           - Total Cholesterol                        172.1 mg/dL
+           - Triglycerides                            128.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      85.1 mg/dL
+           - High Density Lipoprotein Cholesterol     61.2 mg/dL
+  2015-09-30 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2015-09-30 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2013-09-25 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2013-09-25 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2013-09-25 : Lipid Panel
+           - Total Cholesterol                        199.5 mg/dL
+           - Triglycerides                            137.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.5 mg/dL
+           - High Density Lipoprotein Cholesterol     77.5 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-09-15 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-09-15 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2021-09-15 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 83402 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             512 Mante Frontage road 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-09-15 : Tobacco smoking status NHIS              Never smoker 
+  2021-09-15 : High Density Lipoprotein Cholesterol     63.9 mg/dL
+  2021-09-15 : Low Density Lipoprotein Cholesterol      99.7 mg/dL
+  2021-09-15 : Triglycerides                            134.9 mg/dL
+  2021-09-15 : Total Cholesterol                        190.5 mg/dL
+  2021-09-15 : Respiratory rate                         12.0 /min
+  2021-09-15 : Heart rate                               78.0 /min
+  2021-09-15 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2021-09-15 : Body Mass Index                          29.1 kg/m2
+  2021-09-15 : Body Weight                              74.6 kg
+  2021-09-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-09-15 : Body Height                              160.1 cm
+  2019-10-09 : Total score [AUDIT-C]                    2.0 {score}
+  2019-10-09 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-10-09 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? Yes 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 83402 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             512 Mante Frontage road 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2019-10-09 : Tobacco smoking status NHIS              Never smoker 
+  2019-10-09 : Respiratory rate                         14.0 /min
+  2019-10-09 : Heart rate                               99.0 /min
+  2019-10-09 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2019-10-09 : Body Mass Index                          28.1 kg/m2
+  2019-10-09 : Body Weight                              72.1 kg
+  2019-10-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-10-09 : Body Height                              160.1 cm
+  2017-10-04 : Total score [DAST-10]                    1.0 {score}
+  2017-10-04 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2017-10-04 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 83402 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             512 Mante Frontage road 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2017-10-04 : Tobacco smoking status NHIS              Never smoker 
+  2017-10-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2017-10-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 259.0 fL
+  2017-10-04 : Platelets [#/volume] in Blood by Automated count 371.2 10*3/uL
+  2017-10-04 : Erythrocyte distribution width [Entitic volume] by Automated count 43.9 fL
+  2017-10-04 : MCHC [Mass/volume] by Automated count    33.1 g/dL
+  2017-10-04 : MCH [Entitic mass] by Automated count    29.7 pg
+  2017-10-04 : MCV [Entitic volume] by Automated count  93.5 fL
+  2017-10-04 : Hematocrit [Volume Fraction] of Blood by Automated count 35.8 %
+  2017-10-04 : Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+  2017-10-04 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2017-10-04 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  2017-10-04 : High Density Lipoprotein Cholesterol     61.2 mg/dL
+  2017-10-04 : Low Density Lipoprotein Cholesterol      85.1 mg/dL
+  2017-10-04 : Triglycerides                            128.7 mg/dL
+  2017-10-04 : Total Cholesterol                        172.1 mg/dL
+  2017-10-04 : Respiratory rate                         14.0 /min
+  2017-10-04 : Heart rate                               92.0 /min
+  2017-10-04 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  2017-10-04 : Body Mass Index                          29.6 kg/m2
+  2017-10-04 : Body Weight                              75.9 kg
+  2017-10-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-10-04 : Body Height                              160.1 cm
+  2015-09-30 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2015-09-30 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2015-09-30 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 83402 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             512 Mante Frontage road 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2015-09-30 : Tobacco smoking status NHIS              Never smoker 
+  2015-09-30 : Respiratory rate                         16.0 /min
+  2015-09-30 : Heart rate                               92.0 /min
+  2015-09-30 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2015-09-30 : Body Mass Index                          28.3 kg/m2
+  2015-09-30 : Body Weight                              72.5 kg
+  2015-09-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-09-30 : Body Height                              160.1 cm
+  2013-09-25 : Total score [DAST-10]                    1.0 {score}
+  2013-09-25 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2013-09-25 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 83402 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             512 Mante Frontage road 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2013-09-25 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-25 : High Density Lipoprotein Cholesterol     77.5 mg/dL
+  2013-09-25 : Low Density Lipoprotein Cholesterol      94.5 mg/dL
+  2013-09-25 : Triglycerides                            137.8 mg/dL
+  2013-09-25 : Total Cholesterol                        199.5 mg/dL
+  2013-09-25 : Respiratory rate                         13.0 /min
+  2013-09-25 : Heart rate                               91.0 /min
+  2013-09-25 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2013-09-25 : Body Mass Index                          30.3 kg/m2
+  2013-09-25 : Body Weight                              77.6 kg
+  2013-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-09-25 : Body Height                              160.1 cm
+  2012-11-21 : Body temperature                         37.1 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-09-15 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-09-15 : Depression screening (procedure)
+  2021-09-15 : Assessment of anxiety (procedure)
+  2021-09-15 : Medication Reconciliation (procedure)
+  2021-09-15 : Colonoscopy
+  2021-09-15 : Assessment of health and social care needs (procedure)
+  2019-10-09 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2019-10-09 : Assessment of substance use (procedure)
+  2019-10-09 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-10-09 : Depression screening (procedure)
+  2019-10-09 : Assessment of health and social care needs (procedure)
+  2017-10-04 : Screening for drug abuse (procedure)
+  2017-10-04 : Assessment of substance use (procedure)
+  2017-10-04 : Assessment of anxiety (procedure)
+  2017-10-04 : Assessment of health and social care needs (procedure)
+  2015-09-30 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2015-09-30 : Depression screening (procedure)
+  2015-09-30 : Assessment of anxiety (procedure)
+  2015-09-30 : Assessment of health and social care needs (procedure)
+  2013-09-25 : Screening for drug abuse (procedure)
+  2013-09-25 : Assessment of substance use (procedure)
+  2013-09-25 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2013-09-25 : Depression screening (procedure)
+  2013-09-25 : Assessment of health and social care needs (procedure)
+  2012-11-21 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-09-15 : Influenza, seasonal, injectable, preservative free
+  2021-09-15 : zoster
+  2021-02-03 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-01-13 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2019-10-09 : Influenza, seasonal, injectable, preservative free
+  2017-10-04 : Influenza, seasonal, injectable, preservative free
+  2015-09-30 : Influenza, seasonal, injectable, preservative free
+  2013-09-25 : Hep A, adult
+  2013-09-25 : Td (adult) preservative free
+  2013-09-25 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-09-15 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+2021-09-15 (Dr. Dennis Paucek) : Encounter at MAXIMUM IMPACT PHYSICAL THERAPY SERVICES LLC
+2021-02-03 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2021-01-13 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2019-10-09 (Dr. Dennis Paucek) : Encounter at MAXIMUM IMPACT PHYSICAL THERAPY SERVICES LLC
+2017-10-04 (Dr. Dennis Paucek) : Encounter at MAXIMUM IMPACT PHYSICAL THERAPY SERVICES LLC
+2015-09-30 (Dr. Dennis Paucek) : Encounter at MAXIMUM IMPACT PHYSICAL THERAPY SERVICES LLC
+2013-09-25 (Dr. Dennis Paucek) : Encounter at MAXIMUM IMPACT PHYSICAL THERAPY SERVICES LLC
+2012-11-21 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Acute viral pharyngitis (disorder)
+2011-09-21 (Dr. Dennis Paucek) : Encounter at MAXIMUM IMPACT PHYSICAL THERAPY SERVICES LLC
+2009-09-30 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Osteoarthritis of knee
+2008-12-03 (Dr. Dennis Paucek) : Encounter at MAXIMUM IMPACT PHYSICAL THERAPY SERVICES LLC
+1999-11-20 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+1996-11-13 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+1996-10-25 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING
+1989-11-08 (Dr. Dennis Paucek) : Encounter at MAXIMUM IMPACT PHYSICAL THERAPY SERVICES LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

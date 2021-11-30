@@ -1,0 +1,528 @@
+Lavina Hickle
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 26
+Birth Date:          1995-02-12
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-08-15[CURRENT] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2020-12-07[CURRENT] : 4 ML norepinephrine 1 MG/ML Injection
+  2020-12-03[CURRENT] : 150 ML vancomycin 5 MG/ML Injection for Sepsis (disorder)
+  2020-12-03[CURRENT] : piperacillin 2000 MG / tazobactam 250 MG Injection for Sepsis (disorder)
+  2018-09-04[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2017-03-29[STOPPED] : Trinessa 28 Day Pack
+  2016-04-03[STOPPED] : Camila 28 Day Pack
+  2014-01-16[STOPPED] : Yaz 28 Day Pack
+  2013-01-18[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2012-04-14[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-12-03 -            : Sepsis (disorder)
+  2020-11-29 - 2021-07-04 : Normal pregnancy
+  2019-09-22 - 2020-04-19 : Normal pregnancy
+  2018-09-04 - 2018-10-09 : Whiplash injury to neck
+  2017-04-16 - 2020-04-19 : Victim of intimate partner abuse (finding)
+  2017-04-16 -            : Has a criminal record (finding)
+  2016-08-17 - 2016-08-28 : Acute viral pharyngitis (disorder)
+  2015-07-19 - 2016-02-21 : Normal pregnancy
+  2014-04-13 - 2020-04-19 : Limited social contact (finding)
+  2013-04-07 -            : Unemployed (finding)
+  2013-04-07 -            : Received higher education (finding)
+  2013-01-18 - 2013-01-25 : Acute bronchitis (disorder)
+  2012-09-20 - 2012-10-03 : Acute viral pharyngitis (disorder)
+  2012-04-14 - 2012-05-11 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2020-11-29[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2019-09-22[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2018-09-04[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+  2015-07-19[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2013-01-18[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-12-03 : Blood Culture, Routine
+           - Gram positive blood culture panel by Probe in Positive blood culture Positive (qualifier value) 
+  2020-04-19 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2017-04-16 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2017-04-16 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-04-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.2 %
+           - MCV [Entitic volume] by Automated count  83.7 fL
+           - MCH [Entitic mass] by Automated count    30.1 pg
+           - MCHC [Mass/volume] by Automated count    33.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.0 fL
+           - Platelets [#/volume] in Blood by Automated count 421.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 200.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2014-04-13 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2014-04-13 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2014-04-13 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2013-04-07 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2013-04-07 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2012-04-01 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-12-09 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2020-12-07 : Blood Pressure
+           - Diastolic Blood Pressure                 88.4 mm[Hg]
+           - Systolic Blood Pressure                  100.6 mm[Hg]
+  2020-12-07 : Lactate [Mass/volume] in Blood           3.4 mmol/L
+  2020-12-03 : Mean blood pressure                      76.7 mm[Hg]
+  2020-12-03 : Lactate [Mass/volume] in Blood           2.0 mmol/L
+  2020-12-03 : Oxygen Saturation                        92.0 %
+  2020-12-03 : Capillary refill [Time] of Nail bed      Increased capillary filling time (finding) 
+  2020-12-03 : Gram positive blood culture panel by Probe in Positive blood culture Positive (qualifier value) 
+  2020-04-19 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2020-04-19 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 58588 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             119 Walker Mill 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 7.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2020-04-19 : Tobacco smoking status NHIS              Never smoker 
+  2020-04-19 : Respiratory rate                         13.0 /min
+  2020-04-19 : Heart rate                               94.0 /min
+  2020-04-19 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  101.0 mm[Hg]
+  2020-04-19 : Body Mass Index                          28.2 kg/m2
+  2020-04-19 : Body Weight                              65.1 kg
+  2020-04-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-04-19 : Body Height                              152.0 cm
+  2017-04-16 : Total score [AUDIT-C]                    1.0 {score}
+  2017-04-16 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-04-16 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? Yes 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 58588 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             119 Walker Mill 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 7.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2017-04-16 : Tobacco smoking status NHIS              Never smoker 
+  2017-04-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2017-04-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 200.9 fL
+  2017-04-16 : Platelets [#/volume] in Blood by Automated count 421.1 10*3/uL
+  2017-04-16 : Erythrocyte distribution width [Entitic volume] by Automated count 42.0 fL
+  2017-04-16 : MCHC [Mass/volume] by Automated count    33.0 g/dL
+  2017-04-16 : MCH [Entitic mass] by Automated count    30.1 pg
+  2017-04-16 : MCV [Entitic volume] by Automated count  83.7 fL
+  2017-04-16 : Hematocrit [Volume Fraction] of Blood by Automated count 36.2 %
+  2017-04-16 : Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+  2017-04-16 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2017-04-16 : Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+  2017-04-16 : Respiratory rate                         12.0 /min
+  2017-04-16 : Heart rate                               81.0 /min
+  2017-04-16 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2017-04-16 : Body Mass Index                          28.2 kg/m2
+  2017-04-16 : Body Weight                              65.1 kg
+  2017-04-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-04-16 : Body Height                              152.0 cm
+  2016-08-17 : Body temperature                         37.5 Cel
+  2014-04-13 : Total score [DAST-10]                    2.0 {score}
+  2014-04-13 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2014-04-13 : Total score [HARK]                       0.0 {score}
+  2014-04-13 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 58588 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             119 Walker Mill 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 7.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2014-04-13 : Tobacco smoking status NHIS              Never smoker 
+  2014-04-13 : Respiratory rate                         13.0 /min
+  2014-04-13 : Heart rate                               89.0 /min
+  2014-04-13 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2014-04-13 : Body mass index (BMI) [Percentile] Per age and gender 91.7 %
+  2014-04-13 : Body Mass Index                          28.7 kg/m2
+  2014-04-13 : Body Weight                              66.1 kg
+  2014-04-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-04-13 : Body Height                              151.9 cm
+  2013-04-07 : Total score [DAST-10]                    1.0 {score}
+  2013-04-07 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2013-04-07 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 58588 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             119 Walker Mill 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 7.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2013-04-07 : Tobacco smoking status NHIS              Never smoker 
+  2013-04-07 : Respiratory rate                         15.0 /min
+  2013-04-07 : Heart rate                               79.0 /min
+  2013-04-07 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2013-04-07 : Body mass index (BMI) [Percentile] Per age and gender 89.6 %
+  2013-04-07 : Body Mass Index                          27.1 kg/m2
+  2013-04-07 : Body Weight                              62.5 kg
+  2013-04-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-04-07 : Body Height                              151.8 cm
+  2013-01-27 : Tobacco smoking status NHIS              Never smoker 
+  2013-01-27 : Respiratory rate                         13.0 /min
+  2013-01-27 : Heart rate                               89.0 /min
+  2013-01-27 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2013-01-27 : Body mass index (BMI) [Percentile] Per age and gender 89.3 %
+  2013-01-27 : Body Mass Index                          26.9 kg/m2
+  2013-01-27 : Body Weight                              62.0 kg
+  2013-01-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2013-01-27 : Body Height                              151.8 cm
+  2012-09-20 : Body temperature                         37.4 Cel
+  2012-04-01 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2012-04-01 : Tobacco smoking status NHIS              Never smoker 
+  2012-04-01 : Respiratory rate                         15.0 /min
+  2012-04-01 : Heart rate                               91.0 /min
+  2012-04-01 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2012-04-01 : Body mass index (BMI) [Percentile] Per age and gender 87.7 %
+  2012-04-01 : Body Mass Index                          26.0 kg/m2
+  2012-04-01 : Body Weight                              59.7 kg
+  2012-04-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-04-01 : Body Height                              151.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-11-21 : Intramuscular injection
+  2021-08-15 : Intramuscular injection
+  2021-08-15 : Depression screening
+  2021-08-15 : Physical examination following birth
+  2021-07-04 : Childbirth for Normal pregnancy
+  2021-07-04 : Medical induction of labor for Normal pregnancy
+  2021-06-27 : Auscultation of the fetal heart for Normal pregnancy
+  2021-06-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-06-13 : Auscultation of the fetal heart for Normal pregnancy
+  2021-06-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-06-13 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2021-05-16 : Auscultation of the fetal heart for Normal pregnancy
+  2021-05-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-04-18 : Auscultation of the fetal heart for Normal pregnancy
+  2021-04-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-04-18 : Urine screening for glucose for Normal pregnancy
+  2021-04-18 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2021-04-18 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2021-03-21 : Auscultation of the fetal heart for Normal pregnancy
+  2021-03-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-02-21 : Auscultation of the fetal heart for Normal pregnancy
+  2021-02-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-01-24 : Auscultation of the fetal heart for Normal pregnancy
+  2021-01-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-01-24 : Alpha-fetoprotein test for Normal pregnancy
+  2021-01-24 : Fetal anatomy study for Normal pregnancy
+  2020-12-27 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2020-12-27 : Auscultation of the fetal heart for Normal pregnancy
+  2020-12-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-12-09 : Transfer to stepdown unit (procedure) for Sepsis (disorder)
+  2020-12-07 : Resuscitation using intravenous fluid (procedure)
+  2020-12-07 : Admit to ICU (procedure)
+  2020-12-03 : Transfer to stepdown unit (procedure) for Sepsis (disorder)
+  2020-12-03 : Resuscitation using intravenous fluid (procedure) for Sepsis (disorder)
+  2020-11-29 : Physical examination of mother for Normal pregnancy
+  2020-11-29 : Urine protein test for Normal pregnancy
+  2020-11-29 : Skin test for tuberculosis for Normal pregnancy
+  2020-11-29 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2020-11-29 : Rubella screening for Normal pregnancy
+  2020-11-29 : Hepatitis C antibody test for Normal pregnancy
+  2020-11-29 : Urine screening test for diabetes for Normal pregnancy
+  2020-11-29 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2020-11-29 : Urine culture for Normal pregnancy
+  2020-11-29 : Syphilis infection test for Normal pregnancy
+  2020-11-29 : Gonorrhea infection test for Normal pregnancy
+  2020-11-29 : Chlamydia antigen test for Normal pregnancy
+  2020-11-29 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2020-11-29 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2020-11-29 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2020-11-29 : Blood typing, RH typing for Normal pregnancy
+  2020-11-29 : Auscultation of the fetal heart for Normal pregnancy
+  2020-11-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-11-29 : Ultrasound scan for fetal viability for Normal pregnancy
+  2020-11-29 : Standard pregnancy test for Normal pregnancy
+  2020-05-31 : Depression screening
+  2020-05-31 : Physical examination following birth
+  2020-04-19 : Assessment of anxiety (procedure)
+  2020-04-19 : Medication Reconciliation (procedure)
+  2020-04-19 : Assessment of health and social care needs (procedure)
+  2020-04-19 : Childbirth for Normal pregnancy
+  2020-04-05 : Auscultation of the fetal heart for Normal pregnancy
+  2020-04-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-04-05 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2020-03-08 : Auscultation of the fetal heart for Normal pregnancy
+  2020-03-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-02-09 : Auscultation of the fetal heart for Normal pregnancy
+  2020-02-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-02-09 : Urine screening for glucose for Normal pregnancy
+  2020-02-09 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2020-02-09 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2020-01-12 : Auscultation of the fetal heart for Normal pregnancy
+  2020-01-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-12-15 : Auscultation of the fetal heart for Normal pregnancy
+  2019-12-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-11-17 : Auscultation of the fetal heart for Normal pregnancy
+  2019-11-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-11-17 : Alpha-fetoprotein test for Normal pregnancy
+  2019-11-17 : Fetal anatomy study for Normal pregnancy
+  2019-10-20 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2019-10-20 : Auscultation of the fetal heart for Normal pregnancy
+  2019-10-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-09-22 : Physical examination of mother for Normal pregnancy
+  2019-09-22 : Urine protein test for Normal pregnancy
+  2019-09-22 : Skin test for tuberculosis for Normal pregnancy
+  2019-09-22 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2019-09-22 : Rubella screening for Normal pregnancy
+  2019-09-22 : Hepatitis C antibody test for Normal pregnancy
+  2019-09-22 : Urine screening test for diabetes for Normal pregnancy
+  2019-09-22 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2019-09-22 : Urine culture for Normal pregnancy
+  2019-09-22 : Syphilis infection test for Normal pregnancy
+  2019-09-22 : Gonorrhea infection test for Normal pregnancy
+  2019-09-22 : Chlamydia antigen test for Normal pregnancy
+  2019-09-22 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2019-09-22 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2019-09-22 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2019-09-22 : Blood typing, RH typing for Normal pregnancy
+  2019-09-22 : Auscultation of the fetal heart for Normal pregnancy
+  2019-09-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-09-22 : Ultrasound scan for fetal viability for Normal pregnancy
+  2019-09-22 : Standard pregnancy test for Normal pregnancy
+  2017-04-16 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2017-04-16 : Assessment of substance use (procedure)
+  2017-04-16 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2017-04-16 : Depression screening (procedure)
+  2017-04-16 : Assessment of health and social care needs (procedure)
+  2016-08-17 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2016-04-03 : Depression screening
+  2016-04-03 : Physical examination following birth
+  2016-02-21 : Childbirth for Normal pregnancy
+  2016-02-21 : Epidural anesthesia for Normal pregnancy
+  2016-02-14 : Auscultation of the fetal heart for Normal pregnancy
+  2016-02-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-01-31 : Auscultation of the fetal heart for Normal pregnancy
+  2016-01-31 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-01-31 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2016-01-03 : Auscultation of the fetal heart for Normal pregnancy
+  2016-01-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-12-06 : Auscultation of the fetal heart for Normal pregnancy
+  2015-12-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-12-06 : Urine screening for glucose for Normal pregnancy
+  2015-12-06 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2015-12-06 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-11-08 : Auscultation of the fetal heart for Normal pregnancy
+  2015-11-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-10-11 : Auscultation of the fetal heart for Normal pregnancy
+  2015-10-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-09-13 : Auscultation of the fetal heart for Normal pregnancy
+  2015-09-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-09-13 : Alpha-fetoprotein test for Normal pregnancy
+  2015-09-13 : Fetal anatomy study for Normal pregnancy
+  2015-08-16 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2015-08-16 : Auscultation of the fetal heart for Normal pregnancy
+  2015-08-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-07-19 : Physical examination of mother for Normal pregnancy
+  2015-07-19 : Urine protein test for Normal pregnancy
+  2015-07-19 : Skin test for tuberculosis for Normal pregnancy
+  2015-07-19 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2015-07-19 : Rubella screening for Normal pregnancy
+  2015-07-19 : Hepatitis C antibody test for Normal pregnancy
+  2015-07-19 : Urine screening test for diabetes for Normal pregnancy
+  2015-07-19 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2015-07-19 : Urine culture for Normal pregnancy
+  2015-07-19 : Syphilis infection test for Normal pregnancy
+  2015-07-19 : Gonorrhea infection test for Normal pregnancy
+  2015-07-19 : Chlamydia antigen test for Normal pregnancy
+  2015-07-19 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2015-07-19 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2015-07-19 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-07-19 : Blood typing, RH typing for Normal pregnancy
+  2015-07-19 : Auscultation of the fetal heart for Normal pregnancy
+  2015-07-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-07-19 : Ultrasound scan for fetal viability for Normal pregnancy
+  2015-07-19 : Standard pregnancy test for Normal pregnancy
+  2014-04-13 : Screening for drug abuse (procedure)
+  2014-04-13 : Assessment of substance use (procedure)
+  2014-04-13 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2014-04-13 : Depression screening (procedure)
+  2014-04-13 : Screening for domestic abuse (procedure)
+  2014-04-13 : Assessment of health and social care needs (procedure)
+  2013-04-07 : Screening for drug abuse (procedure)
+  2013-04-07 : Assessment of substance use (procedure)
+  2013-04-07 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2013-04-07 : Depression screening (procedure)
+  2013-04-07 : Assessment of health and social care needs (procedure)
+  2012-09-20 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2012-04-01 : Anticipatory guidance (procedure)
+  2012-04-01 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2012-04-01 : Assessment of substance use (procedure)
+  2012-04-01 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2012-04-01 : Medication Reconciliation (procedure)
+  2012-04-01 : Depression screening (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-04-11 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-03-21 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2020-04-19 : Influenza, seasonal, injectable, preservative free
+  2017-04-16 : meningococcal MCV4P
+  2017-04-16 : Hep B, adult
+  2017-04-16 : Td (adult) preservative free
+  2017-04-16 : Influenza, seasonal, injectable, preservative free
+  2014-04-13 : Influenza, seasonal, injectable, preservative free
+  2013-01-27 : Influenza, seasonal, injectable, preservative free
+  2012-04-01 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-11-21 (Dr. Hosea Boehm) : Encounter at NORTH CENTRAL SURGICAL CENTER LLP
+2021-08-15 (Dr. Hosea Boehm) : Encounter at NORTH CENTRAL SURGICAL CENTER LLP
+2021-08-15 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM
+2021-07-04 (Dr. Tuan Hansen) : Encounter at CHILDRENS MEDICAL CTR OF DALLAS : Encounter for Normal pregnancy
+2021-06-27 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2021-06-13 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2021-05-16 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2021-04-18 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2021-04-11 (Dr. Hosea Boehm) : Encounter at NORTH CENTRAL SURGICAL CENTER LLP
+2021-03-21 (Dr. Hosea Boehm) : Encounter at NORTH CENTRAL SURGICAL CENTER LLP
+2021-03-21 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2021-02-21 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2021-01-24 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2020-12-27 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2020-12-03 (Dr. Tuan Hansen) : Encounter at CHILDRENS MEDICAL CTR OF DALLAS : Encounter for Sepsis (disorder)
+2020-11-29 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2020-05-31 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM
+2020-04-19 (Dr. Tuan Hansen) : Encounter at CHILDRENS MEDICAL CTR OF DALLAS : Encounter for Normal pregnancy
+2020-04-19 (Dr. Jon Sawayn) : Encounter at SPIRIS GROUP LLC
+2020-04-05 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2020-03-08 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2020-02-09 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2020-01-12 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2019-12-15 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2019-11-17 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2019-10-20 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2019-09-22 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2018-09-04 (Dr. Tuan Hansen) : Encounter at CHILDRENS MEDICAL CTR OF DALLAS
+2017-04-16 (Dr. Jon Sawayn) : Encounter at SPIRIS GROUP LLC
+2017-03-29 (Dr. Hosea Boehm) : Encounter at NORTH CENTRAL SURGICAL CENTER LLP
+2016-08-17 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Acute viral pharyngitis (disorder)
+2016-04-03 (Dr. Hosea Boehm) : Encounter at NORTH CENTRAL SURGICAL CENTER LLP
+2016-04-03 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM
+2016-02-21 (Dr. Tuan Hansen) : Encounter at CHILDRENS MEDICAL CTR OF DALLAS : Encounter for Normal pregnancy
+2016-02-14 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2016-01-31 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2016-01-03 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2015-12-06 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2015-11-08 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2015-10-11 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2015-09-13 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2015-08-16 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2015-07-19 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Normal pregnancy
+2014-04-13 (Dr. Jon Sawayn) : Encounter at SPIRIS GROUP LLC
+2014-01-16 (Dr. Hosea Boehm) : Encounter at NORTH CENTRAL SURGICAL CENTER LLP
+2013-04-07 (Dr. Jon Sawayn) : Encounter at SPIRIS GROUP LLC
+2013-01-27 (Dr. Hosea Boehm) : Encounter at NORTH CENTRAL SURGICAL CENTER LLP
+2013-01-18 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Acute bronchitis (disorder)
+2012-09-20 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Acute viral pharyngitis (disorder)
+2012-04-14 (Dr. Loren Fay) : Encounter at PARKLAND HEALTH AND HOSPITAL SYSTEM : Encounter for Viral sinusitis (disorder)
+2012-04-01 (Dr. Jon Sawayn) : Encounter at SPIRIS GROUP LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

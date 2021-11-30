@@ -1,0 +1,525 @@
+Blossom Ernser
+==============
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 40
+Birth Date:          1981-07-10
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2019-02-04[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2015-08-14[STOPPED] : Errin 28 Day Pack
+  2014-08-15[STOPPED] : Mirena 52 MG Intrauterine System
+  2012-07-28[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2011-07-02[STOPPED] : Mirena 52 MG Intrauterine System
+  1986-02-22[CURRENT] : Chlorpheniramine Maleate 2 MG/ML Oral Solution
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-08-30 - 2021-09-15 : Viral sinusitis (disorder)
+  2021-07-16 -            : Full-time employment (finding)
+  2019-02-04 - 2019-02-14 : Streptococcal sore throat (disorder)
+  2018-09-28 - 2021-07-16 : Part-time employment (finding)
+  2015-11-27 - 2016-02-09 : Normal pregnancy
+  2015-09-25 - 2018-09-28 : Victim of intimate partner abuse (finding)
+  2015-09-25 - 2018-09-28 : Reports of violence in the environment (finding)
+  2015-09-25 -            : Stress (finding)
+  2015-09-25 - 2018-09-28 : Full-time employment (finding)
+  2013-11-22 - 2014-07-04 : Normal pregnancy
+  2012-09-21 - 2015-09-25 : Full-time employment (finding)
+  2012-09-21 -            : Prediabetes
+  2012-07-28 - 2012-08-04 : Streptococcal sore throat (disorder)
+  2009-09-18 - 2012-09-21 : Stress (finding)
+  2009-09-18 - 2012-09-21 : Full-time employment (finding)
+  2003-09-12 - 2006-09-15 : Stress (finding)
+  2003-09-12 - 2006-09-15 : Full-time employment (finding)
+  2000-09-08 - 2021-07-16 : Social isolation (finding)
+  2000-09-08 - 2003-09-12 : Full-time employment (finding)
+  1999-09-03 - 2000-09-08 : Stress (finding)
+  1999-09-03 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-08-24[STOPPED] : Minor surgery care management (procedure)
+                         Activity: Recommendation to rest
+                         Activity: Recommendation to limit sexual activity
+  2015-11-27[CURRENT] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2013-11-22[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2012-09-21[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2010-09-17[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2009-09-18[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2007-10-26[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2004-11-19[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1986-03-02[CURRENT] : Self-care interventions (procedure)
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-07-16 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-07-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.2 %
+           - MCV [Entitic volume] by Automated count  85.9 fL
+           - MCH [Entitic mass] by Automated count    31.8 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+           - Platelets [#/volume] in Blood by Automated count 205.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 289.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2021-07-16 : Basic Metabolic Panel
+           - Glucose                                  72.0 mg/dL
+           - Urea Nitrogen                            11.7 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   137.1 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 110.1 mmol/L
+           - Carbon Dioxide                           29.0 mmol/L
+  2018-09-28 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2018-09-28 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2018-09-28 : Lipid Panel
+           - Total Cholesterol                        195.3 mg/dL
+           - Triglycerides                            101.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      108.9 mg/dL
+           - High Density Lipoprotein Cholesterol     66.1 mg/dL
+  2018-09-28 : Basic Metabolic Panel
+           - Glucose                                  79.0 mg/dL
+           - Urea Nitrogen                            16.5 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   140.5 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 109.4 mmol/L
+           - Carbon Dioxide                           24.3 mmol/L
+  2015-09-25 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2015-09-25 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2015-09-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.1 %
+           - MCV [Entitic volume] by Automated count  84.6 fL
+           - MCH [Entitic mass] by Automated count    29.8 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.5 fL
+           - Platelets [#/volume] in Blood by Automated count 249.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 278.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2015-09-25 : Lipid Panel
+           - Total Cholesterol                        184.4 mg/dL
+           - Triglycerides                            138.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      77.9 mg/dL
+           - High Density Lipoprotein Cholesterol     78.9 mg/dL
+  2015-09-25 : Basic Metabolic Panel
+           - Glucose                                  81.3 mg/dL
+           - Urea Nitrogen                            12.5 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   141.8 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 110.9 mmol/L
+           - Carbon Dioxide                           24.1 mmol/L
+  2012-09-21 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2012-09-21 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2012-09-21 : Lipid Panel
+           - Total Cholesterol                        178.6 mg/dL
+           - Triglycerides                            132.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      84.4 mg/dL
+           - High Density Lipoprotein Cholesterol     67.7 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-07-16 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-07-16 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 74197 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             514 Hilpert Skyway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2021-07-16 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2021-07-16 : Tobacco smoking status NHIS              Never smoker 
+  2021-07-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2021-07-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 289.6 fL
+  2021-07-16 : Platelets [#/volume] in Blood by Automated count 205.5 10*3/uL
+  2021-07-16 : Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+  2021-07-16 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2021-07-16 : MCH [Entitic mass] by Automated count    31.8 pg
+  2021-07-16 : MCV [Entitic volume] by Automated count  85.9 fL
+  2021-07-16 : Hematocrit [Volume Fraction] of Blood by Automated count 48.2 %
+  2021-07-16 : Hemoglobin [Mass/volume] in Blood        15.5 g/dL
+  2021-07-16 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2021-07-16 : Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+  2021-07-16 : Carbon Dioxide                           29.0 mmol/L
+  2021-07-16 : Chloride                                 110.1 mmol/L
+  2021-07-16 : Potassium                                4.9 mmol/L
+  2021-07-16 : Sodium                                   137.1 mmol/L
+  2021-07-16 : Calcium                                  9.7 mg/dL
+  2021-07-16 : Creatinine                               1.0 mg/dL
+  2021-07-16 : Urea Nitrogen                            11.7 mg/dL
+  2021-07-16 : Glucose                                  72.0 mg/dL
+  2021-07-16 : Respiratory rate                         16.0 /min
+  2021-07-16 : Heart rate                               81.0 /min
+  2021-07-16 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2021-07-16 : Body Mass Index                          29.7 kg/m2
+  2021-07-16 : Body Weight                              83.2 kg
+  2021-07-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2021-07-16 : Body Height                              167.3 cm
+  2019-02-04 : Body temperature                         37.4 Cel
+  2018-09-28 : Total score [DAST-10]                    1.0 {score}
+  2018-09-28 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2018-09-28 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 74197 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             514 Hilpert Skyway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2018-09-28 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2018-09-28 : Tobacco smoking status NHIS              Never smoker 
+  2018-09-28 : High Density Lipoprotein Cholesterol     66.1 mg/dL
+  2018-09-28 : Low Density Lipoprotein Cholesterol      108.9 mg/dL
+  2018-09-28 : Triglycerides                            101.5 mg/dL
+  2018-09-28 : Total Cholesterol                        195.3 mg/dL
+  2018-09-28 : Carbon Dioxide                           24.3 mmol/L
+  2018-09-28 : Chloride                                 109.4 mmol/L
+  2018-09-28 : Potassium                                4.8 mmol/L
+  2018-09-28 : Sodium                                   140.5 mmol/L
+  2018-09-28 : Calcium                                  10.1 mg/dL
+  2018-09-28 : Creatinine                               1.0 mg/dL
+  2018-09-28 : Urea Nitrogen                            16.5 mg/dL
+  2018-09-28 : Glucose                                  79.0 mg/dL
+  2018-09-28 : Respiratory rate                         15.0 /min
+  2018-09-28 : Heart rate                               71.0 /min
+  2018-09-28 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2018-09-28 : Body Mass Index                          28.1 kg/m2
+  2018-09-28 : Body Weight                              78.7 kg
+  2018-09-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-09-28 : Body Height                              167.3 cm
+  2015-09-25 : Total score [HARK]                       0.0 {score}
+  2015-09-25 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2015-09-25 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? Yes 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 74197 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             514 Hilpert Skyway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2015-09-25 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2015-09-25 : Tobacco smoking status NHIS              Never smoker 
+  2015-09-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2015-09-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 278.4 fL
+  2015-09-25 : Platelets [#/volume] in Blood by Automated count 249.9 10*3/uL
+  2015-09-25 : Erythrocyte distribution width [Entitic volume] by Automated count 45.5 fL
+  2015-09-25 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2015-09-25 : MCH [Entitic mass] by Automated count    29.8 pg
+  2015-09-25 : MCV [Entitic volume] by Automated count  84.6 fL
+  2015-09-25 : Hematocrit [Volume Fraction] of Blood by Automated count 41.1 %
+  2015-09-25 : Hemoglobin [Mass/volume] in Blood        15.8 g/dL
+  2015-09-25 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  2015-09-25 : Leukocytes [#/volume] in Blood by Automated count 4.7 10*3/uL
+  2015-09-25 : High Density Lipoprotein Cholesterol     78.9 mg/dL
+  2015-09-25 : Low Density Lipoprotein Cholesterol      77.9 mg/dL
+  2015-09-25 : Triglycerides                            138.3 mg/dL
+  2015-09-25 : Total Cholesterol                        184.4 mg/dL
+  2015-09-25 : Carbon Dioxide                           24.1 mmol/L
+  2015-09-25 : Chloride                                 110.9 mmol/L
+  2015-09-25 : Potassium                                5.2 mmol/L
+  2015-09-25 : Sodium                                   141.8 mmol/L
+  2015-09-25 : Calcium                                  9.8 mg/dL
+  2015-09-25 : Creatinine                               1.0 mg/dL
+  2015-09-25 : Urea Nitrogen                            12.5 mg/dL
+  2015-09-25 : Glucose                                  81.3 mg/dL
+  2015-09-25 : Respiratory rate                         13.0 /min
+  2015-09-25 : Heart rate                               90.0 /min
+  2015-09-25 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2015-09-25 : Body Mass Index                          29.3 kg/m2
+  2015-09-25 : Body Weight                              81.9 kg
+  2015-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-09-25 : Body Height                              167.3 cm
+  2012-09-21 : Total score [DAST-10]                    1.0 {score}
+  2012-09-21 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2012-09-21 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 74197 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             514 Hilpert Skyway 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 5.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2012-09-21 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2012-09-21 : Tobacco smoking status NHIS              Never smoker 
+  2012-09-21 : High Density Lipoprotein Cholesterol     67.7 mg/dL
+  2012-09-21 : Low Density Lipoprotein Cholesterol      84.4 mg/dL
+  2012-09-21 : Triglycerides                            132.3 mg/dL
+  2012-09-21 : Total Cholesterol                        178.6 mg/dL
+  2012-09-21 : Respiratory rate                         14.0 /min
+  2012-09-21 : Heart rate                               84.0 /min
+  2012-09-21 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2012-09-21 : Body Mass Index                          27.7 kg/m2
+  2012-09-21 : Body Weight                              77.6 kg
+  2012-09-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2012-09-21 : Body Height                              167.3 cm
+  2012-07-28 : Body temperature                         38.6 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-07-16 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-07-16 : Depression screening (procedure)
+  2021-07-16 : Assessment of health and social care needs (procedure)
+  2019-02-04 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2018-09-28 : Screening for drug abuse (procedure)
+  2018-09-28 : Assessment of substance use (procedure)
+  2018-09-28 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2018-09-28 : Depression screening (procedure)
+  2018-09-28 : Medication Reconciliation (procedure)
+  2018-09-28 : Assessment of health and social care needs (procedure)
+  2016-08-24 : Bilateral tubal ligation
+  2016-02-09 : Depression screening for Normal pregnancy
+  2016-02-09 : Physical examination for Normal pregnancy
+  2015-12-25 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2015-12-25 : Auscultation of the fetal heart for Normal pregnancy
+  2015-12-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-11-27 : Physical examination of mother for Normal pregnancy
+  2015-11-27 : Urine protein test for Normal pregnancy
+  2015-11-27 : Skin test for tuberculosis for Normal pregnancy
+  2015-11-27 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2015-11-27 : Rubella screening for Normal pregnancy
+  2015-11-27 : Hepatitis C antibody test for Normal pregnancy
+  2015-11-27 : Urine screening test for diabetes for Normal pregnancy
+  2015-11-27 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2015-11-27 : Urine culture for Normal pregnancy
+  2015-11-27 : Syphilis infection test for Normal pregnancy
+  2015-11-27 : Gonorrhea infection test for Normal pregnancy
+  2015-11-27 : Chlamydia antigen test for Normal pregnancy
+  2015-11-27 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2015-11-27 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2015-11-27 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-11-27 : Blood typing, RH typing for Normal pregnancy
+  2015-11-27 : Auscultation of the fetal heart for Normal pregnancy
+  2015-11-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-11-27 : Ultrasound scan for fetal viability for Normal pregnancy
+  2015-11-27 : Standard pregnancy test for Normal pregnancy
+  2015-09-25 : Screening for domestic abuse (procedure)
+  2015-09-25 : Assessment of anxiety (procedure)
+  2015-10-02 : Removal of intrauterine device
+  2015-09-25 : Medication Reconciliation (procedure)
+  2015-09-25 : Assessment of health and social care needs (procedure)
+  2014-08-19 : Insertion of intrauterine contraceptive device
+  2014-08-15 : Depression screening
+  2014-08-15 : Physical examination following birth
+  2014-07-04 : Childbirth for Normal pregnancy
+  2014-07-04 : Augmentation of labor for Normal pregnancy
+  2014-06-27 : Auscultation of the fetal heart for Normal pregnancy
+  2014-06-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-06-20 : Auscultation of the fetal heart for Normal pregnancy
+  2014-06-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-06-06 : Auscultation of the fetal heart for Normal pregnancy
+  2014-06-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-06-06 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2014-05-09 : Auscultation of the fetal heart for Normal pregnancy
+  2014-05-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-04-11 : Auscultation of the fetal heart for Normal pregnancy
+  2014-04-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-04-11 : Urine screening for glucose for Normal pregnancy
+  2014-04-11 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2014-04-11 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-03-14 : Auscultation of the fetal heart for Normal pregnancy
+  2014-03-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-02-14 : Auscultation of the fetal heart for Normal pregnancy
+  2014-02-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-01-17 : Auscultation of the fetal heart for Normal pregnancy
+  2014-01-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-01-17 : Alpha-fetoprotein test for Normal pregnancy
+  2014-01-17 : Fetal anatomy study for Normal pregnancy
+  2013-12-20 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2013-12-20 : Auscultation of the fetal heart for Normal pregnancy
+  2013-12-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-11-22 : Physical examination of mother for Normal pregnancy
+  2013-11-22 : Urine protein test for Normal pregnancy
+  2013-11-22 : Skin test for tuberculosis for Normal pregnancy
+  2013-11-22 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2013-11-22 : Rubella screening for Normal pregnancy
+  2013-11-22 : Hepatitis C antibody test for Normal pregnancy
+  2013-11-22 : Urine screening test for diabetes for Normal pregnancy
+  2013-11-22 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2013-11-22 : Urine culture for Normal pregnancy
+  2013-11-22 : Syphilis infection test for Normal pregnancy
+  2013-11-22 : Gonorrhea infection test for Normal pregnancy
+  2013-11-22 : Chlamydia antigen test for Normal pregnancy
+  2013-11-22 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2013-11-22 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2013-11-22 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-11-22 : Blood typing, RH typing for Normal pregnancy
+  2013-11-22 : Auscultation of the fetal heart for Normal pregnancy
+  2013-11-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-11-22 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-11-22 : Standard pregnancy test for Normal pregnancy
+  2013-09-27 : Removal of intrauterine device
+  2012-09-21 : Screening for drug abuse (procedure)
+  2012-09-21 : Assessment of substance use (procedure)
+  2012-09-21 : Assessment of anxiety (procedure)
+  2012-09-21 : Assessment of health and social care needs (procedure)
+  2012-06-30 : Insertion of intrauterine contraceptive device
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-09-10 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-08-20 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-07-16 : Hep A, adult
+  2021-07-16 : Influenza, seasonal, injectable, preservative free
+  2018-09-28 : Influenza, seasonal, injectable, preservative free
+  2015-09-25 : Influenza, seasonal, injectable, preservative free
+  2012-09-21 : Td (adult) preservative free
+  2012-09-21 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-09-10 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE
+2021-08-30 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Viral sinusitis (disorder)
+2021-08-20 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE
+2021-07-16 (Dr. Stevie Conroy) : Encounter at NORTH TEXAS PATHOLOGY SERVICES PA
+2019-02-04 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Streptococcal sore throat (disorder)
+2018-09-28 (Dr. Stevie Conroy) : Encounter at NORTH TEXAS PATHOLOGY SERVICES PA
+2016-08-24 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE
+2016-08-08 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE
+2016-02-09 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Fetus with chromosomal abnormality
+2016-01-22 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2015-12-25 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2015-11-27 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2015-10-02 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE
+2015-09-25 (Dr. Stevie Conroy) : Encounter at NORTH TEXAS PATHOLOGY SERVICES PA
+2015-08-14 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE
+2014-08-19 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE
+2014-08-15 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE
+2014-08-15 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE
+2014-07-04 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2014-06-27 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2014-06-20 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2014-06-06 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2014-05-09 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2014-04-11 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2014-03-14 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2014-02-14 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2014-01-17 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2013-12-20 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2013-11-22 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2013-09-27 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE
+2012-09-21 (Dr. Stevie Conroy) : Encounter at NORTH TEXAS PATHOLOGY SERVICES PA
+2012-07-28 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Streptococcal sore throat (disorder)
+2012-06-30 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE
+2012-06-28 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE
+2011-07-02 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE
+2010-09-17 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2009-09-18 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Anemia (disorder)
+2009-09-18 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2007-10-26 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2004-11-19 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Normal pregnancy
+2003-09-12 (Dr. Stevie Conroy) : Encounter at NORTH TEXAS PATHOLOGY SERVICES PA
+2000-09-08 (Dr. Stevie Conroy) : Encounter at NORTH TEXAS PATHOLOGY SERVICES PA
+1999-09-03 (Dr. Stevie Conroy) : Encounter at NORTH TEXAS PATHOLOGY SERVICES PA
+1986-03-02 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE
+1986-02-22 (Dr. Rebekah Prosacco) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER LAKE POINTE : Encounter for Seasonal allergic rhinitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

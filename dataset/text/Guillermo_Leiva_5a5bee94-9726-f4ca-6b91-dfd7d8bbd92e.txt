@@ -1,0 +1,1896 @@
+Guillermo Leiva
+===============
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1973-05-05
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1979-01-08 -            : Aspirin
+  1979-01-08 -            : Tree pollen (substance)
+  1979-01-08 -            : Grass pollen (substance)
+  1979-01-08 -            : Animal dander (substance)
+  1979-01-08 -            : House dust mite (organism)
+  1979-01-08 -            : Mold (organism)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2012-01-08[CURRENT] : 10 ML Furosemide 10 MG/ML Injection for Chronic congestive heart failure (disorder)
+  2011-10-22[CURRENT] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2011-10-22[CURRENT] : lisinopril 10 MG Oral Tablet for Hypertension
+  2011-10-22[CURRENT] : lisinopril 20 MG Oral Tablet for Chronic congestive heart failure (disorder)
+  2011-10-22[CURRENT] : Furosemide 40 MG Oral Tablet for Chronic congestive heart failure (disorder)
+  2011-10-22[CURRENT] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2011-10-22[CURRENT] : carvedilol 25 MG Oral Tablet for Chronic congestive heart failure (disorder)
+  2010-10-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2010-10-16[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2010-10-16[STOPPED] : lisinopril 20 MG Oral Tablet for Chronic congestive heart failure (disorder)
+  2010-10-16[STOPPED] : Furosemide 40 MG Oral Tablet for Chronic congestive heart failure (disorder)
+  2010-10-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2010-10-16[STOPPED] : carvedilol 25 MG Oral Tablet for Chronic congestive heart failure (disorder)
+  2010-07-17[STOPPED] : lisinopril 20 MG Oral Tablet for Chronic congestive heart failure (disorder)
+  2010-07-17[STOPPED] : carvedilol 25 MG Oral Tablet for Chronic congestive heart failure (disorder)
+  2010-07-17[STOPPED] : Furosemide 40 MG Oral Tablet for Chronic congestive heart failure (disorder)
+  2009-10-10[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2009-10-10[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2009-10-10[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2008-10-04[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2008-10-04[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2008-10-04[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2008-10-04[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2008-10-04[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2008-10-04[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2007-09-29[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2007-09-29[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2007-09-29[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2006-09-23[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2006-09-23[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2006-09-23[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2005-09-17[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2005-09-17[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2005-09-17[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2005-03-12[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2005-03-12[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2005-03-12[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2004-09-11[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2004-09-11[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2004-09-11[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2003-09-06[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2003-09-06[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2003-09-06[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2002-08-31[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2002-08-31[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2002-08-31[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2001-08-25[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2001-08-25[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2001-08-25[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2000-08-19[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2000-08-19[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2000-08-19[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1999-08-14[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1999-08-14[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1999-08-14[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1998-08-08[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1998-08-08[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1998-08-08[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1997-08-02[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1997-08-02[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1997-08-02[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1996-07-27[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1996-07-27[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1996-07-27[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1995-07-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1995-07-22[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1995-07-22[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1994-07-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1994-07-16[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1994-07-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1993-07-10[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1993-07-10[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1993-07-10[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1992-07-04[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1992-07-04[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1992-07-04[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1991-07-29[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1991-06-29[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1991-06-29[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1979-01-05[CURRENT] : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2011-10-22 -            : Social isolation (finding)
+  2011-10-22 -            : Full-time employment (finding)
+  2010-10-16 -            : Has a criminal record (finding)
+  2010-10-16 - 2011-10-22 : Full-time employment (finding)
+  2010-07-11 - 2010-08-03 : Viral sinusitis (disorder)
+  2010-07-01 -            : Chronic congestive heart failure (disorder)
+  2009-10-10 -            : Stress (finding)
+  2009-10-10 - 2010-10-16 : Full-time employment (finding)
+  2008-10-04 - 2009-10-10 : Full-time employment (finding)
+  2008-10-04 -            : Anemia (disorder)
+  2007-09-29 - 2010-10-16 : Social isolation (finding)
+  2007-09-29 - 2008-10-04 : Part-time employment (finding)
+  2007-09-29 -            : Prediabetes
+  2006-09-23 - 2007-09-29 : Unhealthy alcohol drinking behavior (finding)
+  2006-09-23 - 2008-10-04 : Stress (finding)
+  2006-09-23 - 2007-09-29 : Full-time employment (finding)
+  2005-09-17 - 2006-09-23 : Part-time employment (finding)
+  2005-03-12 - 2005-09-17 : Reports of violence in the environment (finding)
+  2005-03-12 - 2005-09-17 : Full-time employment (finding)
+  2005-03-10 - 2005-03-29 : Viral sinusitis (disorder)
+  2004-09-11 -            : Limited social contact (finding)
+  2004-09-11 - 2005-03-12 : Full-time employment (finding)
+  2003-09-06 - 2004-09-11 : Full-time employment (finding)
+  2003-07-30 - 2003-08-10 : Acute viral pharyngitis (disorder)
+  2002-08-31 - 2003-09-06 : Part-time employment (finding)
+  2001-08-25 - 2005-03-12 : Stress (finding)
+  2001-08-25 - 2002-08-31 : Full-time employment (finding)
+  2000-08-19 - 2001-08-25 : Full-time employment (finding)
+  1998-08-08 - 1999-08-14 : Full-time employment (finding)
+  1997-08-02 - 1999-08-14 : Stress (finding)
+  1997-08-02 - 1998-08-08 : Full-time employment (finding)
+  1996-07-27 -            : Refugee (person)
+  1996-07-27 - 1997-08-02 : Full-time employment (finding)
+  1994-07-16 - 1996-07-27 : Stress (finding)
+  1994-07-16 - 1995-07-22 : Full-time employment (finding)
+  1993-07-10 - 2003-09-06 : Limited social contact (finding)
+  1993-07-10 - 1994-07-16 : Full-time employment (finding)
+  1992-07-04 - 2006-09-23 : Social isolation (finding)
+  1992-07-04 - 1993-07-10 : Full-time employment (finding)
+  1991-06-29 - 1993-07-10 : Stress (finding)
+  1991-06-29 - 1992-07-04 : Full-time employment (finding)
+  1991-06-29 -            : Received certificate of high school equivalency (finding)
+  1991-06-29 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2012-06-10[STOPPED] : Inpatient care plan (record artifact)
+                         Reason: Chronic congestive heart failure (disorder)
+                         Activity: Cardiac care (regime/therapy)
+                         Activity: Low sodium diet (finding)
+  2012-01-08[STOPPED] : Inpatient care plan (record artifact)
+                         Reason: Chronic congestive heart failure (disorder)
+                         Activity: Cardiac care (regime/therapy)
+                         Activity: Low sodium diet (finding)
+  2010-07-17[CURRENT] : Heart failure self management plan
+                         Reason: Chronic congestive heart failure (disorder)
+                         Activity: low salt diet education
+                         Activity: physical exercise
+  2007-09-29[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1991-06-29[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1979-01-08[CURRENT] : Self-care interventions (procedure)
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2012-08-11 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Chronic congestive heart failure (disorder) 
+  2012-08-02 : Basic Metabolic Panel
+           - Glucose                                  74.0 mg/dL
+           - Urea Nitrogen                            16.6 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  10.2 mg/dL
+           - Sodium                                   142.1 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 110.2 mmol/L
+           - Carbon Dioxide                           24.6 mmol/L
+  2012-08-02 : Heartfailure Tracking Panel
+           - Left ventricular Ejection fraction       37.3 %
+  2012-06-10 : Iron and Iron binding capacity panel - Serum or Plasma
+           - Iron [Mass/volume] in Serum or Plasma    112.2 ug/dL
+           - Iron binding capacity [Mass/volume] in Serum or Plasma 334.5 ug/dL
+           - Iron saturation [Mass Fraction] in Serum or Plasma 41.9 %
+  2012-06-10 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 109.0 ug/L
+  2012-06-10 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2012-06-10 : Lipid Panel
+           - Total Cholesterol                        167.9 mg/dL
+           - Triglycerides                            113.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      70.0 mg/dL
+           - High Density Lipoprotein Cholesterol     75.3 mg/dL
+  2012-06-10 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 66.3 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 19.0 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 1.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.8 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 139.5 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.1 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 104.5 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 112.9 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.1 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.0 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.9 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 59.7 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 17.1 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12.9 U/L
+  2012-06-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.3 %
+           - MCV [Entitic volume] by Automated count  96.1 fL
+           - MCH [Entitic mass] by Automated count    26.8 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 14.9 %
+           - Platelets [#/volume] in Blood by Automated count 334.2 10*3/uL
+  2012-06-10 : Heartfailure Tracking Panel
+           - Left ventricular Ejection fraction       39.1 %
+  2012-06-10 : Iron and Iron binding capacity panel - Serum or Plasma
+           - Iron [Mass/volume] in Serum or Plasma    82.6 ug/dL
+           - Iron binding capacity [Mass/volume] in Serum or Plasma 431.6 ug/dL
+           - Iron saturation [Mass Fraction] in Serum or Plasma 53.1 %
+  2012-06-10 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 43.0 ug/L
+  2012-06-10 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2012-06-10 : Lipid Panel
+           - Total Cholesterol                        167.9 mg/dL
+           - Triglycerides                            113.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      70.0 mg/dL
+           - High Density Lipoprotein Cholesterol     75.3 mg/dL
+  2012-06-10 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 66.3 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 19.0 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 1.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.8 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 139.5 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 4.1 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 104.5 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 112.9 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.1 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 112.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.8 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 31.8 U/L
+  2012-06-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        11.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.2 %
+           - MCV [Entitic volume] by Automated count  96.3 fL
+           - MCH [Entitic mass] by Automated count    29.7 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.7 %
+           - Platelets [#/volume] in Blood by Automated count 307.5 10*3/uL
+  2012-01-08 : Iron and Iron binding capacity panel - Serum or Plasma
+           - Iron [Mass/volume] in Serum or Plasma    163.0 ug/dL
+           - Iron binding capacity [Mass/volume] in Serum or Plasma 440.4 ug/dL
+           - Iron saturation [Mass Fraction] in Serum or Plasma 47.5 %
+  2012-01-08 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 60.6 ug/L
+  2012-01-08 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2012-01-08 : Lipid Panel
+           - Total Cholesterol                        186.6 mg/dL
+           - Triglycerides                            143.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      93.0 mg/dL
+           - High Density Lipoprotein Cholesterol     64.8 mg/dL
+  2012-01-08 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 97.7 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 16.2 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 1.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.9 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 136.5 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.9 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 101.5 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 23.8 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 137.6 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 6.5 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.6 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.2 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 59.4 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 33.1 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 23.1 U/L
+  2012-01-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.2 %
+           - MCV [Entitic volume] by Automated count  96.9 fL
+           - MCH [Entitic mass] by Automated count    31.8 pg
+           - MCHC [Mass/volume] by Automated count    32.3 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 12.9 %
+           - Platelets [#/volume] in Blood by Automated count 265.0 10*3/uL
+  2012-01-08 : Iron and Iron binding capacity panel - Serum or Plasma
+           - Iron [Mass/volume] in Serum or Plasma    60.5 ug/dL
+           - Iron binding capacity [Mass/volume] in Serum or Plasma 329.5 ug/dL
+           - Iron saturation [Mass Fraction] in Serum or Plasma 21.1 %
+  2012-01-08 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 123.2 ug/L
+  2012-01-08 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2012-01-08 : Lipid Panel
+           - Total Cholesterol                        186.6 mg/dL
+           - Triglycerides                            143.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      93.0 mg/dL
+           - High Density Lipoprotein Cholesterol     64.8 mg/dL
+  2012-01-08 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 97.7 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 16.2 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 1.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 8.9 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 136.5 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.9 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 101.5 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 23.8 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 137.6 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 7.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.0 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 54.4 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.5 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 30.4 U/L
+  2012-01-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.8 %
+           - MCV [Entitic volume] by Automated count  87.5 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    33.8 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 13.4 %
+           - Platelets [#/volume] in Blood by Automated count 435.0 10*3/uL
+  2011-10-22 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2011-10-22 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2011-10-22 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2011-10-22 : Basic Metabolic Panel
+           - Glucose                                  82.4 mg/dL
+           - Urea Nitrogen                            16.2 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   141.2 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 105.2 mmol/L
+           - Carbon Dioxide                           28.1 mmol/L
+  2011-07-12 : Basic Metabolic Panel
+           - Glucose                                  98.1 mg/dL
+           - Urea Nitrogen                            16.3 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   142.1 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 105.8 mmol/L
+           - Carbon Dioxide                           20.6 mmol/L
+  2011-07-12 : Heartfailure Tracking Panel
+           - Left ventricular Ejection fraction       38.3 %
+  2011-01-13 : Basic Metabolic Panel
+           - Glucose                                  69.1 mg/dL
+           - Urea Nitrogen                            15.6 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   140.5 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 106.0 mmol/L
+           - Carbon Dioxide                           26.4 mmol/L
+  2011-01-13 : Heartfailure Tracking Panel
+           - Left ventricular Ejection fraction       36.9 %
+  2010-10-16 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2010-10-16 : Basic Metabolic Panel
+           - Glucose                                  99.4 mg/dL
+           - Urea Nitrogen                            17.2 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   139.0 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 104.1 mmol/L
+           - Carbon Dioxide                           21.1 mmol/L
+  2010-07-17 : Basic Metabolic Panel
+           - Glucose                                  93.5 mg/dL
+           - Urea Nitrogen                            12.7 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   139.7 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 110.0 mmol/L
+           - Carbon Dioxide                           20.6 mmol/L
+  2010-07-17 : Heartfailure Tracking Panel
+           - Left ventricular Ejection fraction       36.6 %
+  2010-07-01 : New York Heart Association Functional Classification panel
+           - Functional capacity NYHA                 Class II 
+           - Objective assessment of cardiovascular disease NYHA Objective evidence of severe cardiovascular disease 
+  2010-07-01 : Iron and Iron binding capacity panel - Serum or Plasma
+           - Iron [Mass/volume] in Serum or Plasma    154.4 ug/dL
+           - Iron binding capacity [Mass/volume] in Serum or Plasma 309.8 ug/dL
+           - Iron saturation [Mass Fraction] in Serum or Plasma 29.5 %
+  2010-07-01 : Iron panel - Serum or Plasma
+           - Ferritin [Mass/volume] in Serum or Plasma 81.6 ug/L
+  2010-07-01 : Troponin I.cardiac panel - Serum or Plasma by High sensitivity method
+           - Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2010-07-01 : Lipid Panel
+           - Total Cholesterol                        195.6 mg/dL
+           - Triglycerides                            136.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      105.6 mg/dL
+           - High Density Lipoprotein Cholesterol     62.7 mg/dL
+  2010-07-01 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose [Mass/volume] in Serum or Plasma 76.9 mg/dL
+           - Urea nitrogen [Mass/volume] in Serum or Plasma 19.3 mg/dL
+           - Creatinine [Mass/volume] in Serum or Plasma 1.7 mg/dL
+           - Calcium [Mass/volume] in Serum or Plasma 9.0 mg/dL
+           - Sodium [Moles/volume] in Serum or Plasma 137.4 mmol/L
+           - Potassium [Moles/volume] in Serum or Plasma 3.9 mmol/L
+           - Chloride [Moles/volume] in Serum or Plasma 101.4 mmol/L
+           - Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 134.6 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 8.4 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.6 g/dL
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.1 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 82.3 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 38.7 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 6.7 U/L
+  2010-07-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.2 %
+           - MCV [Entitic volume] by Automated count  79.5 fL
+           - MCH [Entitic mass] by Automated count    32.3 pg
+           - MCHC [Mass/volume] by Automated count    33.0 g/dL
+           - Erythrocyte distribution width [Ratio] by Automated count 12.3 %
+           - Platelets [#/volume] in Blood by Automated count 412.3 10*3/uL
+  2009-10-10 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2009-10-10 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2009-10-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.4 %
+           - MCV [Entitic volume] by Automated count  94.4 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+           - Platelets [#/volume] in Blood by Automated count 328.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 209.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2009-10-10 : Lipid Panel
+           - Total Cholesterol                        161.8 mg/dL
+           - Triglycerides                            106.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      78.8 mg/dL
+           - High Density Lipoprotein Cholesterol     61.8 mg/dL
+  2009-10-10 : Basic Metabolic Panel
+           - Glucose                                  77.2 mg/dL
+           - Urea Nitrogen                            18.1 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   142.4 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 107.7 mmol/L
+           - Carbon Dioxide                           24.9 mmol/L
+  2008-10-04 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    3.0 {score}
+  2008-10-04 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2008-10-04 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        10.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood    32.3 %
+           - WBC Auto (Bld) [#/Vol]                   7.6 10*3/uL
+           - RBC Auto (Bld) [#/Vol]                   4.9 10*6/uL
+           - MCV [Entitic volume] by Automated count  92.4 fL
+           - MCH [Entitic mass] by Automated count    31.6 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 45.7 fL
+           - Platelets [#/volume] in Blood by Automated count 200.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 183.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2008-10-04 : Basic Metabolic Panel
+           - Glucose                                  90.4 mg/dL
+           - Urea Nitrogen                            16.4 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   136.6 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 108.0 mmol/L
+           - Carbon Dioxide                           22.0 mmol/L
+  2007-09-29 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2007-09-29 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2006-09-23 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    8.0 {score}
+  2006-09-23 : Lipid Panel
+           - Total Cholesterol                        188.2 mg/dL
+           - Triglycerides                            138.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.8 mg/dL
+           - High Density Lipoprotein Cholesterol     65.7 mg/dL
+  2005-09-17 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2005-09-17 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2005-09-17 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2005-03-12 : PHQ-9 quick depression assessment panel [Reported.PHQ]
+           - Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 13.0 {score}
+  2005-03-12 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 5.0 {score}
+  2005-03-12 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2004-09-11 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2004-09-11 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2004-09-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.4 %
+           - MCV [Entitic volume] by Automated count  83.6 fL
+           - MCH [Entitic mass] by Automated count    32.9 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.1 fL
+           - Platelets [#/volume] in Blood by Automated count 426.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 441.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2003-09-06 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2003-09-06 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2003-09-06 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2003-09-06 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2003-09-06 : Lipid Panel
+           - Total Cholesterol                        161.9 mg/dL
+           - Triglycerides                            103.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      77.1 mg/dL
+           - High Density Lipoprotein Cholesterol     64.0 mg/dL
+  2002-08-31 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2002-08-31 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2002-08-31 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2012-08-11 : Cause of Death [US Standard Certificate of Death] Chronic congestive heart failure (disorder) 
+  2012-08-02 : Carbon Dioxide                           24.6 mmol/L
+  2012-08-02 : Chloride                                 110.2 mmol/L
+  2012-08-02 : Potassium                                4.9 mmol/L
+  2012-08-02 : Sodium                                   142.1 mmol/L
+  2012-08-02 : Calcium                                  10.2 mg/dL
+  2012-08-02 : Creatinine                               1.7 mg/dL
+  2012-08-02 : Urea Nitrogen                            16.6 mg/dL
+  2012-08-02 : Glucose                                  74.0 mg/dL
+  2012-08-02 : Left ventricular Ejection fraction       37.3 %
+  2012-08-01 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2012-07-30 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2012-07-27 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2012-07-25 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2012-07-23 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2012-07-21 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2012-07-20 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2012-07-19 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2012-07-18 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2012-07-14 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2012-07-12 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2012-07-11 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2012-07-10 : Blood Pressure
+           - Diastolic Blood Pressure                 89.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2012-07-09 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2012-07-08 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2012-07-07 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2012-07-05 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2012-07-04 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2012-07-03 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2012-07-01 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2012-06-27 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2012-06-26 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2012-06-25 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2012-06-24 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2012-06-22 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2012-06-21 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2012-06-18 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2012-06-16 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2012-06-15 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2012-06-14 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2012-06-13 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2012-06-10 : Iron saturation [Mass Fraction] in Serum or Plasma 41.9 %
+  2012-06-10 : Iron binding capacity [Mass/volume] in Serum or Plasma 334.5 ug/dL
+  2012-06-10 : Iron [Mass/volume] in Serum or Plasma    112.2 ug/dL
+  2012-06-10 : Ferritin [Mass/volume] in Serum or Plasma 109.0 ug/L
+  2012-06-10 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2012-06-10 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2012-06-10 : High Density Lipoprotein Cholesterol     75.3 mg/dL
+  2012-06-10 : Low Density Lipoprotein Cholesterol      70.0 mg/dL
+  2012-06-10 : Triglycerides                            113.2 mg/dL
+  2012-06-10 : Total Cholesterol                        167.9 mg/dL
+  2012-06-10 : Magnesium [Mass/volume] in Serum or Plasma 1.9 mg/dL
+  2012-06-10 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 12.9 U/L
+  2012-06-10 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 17.1 U/L
+  2012-06-10 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 59.7 U/L
+  2012-06-10 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.9 mg/dL
+  2012-06-10 : Albumin [Mass/volume] in Serum or Plasma 5.0 g/dL
+  2012-06-10 : Protein [Mass/volume] in Serum or Plasma 7.1 g/dL
+  2012-06-10 : Glomerular filtration rate/1.73 sq M.predicted 112.9 mL/min
+  2012-06-10 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.7 mmol/L
+  2012-06-10 : Chloride [Moles/volume] in Serum or Plasma 104.5 mmol/L
+  2012-06-10 : Potassium [Moles/volume] in Serum or Plasma 4.1 mmol/L
+  2012-06-10 : Sodium [Moles/volume] in Serum or Plasma 139.5 mmol/L
+  2012-06-10 : Calcium [Mass/volume] in Serum or Plasma 8.8 mg/dL
+  2012-06-10 : Creatinine [Mass/volume] in Serum or Plasma 1.7 mg/dL
+  2012-06-10 : Urea nitrogen [Mass/volume] in Serum or Plasma 19.0 mg/dL
+  2012-06-10 : Glucose [Mass/volume] in Serum or Plasma 66.3 mg/dL
+  2012-06-10 : Platelets [#/volume] in Blood by Automated count 334.2 10*3/uL
+  2012-06-10 : Erythrocyte distribution width [Ratio] by Automated count 14.9 %
+  2012-06-10 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2012-06-10 : MCH [Entitic mass] by Automated count    26.8 pg
+  2012-06-10 : MCV [Entitic volume] by Automated count  96.1 fL
+  2012-06-10 : Hematocrit [Volume Fraction] of Blood by Automated count 41.3 %
+  2012-06-10 : Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+  2012-06-10 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2012-06-10 : Leukocytes [#/volume] in Blood by Automated count 9.4 10*3/uL
+  2012-06-10 : NT-proBNP                                1056.9 pg/mL
+  2012-06-10 : Body Weight                              119.4 kg
+  2012-06-10 : Oxygen saturation in Arterial blood      85.0 %
+  2012-06-10 : Left ventricular Ejection fraction       39.1 %
+  2012-06-10 : Iron saturation [Mass Fraction] in Serum or Plasma 53.1 %
+  2012-06-10 : Iron binding capacity [Mass/volume] in Serum or Plasma 431.6 ug/dL
+  2012-06-10 : Iron [Mass/volume] in Serum or Plasma    82.6 ug/dL
+  2012-06-10 : Ferritin [Mass/volume] in Serum or Plasma 43.0 ug/L
+  2012-06-10 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2012-06-10 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2012-06-10 : High Density Lipoprotein Cholesterol     75.3 mg/dL
+  2012-06-10 : Low Density Lipoprotein Cholesterol      70.0 mg/dL
+  2012-06-10 : Triglycerides                            113.2 mg/dL
+  2012-06-10 : Total Cholesterol                        167.9 mg/dL
+  2012-06-10 : Magnesium [Mass/volume] in Serum or Plasma 1.9 mg/dL
+  2012-06-10 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 31.8 U/L
+  2012-06-10 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.8 U/L
+  2012-06-10 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 112.8 U/L
+  2012-06-10 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+  2012-06-10 : Albumin [Mass/volume] in Serum or Plasma 4.1 g/dL
+  2012-06-10 : Protein [Mass/volume] in Serum or Plasma 7.7 g/dL
+  2012-06-10 : Glomerular filtration rate/1.73 sq M.predicted 112.9 mL/min
+  2012-06-10 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.7 mmol/L
+  2012-06-10 : Chloride [Moles/volume] in Serum or Plasma 104.5 mmol/L
+  2012-06-10 : Potassium [Moles/volume] in Serum or Plasma 4.1 mmol/L
+  2012-06-10 : Sodium [Moles/volume] in Serum or Plasma 139.5 mmol/L
+  2012-06-10 : Calcium [Mass/volume] in Serum or Plasma 8.8 mg/dL
+  2012-06-10 : Creatinine [Mass/volume] in Serum or Plasma 1.7 mg/dL
+  2012-06-10 : Urea nitrogen [Mass/volume] in Serum or Plasma 19.0 mg/dL
+  2012-06-10 : Glucose [Mass/volume] in Serum or Plasma 66.3 mg/dL
+  2012-06-10 : Platelets [#/volume] in Blood by Automated count 307.5 10*3/uL
+  2012-06-10 : Erythrocyte distribution width [Ratio] by Automated count 13.7 %
+  2012-06-10 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2012-06-10 : MCH [Entitic mass] by Automated count    29.7 pg
+  2012-06-10 : MCV [Entitic volume] by Automated count  96.3 fL
+  2012-06-10 : Hematocrit [Volume Fraction] of Blood by Automated count 36.2 %
+  2012-06-10 : Hemoglobin [Mass/volume] in Blood        11.6 g/dL
+  2012-06-10 : Erythrocytes [#/volume] in Blood by Automated count 5.6 10*6/uL
+  2012-06-10 : Leukocytes [#/volume] in Blood by Automated count 7.0 10*3/uL
+  2012-06-10 : NT-proBNP                                996.8 pg/mL
+  2012-06-10 : Body Weight                              119.4 kg
+  2012-06-10 : Oxygen saturation in Arterial blood      85.0 %
+  2012-06-09 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2012-06-08 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2012-06-06 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2012-06-05 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2012-06-04 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2012-06-03 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2012-06-02 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2012-05-31 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2012-05-30 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2012-05-28 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  100.0 mm[Hg]
+  2012-05-27 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2012-05-26 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2012-05-25 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2012-05-24 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2012-05-23 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2012-05-21 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2012-05-19 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2012-05-18 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2012-05-17 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2012-05-14 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2012-05-13 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2012-05-11 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2012-05-09 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  101.0 mm[Hg]
+  2012-05-07 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2012-05-05 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2012-05-04 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2012-04-30 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2012-04-28 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2012-04-23 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2012-04-22 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2012-04-21 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2012-04-20 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2012-04-19 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2012-04-16 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2012-04-15 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2012-04-14 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2012-04-13 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2012-04-11 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2012-04-10 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2012-04-07 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2012-04-05 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2012-04-02 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2012-03-31 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2012-03-30 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2012-03-28 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2012-03-27 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2012-03-26 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2012-03-25 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2012-03-23 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2012-03-22 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2012-03-21 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2012-03-17 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2012-03-14 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2012-03-12 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2012-03-10 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2012-03-09 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2012-03-08 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2012-03-07 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2012-03-01 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2012-02-29 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2012-02-28 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2012-02-23 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2012-02-21 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2012-02-20 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2012-02-18 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2012-02-17 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2012-02-13 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2012-02-12 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2012-02-11 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2012-02-10 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2012-02-08 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2012-02-07 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2012-02-06 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  2012-02-04 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  101.0 mm[Hg]
+  2012-02-01 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2012-01-31 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2012-01-29 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2012-01-28 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2012-01-25 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  138.0 mm[Hg]
+  2012-01-24 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2012-01-22 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2012-01-21 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2012-01-20 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2012-01-18 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2012-01-16 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2012-01-15 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2012-01-14 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2012-01-13 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2012-01-11 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2012-01-10 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2012-01-08 : Iron saturation [Mass Fraction] in Serum or Plasma 47.5 %
+  2012-01-08 : Iron binding capacity [Mass/volume] in Serum or Plasma 440.4 ug/dL
+  2012-01-08 : Iron [Mass/volume] in Serum or Plasma    163.0 ug/dL
+  2012-01-08 : Ferritin [Mass/volume] in Serum or Plasma 60.6 ug/L
+  2012-01-08 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2012-01-08 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2012-01-08 : High Density Lipoprotein Cholesterol     64.8 mg/dL
+  2012-01-08 : Low Density Lipoprotein Cholesterol      93.0 mg/dL
+  2012-01-08 : Triglycerides                            143.7 mg/dL
+  2012-01-08 : Total Cholesterol                        186.6 mg/dL
+  2012-01-08 : Magnesium [Mass/volume] in Serum or Plasma 2.2 mg/dL
+  2012-01-08 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 23.1 U/L
+  2012-01-08 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 33.1 U/L
+  2012-01-08 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 59.4 U/L
+  2012-01-08 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.2 mg/dL
+  2012-01-08 : Albumin [Mass/volume] in Serum or Plasma 4.6 g/dL
+  2012-01-08 : Protein [Mass/volume] in Serum or Plasma 6.5 g/dL
+  2012-01-08 : Glomerular filtration rate/1.73 sq M.predicted 137.6 mL/min
+  2012-01-08 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 23.8 mmol/L
+  2012-01-08 : Chloride [Moles/volume] in Serum or Plasma 101.5 mmol/L
+  2012-01-08 : Potassium [Moles/volume] in Serum or Plasma 3.9 mmol/L
+  2012-01-08 : Sodium [Moles/volume] in Serum or Plasma 136.5 mmol/L
+  2012-01-08 : Calcium [Mass/volume] in Serum or Plasma 8.9 mg/dL
+  2012-01-08 : Creatinine [Mass/volume] in Serum or Plasma 1.7 mg/dL
+  2012-01-08 : Urea nitrogen [Mass/volume] in Serum or Plasma 16.2 mg/dL
+  2012-01-08 : Glucose [Mass/volume] in Serum or Plasma 97.7 mg/dL
+  2012-01-08 : Platelets [#/volume] in Blood by Automated count 265.0 10*3/uL
+  2012-01-08 : Erythrocyte distribution width [Ratio] by Automated count 12.9 %
+  2012-01-08 : MCHC [Mass/volume] by Automated count    32.3 g/dL
+  2012-01-08 : MCH [Entitic mass] by Automated count    31.8 pg
+  2012-01-08 : MCV [Entitic volume] by Automated count  96.9 fL
+  2012-01-08 : Hematocrit [Volume Fraction] of Blood by Automated count 42.2 %
+  2012-01-08 : Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+  2012-01-08 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2012-01-08 : Leukocytes [#/volume] in Blood by Automated count 6.1 10*3/uL
+  2012-01-08 : NT-proBNP                                1545.5 pg/mL
+  2012-01-08 : Body Weight                              119.4 kg
+  2012-01-08 : Oxygen saturation in Arterial blood      86.0 %
+  2012-01-08 : Iron saturation [Mass Fraction] in Serum or Plasma 21.1 %
+  2012-01-08 : Iron binding capacity [Mass/volume] in Serum or Plasma 329.5 ug/dL
+  2012-01-08 : Iron [Mass/volume] in Serum or Plasma    60.5 ug/dL
+  2012-01-08 : Ferritin [Mass/volume] in Serum or Plasma 123.2 ug/L
+  2012-01-08 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2012-01-08 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2012-01-08 : High Density Lipoprotein Cholesterol     64.8 mg/dL
+  2012-01-08 : Low Density Lipoprotein Cholesterol      93.0 mg/dL
+  2012-01-08 : Triglycerides                            143.7 mg/dL
+  2012-01-08 : Total Cholesterol                        186.6 mg/dL
+  2012-01-08 : Magnesium [Mass/volume] in Serum or Plasma 2.1 mg/dL
+  2012-01-08 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 30.4 U/L
+  2012-01-08 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 27.5 U/L
+  2012-01-08 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 54.4 U/L
+  2012-01-08 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+  2012-01-08 : Albumin [Mass/volume] in Serum or Plasma 5.0 g/dL
+  2012-01-08 : Protein [Mass/volume] in Serum or Plasma 7.0 g/dL
+  2012-01-08 : Glomerular filtration rate/1.73 sq M.predicted 137.6 mL/min
+  2012-01-08 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 23.8 mmol/L
+  2012-01-08 : Chloride [Moles/volume] in Serum or Plasma 101.5 mmol/L
+  2012-01-08 : Potassium [Moles/volume] in Serum or Plasma 3.9 mmol/L
+  2012-01-08 : Sodium [Moles/volume] in Serum or Plasma 136.5 mmol/L
+  2012-01-08 : Calcium [Mass/volume] in Serum or Plasma 8.9 mg/dL
+  2012-01-08 : Creatinine [Mass/volume] in Serum or Plasma 1.7 mg/dL
+  2012-01-08 : Urea nitrogen [Mass/volume] in Serum or Plasma 16.2 mg/dL
+  2012-01-08 : Glucose [Mass/volume] in Serum or Plasma 97.7 mg/dL
+  2012-01-08 : Platelets [#/volume] in Blood by Automated count 435.0 10*3/uL
+  2012-01-08 : Erythrocyte distribution width [Ratio] by Automated count 13.4 %
+  2012-01-08 : MCHC [Mass/volume] by Automated count    33.8 g/dL
+  2012-01-08 : MCH [Entitic mass] by Automated count    31.9 pg
+  2012-01-08 : MCV [Entitic volume] by Automated count  87.5 fL
+  2012-01-08 : Hematocrit [Volume Fraction] of Blood by Automated count 35.8 %
+  2012-01-08 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2012-01-08 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2012-01-08 : Leukocytes [#/volume] in Blood by Automated count 10.6 10*3/uL
+  2012-01-08 : NT-proBNP                                765.8 pg/mL
+  2012-01-08 : Body Weight                              119.4 kg
+  2012-01-08 : Oxygen saturation in Arterial blood      86.0 %
+  2011-10-22 : Total score [DAST-10]                    2.0 {score}
+  2011-10-22 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2011-10-22 : Total score [HARK]                       0.0 {score}
+  2011-10-22 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Childcare 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 33930 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             390 Huel Lodge Unit 78 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2011-10-22 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2011-10-22 : Tobacco smoking status NHIS              Never smoker 
+  2011-10-22 : Carbon Dioxide                           28.1 mmol/L
+  2011-10-22 : Chloride                                 105.2 mmol/L
+  2011-10-22 : Potassium                                3.9 mmol/L
+  2011-10-22 : Sodium                                   141.2 mmol/L
+  2011-10-22 : Calcium                                  9.2 mg/dL
+  2011-10-22 : Creatinine                               1.7 mg/dL
+  2011-10-22 : Urea Nitrogen                            16.2 mg/dL
+  2011-10-22 : Glucose                                  82.4 mg/dL
+  2011-10-22 : Respiratory rate                         14.0 /min
+  2011-10-22 : Heart rate                               87.0 /min
+  2011-10-22 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2011-10-22 : Body Mass Index                          30.2 kg/m2
+  2011-10-22 : Body Weight                              119.4 kg
+  2011-10-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2011-10-22 : Body Height                              198.7 cm
+  2011-07-12 : Carbon Dioxide                           20.6 mmol/L
+  2011-07-12 : Chloride                                 105.8 mmol/L
+  2011-07-12 : Potassium                                4.3 mmol/L
+  2011-07-12 : Sodium                                   142.1 mmol/L
+  2011-07-12 : Calcium                                  8.9 mg/dL
+  2011-07-12 : Creatinine                               1.7 mg/dL
+  2011-07-12 : Urea Nitrogen                            16.3 mg/dL
+  2011-07-12 : Glucose                                  98.1 mg/dL
+  2011-07-12 : Left ventricular Ejection fraction       38.3 %
+  2011-01-13 : Carbon Dioxide                           26.4 mmol/L
+  2011-01-13 : Chloride                                 106.0 mmol/L
+  2011-01-13 : Potassium                                4.6 mmol/L
+  2011-01-13 : Sodium                                   140.5 mmol/L
+  2011-01-13 : Calcium                                  9.0 mg/dL
+  2011-01-13 : Creatinine                               1.7 mg/dL
+  2011-01-13 : Urea Nitrogen                            15.6 mg/dL
+  2011-01-13 : Glucose                                  69.1 mg/dL
+  2011-01-13 : Left ventricular Ejection fraction       36.9 %
+  2010-10-16 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2010-10-16 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 33930 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             390 Huel Lodge Unit 78 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2010-10-16 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2010-10-16 : Tobacco smoking status NHIS              Never smoker 
+  2010-10-16 : Carbon Dioxide                           21.1 mmol/L
+  2010-10-16 : Chloride                                 104.1 mmol/L
+  2010-10-16 : Potassium                                4.2 mmol/L
+  2010-10-16 : Sodium                                   139.0 mmol/L
+  2010-10-16 : Calcium                                  9.3 mg/dL
+  2010-10-16 : Creatinine                               1.7 mg/dL
+  2010-10-16 : Urea Nitrogen                            17.2 mg/dL
+  2010-10-16 : Glucose                                  99.4 mg/dL
+  2010-10-16 : Respiratory rate                         14.0 /min
+  2010-10-16 : Heart rate                               72.0 /min
+  2010-10-16 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2010-10-16 : Body Mass Index                          30.2 kg/m2
+  2010-10-16 : Body Weight                              119.4 kg
+  2010-10-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2010-10-16 : Body Height                              198.7 cm
+  2010-07-17 : Carbon Dioxide                           20.6 mmol/L
+  2010-07-17 : Chloride                                 110.0 mmol/L
+  2010-07-17 : Potassium                                5.1 mmol/L
+  2010-07-17 : Sodium                                   139.7 mmol/L
+  2010-07-17 : Calcium                                  9.7 mg/dL
+  2010-07-17 : Creatinine                               1.7 mg/dL
+  2010-07-17 : Urea Nitrogen                            12.7 mg/dL
+  2010-07-17 : Glucose                                  93.5 mg/dL
+  2010-07-17 : Left ventricular Ejection fraction       36.6 %
+  2010-07-01 : Objective assessment of cardiovascular disease NYHA Objective evidence of severe cardiovascular disease 
+  2010-07-01 : Functional capacity NYHA                 Class II 
+  2010-07-01 : Iron saturation [Mass Fraction] in Serum or Plasma 29.5 %
+  2010-07-01 : Iron binding capacity [Mass/volume] in Serum or Plasma 309.8 ug/dL
+  2010-07-01 : Iron [Mass/volume] in Serum or Plasma    154.4 ug/dL
+  2010-07-01 : Ferritin [Mass/volume] in Serum or Plasma 81.6 ug/L
+  2010-07-01 : Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method 0.0 pg/mL
+  2010-07-01 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2010-07-01 : High Density Lipoprotein Cholesterol     62.7 mg/dL
+  2010-07-01 : Low Density Lipoprotein Cholesterol      105.6 mg/dL
+  2010-07-01 : Triglycerides                            136.8 mg/dL
+  2010-07-01 : Total Cholesterol                        195.6 mg/dL
+  2010-07-01 : Magnesium [Mass/volume] in Serum or Plasma 2.0 mg/dL
+  2010-07-01 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 6.7 U/L
+  2010-07-01 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 38.7 U/L
+  2010-07-01 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 82.3 U/L
+  2010-07-01 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.1 mg/dL
+  2010-07-01 : Albumin [Mass/volume] in Serum or Plasma 4.6 g/dL
+  2010-07-01 : Protein [Mass/volume] in Serum or Plasma 8.4 g/dL
+  2010-07-01 : Glomerular filtration rate/1.73 sq M.predicted 134.6 mL/min
+  2010-07-01 : Carbon dioxide, total [Moles/volume] in Serum or Plasma 21.5 mmol/L
+  2010-07-01 : Chloride [Moles/volume] in Serum or Plasma 101.4 mmol/L
+  2010-07-01 : Potassium [Moles/volume] in Serum or Plasma 3.9 mmol/L
+  2010-07-01 : Sodium [Moles/volume] in Serum or Plasma 137.4 mmol/L
+  2010-07-01 : Calcium [Mass/volume] in Serum or Plasma 9.0 mg/dL
+  2010-07-01 : Creatinine [Mass/volume] in Serum or Plasma 1.7 mg/dL
+  2010-07-01 : Urea nitrogen [Mass/volume] in Serum or Plasma 19.3 mg/dL
+  2010-07-01 : Glucose [Mass/volume] in Serum or Plasma 76.9 mg/dL
+  2010-07-01 : Platelets [#/volume] in Blood by Automated count 412.3 10*3/uL
+  2010-07-01 : Erythrocyte distribution width [Ratio] by Automated count 12.3 %
+  2010-07-01 : MCHC [Mass/volume] by Automated count    33.0 g/dL
+  2010-07-01 : MCH [Entitic mass] by Automated count    32.3 pg
+  2010-07-01 : MCV [Entitic volume] by Automated count  79.5 fL
+  2010-07-01 : Hematocrit [Volume Fraction] of Blood by Automated count 46.2 %
+  2010-07-01 : Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+  2010-07-01 : Erythrocytes [#/volume] in Blood by Automated count 5.0 10*6/uL
+  2010-07-01 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  2010-07-01 : NT-proBNP                                1488.2 pg/mL
+  2010-07-01 : Body Weight                              119.4 kg
+  2010-07-01 : Symptom                                  Rales (finding) 
+  2010-07-01 : Symptom                                  Edema (finding) 
+  2010-07-01 : Symptom                                  Orthopnea (finding) 
+  2010-07-01 : Symptom                                  Paroxysmal dyspnea (finding) 
+  2010-07-01 : Symptom                                  Dyspnea (finding) 
+  2010-07-01 : Symptom                                  Dyspnea on exertion (finding) 
+  2009-10-10 : Total score [DAST-10]                    1.0 {score}
+  2009-10-10 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2009-10-10 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 33930 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             390 Huel Lodge Unit 78 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2009-10-10 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2009-10-10 : Tobacco smoking status NHIS              Never smoker 
+  2009-10-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2009-10-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 209.4 fL
+  2009-10-10 : Platelets [#/volume] in Blood by Automated count 328.2 10*3/uL
+  2009-10-10 : Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+  2009-10-10 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2009-10-10 : MCH [Entitic mass] by Automated count    31.9 pg
+  2009-10-10 : MCV [Entitic volume] by Automated count  94.4 fL
+  2009-10-10 : Hematocrit [Volume Fraction] of Blood by Automated count 44.4 %
+  2009-10-10 : Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+  2009-10-10 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2009-10-10 : Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+  2009-10-10 : High Density Lipoprotein Cholesterol     61.8 mg/dL
+  2009-10-10 : Low Density Lipoprotein Cholesterol      78.8 mg/dL
+  2009-10-10 : Triglycerides                            106.3 mg/dL
+  2009-10-10 : Total Cholesterol                        161.8 mg/dL
+  2009-10-10 : Carbon Dioxide                           24.9 mmol/L
+  2009-10-10 : Chloride                                 107.7 mmol/L
+  2009-10-10 : Potassium                                4.4 mmol/L
+  2009-10-10 : Sodium                                   142.4 mmol/L
+  2009-10-10 : Calcium                                  10.1 mg/dL
+  2009-10-10 : Creatinine                               1.7 mg/dL
+  2009-10-10 : Urea Nitrogen                            18.1 mg/dL
+  2009-10-10 : Glucose                                  77.2 mg/dL
+  2009-10-10 : Respiratory rate                         13.0 /min
+  2009-10-10 : Heart rate                               60.0 /min
+  2009-10-10 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2009-10-10 : Body Mass Index                          29.8 kg/m2
+  2009-10-10 : Body Weight                              117.6 kg
+  2009-10-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2009-10-10 : Body Height                              198.7 cm
+  2008-10-04 : Total score [AUDIT-C]                    3.0 {score}
+  2008-10-04 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2008-10-04 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 33930 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             390 Huel Lodge Unit 78 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2008-10-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2008-10-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 183.8 fL
+  2008-10-04 : Platelets [#/volume] in Blood by Automated count 200.7 10*3/uL
+  2008-10-04 : RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 45.7 fL
+  2008-10-04 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2008-10-04 : MCH [Entitic mass] by Automated count    31.6 pg
+  2008-10-04 : MCV [Entitic volume] by Automated count  92.4 fL
+  2008-10-04 : RBC Auto (Bld) [#/Vol]                   4.9 10*6/uL
+  2008-10-04 : WBC Auto (Bld) [#/Vol]                   7.6 10*3/uL
+  2008-10-04 : Hematocrit [Volume Fraction] of Blood    32.3 %
+  2008-10-04 : Hemoglobin [Mass/volume] in Blood        10.6 g/dL
+  2008-10-04 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2008-10-04 : Tobacco smoking status NHIS              Never smoker 
+  2008-10-04 : Carbon Dioxide                           22.0 mmol/L
+  2008-10-04 : Chloride                                 108.0 mmol/L
+  2008-10-04 : Potassium                                4.5 mmol/L
+  2008-10-04 : Sodium                                   136.6 mmol/L
+  2008-10-04 : Calcium                                  9.7 mg/dL
+  2008-10-04 : Creatinine                               1.7 mg/dL
+  2008-10-04 : Urea Nitrogen                            16.4 mg/dL
+  2008-10-04 : Glucose                                  90.4 mg/dL
+  2008-10-04 : Respiratory rate                         14.0 /min
+  2008-10-04 : Heart rate                               83.0 /min
+  2008-10-04 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2008-10-04 : Body Mass Index                          29.3 kg/m2
+  2008-10-04 : Body Weight                              115.7 kg
+  2008-10-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2008-10-04 : Body Height                              198.7 cm
+  2007-09-29 : Total score [AUDIT-C]                    1.0 {score}
+  2007-09-29 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2007-09-29 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 33930 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             390 Huel Lodge Unit 78 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2007-09-29 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2007-09-29 : Tobacco smoking status NHIS              Never smoker 
+  2007-09-29 : Respiratory rate                         14.0 /min
+  2007-09-29 : Heart rate                               71.0 /min
+  2007-09-29 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  100.0 mm[Hg]
+  2007-09-29 : Body Mass Index                          28.8 kg/m2
+  2007-09-29 : Body Weight                              113.9 kg
+  2007-09-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2007-09-29 : Body Height                              198.7 cm
+  2006-09-23 : Total score [AUDIT-C]                    8.0 {score}
+  2006-09-23 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 33930 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             390 Huel Lodge Unit 78 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2006-09-23 : Tobacco smoking status NHIS              Never smoker 
+  2006-09-23 : High Density Lipoprotein Cholesterol     65.7 mg/dL
+  2006-09-23 : Low Density Lipoprotein Cholesterol      94.8 mg/dL
+  2006-09-23 : Triglycerides                            138.3 mg/dL
+  2006-09-23 : Total Cholesterol                        188.2 mg/dL
+  2006-09-23 : Respiratory rate                         13.0 /min
+  2006-09-23 : Heart rate                               86.0 /min
+  2006-09-23 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2006-09-23 : Body Mass Index                          28.4 kg/m2
+  2006-09-23 : Body Weight                              112.1 kg
+  2006-09-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2006-09-23 : Body Height                              198.7 cm
+  2005-09-17 : Total score [DAST-10]                    1.0 {score}
+  2005-09-17 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2005-09-17 : Total score [HARK]                       0.0 {score}
+  2005-09-17 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? I choose not to answer this question 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 33930 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             390 Huel Lodge Unit 78 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2005-09-17 : Tobacco smoking status NHIS              Never smoker 
+  2005-09-17 : Respiratory rate                         15.0 /min
+  2005-09-17 : Heart rate                               77.0 /min
+  2005-09-17 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2005-09-17 : Body Mass Index                          28.0 kg/m2
+  2005-09-17 : Body Weight                              110.6 kg
+  2005-09-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2005-09-17 : Body Height                              198.7 cm
+  2005-03-12 : Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 13.0 {score}
+  2005-03-12 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 5.0 {score}
+  2005-03-12 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2005-03-12 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 33930 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             390 Huel Lodge Unit 78 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2005-03-12 : Tobacco smoking status NHIS              Never smoker 
+  2005-03-12 : Respiratory rate                         13.0 /min
+  2005-03-12 : Heart rate                               84.0 /min
+  2005-03-12 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2005-03-12 : Body Mass Index                          27.7 kg/m2
+  2005-03-12 : Body Weight                              109.4 kg
+  2005-03-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2005-03-12 : Body Height                              198.7 cm
+  2004-09-11 : Total score [AUDIT-C]                    1.0 {score}
+  2004-09-11 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2004-09-11 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 33930 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             390 Huel Lodge Unit 78 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2004-09-11 : Tobacco smoking status NHIS              Never smoker 
+  2004-09-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2004-09-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 441.0 fL
+  2004-09-11 : Platelets [#/volume] in Blood by Automated count 426.3 10*3/uL
+  2004-09-11 : Erythrocyte distribution width [Entitic volume] by Automated count 42.1 fL
+  2004-09-11 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2004-09-11 : MCH [Entitic mass] by Automated count    32.9 pg
+  2004-09-11 : MCV [Entitic volume] by Automated count  83.6 fL
+  2004-09-11 : Hematocrit [Volume Fraction] of Blood by Automated count 46.4 %
+  2004-09-11 : Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+  2004-09-11 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2004-09-11 : Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+  2004-09-11 : Respiratory rate                         13.0 /min
+  2004-09-11 : Heart rate                               82.0 /min
+  2004-09-11 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2004-09-11 : Body Mass Index                          27.7 kg/m2
+  2004-09-11 : Body Weight                              109.4 kg
+  2004-09-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2004-09-11 : Body Height                              198.7 cm
+  2003-09-06 : Total score [DAST-10]                    0.0 {score}
+  2003-09-06 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2003-09-06 : Total score [HARK]                       0.0 {score}
+  2003-09-06 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2003-09-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 33930 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             390 Huel Lodge Unit 78 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2003-09-06 : Tobacco smoking status NHIS              Never smoker 
+  2003-09-06 : High Density Lipoprotein Cholesterol     64.0 mg/dL
+  2003-09-06 : Low Density Lipoprotein Cholesterol      77.1 mg/dL
+  2003-09-06 : Triglycerides                            103.7 mg/dL
+  2003-09-06 : Total Cholesterol                        161.9 mg/dL
+  2003-09-06 : Respiratory rate                         13.0 /min
+  2003-09-06 : Heart rate                               97.0 /min
+  2003-09-06 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2003-09-06 : Body Mass Index                          27.2 kg/m2
+  2003-09-06 : Body Weight                              107.5 kg
+  2003-09-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2003-09-06 : Body Height                              198.7 cm
+  2003-07-30 : Body temperature                         37.4 Cel
+  2002-08-31 : Total score [DAST-10]                    1.0 {score}
+  2002-08-31 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2002-08-31 : Total score [HARK]                       0.0 {score}
+  2002-08-31 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Childcare 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 33930 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? High school diploma or GED 
+           - What address do you live at?             390 Huel Lodge Unit 78 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 8.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2002-08-31 : Tobacco smoking status NHIS              Never smoker 
+  2002-08-31 : Respiratory rate                         15.0 /min
+  2002-08-31 : Heart rate                               82.0 /min
+  2002-08-31 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  140.0 mm[Hg]
+  2002-08-31 : Body Mass Index                          26.8 kg/m2
+  2002-08-31 : Body Weight                              106.0 kg
+  2002-08-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2002-08-31 : Body Height                              198.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2012-08-02 : Medication Reconciliation (procedure)
+  2012-08-02 : Echocardiography (procedure)
+  2012-06-11 : Heart failure education (procedure) for Chronic congestive heart failure (disorder)
+  2012-06-10 : Placing subject in prone position (procedure)
+  2012-06-10 : Oxygen administration by mask (procedure)
+  2012-06-10 : Echocardiography (procedure)
+  2012-06-10 : Electrocardiographic procedure for Chronic congestive heart failure (disorder)
+  2012-06-10 : Medication Reconciliation (procedure)
+  2012-06-10 : Plain chest X-ray (procedure)
+  2012-06-10 : Placing subject in prone position (procedure)
+  2012-06-10 : Oxygen administration by mask (procedure)
+  2012-01-09 : Heart failure education (procedure) for Chronic congestive heart failure (disorder)
+  2012-01-08 : Placing subject in prone position (procedure)
+  2012-01-08 : Oxygen administration by mask (procedure)
+  2012-01-08 : Electrocardiographic procedure for Chronic congestive heart failure (disorder)
+  2012-01-08 : Medication Reconciliation (procedure)
+  2012-01-08 : Plain chest X-ray (procedure)
+  2012-01-08 : Placing subject in prone position (procedure)
+  2012-01-08 : Oxygen administration by mask (procedure)
+  2011-10-22 : Screening for drug abuse (procedure)
+  2011-10-22 : Assessment of substance use (procedure)
+  2011-10-22 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2011-10-22 : Depression screening (procedure)
+  2011-10-22 : Screening for domestic abuse (procedure)
+  2011-10-22 : Assessment of health and social care needs (procedure)
+  2011-07-12 : Medication Reconciliation (procedure)
+  2011-07-12 : Echocardiography (procedure)
+  2011-01-13 : Medication Reconciliation (procedure)
+  2011-01-13 : Echocardiography (procedure)
+  2010-10-16 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2010-10-16 : Depression screening (procedure)
+  2010-10-16 : Assessment of health and social care needs (procedure)
+  2010-07-17 : Medication Reconciliation (procedure)
+  2010-07-17 : Echocardiography (procedure)
+  2010-07-01 : Assessment using New York Heart Association Classification (procedure) for Chronic congestive heart failure (disorder)
+  2010-07-01 : Cardiovascular stress testing (procedure) for Chronic congestive heart failure (disorder)
+  2010-07-01 : Electrocardiographic procedure for Chronic congestive heart failure (disorder)
+  2009-10-10 : Screening for drug abuse (procedure)
+  2009-10-10 : Assessment of substance use (procedure)
+  2009-10-10 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2009-10-10 : Depression screening (procedure)
+  2009-10-10 : Assessment of health and social care needs (procedure)
+  2008-10-04 : Brief general examination (procedure)
+  2008-10-04 : Medication Reconciliation (procedure)
+  2008-10-04 : Review of systems (procedure)
+  2008-10-04 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2008-10-04 : Assessment of substance use (procedure)
+  2008-10-04 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2008-10-04 : Depression screening (procedure)
+  2008-10-04 : Peripheral blood smear interpretation
+  2008-10-04 : Assessment of health and social care needs (procedure)
+  2007-09-29 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2007-09-29 : Assessment of substance use (procedure)
+  2007-09-29 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2007-09-29 : Depression screening (procedure)
+  2007-09-29 : Medication Reconciliation (procedure)
+  2007-09-29 : Assessment of health and social care needs (procedure)
+  2006-09-23 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2006-09-23 : Assessment of substance use (procedure)
+  2006-09-23 : Assessment of health and social care needs (procedure)
+  2005-09-17 : Screening for drug abuse (procedure)
+  2005-09-17 : Assessment of substance use (procedure)
+  2005-09-17 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2005-09-17 : Depression screening (procedure)
+  2005-09-17 : Screening for domestic abuse (procedure)
+  2005-09-17 : Medication Reconciliation (procedure)
+  2005-09-17 : Assessment of health and social care needs (procedure)
+  2005-03-12 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2005-03-12 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2005-03-12 : Depression screening (procedure)
+  2005-03-12 : Assessment of anxiety (procedure)
+  2005-03-12 : Medication Reconciliation (procedure)
+  2005-03-12 : Assessment of health and social care needs (procedure)
+  2004-09-11 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2004-09-11 : Assessment of substance use (procedure)
+  2004-09-11 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2004-09-11 : Depression screening (procedure)
+  2004-09-11 : Medication Reconciliation (procedure)
+  2004-09-11 : Assessment of health and social care needs (procedure)
+  2003-09-06 : Screening for drug abuse (procedure)
+  2003-09-06 : Assessment of substance use (procedure)
+  2003-09-06 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2003-09-06 : Depression screening (procedure)
+  2003-09-06 : Screening for domestic abuse (procedure)
+  2003-09-06 : Assessment of anxiety (procedure)
+  2003-09-06 : Assessment of health and social care needs (procedure)
+  2002-08-31 : Screening for drug abuse (procedure)
+  2002-08-31 : Assessment of substance use (procedure)
+  2002-08-31 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2002-08-31 : Depression screening (procedure)
+  2002-08-31 : Screening for domestic abuse (procedure)
+  2002-08-31 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2011-10-22 : Influenza, seasonal, injectable, preservative free
+  2010-10-16 : Influenza, seasonal, injectable, preservative free
+  2009-10-10 : Influenza, seasonal, injectable, preservative free
+  2008-10-04 : Influenza, seasonal, injectable, preservative free
+  2007-09-29 : Influenza, seasonal, injectable, preservative free
+  2006-09-23 : Influenza, seasonal, injectable, preservative free
+  2005-03-12 : Influenza, seasonal, injectable, preservative free
+  2004-09-11 : Td (adult) preservative free
+  2004-09-11 : Influenza, seasonal, injectable, preservative free
+  2003-09-06 : Influenza, seasonal, injectable, preservative free
+  2002-08-31 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2012-08-11 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC : Encounter for Chronic congestive heart failure (disorder)
+2012-08-02 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-08-01 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-30 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-27 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-25 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-23 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-21 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-20 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-19 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-18 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-14 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-12 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-11 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-10 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-09 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-08 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-07 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-05 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-04 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-03 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-07-01 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-27 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-26 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-25 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-24 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-22 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-21 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-18 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-16 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-15 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-14 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-13 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-10 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-10 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-09 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-08 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-06 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-05 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-04 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-03 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-06-02 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-31 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-30 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-28 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-27 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-26 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-25 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-24 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-23 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-21 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-19 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-18 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-17 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-14 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-13 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-11 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-09 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-07 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-05 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-05-04 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-04-30 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-04-28 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-04-23 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-04-22 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-04-21 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-04-20 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-04-19 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-04-16 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-04-15 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-04-14 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-04-13 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-04-11 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-04-10 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-04-07 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-04-05 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-04-02 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-31 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-30 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-28 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-27 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-26 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-25 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-23 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-22 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-21 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-17 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-14 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-12 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-10 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-09 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-08 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-07 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-03-01 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-02-29 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-02-28 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-02-23 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-02-21 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-02-20 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-02-18 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-02-17 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-02-13 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-02-12 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-02-11 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-02-10 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-02-08 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-02-07 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-02-06 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-02-04 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-02-01 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-31 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-29 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-28 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-25 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-24 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-22 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-21 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-20 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-18 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-16 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-15 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-14 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-13 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-11 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-10 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-08 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2012-01-08 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2011-10-22 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+2011-07-12 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2011-01-13 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2010-10-16 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+2010-07-17 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2010-07-11 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2010-07-01 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Chronic congestive heart failure (disorder)
+2009-10-10 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+2008-10-04 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Anemia (disorder)
+2008-10-04 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+2007-09-29 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+2006-09-23 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+2005-09-17 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+2005-03-10 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Viral sinusitis (disorder)
+2005-03-12 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER
+2004-09-11 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+2003-09-06 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+2003-07-30 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Acute viral pharyngitis (disorder)
+2002-08-31 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+2001-08-25 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+2000-08-19 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+1999-08-14 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+1998-08-08 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+1997-08-02 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+1996-07-27 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+1995-07-22 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+1994-07-16 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+1993-07-10 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+1992-07-04 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+1991-07-29 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Hypertension
+1991-06-29 (Dr. Maurita Bode) : Encounter at TEXAN URGENT CARE PLLC
+1979-01-08 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER
+1979-01-05 (Dr. Tora Altenwerth) : Encounter at DALLAS REGIONAL MEDICAL CENTER : Encounter for Perennial allergic rhinitis with seasonal variation
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2012-08-02 : Ultrasound, Heart structure (body structure)
+  2012-06-10 : Ultrasound, Heart structure (body structure)
+  2012-06-10 : Computed Radiography, Thoracic structure (body structure)
+  2012-01-08 : Computed Radiography, Thoracic structure (body structure)
+  2011-07-12 : Ultrasound, Heart structure (body structure)
+  2011-01-13 : Ultrasound, Heart structure (body structure)
+  2010-07-17 : Ultrasound, Heart structure (body structure)
+--------------------------------------------------------------------------------

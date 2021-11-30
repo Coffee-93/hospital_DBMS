@@ -1,0 +1,249 @@
+Keenan Heathcote
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 4
+Birth Date:          2017-11-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-11-17 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.8 %
+           - MCV [Entitic volume] by Automated count  93.0 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+           - Platelets [#/volume] in Blood by Automated count 188.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 318.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-10-22 : Tobacco smoking status NHIS              Never smoker 
+  2021-10-22 : Respiratory rate                         14.0 /min
+  2021-10-22 : Heart rate                               64.0 /min
+  2021-10-22 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2021-10-22 : Body mass index (BMI) [Percentile] Per age and gender 11.5 %
+  2021-10-22 : Body Mass Index                          14.4 kg/m2
+  2021-10-22 : Head Occipital-frontal circumference     48.9 cm
+  2021-10-22 : Weight-for-length Per age and sex        16.5 %
+  2021-10-22 : Body Weight                              14.4 kg
+  2021-10-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-10-22 : Body Height                              99.9 cm
+  2021-04-23 : Tobacco smoking status NHIS              Never smoker 
+  2021-04-23 : Respiratory rate                         16.0 /min
+  2021-04-23 : Heart rate                               69.0 /min
+  2021-04-23 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2021-04-23 : Body mass index (BMI) [Percentile] Per age and gender 11.8 %
+  2021-04-23 : Body Mass Index                          14.6 kg/m2
+  2021-04-23 : Head Occipital-frontal circumference     48.9 cm
+  2021-04-23 : Weight-for-length Per age and sex        16.5 %
+  2021-04-23 : Body Weight                              13.6 kg
+  2021-04-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-04-23 : Body Height                              96.4 cm
+  2020-10-23 : Tobacco smoking status NHIS              Never smoker 
+  2020-10-23 : Respiratory rate                         15.0 /min
+  2020-10-23 : Heart rate                               76.0 /min
+  2020-10-23 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2020-10-23 : Body mass index (BMI) [Percentile] Per age and gender 12.6 %
+  2020-10-23 : Body Mass Index                          14.8 kg/m2
+  2020-10-23 : Head Occipital-frontal circumference     48.8 cm
+  2020-10-23 : Weight-for-length Per age and sex        13.9 %
+  2020-10-23 : Body Weight                              12.8 kg
+  2020-10-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-10-23 : Body Height                              92.8 cm
+  2020-04-24 : Tobacco smoking status NHIS              Never smoker 
+  2020-04-24 : Respiratory rate                         13.0 /min
+  2020-04-24 : Heart rate                               78.0 /min
+  2020-04-24 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2020-04-24 : Body mass index (BMI) [Percentile] Per age and gender 17.5 %
+  2020-04-24 : Body Mass Index                          15.2 kg/m2
+  2020-04-24 : Head Occipital-frontal circumference     48.5 cm
+  2020-04-24 : Weight-for-length Per age and sex        15.6 %
+  2020-04-24 : Body Weight                              12.0 kg
+  2020-04-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-04-24 : Body Height                              88.8 cm
+  2019-10-25 : Tobacco smoking status NHIS              Never smoker 
+  2019-10-25 : Respiratory rate                         15.0 /min
+  2019-10-25 : Heart rate                               65.0 /min
+  2019-10-25 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  139.0 mm[Hg]
+  2019-10-25 : Head Occipital-frontal circumference     47.9 cm
+  2019-10-25 : Weight-for-length Per age and sex        20.3 %
+  2019-10-25 : Body Weight                              11.3 kg
+  2019-10-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2019-10-25 : Body Height                              85.1 cm
+  2019-04-26 : Tobacco smoking status NHIS              Never smoker 
+  2019-04-26 : Respiratory rate                         16.0 /min
+  2019-04-26 : Heart rate                               85.0 /min
+  2019-04-26 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2019-04-26 : Head Occipital-frontal circumference     47.0 cm
+  2019-04-26 : Weight-for-length Per age and sex        27.0 %
+  2019-04-26 : Body Weight                              10.4 kg
+  2019-04-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-04-26 : Body Height                              79.9 cm
+  2019-01-25 : Tobacco smoking status NHIS              Never smoker 
+  2019-01-25 : Respiratory rate                         12.0 /min
+  2019-01-25 : Heart rate                               84.0 /min
+  2019-01-25 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2019-01-25 : Head Occipital-frontal circumference     46.4 cm
+  2019-01-25 : Weight-for-length Per age and sex        29.6 %
+  2019-01-25 : Body Weight                              9.8 kg
+  2019-01-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-01-25 : Body Height                              76.9 cm
+  2018-10-26 : Tobacco smoking status NHIS              Never smoker 
+  2018-10-26 : Respiratory rate                         15.0 /min
+  2018-10-26 : Heart rate                               94.0 /min
+  2018-10-26 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2018-10-26 : Head Occipital-frontal circumference     45.6 cm
+  2018-10-26 : Weight-for-length Per age and sex        28.2 %
+  2018-10-26 : Body Weight                              9.1 kg
+  2018-10-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2018-10-26 : Body Height                              73.5 cm
+  2018-07-27 : Tobacco smoking status NHIS              Never smoker 
+  2018-07-27 : Respiratory rate                         13.0 /min
+  2018-07-27 : Heart rate                               96.0 /min
+  2018-07-27 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2018-07-27 : Head Occipital-frontal circumference     44.4 cm
+  2018-07-27 : Weight-for-length Per age and sex        24.0 %
+  2018-07-27 : Body Weight                              8.1 kg
+  2018-07-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2018-07-27 : Body Height                              69.6 cm
+  2018-04-27 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-27 : Respiratory rate                         12.0 /min
+  2018-04-27 : Heart rate                               84.0 /min
+  2018-04-27 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2018-04-27 : Head Occipital-frontal circumference     42.7 cm
+  2018-04-27 : Weight-for-length Per age and sex        13.0 %
+  2018-04-27 : Body Weight                              6.7 kg
+  2018-04-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-04-27 : Body Height                              64.9 cm
+  2018-02-23 : Tobacco smoking status NHIS              Never smoker 
+  2018-02-23 : Respiratory rate                         14.0 /min
+  2018-02-23 : Heart rate                               78.0 /min
+  2018-02-23 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2018-02-23 : Head Occipital-frontal circumference     41.0 cm
+  2018-02-23 : Weight-for-length Per age and sex        7.2 %
+  2018-02-23 : Body Weight                              5.6 kg
+  2018-02-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2018-02-23 : Body Height                              60.9 cm
+  2017-12-22 : Tobacco smoking status NHIS              Never smoker 
+  2017-12-22 : Respiratory rate                         15.0 /min
+  2017-12-22 : Heart rate                               90.0 /min
+  2017-12-22 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  100.0 mm[Hg]
+  2017-12-22 : Head Occipital-frontal circumference     38.4 cm
+  2017-12-22 : Weight-for-length Per age and sex        9.4 %
+  2017-12-22 : Body Weight                              4.2 kg
+  2017-12-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2017-12-22 : Body Height                              55.4 cm
+  2017-11-17 : Tobacco smoking status NHIS              Never smoker 
+  2017-11-17 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2017-11-17 : Platelet distribution width [Entitic volume] in Blood by Automated count 318.7 fL
+  2017-11-17 : Platelets [#/volume] in Blood by Automated count 188.0 10*3/uL
+  2017-11-17 : Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+  2017-11-17 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2017-11-17 : MCH [Entitic mass] by Automated count    27.8 pg
+  2017-11-17 : MCV [Entitic volume] by Automated count  93.0 fL
+  2017-11-17 : Hematocrit [Volume Fraction] of Blood by Automated count 41.8 %
+  2017-11-17 : Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+  2017-11-17 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2017-11-17 : Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+  2017-11-17 : Respiratory rate                         13.0 /min
+  2017-11-17 : Heart rate                               61.0 /min
+  2017-11-17 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2017-11-17 : Head Occipital-frontal circumference     34.8 cm
+  2017-11-17 : Weight-for-length Per age and sex        19.8 %
+  2017-11-17 : Body Weight                              3.4 kg
+  2017-11-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-11-17 : Body Height                              51.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2019-10-25 : Medication Reconciliation (procedure)
+  2019-01-25 : Medication Reconciliation (procedure)
+  2018-07-27 : Medication Reconciliation (procedure)
+  2018-02-23 : Medication Reconciliation (procedure)
+  2017-11-17 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-10-22 : Influenza, seasonal, injectable, preservative free
+  2020-10-23 : Influenza, seasonal, injectable, preservative free
+  2020-04-24 : Hep A, ped/adol, 2 dose
+  2019-10-25 : Influenza, seasonal, injectable, preservative free
+  2019-04-26 : DTaP
+  2019-01-25 : Hep A, ped/adol, 2 dose
+  2019-01-25 : Pneumococcal conjugate PCV 13
+  2019-01-25 : MMR
+  2019-01-25 : varicella
+  2019-01-25 : Hib (PRP-OMP)
+  2018-07-27 : Hep B, adolescent or pediatric
+  2018-07-27 : Pneumococcal conjugate PCV 13
+  2018-07-27 : DTaP
+  2018-07-27 : Influenza, seasonal, injectable, preservative free
+  2018-07-27 : IPV
+  2018-04-27 : Pneumococcal conjugate PCV 13
+  2018-04-27 : DTaP
+  2018-04-27 : IPV
+  2018-04-27 : rotavirus, monovalent
+  2018-04-27 : Hib (PRP-OMP)
+  2018-02-23 : Pneumococcal conjugate PCV 13
+  2018-02-23 : DTaP
+  2018-02-23 : IPV
+  2018-02-23 : rotavirus, monovalent
+  2018-02-23 : Hib (PRP-OMP)
+  2017-12-22 : Hep B, adolescent or pediatric
+  2017-11-17 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-10-22 (Dr. Corey Wolf) : Encounter at ZL DALLAS SPINE, LLC
+2021-04-23 (Dr. Corey Wolf) : Encounter at ZL DALLAS SPINE, LLC
+2020-10-23 (Dr. Corey Wolf) : Encounter at ZL DALLAS SPINE, LLC
+2020-04-24 (Dr. Corey Wolf) : Encounter at ZL DALLAS SPINE, LLC
+2019-10-25 (Dr. Corey Wolf) : Encounter at ZL DALLAS SPINE, LLC
+2019-04-26 (Dr. Corey Wolf) : Encounter at ZL DALLAS SPINE, LLC
+2019-01-25 (Dr. Corey Wolf) : Encounter at ZL DALLAS SPINE, LLC
+2018-10-26 (Dr. Corey Wolf) : Encounter at ZL DALLAS SPINE, LLC
+2018-07-27 (Dr. Corey Wolf) : Encounter at ZL DALLAS SPINE, LLC
+2018-04-27 (Dr. Corey Wolf) : Encounter at ZL DALLAS SPINE, LLC
+2018-02-23 (Dr. Corey Wolf) : Encounter at ZL DALLAS SPINE, LLC
+2017-12-22 (Dr. Corey Wolf) : Encounter at ZL DALLAS SPINE, LLC
+2017-11-17 (Dr. Corey Wolf) : Encounter at ZL DALLAS SPINE, LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

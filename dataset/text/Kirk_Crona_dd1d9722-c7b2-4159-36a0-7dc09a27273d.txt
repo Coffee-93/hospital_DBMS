@@ -1,0 +1,302 @@
+Kirk Crona
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 4
+Birth Date:          2016-12-25
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2017-08-23 -            : Shellfish (substance)
+  2017-08-23 -            : Wheat (substance)
+  2017-08-23 -            : Tree pollen (substance)
+  2017-08-23 -            : Grass pollen (substance)
+  2017-08-23 -            : Animal dander (substance)
+  2017-08-23 -            : House dust mite (organism)
+  2017-08-23 -            : Mold (organism)
+  2017-08-23 -            : Bee venom (substance)
+  2017-08-23 -            : Latex (substance)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-11-29[CURRENT] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2020-11-29[CURRENT] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2020-05-31[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2020-05-31[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-12-01[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-12-01[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-10-13[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-10-13[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2018-09-19[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2017-08-23[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2017-08-23[CURRENT] : Fexofenadine hydrochloride 30 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2019-10-13 -            : Childhood asthma
+  2018-09-19 - 2018-10-02 : Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2019-10-13[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  2017-08-11[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-12-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.3 %
+           - MCV [Entitic volume] by Automated count  93.7 fL
+           - MCH [Entitic mass] by Automated count    30.6 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+           - Platelets [#/volume] in Blood by Automated count 170.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 505.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-11-29 : Tobacco smoking status NHIS              Never smoker 
+  2020-11-29 : Respiratory rate                         15.0 /min
+  2020-11-29 : Heart rate                               73.0 /min
+  2020-11-29 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2020-11-29 : Body mass index (BMI) [Percentile] Per age and gender 85.6 %
+  2020-11-29 : Body Mass Index                          17.0 kg/m2
+  2020-11-29 : Head Occipital-frontal circumference     49.4 cm
+  2020-11-29 : Weight-for-length Per age and sex        65.6 %
+  2020-11-29 : Body Weight                              17.4 kg
+  2020-11-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-11-29 : Body Height                              101.3 cm
+  2020-05-31 : Tobacco smoking status NHIS              Never smoker 
+  2020-05-31 : Respiratory rate                         16.0 /min
+  2020-05-31 : Heart rate                               95.0 /min
+  2020-05-31 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2020-05-31 : Body mass index (BMI) [Percentile] Per age and gender 83.5 %
+  2020-05-31 : Body Mass Index                          17.0 kg/m2
+  2020-05-31 : Head Occipital-frontal circumference     49.4 cm
+  2020-05-31 : Weight-for-length Per age and sex        65.6 %
+  2020-05-31 : Body Weight                              16.3 kg
+  2020-05-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-05-31 : Body Height                              97.8 cm
+  2019-12-01 : Tobacco smoking status NHIS              Never smoker 
+  2019-12-01 : Respiratory rate                         14.0 /min
+  2019-12-01 : Heart rate                               64.0 /min
+  2019-12-01 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2019-12-01 : Body mass index (BMI) [Percentile] Per age and gender 63.9 %
+  2019-12-01 : Body Mass Index                          16.5 kg/m2
+  2019-12-01 : Head Occipital-frontal circumference     49.4 cm
+  2019-12-01 : Weight-for-length Per age and sex        67.3 %
+  2019-12-01 : Body Weight                              14.6 kg
+  2019-12-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-12-01 : Body Height                              94.1 cm
+  2019-06-02 : Tobacco smoking status NHIS              Never smoker 
+  2019-06-02 : Respiratory rate                         14.0 /min
+  2019-06-02 : Heart rate                               94.0 /min
+  2019-06-02 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2019-06-02 : Body mass index (BMI) [Percentile] Per age and gender 48.0 %
+  2019-06-02 : Body Mass Index                          16.2 kg/m2
+  2019-06-02 : Head Occipital-frontal circumference     49.0 cm
+  2019-06-02 : Weight-for-length Per age and sex        51.8 %
+  2019-06-02 : Body Weight                              13.2 kg
+  2019-06-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-06-02 : Body Height                              90.1 cm
+  2018-12-02 : Tobacco smoking status NHIS              Never smoker 
+  2018-12-02 : Respiratory rate                         12.0 /min
+  2018-12-02 : Heart rate                               98.0 /min
+  2018-12-02 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2018-12-02 : Head Occipital-frontal circumference     48.4 cm
+  2018-12-02 : Weight-for-length Per age and sex        56.7 %
+  2018-12-02 : Body Weight                              12.4 kg
+  2018-12-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-12-02 : Body Height                              86.3 cm
+  2018-09-19 : Body temperature                         38.2 Cel
+  2018-06-03 : Tobacco smoking status NHIS              Never smoker 
+  2018-06-03 : Respiratory rate                         13.0 /min
+  2018-06-03 : Heart rate                               69.0 /min
+  2018-06-03 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2018-06-03 : Head Occipital-frontal circumference     47.5 cm
+  2018-06-03 : Weight-for-length Per age and sex        62.8 %
+  2018-06-03 : Body Weight                              11.4 kg
+  2018-06-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-06-03 : Body Height                              81.0 cm
+  2018-03-04 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-04 : Respiratory rate                         14.0 /min
+  2018-03-04 : Heart rate                               74.0 /min
+  2018-03-04 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2018-03-04 : Head Occipital-frontal circumference     46.8 cm
+  2018-03-04 : Weight-for-length Per age and sex        67.0 %
+  2018-03-04 : Body Weight                              10.8 kg
+  2018-03-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-03-04 : Body Height                              77.9 cm
+  2017-12-03 : Tobacco smoking status NHIS              Never smoker 
+  2017-12-03 : Respiratory rate                         13.0 /min
+  2017-12-03 : Heart rate                               98.0 /min
+  2017-12-03 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2017-12-03 : Head Occipital-frontal circumference     46.0 cm
+  2017-12-03 : Weight-for-length Per age and sex        63.0 %
+  2017-12-03 : Body Weight                              10.0 kg
+  2017-12-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-12-03 : Body Height                              74.5 cm
+  2017-09-03 : Tobacco smoking status NHIS              Never smoker 
+  2017-09-03 : Respiratory rate                         14.0 /min
+  2017-09-03 : Heart rate                               70.0 /min
+  2017-09-03 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2017-09-03 : Head Occipital-frontal circumference     44.9 cm
+  2017-09-03 : Weight-for-length Per age and sex        56.1 %
+  2017-09-03 : Body Weight                              8.9 kg
+  2017-09-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-09-03 : Body Height                              70.5 cm
+  2017-08-23 : Latex IgE Ab in Serum                    0.1 kU/L
+  2017-08-23 : Honey bee IgE Ab in Serum                0.1 kU/L
+  2017-08-23 : Cladosporium herbarum IgE Ab in Serum    0.0 kU/L
+  2017-08-23 : American house dust mite IgE Ab in Serum 0.2 kU/L
+  2017-08-23 : Cat dander IgE Ab in Serum               0.1 kU/L
+  2017-08-23 : Common Ragweed IgE Ab in Serum           0.1 kU/L
+  2017-08-23 : White oak IgE Ab in Serum                0.3 kU/L
+  2017-08-23 : Cow milk IgE Ab in Serum                 0.0 kU/L
+  2017-08-23 : Soybean IgE Ab in Serum                  0.3 kU/L
+  2017-08-23 : Egg white IgE Ab in Serum                0.2 kU/L
+  2017-08-23 : Wheat IgE Ab in Serum                    0.1 kU/L
+  2017-08-23 : Shrimp IgE Ab in Serum                   0.1 kU/L
+  2017-08-23 : Codfish IgE Ab in Serum                  0.3 kU/L
+  2017-08-23 : Walnut IgE Ab in Serum                   0.2 kU/L
+  2017-08-23 : Peanut IgE Ab in Serum                   0.1 kU/L
+  2017-06-04 : Tobacco smoking status NHIS              Never smoker 
+  2017-06-04 : Respiratory rate                         13.0 /min
+  2017-06-04 : Heart rate                               68.0 /min
+  2017-06-04 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2017-06-04 : Head Occipital-frontal circumference     43.2 cm
+  2017-06-04 : Weight-for-length Per age and sex        46.2 %
+  2017-06-04 : Body Weight                              7.5 kg
+  2017-06-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-06-04 : Body Height                              65.7 cm
+  2017-04-02 : Tobacco smoking status NHIS              Never smoker 
+  2017-04-02 : Respiratory rate                         15.0 /min
+  2017-04-02 : Heart rate                               97.0 /min
+  2017-04-02 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2017-04-02 : Head Occipital-frontal circumference     41.6 cm
+  2017-04-02 : Weight-for-length Per age and sex        32.7 %
+  2017-04-02 : Body Weight                              6.3 kg
+  2017-04-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-04-02 : Body Height                              61.7 cm
+  2017-01-29 : Tobacco smoking status NHIS              Never smoker 
+  2017-01-29 : Respiratory rate                         15.0 /min
+  2017-01-29 : Heart rate                               99.0 /min
+  2017-01-29 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2017-01-29 : Head Occipital-frontal circumference     39.0 cm
+  2017-01-29 : Weight-for-length Per age and sex        34.3 %
+  2017-01-29 : Body Weight                              4.8 kg
+  2017-01-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-01-29 : Body Height                              56.3 cm
+  2016-12-25 : Tobacco smoking status NHIS              Never smoker 
+  2016-12-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2016-12-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 505.5 fL
+  2016-12-25 : Platelets [#/volume] in Blood by Automated count 170.5 10*3/uL
+  2016-12-25 : Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+  2016-12-25 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2016-12-25 : MCH [Entitic mass] by Automated count    30.6 pg
+  2016-12-25 : MCV [Entitic volume] by Automated count  93.7 fL
+  2016-12-25 : Hematocrit [Volume Fraction] of Blood by Automated count 35.3 %
+  2016-12-25 : Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+  2016-12-25 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2016-12-25 : Leukocytes [#/volume] in Blood by Automated count 6.1 10*3/uL
+  2016-12-25 : Respiratory rate                         12.0 /min
+  2016-12-25 : Heart rate                               96.0 /min
+  2016-12-25 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2016-12-25 : Head Occipital-frontal circumference     35.5 cm
+  2016-12-25 : Weight-for-length Per age and sex        43.6 %
+  2016-12-25 : Body Weight                              3.9 kg
+  2016-12-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2016-12-25 : Body Height                              52.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2019-12-01 : Medication Reconciliation (procedure)
+  2019-10-13 : Asthma screening for Childhood asthma
+  2019-06-02 : Medication Reconciliation (procedure)
+  2018-06-03 : Medication Reconciliation (procedure)
+  2017-08-23 : Allergy screening test
+  2017-06-04 : Medication Reconciliation (procedure)
+  2016-12-25 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-11-29 : Influenza, seasonal, injectable, preservative free
+  2019-12-01 : Influenza, seasonal, injectable, preservative free
+  2019-06-02 : Hep A, ped/adol, 2 dose
+  2018-12-02 : Influenza, seasonal, injectable, preservative free
+  2018-06-03 : DTaP
+  2018-03-04 : Hep A, ped/adol, 2 dose
+  2018-03-04 : Pneumococcal conjugate PCV 13
+  2018-03-04 : MMR
+  2018-03-04 : varicella
+  2018-03-04 : Hib (PRP-OMP)
+  2017-09-03 : Hep B, adolescent or pediatric
+  2017-09-03 : Pneumococcal conjugate PCV 13
+  2017-09-03 : DTaP
+  2017-09-03 : Influenza, seasonal, injectable, preservative free
+  2017-09-03 : IPV
+  2017-06-04 : Pneumococcal conjugate PCV 13
+  2017-06-04 : DTaP
+  2017-06-04 : IPV
+  2017-06-04 : rotavirus, monovalent
+  2017-06-04 : Hib (PRP-OMP)
+  2017-04-02 : Pneumococcal conjugate PCV 13
+  2017-04-02 : DTaP
+  2017-04-02 : IPV
+  2017-04-02 : rotavirus, monovalent
+  2017-04-02 : Hib (PRP-OMP)
+  2017-01-29 : Hep B, adolescent or pediatric
+  2016-12-25 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-11-29 (Dr. Cayla Senger) : Encounter at PCP26720
+2020-05-31 (Dr. Cayla Senger) : Encounter at PCP26720
+2020-04-10 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Childhood asthma
+2019-12-01 (Dr. Cayla Senger) : Encounter at PCP26720
+2019-10-13 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Childhood asthma
+2019-06-02 (Dr. Cayla Senger) : Encounter at PCP26720
+2018-12-02 (Dr. Cayla Senger) : Encounter at PCP26720
+2018-09-19 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY : Encounter for Streptococcal sore throat (disorder)
+2018-06-03 (Dr. Cayla Senger) : Encounter at PCP26720
+2018-03-04 (Dr. Cayla Senger) : Encounter at PCP26720
+2017-12-03 (Dr. Cayla Senger) : Encounter at PCP26720
+2017-09-03 (Dr. Cayla Senger) : Encounter at PCP26720
+2017-08-23 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2017-08-11 (Dr. Neely Stamm) : Encounter at METHODIST HOSPITAL FOR SURGERY
+2017-06-04 (Dr. Cayla Senger) : Encounter at PCP26720
+2017-04-02 (Dr. Cayla Senger) : Encounter at PCP26720
+2017-01-29 (Dr. Cayla Senger) : Encounter at PCP26720
+2016-12-25 (Dr. Cayla Senger) : Encounter at PCP26720
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

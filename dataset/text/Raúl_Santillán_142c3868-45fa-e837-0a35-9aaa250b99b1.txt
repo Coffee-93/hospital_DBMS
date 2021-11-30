@@ -1,0 +1,306 @@
+Raúl Santillán
+==ú=========á=
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 36
+Birth Date:          1985-06-21
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1986-08-04 -            : Tree nut (substance)
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1986-08-04[CURRENT] : Astemizole 10 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2019-09-06 -            : Full-time employment (finding)
+  2017-12-14 - 2018-01-04 : Viral sinusitis (disorder)
+  2016-09-02 - 2019-09-06 : Full-time employment (finding)
+  2015-09-25 - 2015-10-21 : Viral sinusitis (disorder)
+  2015-08-17 - 2015-10-21 : Concussion with no loss of consciousness
+  2014-02-02 -            : Chronic low back pain (finding)
+  2013-08-30 - 2016-09-02 : Full-time employment (finding)
+  2010-08-27 - 2013-08-30 : Full-time employment (finding)
+  2007-08-24 - 2019-09-06 : Stress (finding)
+  2007-08-24 - 2019-09-06 : Social isolation (finding)
+  2007-08-24 - 2010-08-27 : Full-time employment (finding)
+  2004-08-20 -            : Refugee (person)
+  2003-08-15 - 2004-08-20 : Full-time employment (finding)
+  2003-08-15 -            : Only received primary school education (finding)
+  2002-08-09 -            : Risk activity involvement (finding)
+  1998-07-17 - 1999-07-23 : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-08-17[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+  2014-02-02[STOPPED] : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavior therapy
+  1986-07-22[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2019-09-06 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2019-09-06 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-09-06 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2019-09-06 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.4 %
+           - MCV [Entitic volume] by Automated count  92.6 fL
+           - MCH [Entitic mass] by Automated count    31.5 pg
+           - MCHC [Mass/volume] by Automated count    33.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.8 fL
+           - Platelets [#/volume] in Blood by Automated count 431.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 495.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2019-09-06 : Lipid Panel
+           - Total Cholesterol                        175.5 mg/dL
+           - Triglycerides                            148.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      75.6 mg/dL
+           - High Density Lipoprotein Cholesterol     70.2 mg/dL
+  2016-09-02 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2016-09-02 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2016-09-02 : Lipid Panel
+           - Total Cholesterol                        194.8 mg/dL
+           - Triglycerides                            131.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      109.1 mg/dL
+           - High Density Lipoprotein Cholesterol     59.4 mg/dL
+  2013-08-30 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.7 %
+           - MCV [Entitic volume] by Automated count  87.2 fL
+           - MCH [Entitic mass] by Automated count    31.8 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+           - Platelets [#/volume] in Blood by Automated count 381.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 315.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-09-06 : Total score [AUDIT-C]                    2.0 {score}
+  2019-09-06 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-09-06 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2019-09-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 114790 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             261 Wiegand Harbor 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2019-09-06 : Tobacco smoking status NHIS              Never smoker 
+  2019-09-06 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2019-09-06 : Platelet distribution width [Entitic volume] in Blood by Automated count 495.7 fL
+  2019-09-06 : Platelets [#/volume] in Blood by Automated count 431.8 10*3/uL
+  2019-09-06 : Erythrocyte distribution width [Entitic volume] by Automated count 44.8 fL
+  2019-09-06 : MCHC [Mass/volume] by Automated count    33.0 g/dL
+  2019-09-06 : MCH [Entitic mass] by Automated count    31.5 pg
+  2019-09-06 : MCV [Entitic volume] by Automated count  92.6 fL
+  2019-09-06 : Hematocrit [Volume Fraction] of Blood by Automated count 42.4 %
+  2019-09-06 : Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+  2019-09-06 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2019-09-06 : Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+  2019-09-06 : High Density Lipoprotein Cholesterol     70.2 mg/dL
+  2019-09-06 : Low Density Lipoprotein Cholesterol      75.6 mg/dL
+  2019-09-06 : Triglycerides                            148.7 mg/dL
+  2019-09-06 : Total Cholesterol                        175.5 mg/dL
+  2019-09-06 : Respiratory rate                         15.0 /min
+  2019-09-06 : Heart rate                               99.0 /min
+  2019-09-06 : Blood Pressure
+           - Diastolic Blood Pressure                 89.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2019-09-06 : Body Mass Index                          28.7 kg/m2
+  2019-09-06 : Body Weight                              80.3 kg
+  2019-09-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-09-06 : Body Height                              167.2 cm
+  2016-09-02 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2016-09-02 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2016-09-02 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 114790 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             261 Wiegand Harbor 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2016-09-02 : Tobacco smoking status NHIS              Never smoker 
+  2016-09-02 : High Density Lipoprotein Cholesterol     59.4 mg/dL
+  2016-09-02 : Low Density Lipoprotein Cholesterol      109.1 mg/dL
+  2016-09-02 : Triglycerides                            131.7 mg/dL
+  2016-09-02 : Total Cholesterol                        194.8 mg/dL
+  2016-09-02 : Respiratory rate                         15.0 /min
+  2016-09-02 : Heart rate                               69.0 /min
+  2016-09-02 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2016-09-02 : Body Mass Index                          26.9 kg/m2
+  2016-09-02 : Body Weight                              75.1 kg
+  2016-09-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-09-02 : Body Height                              167.2 cm
+  2014-03-04 : Pain severity - Reported                 8.9 {score}
+  2014-03-01 : Pain severity - Reported                 4.3 {score}
+  2014-02-26 : Pain severity - Reported                 3.1 {score}
+  2014-02-23 : Pain severity - Reported                 8.7 {score}
+  2014-02-20 : Pain severity - Reported                 6.1 {score}
+  2014-02-17 : Pain severity - Reported                 4.1 {score}
+  2014-02-14 : Pain severity - Reported                 8.3 {score}
+  2014-02-11 : Pain severity - Reported                 9.4 {score}
+  2014-02-08 : Pain severity - Reported                 1.3 {score}
+  2014-02-05 : Pain severity - Reported                 3.5 {score}
+  2014-02-02 : Drugs of abuse 5 panel - Urine by Screen method Negative (qualifier value) n/a
+  2014-02-02 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 2.8 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 7.0 {score}
+           - What number best describes your pain on average in the past week? 3.3 {score}
+  2013-08-30 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       Yes 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Quite a bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Phone 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 114790 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             261 Wiegand Harbor 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? Language other than English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2013-08-30 : Tobacco smoking status NHIS              Never smoker 
+  2013-08-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2013-08-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 315.3 fL
+  2013-08-30 : Platelets [#/volume] in Blood by Automated count 381.8 10*3/uL
+  2013-08-30 : Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+  2013-08-30 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2013-08-30 : MCH [Entitic mass] by Automated count    31.8 pg
+  2013-08-30 : MCV [Entitic volume] by Automated count  87.2 fL
+  2013-08-30 : Hematocrit [Volume Fraction] of Blood by Automated count 37.7 %
+  2013-08-30 : Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+  2013-08-30 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2013-08-30 : Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+  2013-08-30 : Respiratory rate                         12.0 /min
+  2013-08-30 : Heart rate                               83.0 /min
+  2013-08-30 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2013-08-30 : Body Mass Index                          25.1 kg/m2
+  2013-08-30 : Body Weight                              70.3 kg
+  2013-08-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-08-30 : Body Height                              167.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2019-09-06 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2019-09-06 : Assessment of substance use (procedure)
+  2019-09-06 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-09-06 : Depression screening (procedure)
+  2019-09-06 : Assessment of anxiety (procedure)
+  2019-09-06 : Medication Reconciliation (procedure)
+  2019-09-06 : Assessment of health and social care needs (procedure)
+  2016-09-02 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2016-09-02 : Depression screening (procedure)
+  2016-09-02 : Assessment of anxiety (procedure)
+  2016-09-02 : Medication Reconciliation (procedure)
+  2016-09-02 : Assessment of health and social care needs (procedure)
+  2014-03-04 : Movement therapy (regime/therapy)
+  2014-03-01 : Movement therapy (regime/therapy)
+  2014-02-26 : Movement therapy (regime/therapy)
+  2014-02-23 : Movement therapy (regime/therapy)
+  2014-02-20 : Movement therapy (regime/therapy)
+  2014-02-17 : Movement therapy (regime/therapy)
+  2014-02-14 : Movement therapy (regime/therapy)
+  2014-02-11 : Movement therapy (regime/therapy)
+  2014-02-08 : Movement therapy (regime/therapy)
+  2014-02-05 : Movement therapy (regime/therapy)
+  2013-08-30 : Medication Reconciliation (procedure)
+  2013-08-30 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-02-26 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-02-05 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2019-09-06 : Influenza, seasonal, injectable, preservative free
+  2016-09-02 : Td (adult) preservative free
+  2016-09-02 : Influenza, seasonal, injectable, preservative free
+  2013-08-30 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-02-26 (Dr. Nicolás Ayala) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER CARROLLTON
+2021-02-05 (Dr. Nicolás Ayala) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER CARROLLTON
+2019-09-06 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+2017-12-14 (Dr. Markita Rowe) : Encounter at FIRST TEXAS HOSPITAL CARRROLLTON LLC : Encounter for Viral sinusitis (disorder)
+2016-09-02 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+2015-10-21 (Dr. Markita Rowe) : Encounter at FIRST TEXAS HOSPITAL CARRROLLTON LLC : Encounter for Concussion with no loss of consciousness
+2015-09-25 (Dr. Markita Rowe) : Encounter at FIRST TEXAS HOSPITAL CARRROLLTON LLC : Encounter for Viral sinusitis (disorder)
+2015-08-17 (Dr. Markita Rowe) : Encounter at FIRST TEXAS HOSPITAL CARRROLLTON LLC
+2014-03-04 (Dr. Markita Rowe) : Encounter at FIRST TEXAS HOSPITAL CARRROLLTON LLC
+2014-03-01 (Dr. Markita Rowe) : Encounter at FIRST TEXAS HOSPITAL CARRROLLTON LLC
+2014-02-26 (Dr. Markita Rowe) : Encounter at FIRST TEXAS HOSPITAL CARRROLLTON LLC
+2014-02-23 (Dr. Markita Rowe) : Encounter at FIRST TEXAS HOSPITAL CARRROLLTON LLC
+2014-02-20 (Dr. Markita Rowe) : Encounter at FIRST TEXAS HOSPITAL CARRROLLTON LLC
+2014-02-17 (Dr. Markita Rowe) : Encounter at FIRST TEXAS HOSPITAL CARRROLLTON LLC
+2014-02-14 (Dr. Markita Rowe) : Encounter at FIRST TEXAS HOSPITAL CARRROLLTON LLC
+2014-02-11 (Dr. Markita Rowe) : Encounter at FIRST TEXAS HOSPITAL CARRROLLTON LLC
+2014-02-08 (Dr. Markita Rowe) : Encounter at FIRST TEXAS HOSPITAL CARRROLLTON LLC
+2014-02-05 (Dr. Markita Rowe) : Encounter at FIRST TEXAS HOSPITAL CARRROLLTON LLC
+2014-02-02 (Dr. Nicolás Ayala) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER CARROLLTON
+2013-08-30 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+2010-08-27 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+2007-08-24 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+2004-08-20 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+2003-08-15 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+2002-08-09 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+1998-07-17 (Dr. Cammy Feil) : Encounter at LUMINCARE PHYSICIAN GROUP PA
+1986-08-04 (Dr. Markita Rowe) : Encounter at FIRST TEXAS HOSPITAL CARRROLLTON LLC
+1986-07-22 (Dr. Markita Rowe) : Encounter at FIRST TEXAS HOSPITAL CARRROLLTON LLC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

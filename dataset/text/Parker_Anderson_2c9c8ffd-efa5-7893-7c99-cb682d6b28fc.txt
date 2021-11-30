@@ -1,0 +1,446 @@
+Parker Anderson
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 8
+Birth Date:          2012-12-11
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-02-13[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2017-02-13[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2016-08-22[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2016-08-22[STOPPED] : Cefuroxime 250 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-04-08 - 2020-04-16 : Acute viral pharyngitis (disorder)
+  2017-02-13 - 2017-11-21 : Otitis media
+  2016-08-22 - 2016-11-15 : Otitis media
+  2014-04-15 - 2014-05-03 : Viral sinusitis (disorder)
+  2014-01-11 - 2014-03-01 : Injury of tendon of the rotator cuff of shoulder
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-01-11[STOPPED] : Physical therapy procedure
+                         Reason: Injury of tendon of the rotator cuff of shoulder
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-11-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.8 %
+           - MCV [Entitic volume] by Automated count  86.0 fL
+           - MCH [Entitic mass] by Automated count    32.8 pg
+           - MCHC [Mass/volume] by Automated count    33.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 371.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 237.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2012-12-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.2 %
+           - MCV [Entitic volume] by Automated count  86.8 fL
+           - MCH [Entitic mass] by Automated count    29.9 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.5 fL
+           - Platelets [#/volume] in Blood by Automated count 201.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 302.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-12-08 : Tobacco smoking status NHIS              Never smoker 
+  2020-12-08 : Respiratory rate                         15.0 /min
+  2020-12-08 : Heart rate                               95.0 /min
+  2020-12-08 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2020-12-08 : Body mass index (BMI) [Percentile] Per age and gender 91.8 %
+  2020-12-08 : Body Mass Index                          19.0 kg/m2
+  2020-12-08 : Body Weight                              26.8 kg
+  2020-12-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-12-08 : Body Height                              118.9 cm
+  2020-04-08 : Body temperature                         37.5 Cel
+  2019-12-03 : Tobacco smoking status NHIS              Never smoker 
+  2019-12-03 : Respiratory rate                         12.0 /min
+  2019-12-03 : Heart rate                               92.0 /min
+  2019-12-03 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2019-12-03 : Body mass index (BMI) [Percentile] Per age and gender 83.5 %
+  2019-12-03 : Body Mass Index                          17.2 kg/m2
+  2019-12-03 : Body Weight                              22.1 kg
+  2019-12-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-12-03 : Body Height                              113.2 cm
+  2018-11-27 : Tobacco smoking status NHIS              Never smoker 
+  2018-11-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2018-11-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 237.9 fL
+  2018-11-27 : Platelets [#/volume] in Blood by Automated count 371.8 10*3/uL
+  2018-11-27 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  2018-11-27 : MCHC [Mass/volume] by Automated count    33.3 g/dL
+  2018-11-27 : MCH [Entitic mass] by Automated count    32.8 pg
+  2018-11-27 : MCV [Entitic volume] by Automated count  86.0 fL
+  2018-11-27 : Hematocrit [Volume Fraction] of Blood by Automated count 44.8 %
+  2018-11-27 : Hemoglobin [Mass/volume] in Blood        14.2 g/dL
+  2018-11-27 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2018-11-27 : Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+  2018-11-27 : Respiratory rate                         14.0 /min
+  2018-11-27 : Heart rate                               78.0 /min
+  2018-11-27 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2018-11-27 : Body mass index (BMI) [Percentile] Per age and gender 77.4 %
+  2018-11-27 : Body Mass Index                          16.5 kg/m2
+  2018-11-27 : Body Weight                              19.0 kg
+  2018-11-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-11-27 : Body Height                              107.3 cm
+  2017-11-21 : Tobacco smoking status NHIS              Never smoker 
+  2017-11-21 : Respiratory rate                         14.0 /min
+  2017-11-21 : Heart rate                               90.0 /min
+  2017-11-21 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2017-11-21 : Body mass index (BMI) [Percentile] Per age and gender 77.0 %
+  2017-11-21 : Body Mass Index                          16.4 kg/m2
+  2017-11-21 : Body Weight                              16.8 kg
+  2017-11-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-11-21 : Body Height                              101.4 cm
+  2016-11-15 : Tobacco smoking status NHIS              Never smoker 
+  2016-11-15 : Respiratory rate                         15.0 /min
+  2016-11-15 : Heart rate                               92.0 /min
+  2016-11-15 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2016-11-15 : Body mass index (BMI) [Percentile] Per age and gender 68.6 %
+  2016-11-15 : Body Mass Index                          16.2 kg/m2
+  2016-11-15 : Head Occipital-frontal circumference     47.0 cm
+  2016-11-15 : Weight-for-length Per age and sex        35.8 %
+  2016-11-15 : Body Weight                              14.8 kg
+  2016-11-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-11-15 : Body Height                              95.5 cm
+  2016-05-17 : Tobacco smoking status NHIS              Never smoker 
+  2016-05-17 : Respiratory rate                         14.0 /min
+  2016-05-17 : Heart rate                               91.0 /min
+  2016-05-17 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2016-05-17 : Body mass index (BMI) [Percentile] Per age and gender 60.3 %
+  2016-05-17 : Body Mass Index                          16.1 kg/m2
+  2016-05-17 : Head Occipital-frontal circumference     47.0 cm
+  2016-05-17 : Weight-for-length Per age and sex        35.8 %
+  2016-05-17 : Body Weight                              13.7 kg
+  2016-05-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-05-17 : Body Height                              92.3 cm
+  2015-12-31 : History of Hospitalizations+Outpatient visits 8.9 {count}
+  2015-12-31 : Are you covered by health insurance or some other kind of health care plan [PhenX] No {nominal}
+  2015-12-31 : Housing status                           Patient is homeless {nominal}
+  2015-12-31 : Abuse Status [OMAHA]                     No signs/symptoms {nominal}
+  2015-12-31 : HIV status                               HIV positive {nominal}
+  2015-12-31 : Sexual orientation                       heterosexual {nominal}
+  2015-12-01 : History of Hospitalizations+Outpatient visits 6.1 {count}
+  2015-12-01 : Are you covered by health insurance or some other kind of health care plan [PhenX] No {nominal}
+  2015-12-01 : Housing status                           Patient is homeless {nominal}
+  2015-12-01 : Abuse Status [OMAHA]                     No signs/symptoms {nominal}
+  2015-12-01 : HIV status                               HIV positive {nominal}
+  2015-12-01 : Sexual orientation                       heterosexual {nominal}
+  2015-11-17 : Tobacco smoking status NHIS              Never smoker 
+  2015-11-17 : Respiratory rate                         12.0 /min
+  2015-11-17 : Heart rate                               96.0 /min
+  2015-11-17 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2015-11-17 : Body mass index (BMI) [Percentile] Per age and gender 45.4 %
+  2015-11-17 : Body Mass Index                          15.9 kg/m2
+  2015-11-17 : Head Occipital-frontal circumference     47.0 cm
+  2015-11-17 : Weight-for-length Per age and sex        36.7 %
+  2015-11-17 : Body Weight                              12.6 kg
+  2015-11-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2015-11-17 : Body Height                              88.9 cm
+  2015-09-02 : History of Hospitalizations+Outpatient visits 2.0 {count}
+  2015-09-02 : Are you covered by health insurance or some other kind of health care plan [PhenX] Yes {nominal}
+  2015-09-02 : Housing status                           Patient is homeless {nominal}
+  2015-09-02 : Abuse Status [OMAHA]                     Severe signs/symptoms {nominal}
+  2015-09-02 : HIV status                               HIV positive {nominal}
+  2015-09-02 : Sexual orientation                       heterosexual {nominal}
+  2015-07-04 : History of Hospitalizations+Outpatient visits 3.4 {count}
+  2015-07-04 : Are you covered by health insurance or some other kind of health care plan [PhenX] No {nominal}
+  2015-07-04 : Housing status                           Patient is homeless {nominal}
+  2015-07-04 : Abuse Status [OMAHA]                     Severe signs/symptoms {nominal}
+  2015-07-04 : HIV status                               HIV positive {nominal}
+  2015-07-04 : Sexual orientation                       heterosexual {nominal}
+  2015-05-19 : Tobacco smoking status NHIS              Never smoker 
+  2015-05-19 : Respiratory rate                         14.0 /min
+  2015-05-19 : Heart rate                               72.0 /min
+  2015-05-19 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2015-05-19 : Body mass index (BMI) [Percentile] Per age and gender 36.9 %
+  2015-05-19 : Body Mass Index                          15.9 kg/m2
+  2015-05-19 : Head Occipital-frontal circumference     46.8 cm
+  2015-05-19 : Weight-for-length Per age and sex        27.8 %
+  2015-05-19 : Body Weight                              11.5 kg
+  2015-05-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-05-19 : Body Height                              85.0 cm
+  2015-02-04 : History of Hospitalizations+Outpatient visits 4.8 {count}
+  2015-02-04 : Are you covered by health insurance or some other kind of health care plan [PhenX] No {nominal}
+  2015-02-04 : Housing status                           Patient is homeless {nominal}
+  2015-02-04 : Abuse Status [OMAHA]                     Severe signs/symptoms {nominal}
+  2015-02-04 : HIV status                               HIV positive {nominal}
+  2015-02-04 : Sexual orientation                       heterosexual {nominal}
+  2014-11-18 : Tobacco smoking status NHIS              Never smoker 
+  2014-11-18 : Respiratory rate                         13.0 /min
+  2014-11-18 : Heart rate                               86.0 /min
+  2014-11-18 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2014-11-18 : Head Occipital-frontal circumference     46.4 cm
+  2014-11-18 : Weight-for-length Per age and sex        35.1 %
+  2014-11-18 : Body Weight                              10.8 kg
+  2014-11-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2014-11-18 : Body Height                              81.4 cm
+  2014-11-06 : History of Hospitalizations+Outpatient visits 4.0 {count}
+  2014-11-06 : Are you covered by health insurance or some other kind of health care plan [PhenX] No {nominal}
+  2014-11-06 : Housing status                           Patient is homeless {nominal}
+  2014-11-06 : Abuse Status [OMAHA]                     No signs/symptoms {nominal}
+  2014-11-06 : HIV status                               HIV positive {nominal}
+  2014-11-06 : Sexual orientation                       heterosexual {nominal}
+  2014-09-07 : History of Hospitalizations+Outpatient visits 8.8 {count}
+  2014-09-07 : Are you covered by health insurance or some other kind of health care plan [PhenX] No {nominal}
+  2014-09-07 : Housing status                           Patient is homeless {nominal}
+  2014-09-07 : Abuse Status [OMAHA]                     No signs/symptoms {nominal}
+  2014-09-07 : HIV status                               HIV positive {nominal}
+  2014-09-07 : Sexual orientation                       heterosexual {nominal}
+  2014-07-09 : History of Hospitalizations+Outpatient visits 0.4 {count}
+  2014-07-09 : Are you covered by health insurance or some other kind of health care plan [PhenX] No {nominal}
+  2014-07-09 : Housing status                           Patient is homeless {nominal}
+  2014-07-09 : Abuse Status [OMAHA]                     No signs/symptoms {nominal}
+  2014-07-09 : HIV status                               not HIV positive {nominal}
+  2014-07-09 : Sexual orientation                       heterosexual {nominal}
+  2014-06-09 : History of Hospitalizations+Outpatient visits 4.9 {count}
+  2014-06-09 : Are you covered by health insurance or some other kind of health care plan [PhenX] No {nominal}
+  2014-06-09 : Housing status                           Patient is homeless {nominal}
+  2014-06-09 : Abuse Status [OMAHA]                     No signs/symptoms {nominal}
+  2014-06-09 : HIV status                               not HIV positive {nominal}
+  2014-06-09 : Sexual orientation                       heterosexual {nominal}
+  2014-05-20 : Tobacco smoking status NHIS              Never smoker 
+  2014-05-20 : Respiratory rate                         13.0 /min
+  2014-05-20 : Heart rate                               94.0 /min
+  2014-05-20 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2014-05-20 : Head Occipital-frontal circumference     45.6 cm
+  2014-05-20 : Weight-for-length Per age and sex        34.5 %
+  2014-05-20 : Body Weight                              9.9 kg
+  2014-05-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-05-20 : Body Height                              76.6 cm
+  2014-05-10 : History of Hospitalizations+Outpatient visits 10.0 {count}
+  2014-05-10 : Are you covered by health insurance or some other kind of health care plan [PhenX] Yes {nominal}
+  2014-05-10 : Housing status                           Patient is homeless {nominal}
+  2014-05-10 : Abuse Status [OMAHA]                     No signs/symptoms {nominal}
+  2014-05-10 : HIV status                               not HIV positive {nominal}
+  2014-05-10 : Sexual orientation                       heterosexual {nominal}
+  2014-04-10 : History of Hospitalizations+Outpatient visits 2.4 {count}
+  2014-04-10 : Are you covered by health insurance or some other kind of health care plan [PhenX] No {nominal}
+  2014-04-10 : Housing status                           Patient is homeless {nominal}
+  2014-04-10 : Abuse Status [OMAHA]                     No signs/symptoms {nominal}
+  2014-04-10 : HIV status                               not HIV positive {nominal}
+  2014-04-10 : Sexual orientation                       heterosexual {nominal}
+  2014-02-18 : Tobacco smoking status NHIS              Never smoker 
+  2014-02-18 : Respiratory rate                         16.0 /min
+  2014-02-18 : Heart rate                               72.0 /min
+  2014-02-18 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2014-02-18 : Head Occipital-frontal circumference     45.1 cm
+  2014-02-18 : Weight-for-length Per age and sex        44.2 %
+  2014-02-18 : Body Weight                              9.4 kg
+  2014-02-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-02-18 : Body Height                              73.8 cm
+  2014-01-10 : History of Hospitalizations+Outpatient visits 5.5 {count}
+  2014-01-10 : Are you covered by health insurance or some other kind of health care plan [PhenX] No {nominal}
+  2014-01-10 : Housing status                           Patient is homeless {nominal}
+  2014-01-10 : Abuse Status [OMAHA]                     No signs/symptoms {nominal}
+  2014-01-10 : HIV status                               not HIV positive {nominal}
+  2014-01-10 : Sexual orientation                       heterosexual {nominal}
+  2013-11-19 : Tobacco smoking status NHIS              Never smoker 
+  2013-11-19 : Respiratory rate                         16.0 /min
+  2013-11-19 : Heart rate                               77.0 /min
+  2013-11-19 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2013-11-19 : Head Occipital-frontal circumference     44.2 cm
+  2013-11-19 : Weight-for-length Per age and sex        44.6 %
+  2013-11-19 : Body Weight                              8.7 kg
+  2013-11-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-11-19 : Body Height                              70.7 cm
+  2013-08-20 : Tobacco smoking status NHIS              Never smoker 
+  2013-08-20 : Respiratory rate                         13.0 /min
+  2013-08-20 : Heart rate                               80.0 /min
+  2013-08-20 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2013-08-20 : Head Occipital-frontal circumference     43.1 cm
+  2013-08-20 : Weight-for-length Per age and sex        43.1 %
+  2013-08-20 : Body Weight                              7.7 kg
+  2013-08-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-08-20 : Body Height                              67.0 cm
+  2013-05-21 : Tobacco smoking status NHIS              Never smoker 
+  2013-05-21 : Respiratory rate                         15.0 /min
+  2013-05-21 : Heart rate                               78.0 /min
+  2013-05-21 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2013-05-21 : Head Occipital-frontal circumference     41.3 cm
+  2013-05-21 : Weight-for-length Per age and sex        40.0 %
+  2013-05-21 : Body Weight                              6.4 kg
+  2013-05-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-05-21 : Body Height                              62.4 cm
+  2013-03-19 : Tobacco smoking status NHIS              Never smoker 
+  2013-03-19 : Respiratory rate                         14.0 /min
+  2013-03-19 : Heart rate                               96.0 /min
+  2013-03-19 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2013-03-19 : Head Occipital-frontal circumference     39.4 cm
+  2013-03-19 : Weight-for-length Per age and sex        33.7 %
+  2013-03-19 : Body Weight                              5.3 kg
+  2013-03-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-03-19 : Body Height                              58.4 cm
+  2013-01-15 : Tobacco smoking status NHIS              Never smoker 
+  2013-01-15 : Respiratory rate                         15.0 /min
+  2013-01-15 : Heart rate                               98.0 /min
+  2013-01-15 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2013-01-15 : Head Occipital-frontal circumference     36.4 cm
+  2013-01-15 : Weight-for-length Per age and sex        21.3 %
+  2013-01-15 : Body Weight                              3.9 kg
+  2013-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-01-15 : Body Height                              52.9 cm
+  2012-12-11 : Tobacco smoking status NHIS              Never smoker 
+  2012-12-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2012-12-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 302.9 fL
+  2012-12-11 : Platelets [#/volume] in Blood by Automated count 201.0 10*3/uL
+  2012-12-11 : Erythrocyte distribution width [Entitic volume] by Automated count 39.5 fL
+  2012-12-11 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2012-12-11 : MCH [Entitic mass] by Automated count    29.9 pg
+  2012-12-11 : MCV [Entitic volume] by Automated count  86.8 fL
+  2012-12-11 : Hematocrit [Volume Fraction] of Blood by Automated count 44.2 %
+  2012-12-11 : Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+  2012-12-11 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2012-12-11 : Leukocytes [#/volume] in Blood by Automated count 9.3 10*3/uL
+  2012-12-11 : Respiratory rate                         15.0 /min
+  2012-12-11 : Heart rate                               63.0 /min
+  2012-12-11 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2012-12-11 : Head Occipital-frontal circumference     32.4 cm
+  2012-12-11 : Weight-for-length Per age and sex        34.8 %
+  2012-12-11 : Body Weight                              3.1 kg
+  2012-12-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-12-11 : Body Height                              48.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-04-08 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2017-11-21 : Medication Reconciliation (procedure)
+  2016-05-17 : Medication Reconciliation (procedure)
+  2015-12-31 : Information gathering (procedure)
+  2015-12-01 : Information gathering (procedure)
+  2015-09-02 : Information gathering (procedure)
+  2015-07-04 : Information gathering (procedure)
+  2015-02-04 : Information gathering (procedure)
+  2014-11-06 : Information gathering (procedure)
+  2014-09-07 : Information gathering (procedure)
+  2014-07-09 : Information gathering (procedure)
+  2014-06-09 : Information gathering (procedure)
+  2014-05-20 : Medication Reconciliation (procedure)
+  2014-05-10 : Information gathering (procedure)
+  2014-04-10 : Information gathering (procedure)
+  2014-02-18 : Medication Reconciliation (procedure)
+  2014-01-10 : Information gathering (procedure)
+  2013-03-19 : Medication Reconciliation (procedure)
+  2012-12-11 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-12-08 : Influenza, seasonal, injectable, preservative free
+  2019-12-03 : Influenza, seasonal, injectable, preservative free
+  2018-11-27 : Influenza, seasonal, injectable, preservative free
+  2017-11-21 : MMR
+  2017-11-21 : DTaP
+  2017-11-21 : Influenza, seasonal, injectable, preservative free
+  2017-11-21 : IPV
+  2017-11-21 : varicella
+  2016-11-15 : Influenza, seasonal, injectable, preservative free
+  2015-11-17 : Influenza, seasonal, injectable, preservative free
+  2015-05-19 : Hep A, ped/adol, 2 dose
+  2014-11-18 : Influenza, seasonal, injectable, preservative free
+  2014-05-20 : DTaP
+  2014-02-18 : Hep A, ped/adol, 2 dose
+  2014-02-18 : Pneumococcal conjugate PCV 13
+  2014-02-18 : MMR
+  2014-02-18 : varicella
+  2014-02-18 : Hib (PRP-OMP)
+  2013-08-20 : Hep B, adolescent or pediatric
+  2013-08-20 : Pneumococcal conjugate PCV 13
+  2013-08-20 : DTaP
+  2013-08-20 : Influenza, seasonal, injectable, preservative free
+  2013-08-20 : IPV
+  2013-05-21 : Pneumococcal conjugate PCV 13
+  2013-05-21 : DTaP
+  2013-05-21 : IPV
+  2013-05-21 : rotavirus, monovalent
+  2013-05-21 : Hib (PRP-OMP)
+  2013-03-19 : Pneumococcal conjugate PCV 13
+  2013-03-19 : DTaP
+  2013-03-19 : IPV
+  2013-03-19 : rotavirus, monovalent
+  2013-03-19 : Hib (PRP-OMP)
+  2013-01-15 : Hep B, adolescent or pediatric
+  2012-12-11 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-12-08 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+2020-04-08 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2019-12-03 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+2018-11-27 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+2017-11-21 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+2017-02-13 (Dr. Hernán Fierro) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER WHITE ROCK : Encounter for Otitis media
+2016-11-15 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+2016-08-22 (Dr. Hernán Fierro) : Encounter at BAYLOR SCOTT AND WHITE MEDICAL CENTER WHITE ROCK : Encounter for Otitis media
+2016-05-17 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+2015-12-31 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2015-12-01 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2015-11-17 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+2015-09-02 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2015-07-04 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2015-05-19 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+2015-02-04 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2014-11-18 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+2014-11-06 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2014-09-07 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2014-07-09 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2014-06-09 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2014-05-20 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+2014-05-10 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2014-04-10 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2014-04-15 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL : Encounter for Viral sinusitis (disorder)
+2014-03-01 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL : Encounter for Injury of tendon of the rotator cuff of shoulder
+2014-02-18 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+2014-01-11 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL : Encounter for Injury of tendon of the rotator cuff of shoulder
+2014-01-10 (Dr. Marty Fritsch) : Encounter at BAYLOR HEART AND VASCULAR HOSPITAL
+2013-11-19 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+2013-08-20 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+2013-05-21 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+2013-03-19 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+2013-01-15 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+2012-12-11 (Dr. Grover Jacobson) : Encounter at FAGADAU AND HAWK, M.D LLP
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

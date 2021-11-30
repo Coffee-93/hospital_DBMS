@@ -1,0 +1,290 @@
+Enrique Schimmel
+================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              M
+Age:                 29
+Birth Date:          1992-11-02
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2015-11-03[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2012-11-26[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Sinusitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-01-11 -            : Full-time employment (finding)
+  2018-01-08 - 2021-01-11 : Full-time employment (finding)
+  2015-11-03 - 2015-11-11 : Viral sinusitis (disorder)
+  2015-01-05 - 2018-01-08 : Full-time employment (finding)
+  2013-02-03 -            : Chronic sinusitis (disorder)
+  2012-11-26 - 2013-03-10 : Sinusitis (disorder)
+  2012-05-11 - 2012-05-23 : Viral sinusitis (disorder)
+  2012-01-02 - 2021-01-11 : Social isolation (finding)
+  2012-01-02 - 2015-01-05 : Part-time employment (finding)
+  2010-12-27 -            : Stress (finding)
+  2010-12-27 - 2012-01-02 : Part-time employment (finding)
+  2010-12-27 -            : Received higher education (finding)
+  2007-12-10 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-01-11 : PHQ-9 quick depression assessment panel [Reported.PHQ]
+           - Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 17.0 {score}
+  2021-01-11 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 4.0 {score}
+  2021-01-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.4 %
+           - MCV [Entitic volume] by Automated count  81.6 fL
+           - MCH [Entitic mass] by Automated count    29.0 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.8 fL
+           - Platelets [#/volume] in Blood by Automated count 383.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 294.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2018-01-08 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2018-01-08 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2015-01-05 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2015-01-05 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2015-01-05 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2015-01-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.5 %
+           - MCV [Entitic volume] by Automated count  85.0 fL
+           - MCH [Entitic mass] by Automated count    29.5 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+           - Platelets [#/volume] in Blood by Automated count 275.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 410.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2012-01-02 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2012-01-02 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-01-11 : Patient Health Questionnaire 9 item (PHQ-9) total score [Reported] 17.0 {score}
+  2021-01-11 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 4.0 {score}
+  2021-01-11 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 112452 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             305 Vandervort Fork 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-01-11 : Tobacco smoking status NHIS              Former smoker 
+  2021-01-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2021-01-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 294.0 fL
+  2021-01-11 : Platelets [#/volume] in Blood by Automated count 383.5 10*3/uL
+  2021-01-11 : Erythrocyte distribution width [Entitic volume] by Automated count 40.8 fL
+  2021-01-11 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2021-01-11 : MCH [Entitic mass] by Automated count    29.0 pg
+  2021-01-11 : MCV [Entitic volume] by Automated count  81.6 fL
+  2021-01-11 : Hematocrit [Volume Fraction] of Blood by Automated count 44.4 %
+  2021-01-11 : Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+  2021-01-11 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2021-01-11 : Leukocytes [#/volume] in Blood by Automated count 4.2 10*3/uL
+  2021-01-11 : Respiratory rate                         14.0 /min
+  2021-01-11 : Heart rate                               68.0 /min
+  2021-01-11 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2021-01-11 : Body Mass Index                          23.8 kg/m2
+  2021-01-11 : Body Weight                              64.9 kg
+  2021-01-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-01-11 : Body Height                              165.0 cm
+  2018-01-08 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2018-01-08 : Total score [HARK]                       0.0 {score}
+  2018-01-08 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 112452 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             305 Vandervort Fork 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2018-01-08 : Tobacco smoking status NHIS              Former smoker 
+  2018-01-08 : Respiratory rate                         14.0 /min
+  2018-01-08 : Heart rate                               68.0 /min
+  2018-01-08 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2018-01-08 : Body Mass Index                          22.2 kg/m2
+  2018-01-08 : Body Weight                              60.4 kg
+  2018-01-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-01-08 : Body Height                              165.0 cm
+  2015-01-05 : Total score [AUDIT-C]                    2.0 {score}
+  2015-01-05 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2015-01-05 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2015-01-05 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 112452 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             305 Vandervort Fork 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2015-01-05 : Tobacco smoking status NHIS              Former smoker 
+  2015-01-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2015-01-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 410.7 fL
+  2015-01-05 : Platelets [#/volume] in Blood by Automated count 275.3 10*3/uL
+  2015-01-05 : Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+  2015-01-05 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2015-01-05 : MCH [Entitic mass] by Automated count    29.5 pg
+  2015-01-05 : MCV [Entitic volume] by Automated count  85.0 fL
+  2015-01-05 : Hematocrit [Volume Fraction] of Blood by Automated count 39.5 %
+  2015-01-05 : Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+  2015-01-05 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2015-01-05 : Leukocytes [#/volume] in Blood by Automated count 5.5 10*3/uL
+  2015-01-05 : Respiratory rate                         13.0 /min
+  2015-01-05 : Heart rate                               99.0 /min
+  2015-01-05 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2015-01-05 : Body Mass Index                          20.9 kg/m2
+  2015-01-05 : Body Weight                              56.9 kg
+  2015-01-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-01-05 : Body Height                              165.0 cm
+  2012-01-02 : Total score [AUDIT-C]                    1.0 {score}
+  2012-01-02 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2012-01-02 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Phone 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 112452 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             305 Vandervort Fork 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2012-01-02 : Tobacco smoking status NHIS              Former smoker 
+  2012-01-02 : Respiratory rate                         16.0 /min
+  2012-01-02 : Heart rate                               89.0 /min
+  2012-01-02 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  101.0 mm[Hg]
+  2012-01-02 : Body mass index (BMI) [Percentile] Per age and gender 6.5 %
+  2012-01-02 : Body Mass Index                          19.1 kg/m2
+  2012-01-02 : Body Weight                              51.8 kg
+  2012-01-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-01-02 : Body Height                              164.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-01-11 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-01-11 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-01-11 : Depression screening (procedure)
+  2021-01-11 : Medication Reconciliation (procedure)
+  2021-01-11 : Assessment of health and social care needs (procedure)
+  2018-01-08 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2018-01-08 : Depression screening (procedure)
+  2018-01-08 : Screening for domestic abuse (procedure)
+  2018-01-08 : Assessment of health and social care needs (procedure)
+  2015-01-05 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2015-01-05 : Assessment of substance use (procedure)
+  2015-01-05 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2015-01-05 : Depression screening (procedure)
+  2015-01-05 : Assessment of anxiety (procedure)
+  2015-01-05 : Medication Reconciliation (procedure)
+  2015-01-05 : Assessment of health and social care needs (procedure)
+  2012-01-02 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2012-01-02 : Assessment of substance use (procedure)
+  2012-01-02 : Assessment of anxiety (procedure)
+  2012-01-02 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-05-17 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-04-19 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-01-11 : Influenza, seasonal, injectable, preservative free
+  2018-01-08 : Influenza, seasonal, injectable, preservative free
+  2015-01-05 : meningococcal MCV4P
+  2015-01-05 : Hep B, adult
+  2015-01-05 : Td (adult) preservative free
+  2015-01-05 : Influenza, seasonal, injectable, preservative free
+  2012-01-02 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-05-17 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2021-04-19 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2021-01-11 (Dr. Gennie Schuster) : Encounter at SRILATHA A. REDDY, M.D., P.A
+2018-01-08 (Dr. Gennie Schuster) : Encounter at SRILATHA A. REDDY, M.D., P.A
+2015-11-03 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Viral sinusitis (disorder)
+2015-01-05 (Dr. Gennie Schuster) : Encounter at SRILATHA A. REDDY, M.D., P.A
+2013-02-24 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Sinusitis (disorder)
+2013-02-10 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Sinusitis (disorder)
+2013-02-03 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Sinusitis (disorder)
+2012-11-26 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Sinusitis (disorder)
+2012-05-11 (Dr. Keren Hettinger) : Encounter at BAYLOR MEDICAL CENTER AT IRVING : Encounter for Viral sinusitis (disorder)
+2012-01-02 (Dr. Gennie Schuster) : Encounter at SRILATHA A. REDDY, M.D., P.A
+2010-12-27 (Dr. Gennie Schuster) : Encounter at SRILATHA A. REDDY, M.D., P.A
+2007-12-10 (Dr. Gennie Schuster) : Encounter at SRILATHA A. REDDY, M.D., P.A
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

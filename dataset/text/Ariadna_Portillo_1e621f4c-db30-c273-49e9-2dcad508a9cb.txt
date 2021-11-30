@@ -1,0 +1,304 @@
+Ariadna Portillo
+================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 16
+Birth Date:          2004-12-21
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-04-19[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2015-11-10[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2011-11-25[STOPPED] : Ibuprofen 100 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-04-19 - 2018-05-07 : Acute bronchitis (disorder)
+  2017-05-20 - 2017-05-29 : Acute viral pharyngitis (disorder)
+  2017-01-10 - 2019-01-22 : Risk activity involvement (finding)
+  2015-11-10 - 2015-12-07 : Facial laceration
+  2011-11-25 - 2011-12-11 : Sprain of wrist
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-04-19[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2015-11-10[STOPPED] : Wound care
+                         Reason: Facial laceration
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2011-11-25[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-02-02 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2021-02-02 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.7 %
+           - MCV [Entitic volume] by Automated count  91.1 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+           - Platelets [#/volume] in Blood by Automated count 396.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 458.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2020-01-28 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2020-01-28 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2019-01-22 : Patient Health Questionnaire-9: Modified for Teens [Reported.PHQ.Teen]
+           - Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2018-05-01 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2016-01-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.9 %
+           - MCV [Entitic volume] by Automated count  85.2 fL
+           - MCH [Entitic mass] by Automated count    28.1 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+           - Platelets [#/volume] in Blood by Automated count 309.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 272.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-02-02 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 3.0 {score}
+  2021-02-02 : Tobacco smoking status NHIS              Never smoker 
+  2021-02-02 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2021-02-02 : Platelet distribution width [Entitic volume] in Blood by Automated count 458.7 fL
+  2021-02-02 : Platelets [#/volume] in Blood by Automated count 396.0 10*3/uL
+  2021-02-02 : Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+  2021-02-02 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2021-02-02 : MCH [Entitic mass] by Automated count    31.9 pg
+  2021-02-02 : MCV [Entitic volume] by Automated count  91.1 fL
+  2021-02-02 : Hematocrit [Volume Fraction] of Blood by Automated count 37.7 %
+  2021-02-02 : Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+  2021-02-02 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2021-02-02 : Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+  2021-02-02 : Respiratory rate                         12.0 /min
+  2021-02-02 : Heart rate                               66.0 /min
+  2021-02-02 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2021-02-02 : Body mass index (BMI) [Percentile] Per age and gender 8.7 %
+  2021-02-02 : Body Mass Index                          17.3 kg/m2
+  2021-02-02 : Body Weight                              48.1 kg
+  2021-02-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-02-02 : Body Height                              166.6 cm
+  2020-01-28 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 1.0 {score}
+  2020-01-28 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2020-01-28 : Tobacco smoking status NHIS              Never smoker 
+  2020-01-28 : Respiratory rate                         13.0 /min
+  2020-01-28 : Heart rate                               67.0 /min
+  2020-01-28 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2020-01-28 : Body mass index (BMI) [Percentile] Per age and gender 7.5 %
+  2020-01-28 : Body Mass Index                          16.7 kg/m2
+  2020-01-28 : Body Weight                              46.0 kg
+  2020-01-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-01-28 : Body Height                              166.0 cm
+  2019-01-22 : Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] 4.0 {score}
+  2019-01-22 : Tobacco smoking status NHIS              Never smoker 
+  2019-01-22 : Respiratory rate                         15.0 /min
+  2019-01-22 : Heart rate                               85.0 /min
+  2019-01-22 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2019-01-22 : Body mass index (BMI) [Percentile] Per age and gender 3.4 %
+  2019-01-22 : Body Mass Index                          15.6 kg/m2
+  2019-01-22 : Body Weight                              42.2 kg
+  2019-01-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-01-22 : Body Height                              164.7 cm
+  2018-05-01 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2018-05-01 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-01 : Respiratory rate                         15.0 /min
+  2018-05-01 : Heart rate                               86.0 /min
+  2018-05-01 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2018-05-01 : Body mass index (BMI) [Percentile] Per age and gender 3.1 %
+  2018-05-01 : Body Mass Index                          15.1 kg/m2
+  2018-05-01 : Body Weight                              40.1 kg
+  2018-05-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-05-01 : Body Height                              162.8 cm
+  2018-01-16 : Tobacco smoking status NHIS              Never smoker 
+  2018-01-16 : Respiratory rate                         14.0 /min
+  2018-01-16 : Heart rate                               75.0 /min
+  2018-01-16 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2018-01-16 : Body mass index (BMI) [Percentile] Per age and gender 3.8 %
+  2018-01-16 : Body Mass Index                          15.1 kg/m2
+  2018-01-16 : Body Weight                              39.4 kg
+  2018-01-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-01-16 : Body Height                              161.6 cm
+  2017-05-20 : Body temperature                         37.3 Cel
+  2017-01-10 : Tobacco smoking status NHIS              Never smoker 
+  2017-01-10 : Respiratory rate                         12.0 /min
+  2017-01-10 : Heart rate                               67.0 /min
+  2017-01-10 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2017-01-10 : Body mass index (BMI) [Percentile] Per age and gender 10.7 %
+  2017-01-10 : Body Mass Index                          15.5 kg/m2
+  2017-01-10 : Body Weight                              37.6 kg
+  2017-01-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-01-10 : Body Height                              156.0 cm
+  2016-01-05 : Tobacco smoking status NHIS              Never smoker 
+  2016-01-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2016-01-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 272.1 fL
+  2016-01-05 : Platelets [#/volume] in Blood by Automated count 309.0 10*3/uL
+  2016-01-05 : Erythrocyte distribution width [Entitic volume] by Automated count 44.2 fL
+  2016-01-05 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2016-01-05 : MCH [Entitic mass] by Automated count    28.1 pg
+  2016-01-05 : MCV [Entitic volume] by Automated count  85.2 fL
+  2016-01-05 : Hematocrit [Volume Fraction] of Blood by Automated count 45.9 %
+  2016-01-05 : Hemoglobin [Mass/volume] in Blood        17.2 g/dL
+  2016-01-05 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2016-01-05 : Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+  2016-01-05 : Respiratory rate                         15.0 /min
+  2016-01-05 : Heart rate                               75.0 /min
+  2016-01-05 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2016-01-05 : Body mass index (BMI) [Percentile] Per age and gender 19.6 %
+  2016-01-05 : Body Mass Index                          15.7 kg/m2
+  2016-01-05 : Body Weight                              34.6 kg
+  2016-01-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-01-05 : Body Height                              148.7 cm
+  2014-12-30 : Tobacco smoking status NHIS              Never smoker 
+  2014-12-30 : Respiratory rate                         15.0 /min
+  2014-12-30 : Heart rate                               88.0 /min
+  2014-12-30 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2014-12-30 : Body mass index (BMI) [Percentile] Per age and gender 29.0 %
+  2014-12-30 : Body Mass Index                          15.7 kg/m2
+  2014-12-30 : Body Weight                              31.9 kg
+  2014-12-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-12-30 : Body Height                              142.4 cm
+  2013-12-24 : Tobacco smoking status NHIS              Never smoker 
+  2013-12-24 : Respiratory rate                         15.0 /min
+  2013-12-24 : Heart rate                               93.0 /min
+  2013-12-24 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2013-12-24 : Body mass index (BMI) [Percentile] Per age and gender 30.1 %
+  2013-12-24 : Body Mass Index                          15.3 kg/m2
+  2013-12-24 : Body Weight                              28.8 kg
+  2013-12-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-12-24 : Body Height                              137.0 cm
+  2012-12-18 : Tobacco smoking status NHIS              Never smoker 
+  2012-12-18 : Respiratory rate                         14.0 /min
+  2012-12-18 : Heart rate                               84.0 /min
+  2012-12-18 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2012-12-18 : Body mass index (BMI) [Percentile] Per age and gender 20.0 %
+  2012-12-18 : Body Mass Index                          14.5 kg/m2
+  2012-12-18 : Body Weight                              24.8 kg
+  2012-12-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-12-18 : Body Height                              131.0 cm
+  2011-12-13 : Tobacco smoking status NHIS              Never smoker 
+  2011-12-13 : Respiratory rate                         13.0 /min
+  2011-12-13 : Heart rate                               61.0 /min
+  2011-12-13 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2011-12-13 : Body mass index (BMI) [Percentile] Per age and gender 13.3 %
+  2011-12-13 : Body Mass Index                          14.0 kg/m2
+  2011-12-13 : Body Weight                              21.7 kg
+  2011-12-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2011-12-13 : Body Height                              124.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-02-02 : Anticipatory guidance (procedure)
+  2021-02-02 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2021-02-02 : Assessment of substance use (procedure)
+  2021-02-02 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2021-02-02 : Depression screening (procedure)
+  2020-01-28 : Anticipatory guidance (procedure)
+  2020-01-28 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2020-01-28 : Assessment of substance use (procedure)
+  2020-01-28 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2020-01-28 : Depression screening (procedure)
+  2020-01-28 : Medication Reconciliation (procedure)
+  2020-01-28 : Assessment of anxiety (procedure)
+  2019-01-22 : Anticipatory guidance (procedure)
+  2019-01-22 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2019-01-22 : Assessment of substance use (procedure)
+  2019-01-22 : Depression screening using Patient Health Questionnaire Nine Item score (procedure)
+  2019-01-22 : Medication Reconciliation (procedure)
+  2019-01-22 : Depression screening (procedure)
+  2018-05-01 : Health risks education (procedure) for Risk activity involvement (finding)
+  2018-05-01 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2018-05-01 : Assessment of substance use (procedure)
+  2018-05-01 : Medication Reconciliation (procedure)
+  2018-05-01 : Assessment of anxiety (procedure)
+  2018-04-19 : Sputum examination (procedure) for Acute bronchitis (disorder)
+  2018-01-16 : Health risks education (procedure) for Risk activity involvement (finding)
+  2018-01-16 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2018-01-16 : Assessment of substance use (procedure)
+  2017-05-20 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2017-01-10 : Health risks education (procedure) for Risk activity involvement (finding)
+  2017-01-10 : Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test (procedure)
+  2017-01-10 : Assessment of substance use (procedure)
+  2016-01-05 : Medication Reconciliation (procedure)
+  2015-11-10 : Injection of tetanus antitoxin for Facial laceration
+  2015-11-10 : Suture open wound for Facial laceration
+  2014-12-30 : Medication Reconciliation (procedure)
+  2011-12-13 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-05-25 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-05-04 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-02-02 : meningococcal MCV4P
+  2021-02-02 : Influenza, seasonal, injectable, preservative free
+  2020-01-28 : Influenza, seasonal, injectable, preservative free
+  2019-01-22 : Influenza, seasonal, injectable, preservative free
+  2018-01-16 : HPV, quadrivalent
+  2018-01-16 : Influenza, seasonal, injectable, preservative free
+  2017-01-10 : HPV, quadrivalent
+  2017-01-10 : Influenza, seasonal, injectable, preservative free
+  2016-01-05 : meningococcal MCV4P
+  2016-01-05 : HPV, quadrivalent
+  2016-01-05 : Influenza, seasonal, injectable, preservative free
+  2016-01-05 : Tdap
+  2014-12-30 : Influenza, seasonal, injectable, preservative free
+  2013-12-24 : Influenza, seasonal, injectable, preservative free
+  2012-12-18 : Influenza, seasonal, injectable, preservative free
+  2011-12-13 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-05-25 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2021-05-04 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2021-02-02 (Dr. Kaitlyn Robel) : Encounter at PCP262447
+2020-01-28 (Dr. Kaitlyn Robel) : Encounter at PCP262447
+2019-01-22 (Dr. Kaitlyn Robel) : Encounter at PCP262447
+2018-05-01 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS
+2018-04-19 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Acute bronchitis (disorder)
+2018-01-16 (Dr. Kaitlyn Robel) : Encounter at PCP262447
+2017-05-20 (Dr. Nathan Mills) : Encounter at BAYLOR SURGICAL HOSPITAL AT LAS COLINAS : Encounter for Acute viral pharyngitis (disorder)
+2017-01-10 (Dr. Kaitlyn Robel) : Encounter at PCP262447
+2016-01-05 (Dr. Kaitlyn Robel) : Encounter at PCP262447
+2015-11-10 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+2014-12-30 (Dr. Kaitlyn Robel) : Encounter at PCP262447
+2013-12-24 (Dr. Kaitlyn Robel) : Encounter at PCP262447
+2012-12-18 (Dr. Kaitlyn Robel) : Encounter at PCP262447
+2011-12-13 (Dr. Kaitlyn Robel) : Encounter at PCP262447
+2011-11-25 (Dr. Bobbie Trantow) : Encounter at LAS COLINAS MEDICAL CENTER
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

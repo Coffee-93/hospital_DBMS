@@ -1,0 +1,96 @@
+Carlene Crona
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 0
+Birth Date:          2021-08-21
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-08-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.9 %
+           - MCV [Entitic volume] by Automated count  92.7 fL
+           - MCH [Entitic mass] by Automated count    29.4 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+           - Platelets [#/volume] in Blood by Automated count 211.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 502.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-11-27 : Tobacco smoking status NHIS              Never smoker 
+  2021-11-27 : Respiratory rate                         14.0 /min
+  2021-11-27 : Heart rate                               64.0 /min
+  2021-11-27 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2021-11-27 : Head Occipital-frontal circumference     40.9 cm
+  2021-11-27 : Weight-for-length Per age and sex        21.8 %
+  2021-11-27 : Body Weight                              5.8 kg
+  2021-11-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-11-27 : Body Height                              61.2 cm
+  2021-09-25 : Tobacco smoking status NHIS              Never smoker 
+  2021-09-25 : Respiratory rate                         14.0 /min
+  2021-09-25 : Heart rate                               78.0 /min
+  2021-09-25 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2021-09-25 : Head Occipital-frontal circumference     38.4 cm
+  2021-09-25 : Weight-for-length Per age and sex        14.1 %
+  2021-09-25 : Body Weight                              4.5 kg
+  2021-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-09-25 : Body Height                              56.0 cm
+  2021-08-21 : Tobacco smoking status NHIS              Never smoker 
+  2021-08-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2021-08-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 502.0 fL
+  2021-08-21 : Platelets [#/volume] in Blood by Automated count 211.2 10*3/uL
+  2021-08-21 : Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+  2021-08-21 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2021-08-21 : MCH [Entitic mass] by Automated count    29.4 pg
+  2021-08-21 : MCV [Entitic volume] by Automated count  92.7 fL
+  2021-08-21 : Hematocrit [Volume Fraction] of Blood by Automated count 48.9 %
+  2021-08-21 : Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+  2021-08-21 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  2021-08-21 : Leukocytes [#/volume] in Blood by Automated count 4.4 10*3/uL
+  2021-08-21 : Respiratory rate                         12.0 /min
+  2021-08-21 : Heart rate                               77.0 /min
+  2021-08-21 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2021-08-21 : Head Occipital-frontal circumference     35.2 cm
+  2021-08-21 : Weight-for-length Per age and sex        33.4 %
+  2021-08-21 : Body Weight                              3.8 kg
+  2021-08-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-08-21 : Body Height                              52.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-11-27 : Pneumococcal conjugate PCV 13
+  2021-11-27 : DTaP
+  2021-11-27 : IPV
+  2021-11-27 : rotavirus, monovalent
+  2021-11-27 : Hib (PRP-OMP)
+  2021-09-25 : Hep B, adolescent or pediatric
+  2021-08-21 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-11-27 (Dr. Daron Abshire) : Encounter at MEDHEALTH
+2021-09-25 (Dr. Daron Abshire) : Encounter at MEDHEALTH
+2021-08-21 (Dr. Daron Abshire) : Encounter at MEDHEALTH
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

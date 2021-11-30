@@ -1,0 +1,480 @@
+Kenyetta Schaden
+================
+Race:                White
+Ethnicity:           Hispanic
+Gender:              F
+Age:                 42
+Birth Date:          1979-06-30
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-01-10[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2017-01-10[STOPPED] : Meperidine Hydrochloride 50 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-07-10 -            : Stress (finding)
+  2019-07-06 -            : Victim of intimate partner abuse (finding)
+  2017-01-10 - 2017-03-15 : Fracture of clavicle
+  2016-09-17 - 2019-07-06 : Victim of intimate partner abuse (finding)
+  2016-09-17 - 2021-07-10 : Limited social contact (finding)
+  2016-09-17 -            : Body mass index 30+ - obesity (finding)
+  2014-09-07 - 2014-09-22 : Viral sinusitis (disorder)
+  2014-01-25 - 2014-08-30 : Normal pregnancy
+  2013-10-25 - 2013-11-03 : Viral sinusitis (disorder)
+  2013-02-02 - 2013-03-02 : Antepartum eclampsia
+  2013-01-25 - 2013-02-08 : Acute viral pharyngitis (disorder)
+  2012-07-21 - 2013-03-02 : Normal pregnancy
+  2011-07-02 - 2012-01-14 : Normal pregnancy
+  2010-09-11 - 2016-09-17 : Stress (finding)
+  2004-09-04 - 2013-09-14 : Social isolation (finding)
+  2001-09-01 - 2007-09-08 : Stress (finding)
+  1997-08-23 - 1998-08-29 : Stress (finding)
+  1997-08-23 -            : Unemployed (finding)
+  1997-08-23 -            : Received higher education (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-01-10[STOPPED] : Fracture care
+                         Reason: Fracture of clavicle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2014-10-28[STOPPED] : Minor surgery care management (procedure)
+                         Activity: Recommendation to rest
+                         Activity: Recommendation to limit sexual activity
+  2014-01-25[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2012-07-21[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2011-07-02[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-07-10 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2021-07-10 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-07-10 : Lipid Panel
+           - Total Cholesterol                        192.2 mg/dL
+           - Triglycerides                            123.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      105.0 mg/dL
+           - High Density Lipoprotein Cholesterol     62.5 mg/dL
+  2019-07-06 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-07-06 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       3.0 {score}
+  2019-07-06 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2019-07-06 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.6 %
+           - MCV [Entitic volume] by Automated count  80.3 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+           - Platelets [#/volume] in Blood by Automated count 287.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 485.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2016-09-17 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2016-09-17 : Lipid Panel
+           - Total Cholesterol                        179.1 mg/dL
+           - Triglycerides                            125.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.8 mg/dL
+           - High Density Lipoprotein Cholesterol     59.1 mg/dL
+  2013-09-14 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    1.0 {score}
+  2013-09-14 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2013-09-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.3 %
+           - MCV [Entitic volume] by Automated count  93.6 fL
+           - MCH [Entitic mass] by Automated count    30.1 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+           - Platelets [#/volume] in Blood by Automated count 337.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 271.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2013-09-14 : Lipid Panel
+           - Total Cholesterol                        165.4 mg/dL
+           - Triglycerides                            149.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      58.6 mg/dL
+           - High Density Lipoprotein Cholesterol     77.0 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-07-10 : Total score [DAST-10]                    1.0 {score}
+  2021-07-10 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-07-10 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 8225 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             558 Kreiger Quay 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-07-10 : Tobacco smoking status NHIS              Never smoker 
+  2021-07-10 : High Density Lipoprotein Cholesterol     62.5 mg/dL
+  2021-07-10 : Low Density Lipoprotein Cholesterol      105.0 mg/dL
+  2021-07-10 : Triglycerides                            123.7 mg/dL
+  2021-07-10 : Total Cholesterol                        192.2 mg/dL
+  2021-07-10 : Respiratory rate                         14.0 /min
+  2021-07-10 : Heart rate                               98.0 /min
+  2021-07-10 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2021-07-10 : Body Mass Index                          27.9 kg/m2
+  2021-07-10 : Body Weight                              81.8 kg
+  2021-07-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-07-10 : Body Height                              171.3 cm
+  2019-07-06 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-07-06 : Total score [HARK]                       3.0 {score}
+  2019-07-06 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2019-07-06 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 8225 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             558 Kreiger Quay 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2019-07-06 : Tobacco smoking status NHIS              Never smoker 
+  2019-07-06 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2019-07-06 : Platelet distribution width [Entitic volume] in Blood by Automated count 485.5 fL
+  2019-07-06 : Platelets [#/volume] in Blood by Automated count 287.6 10*3/uL
+  2019-07-06 : Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+  2019-07-06 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2019-07-06 : MCH [Entitic mass] by Automated count    31.9 pg
+  2019-07-06 : MCV [Entitic volume] by Automated count  80.3 fL
+  2019-07-06 : Hematocrit [Volume Fraction] of Blood by Automated count 42.6 %
+  2019-07-06 : Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+  2019-07-06 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2019-07-06 : Leukocytes [#/volume] in Blood by Automated count 6.6 10*3/uL
+  2019-07-06 : Respiratory rate                         14.0 /min
+  2019-07-06 : Heart rate                               99.0 /min
+  2019-07-06 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2019-07-06 : Body Mass Index                          30.2 kg/m2
+  2019-07-06 : Body Weight                              88.5 kg
+  2019-07-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-07-06 : Body Height                              171.3 cm
+  2016-09-17 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2016-09-17 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? Yes 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 8225 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             558 Kreiger Quay 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2016-09-17 : Tobacco smoking status NHIS              Never smoker 
+  2016-09-17 : High Density Lipoprotein Cholesterol     59.1 mg/dL
+  2016-09-17 : Low Density Lipoprotein Cholesterol      94.8 mg/dL
+  2016-09-17 : Triglycerides                            125.7 mg/dL
+  2016-09-17 : Total Cholesterol                        179.1 mg/dL
+  2016-09-17 : Respiratory rate                         12.0 /min
+  2016-09-17 : Heart rate                               75.0 /min
+  2016-09-17 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2016-09-17 : Body Mass Index                          30.2 kg/m2
+  2016-09-17 : Body Weight                              88.5 kg
+  2016-09-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-09-17 : Body Height                              171.3 cm
+  2013-09-14 : Total score [AUDIT-C]                    1.0 {score}
+  2013-09-14 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2013-09-14 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Food 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 8225 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Unemployed (finding) 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             558 Kreiger Quay 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 2.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2013-09-14 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2013-09-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 271.5 fL
+  2013-09-14 : Platelets [#/volume] in Blood by Automated count 337.5 10*3/uL
+  2013-09-14 : Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+  2013-09-14 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2013-09-14 : MCH [Entitic mass] by Automated count    30.1 pg
+  2013-09-14 : MCV [Entitic volume] by Automated count  93.6 fL
+  2013-09-14 : Hematocrit [Volume Fraction] of Blood by Automated count 49.3 %
+  2013-09-14 : Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+  2013-09-14 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2013-09-14 : Leukocytes [#/volume] in Blood by Automated count 4.7 10*3/uL
+  2013-09-14 : High Density Lipoprotein Cholesterol     77.0 mg/dL
+  2013-09-14 : Low Density Lipoprotein Cholesterol      58.6 mg/dL
+  2013-09-14 : Triglycerides                            149.1 mg/dL
+  2013-09-14 : Total Cholesterol                        165.4 mg/dL
+  2013-09-14 : Respiratory rate                         13.0 /min
+  2013-09-14 : Heart rate                               79.0 /min
+  2013-09-14 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2013-09-14 : Body Mass Index                          29.2 kg/m2
+  2013-09-14 : Body Weight                              85.6 kg
+  2013-09-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2013-09-14 : Body Height                              171.3 cm
+  2013-01-25 : Body temperature                         37.1 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-07-10 : Screening for drug abuse (procedure)
+  2021-07-10 : Assessment of substance use (procedure)
+  2021-07-10 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-07-10 : Depression screening (procedure)
+  2021-07-10 : Assessment of health and social care needs (procedure)
+  2019-07-06 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-07-06 : Depression screening (procedure)
+  2019-07-06 : Screening for domestic abuse (procedure)
+  2019-07-06 : Assessment of anxiety (procedure)
+  2019-07-06 : Assessment of health and social care needs (procedure)
+  2017-01-10 : Admission to orthopedic department for Fracture of clavicle
+  2017-01-10 : Clavicle X-ray
+  2016-09-17 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2016-09-17 : Depression screening (procedure)
+  2016-09-17 : Medication Reconciliation (procedure)
+  2016-09-17 : Assessment of health and social care needs (procedure)
+  2014-10-28 : Bilateral tubal ligation
+  2014-10-11 : Depression screening
+  2014-10-11 : Physical examination following birth
+  2014-10-11 : RhD passive immunization
+  2014-08-30 : Childbirth for Normal pregnancy
+  2014-08-23 : Auscultation of the fetal heart for Normal pregnancy
+  2014-08-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-08-09 : Auscultation of the fetal heart for Normal pregnancy
+  2014-08-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-08-09 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2014-07-12 : Auscultation of the fetal heart for Normal pregnancy
+  2014-07-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-06-14 : Auscultation of the fetal heart for Normal pregnancy
+  2014-06-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-06-14 : Urine screening for glucose for Normal pregnancy
+  2014-06-14 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2014-06-14 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-06-14 : RhD passive immunization for Normal pregnancy
+  2014-06-14 : Antenatal RhD antibody screening for Normal pregnancy
+  2014-05-17 : Auscultation of the fetal heart for Normal pregnancy
+  2014-05-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-04-19 : Auscultation of the fetal heart for Normal pregnancy
+  2014-04-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-03-22 : Auscultation of the fetal heart for Normal pregnancy
+  2014-03-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-03-22 : Alpha-fetoprotein test for Normal pregnancy
+  2014-03-22 : Fetal anatomy study for Normal pregnancy
+  2014-02-22 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2014-02-22 : Auscultation of the fetal heart for Normal pregnancy
+  2014-02-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-01-25 : Physical examination of mother for Normal pregnancy
+  2014-01-25 : Urine protein test for Normal pregnancy
+  2014-01-25 : Skin test for tuberculosis for Normal pregnancy
+  2014-01-25 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2014-01-25 : Rubella screening for Normal pregnancy
+  2014-01-25 : Hepatitis C antibody test for Normal pregnancy
+  2014-01-25 : Urine screening test for diabetes for Normal pregnancy
+  2014-01-25 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2014-01-25 : Urine culture for Normal pregnancy
+  2014-01-25 : Syphilis infection test for Normal pregnancy
+  2014-01-25 : Gonorrhea infection test for Normal pregnancy
+  2014-01-25 : Chlamydia antigen test for Normal pregnancy
+  2014-01-25 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2014-01-25 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2014-01-25 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-01-25 : Blood typing, RH typing for Normal pregnancy
+  2014-01-25 : Auscultation of the fetal heart for Normal pregnancy
+  2014-01-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-01-25 : Ultrasound scan for fetal viability for Normal pregnancy
+  2014-01-25 : Standard pregnancy test for Normal pregnancy
+  2013-09-14 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2013-09-14 : Assessment of substance use (procedure)
+  2013-09-14 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2013-09-14 : Depression screening (procedure)
+  2013-09-14 : Assessment of health and social care needs (procedure)
+  2013-04-13 : Depression screening
+  2013-04-13 : Physical examination following birth
+  2013-04-13 : RhD passive immunization
+  2013-03-02 : Childbirth for Normal pregnancy
+  2013-03-02 : Augmentation of labor for Normal pregnancy
+  2013-02-23 : Auscultation of the fetal heart for Normal pregnancy
+  2013-02-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-02-16 : Auscultation of the fetal heart for Normal pregnancy
+  2013-02-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-02-02 : Auscultation of the fetal heart for Normal pregnancy
+  2013-02-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-02-02 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2013-01-25 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2013-01-05 : Auscultation of the fetal heart for Normal pregnancy
+  2013-01-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-12-08 : Auscultation of the fetal heart for Normal pregnancy
+  2012-12-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-12-08 : Urine screening for glucose for Normal pregnancy
+  2012-12-08 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2012-12-08 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-12-08 : RhD passive immunization for Normal pregnancy
+  2012-12-08 : Antenatal RhD antibody screening for Normal pregnancy
+  2012-11-10 : Auscultation of the fetal heart for Normal pregnancy
+  2012-11-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-10-13 : Auscultation of the fetal heart for Normal pregnancy
+  2012-10-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-09-15 : Auscultation of the fetal heart for Normal pregnancy
+  2012-09-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-09-15 : Alpha-fetoprotein test for Normal pregnancy
+  2012-09-15 : Fetal anatomy study for Normal pregnancy
+  2012-08-18 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2012-08-18 : Auscultation of the fetal heart for Normal pregnancy
+  2012-08-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-07-21 : Physical examination of mother for Normal pregnancy
+  2012-07-21 : Urine protein test for Normal pregnancy
+  2012-07-21 : Skin test for tuberculosis for Normal pregnancy
+  2012-07-21 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2012-07-21 : Rubella screening for Normal pregnancy
+  2012-07-21 : Hepatitis C antibody test for Normal pregnancy
+  2012-07-21 : Urine screening test for diabetes for Normal pregnancy
+  2012-07-21 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2012-07-21 : Urine culture for Normal pregnancy
+  2012-07-21 : Syphilis infection test for Normal pregnancy
+  2012-07-21 : Gonorrhea infection test for Normal pregnancy
+  2012-07-21 : Chlamydia antigen test for Normal pregnancy
+  2012-07-21 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2012-07-21 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2012-07-21 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-07-21 : Blood typing, RH typing for Normal pregnancy
+  2012-07-21 : Auscultation of the fetal heart for Normal pregnancy
+  2012-07-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-07-21 : Ultrasound scan for fetal viability for Normal pregnancy
+  2012-07-21 : Standard pregnancy test for Normal pregnancy
+  2012-02-25 : Depression screening
+  2012-02-25 : Physical examination following birth
+  2012-02-25 : RhD passive immunization
+  2012-01-14 : Premature birth of newborn for Normal pregnancy
+  2012-01-14 : Epidural anesthesia for Normal pregnancy
+  2011-12-17 : Auscultation of the fetal heart for Normal pregnancy
+  2011-12-17 : Evaluation of uterine fundal height for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-07-10 : Hep A, adult
+  2021-07-10 : Td (adult) preservative free
+  2021-07-10 : Influenza, seasonal, injectable, preservative free
+  2019-07-06 : Hep A, adult
+  2019-07-06 : Influenza, seasonal, injectable, preservative free
+  2016-09-17 : Influenza, seasonal, injectable, preservative free
+  2013-09-14 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-07-10 (Dr. Martina Stokes) : Encounter at PCP106966
+2019-07-06 (Dr. Martina Stokes) : Encounter at PCP106966
+2017-03-15 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Fracture of clavicle
+2017-01-10 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2016-09-17 (Dr. Martina Stokes) : Encounter at PCP106966
+2014-10-28 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2014-10-11 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2014-10-11 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2014-09-07 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Viral sinusitis (disorder)
+2014-08-30 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2014-08-23 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2014-08-09 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2014-07-12 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2014-06-14 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2014-05-17 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2014-04-19 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2014-03-22 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2014-02-22 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2014-01-25 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2013-10-25 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Viral sinusitis (disorder)
+2013-09-14 (Dr. Martina Stokes) : Encounter at PCP106966
+2013-04-13 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2013-03-02 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2013-02-23 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2013-02-16 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2013-02-02 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2013-01-25 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Acute viral pharyngitis (disorder)
+2013-01-05 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2012-12-08 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2012-11-10 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2012-10-13 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2012-09-15 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2012-08-18 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2012-07-21 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2012-02-25 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER
+2012-01-14 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2011-12-17 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2011-07-02 (Dr. Rodger Steuber) : Encounter at CRESCENT MEDICAL CENTER LANCASTER : Encounter for Normal pregnancy
+2010-09-11 (Dr. Martina Stokes) : Encounter at PCP106966
+2004-09-04 (Dr. Martina Stokes) : Encounter at PCP106966
+2001-09-01 (Dr. Martina Stokes) : Encounter at PCP106966
+1997-08-23 (Dr. Martina Stokes) : Encounter at PCP106966
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2017-01-10 : Digital Radiography, Clavicle
+--------------------------------------------------------------------------------
