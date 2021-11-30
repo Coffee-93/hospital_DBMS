@@ -1,0 +1,16 @@
+﻿room_ID,room_actual
+1,OR 1
+2,OR 2
+3,ER holding 1
+4,ER holding 2
+5,ICU 1
+6,ICU 2
+7,ICU 3
+8,ICU 4
+9,ICU 5
+10,Inpatient 1
+11,Inpatient 2
+12,Inpatient 3
+13,Inpatient 4
+14,OBGYN 1
+15,OBGYN 2
