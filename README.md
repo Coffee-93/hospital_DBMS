@@ -1,5 +1,5 @@
 # hospital_DBMS
-Implementation of a database for a generic hospital management system.
+Implementation of a NoSQL database for a generic hospital management system.
 
 1) Look in the dataset directory for the README file to generate the dataset:
 * [LINK](https://github.com/CoffeeAddict93/hospital_DBMS/tree/main/dataset)
