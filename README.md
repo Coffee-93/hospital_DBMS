@@ -5,8 +5,11 @@ Implementation of a database for a generic hospital management system.
 * [LINK](https://github.com/CoffeeAddict93/hospital_DBMS/tree/main/dataset)
 
 2) Create a MongoDB account and login with your credentials.
+* Create NoSQL database to fit personal needs, i.e. creating "collections" for reimbursement purposes, provider info, etc.
 
 3) Access MongoDB Atlas for cloud services and fire up a cluster (M0) for secure access and deployment.
+* Many functions are equivalent to SQL databases (see below), yet many are unique to NoSQL/MongoDB.
+* Atlas allows for real-time data analysis directly connected to database, usually faster than traditional databases (see below).
 
 
 
