@@ -1,4 +1,4 @@
-# hospital_DBMS
+# Hospital DBMS - a NoSQL version and cloud deployment
 Implementation of a NoSQL database for a generic hospital management system.
 
 1) Look in the dataset directory for the README file to generate the dataset:
